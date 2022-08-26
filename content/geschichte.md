@@ -1,5 +1,4 @@
 ---
-title: "Aktuelles"
+title: "Geschichte"
 draft: false
 ---
-

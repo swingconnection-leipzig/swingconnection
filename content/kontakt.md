@@ -1,5 +1,5 @@
 ---
-title: "Aktuelles"
+title: "Kontakt"
 draft: false
 ---
 

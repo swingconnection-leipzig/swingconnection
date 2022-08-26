@@ -1,5 +1,5 @@
 ---
-title: "Aktuelles"
+title: "Datenschutz"
 draft: false
 ---
 

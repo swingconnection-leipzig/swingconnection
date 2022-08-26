@@ -1,6 +1,38 @@
 baseURL = 'https://scl.github.io/'
-languageCode = 'en-gb'
-title = 'SwingConnection Leipzig'
-theme = 'beautifulhugo'
+languageCode = 'en'
+title = 'SwingConnection Leipzig e.V.'
+theme = 'PaperMod'
 enableEmoji = true
+
+[menu]
+
+  [[menu.main]]
+	identifier = 'aktuelles'
+	name = 'Aktuelles'
+	url = '/aktuelles/'
+	weight = 1
+	
+  [[menu.main]]
+	identifier = 'tanzkurse'
+	name = 'Tanzkurse'
+	url = '/tanzkurse/'
+	weight = 2
+
+  [[menu.main]]
+	identifier = 'veranstaltungen'
+	name = 'Veranstaltungen'
+	url = '/veranstaltungen/'
+	weight = 3
+	
+  [[menu.main]]
+	identifier = 'verein'
+	name = 'Unser Verein'
+	url = '/verein/'
+	weight = 4
+	
+  [[menu.main]]
+	identifier = 'kontakt'
+	name = 'Kontakt & Impressum'
+	url = '/kontakt/'
+	weight = 5
 
