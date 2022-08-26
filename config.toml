@@ -1,0 +1,6 @@
+baseURL = 'https://scl.github.io/'
+languageCode = 'en-gb'
+title = 'SwingConnection Leipzig'
+theme = 'beautifulhugo'
+enableEmoji = true
+
