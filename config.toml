@@ -1,7 +1,7 @@
-baseURL = 'https://scl.github.io/'
+baseURL = 'http://scl.github.io/'
 languageCode = 'en'
 title = 'SwingConnection Leipzig e.V.'
-theme = 'PaperMod'
+theme = ''
 enableEmoji = true
 
 [menu]
