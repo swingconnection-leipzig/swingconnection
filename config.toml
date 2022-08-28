@@ -1,5 +1,5 @@
-baseURL = 'http://scl.github.io/'
-languageCode = 'en'
+baseURL = 'https://hnolzen.github.io/'
+languageCode = 'de-de'
 title = 'SwingConnection Leipzig e.V.'
 theme = 'pm'
 enableEmoji = true
