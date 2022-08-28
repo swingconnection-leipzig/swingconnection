@@ -1,4 +1,4 @@
-baseURL = 'http://hnolzen.github.io/'
+baseURL = 'https://hnolzen.github.io/swingconnection'
 languageCode = 'de-de'
 title = 'SwingConnection Leipzig e.V.'
 theme = 'pm'
