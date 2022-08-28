@@ -23,6 +23,6 @@ Falls du Fragen zur Mitgliedschaft hast, sprich uns gerne bei unseren Veranstalt
 
 Unter den folgenden Links kannst du dir die Vereinssatzung und unseren Verhaltenkodex herunterladen.
 
- - [Vereinssatzung (PDF)]()       
- - [Selbstverständnis zum Verhalten (PDF)]()
+- [Vereinssatzung (PDF)]()       
+- [Verhaltenskodex (PDF)]()
 
