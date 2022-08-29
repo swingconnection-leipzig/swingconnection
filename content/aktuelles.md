@@ -8,12 +8,16 @@ zuletzt aktualisiert am 29.08.2022
 
 ### Termine Tanzkurse
 
+![Kursrunde](slider_kursrunde.jpg)
+
 - Die aktuelle Kursrunde läuft vom 16.08.2022 bis 22.09.2022. Mehr Informationen und den Link zur Anmeldung erhaltet ihr [hier]({{< ref "/tanzkurse" >}} "Tanzkurse")
 
 - Am **10.10.2022** startet unsere nächste Kursrunde. Die Anmeldung öffnet etwa zwei bis drei Wochen vor Beginn. Wir kündigen die Öffnung der Anmeldung im Vorfeld hier und in unserer [Facebook-Gruppe](https://www.facebook.com/groups/swingconnection.leipzig) an.
 
 
 ### Mattstedt - Sunny Side of the Camp
+
+![Spring Camp Mattstedt](slider_mattstedt.jpg)
 
 Vom 08.-11.09. findet nochmal ein Summer Camp in Mattstedt statt. Es gibt noch Plätze! 
 [Zur Anmeldung](https://scl.swinggeeks.de/SCM2022/)
