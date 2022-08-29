@@ -3,7 +3,7 @@ title: "Tanzkurse"
 draft: false
 ---
 
-Die aktuelle Kursrunde läuft vom **xx.xx.2022 bis xx.xx.2022**.
+Die aktuelle Kursrunde läuft vom **16.08.2022 bis 22.09.2022**.
 
 ![xxx](kursplan.jpg)
 
@@ -12,19 +12,19 @@ Die aktuelle Kursrunde läuft vom **xx.xx.2022 bis xx.xx.2022**.
 - Vollzahler: 90€ / Kurs
 - Ermäßigt: 80€ / Kurs
 
-Für Vereinsmitglieder entfällt der Kursbeitrag. Ermässigte Preise gelten für Inhaber von Schülerausweis, Studentenausweis, Leipzig-Pass oder Schwerbehindertenausweis. Bitte legt den entsprechenden Nachweis in der 1. Kursstunde vor.
+Für Vereinsmitglieder entfällt der Kursbeitrag. Ermässigte Preise gelten für Inhaber von Schülerausweis, Studentenausweis, Leipzig-Pass oder Schwerbehindertenausweis. Bitte legt den entsprechenden Nachweis in der ersten Kursstunde vor.
 
 
 ### Anmeldung
 
 Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden:  
-**[Zur Anmeldung]()**
+**[Zur Anmeldung](https://scl.swinggeeks.de/SCL2022-08/)**
 
 ### Hinweise
 
 - Ihr müsst euch nicht paarweise anmelden, sondern könnt euch auch einzeln anmelden.
 
-- Die Kurse finden in unserem Tanzstudio Calloway in der Doufourstraße 8 statt.
+- Die Kurse finden in unserem Tanzstudio [Calloway]({{< ref "/calloway" >}} "Calloway") in der Doufourstraße 8 statt.
 
 - Bitte denkt daran, dass ihr den Tanzboden nicht mit Straßenschuhen, sondern nur mit Tanzschuhen oder sauberen Sportschuhen betreten dürft. Eure Schuhe könnt ihr im Eingangsbereich des Calloways wechseln.
 
@@ -37,7 +37,7 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermässigte Preise gelten für
 
 ### Nächste Kursrunde
 
-Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Am **xx.xx.2023** startet unsere nächste Kursrunde. Die Anmeldung öffnet erfahrungsgemäß etwa zwei bis drei Wochen vor Beginn einer neuen Kursrunde. Wir kündigen die Öffnung der Anmeldung im Vorfeld auch unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") und in unserer [Facebook-Gruppe](https://www.facebook.com/groups/swingconnection.leipzig) an.
+Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Am **10.10.2022** startet unsere nächste Kursrunde. Die Anmeldung öffnet erfahrungsgemäß etwa zwei bis drei Wochen vor Beginn einer neuen Kursrunde. Wir kündigen die Öffnung der Anmeldung im Vorfeld auch unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") und in unserer [Facebook-Gruppe](https://www.facebook.com/groups/swingconnection.leipzig) an.
 
 ### Gutscheine
 

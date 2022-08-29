@@ -5,7 +5,7 @@ draft: false
 
 Im September 2015 haben wir unser Tanzstudio im Leipziger Zentrum eröffnet – das Calloway. An mehreren Abenden in der Woche finden im Calloway Tanzkurse in Lindy Hop, Balboa, Collegiate Shag, Authentic Jazz und weiteren Tanzstilen der Swingära statt.
 
-![](saal.jpg)
+![Calloway Saal](saal.jpg)
 
 Das Studio verfügt über einen Tanzsaal mit hellem, schwingendem Parkettboden und Fensterfronten zum Innenhof. Die große Tanzfläche mit Spiegelwand bietet optimale Bedingungen für die Tanzkurse, Show- und Vereinstrainings. Zudem veranstalten wir hier Workshops und Swingpartys. Neben dem Tanzsaal mit Sitzfläche, die auch als Bühne für Live-Bands genutzt wird, verfügt das Studio über einen Eingangsbereich mit Schuhwechselraum und einen Barraum.
 
@@ -25,9 +25,8 @@ Das Studio liegt 5 Fußminuten von der Haltestelle Hohe Str. LVB entfernt (Tram 
 
 ### Vermietung
 
-Sie können unser Tanzstudio als Kurs- oder Veranstaltungsraum mieten (gerne auch stundenweise). Durch seinen hochwertigen, schwingenden Tanzboden eignet sich das Tanzstudio hervorragend für alle Tanz- und Sportarten mit parkettschonenden Schuhen wie Ballett, Modern Dance, Gymnastik, Orientalischer Tanz, Capoeira, Yoga, Pilates, Kindertanz oder andere Kurse und Veranstaltungen.
+Man kann unser Tanzstudio als Kurs- oder Veranstaltungsraum mieten (gerne auch stundenweise). Durch seinen hochwertigen, schwingenden Tanzboden eignet sich das Tanzstudio hervorragend für alle Tanz- und Sportarten mit parkettschonenden Schuhen wie Ballett, Modern Dance, Gymnastik, Orientalischer Tanz, Capoeira, Yoga, Pilates, Kindertanz oder andere Kurse und Veranstaltungen.
 
-Wir bieten Ihnen einen hellen, freundlichen Saal mit Tanzboden (ca. 110 m²) und Tageslicht, großer Spiegelwand, Audiotechnik sowie Eingangsbereich und Toilettenräumen. Derzeit ist eine Anmietung des Studios von Freitag bis Sonntag ganztags sowie von Montag bis Donnerstag bis 17/18 Uhr möglich. Bitte sprechen Sie uns aber auch an, wenn Sie außerhalb der aktuell freien Zeiten Interesse haben, das Studio zu mieten.
+Das Calloway bietet einen hellen, freundlichen Saal mit Tanzboden (ca. 110 m²) und Tageslicht, großer Spiegelwand, Audiotechnik sowie Eingangsbereich und Toilettenräumen. Derzeit ist eine Anmietung des Studios von Freitag bis Sonntag ganztags sowie von Montag bis Donnerstag bis ca. 18 Uhr möglich.
 
-Bitte richten Sie Ihre Anfragen zur Vermietung per Mail an  
-info@swingconnection-leipzig.com.
+Anfragen zur Vermietung können per Mail an info@swingconnection-leipzig.com gestellt werden.
