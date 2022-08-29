@@ -13,8 +13,12 @@ tba.
 Eure SwingConnection Leipzig
 
 
+P.S. besucht auch unsere Social Media Kanäle
+
+- [Facebook-Gruppe](https://www.facebook.com/groups/swingconnection.leipzig)
+- [Instagram](https://www.instagram.com/swingconnectionleipzig/) 
+- [YouTube](https://www.youtube.com/user/swingconnection)
+
+
 :warning: **Diese Internetseite befindet sich derzeit noch im Aufbau.** :warning:
-
-
-
 
