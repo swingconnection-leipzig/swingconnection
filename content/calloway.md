@@ -19,9 +19,10 @@ Dufourstraße 8
 
 Das Studio liegt 5 Fußminuten von der Haltestelle Hohe Str. LVB entfernt (Tram 10 und 11). Beide Linien fahren ab Hauptbahnhof. Der Eingang befindet sich in der Hofdurchfahrt links. Fahrräder können im Hof abgestellt werden. Parkplätze sind in den Seitenstraßen in der Nähe zu finden.
 
-![Quelle: Openstreetmap](calloway.PNG)
+![Quelle: OpenStreetMap](calloway.PNG)
+© [OpenStreetMap contributors](https://www.openstreetmap.org/copyright)
 
-[Öffne Openstreetmap](https://openstreetmap.de/karte/?zoom=18&lat=51.32848&lon=12.37081&layers=B00TF)
+[Öffne OpenStreetMap](https://openstreetmap.de/karte/?zoom=18&lat=51.32848&lon=12.37081&layers=B00TF)
 
 ### Vermietung
 
