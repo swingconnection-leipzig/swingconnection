@@ -2,7 +2,6 @@ baseURL = 'https://hnolzen.github.io/swingconnection/'
 languageCode = 'de-de'
 title = 'SwingConnection Leipzig e.V.'
 theme = 'pm'
-defaultTheme = 'light'
 enableEmoji = true
 
 [menu]
@@ -42,3 +41,8 @@ enableEmoji = true
 	name = 'Kontakt & Impressum'
 	url = '/kontakt/'
 	weight = 6
+
+[params]
+
+  defaultTheme = "light"
+  disableThemeToggle = "false"
