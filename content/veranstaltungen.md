@@ -10,9 +10,7 @@ Nur Tanzkurse kann jeder. Wir Swingtänzer wollen mehr! Nach der Arbeit kommt da
 ![Minor Swing](slider_minor_swing.jpg)
 
 Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen.
-**Jeden Mittwoch ab 21:15 Uhr** findet der Minor Swing **im Noels Ballroom** statt. Der MinorSwing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentisch Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen.
-
-:warning: **Aktuell pausiert der Minor Swing bis auf weiteres. Wir geben euch bescheid, sobald es wieder losgeht.** :warning: 
+**Jeden Mittwoch ab 19:30 Uhr** findet der Minor Swing **im Noels Ballroom** statt. Der MinorSwing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentisch Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen.
 
 ### Swing Tea Time
 
