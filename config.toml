@@ -45,4 +45,4 @@ enableEmoji = true
 [params]
 
   defaultTheme = "light"
-  disableThemeToggle = "false"
+  disableThemeToggle = false
