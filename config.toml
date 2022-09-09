@@ -49,7 +49,30 @@ enableEmoji = true
   title = "SwingConnection Leipzig e.V."
   description = "Herzlich Willkommen bei der SwingConnection Leipzig"
   
-  images = ["/static/scl_logo.png"]
+  # Header config
+  [params.header]
+
+    desktopMode = "fixed"
+    
+    mobileMode = "auto"
+    
+    [params.header.title]
+      
+	  # URL of the LOGO
+      logo = "scl_logo.png"
+      
+	  # title name
+      name = "SwingConnection Leipzig e.V."
+      
+	  # you can add extra information before the name (HTML format is supported), such as icons
+      pre = ""
+      
+	  # you can add extra information after the name (HTML format is supported), such as icons
+      post = ""
+      
+	  # LoveIt NEW | 0.2.5 whether to use typeit animation for title name
+      typeit = true
+
   
   
   
