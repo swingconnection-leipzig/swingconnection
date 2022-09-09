@@ -84,8 +84,29 @@ enableEmoji = true
     hugo = false
     copyright = true
     author = true
-
   
-  
-  
+  # Search config
+  [params.search]
+    enable = true
+    
+	# type of search engine ["lunr", "algolia"]
+    type = "lunr"
+    
+	# max index length of the chunked content
+    contentLength = 4000
+    
+	# placeholder of the search bar
+    placeholder = ""
+    
+	# max number of results length
+    maxResultLength = 10
+   
+    # Snippet length of the result
+    snippetLength = 30
+    
+	# HTML tag name of the highlight part in results
+    highlightTag = "em"
+    
+	# whether to use the absolute URL based on the baseURL in search index
+    absoluteURL = false
   
