@@ -4,6 +4,10 @@ title = 'SwingConnection Leipzig e.V.'
 theme = 'LoveIt'
 enableEmoji = true
 
+# Author config
+[author]
+  name = "Swingconnection Leipzig e.V."
+
 [menu]
 
   [[menu.main]]
@@ -70,8 +74,16 @@ enableEmoji = true
 	  # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
       
-	  # LoveIt NEW | 0.2.5 whether to use typeit animation for title name
       typeit = true
+
+  # Footer config
+  [params.footer]
+    
+	enable = true
+    custom = ''
+    hugo = false
+    copyright = true
+    author = true
 
   
   
