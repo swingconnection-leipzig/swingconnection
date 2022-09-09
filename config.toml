@@ -45,4 +45,12 @@ enableEmoji = true
 [params]
 
   defaultTheme = "light"
-  disableThemeToggle = false
+  
+  title = "SwingConnection Leipzig e.V."
+  description = "Herzlich Willkommen bei der SwingConnection Leipzig"
+  
+  images = ["/static/scl_logo.png"]
+  
+  
+  
+  
