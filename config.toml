@@ -109,4 +109,42 @@ enableEmoji = true
     
 	# whether to use the absolute URL based on the baseURL in search index
     absoluteURL = false
+
+  # Home page config
+  [params.home]
+    # LoveIt NEW | 0.2.0 amount of RSS pages
+    rss = 10
+    
+	# Home page profile
+    [params.home.profile]
+      enable = true
+      
+	  # Gravatar Email for preferred avatar in home page
+      gravatarEmail = ""
+      
+	  # URL of avatar shown in home page
+      avatarURL = ""
+      
+	  # title shown in home page (HTML format is supported)
+      title = ""
+      
+	  # subtitle shown in home page (HTML format is supported)
+      subtitle = ""
+      
+	  # whether to use typeit animation for subtitle
+      typeit = true
+      
+	  # whether to show social links
+      social = true
+      
+	  # disclaimer (HTML format is supported)
+      disclaimer = ""
+
+  # Social config about the author
+  [params.social]
+    Instagram = "https://www.instagram.com/swingconnectionleipzig/"
+    Facebook = "https://www.facebook.com/groups/swingconnection.leipzig"
+	Youtubechannel = "https://www.youtube.com/user/swingconnection"
+	Email = "info@swingconnection-leipzig.com"
+    RSS = true
   
