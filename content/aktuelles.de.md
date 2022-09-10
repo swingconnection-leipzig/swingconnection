@@ -1,6 +1,7 @@
 ---
 title: "Aktuelles"
 draft: false
+slug: "aktuelles"
 ---
 
 zuletzt aktualisiert am 06.09.2022
