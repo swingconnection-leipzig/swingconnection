@@ -1,10 +1,11 @@
 baseURL = 'https://hnolzen.github.io/swingconnection/'
-languageCode = 'de'
 title = 'SwingConnection Leipzig e.V.'
 theme = 'LoveIt'
 enableEmoji = true
 
 defaultContentLanguage = 'de'
+languageCode = 'de'
+languageName = "German"
 
 # Author config
 [author]
@@ -186,4 +187,89 @@ defaultContentLanguage = 'de'
 	# Windows v8-10 tile color
     tileColor = "#da532c"
 
+
+# Language config
+[languages]
+  
+  [languages.de]
+    weight = 1
+    languageCode = "de"
+    languageName = "German"
+    
+	[[languages.de.menu.main]]
+	  identifier = 'aktuelles'
+	  name = 'Aktuelles'
+	  url = '/aktuelles/'
+	  weight = 1
+	
+    [[languages.de.menu.main]]
+	  identifier = 'tanzkurse'
+	  name = 'Tanzkurse'
+	  url = '/tanzkurse/'
+	  weight = 2
+
+    [[languages.de.menu.main]]
+	  identifier = 'veranstaltungen'
+	  name = 'Veranstaltungen'
+	  url = '/veranstaltungen/'
+	  weight = 3
+
+    [[languages.de.menu.main]]
+	  identifier = 'calloway'
+	  name = 'Tanzstudio'
+	  url = '/calloway/'
+	  weight = 4
+	
+    [[languages.de.menu.main]]
+	  identifier = 'verein'
+	  name = 'Unser Verein'
+	  url = '/verein/'
+	  weight = 5
+	
+    [[languages.de.menu.main]]
+	  identifier = 'kontakt'
+	  name = 'Kontakt & Impressum'
+	  url = '/kontakt/'
+	  weight = 6
+	  
+  [languages.en]
+    weight = 1
+    languageCode = "en"
+    languageName = "English"
+    
+	[[languages.en.menu.main]]
+	  identifier = 'aktuelles'
+	  name = 'News'
+	  url = 'en/news/'
+	  weight = 1
+	
+    [[languages.en.menu.main]]
+	  identifier = 'tanzkurse'
+	  name = 'Dance classes'
+	  url = 'en/classes/'
+	  weight = 2
+
+    [[languages.en.menu.main]]
+	  identifier = 'veranstaltungen'
+	  name = 'Events'
+	  url = 'en/events/'
+	  weight = 3
+
+    [[languages.en.menu.main]]
+	  identifier = 'calloway'
+	  name = 'Studio'
+	  url = 'en/calloway/'
+	  weight = 4
+	
+    [[languages.en.menu.main]]
+	  identifier = 'verein'
+	  name = 'Our association'
+	  url = 'en/association/'
+	  weight = 5
+	
+    [[languages.en.menu.main]]
+	  identifier = 'kontakt'
+	  name = 'Contact & Imprint'
+	  url = 'en/contact/'
+	  weight = 6
   
