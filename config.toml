@@ -4,6 +4,8 @@ title = 'SwingConnection Leipzig e.V.'
 theme = 'LoveIt'
 enableEmoji = true
 
+defaultContentLanguage = 'de'
+
 # Author config
 [author]
   name = "Swingconnection Leipzig e.V."
