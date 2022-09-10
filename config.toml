@@ -66,7 +66,7 @@ languageName = "German"
     [params.header.title]
       
 	  # URL of the LOGO
-      logo = "scl_logo.png"
+      logo = "images/scl_logo.png"
       
 	  # title name
       name = "SwingConnection Leipzig e.V."
@@ -77,7 +77,7 @@ languageName = "German"
 	  # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
       
-      typeit = true
+      typeit = false
 
   # Footer config
   [params.footer]
