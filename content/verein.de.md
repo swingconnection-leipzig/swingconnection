@@ -27,3 +27,42 @@ Unter den folgenden Links kannst du dir die Vereinssatzung, unseren Verhaltenkod
 - [Vereinssatzung (PDF)]()       
 - [Verhaltenskodex (PDF)]()
 - [Datenschutz (PDF)]()
+
+### Zuständigkeiten in der SCL
+
+#### Vorstand
+- tba. (Vorsitzende)
+- tba. (Schatzmeister)
+- tba. ()
+
+#### Teachers
+- tba.
+- Henning
+
+#### Calloway
+- tba.
+- tba.
+
+#### DJs
+- tba.
+- Henning
+
+#### Safer Space Team
+- tba.
+- tba.
+
+#### Veranstaltungsplanung
+- tba.
+- tba.
+
+#### Werbung & Design
+- tba.
+- tba.
+
+#### Internetseite
+- Henning
+- Steffen
+- tba.
+
+Das sind nur die offiziellen Zuständigkeiten. Bei uns gibt es darüber hinaus immer etwas zu tun. Nichts passiert von alleine und das organisieren, planen und durchführen von Kursbetrieb, Übungsabenden und Workshops wird ausschliesslich ehrenamtlich bzw. freiwillig durch die Vereinsmitglieder sichergestellt. Bei uns kann sich jeder einbringen der möchte.
+
