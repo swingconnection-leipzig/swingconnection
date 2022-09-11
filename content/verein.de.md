@@ -1,6 +1,7 @@
 ---
 title: "Unser Verein"
 draft: false
+slug: "verein"
 ---
 
 Unser Verein, der SwingConnection Leipzig e.V., ist eine Gemeinschaft tanzversessener Leipziger, die sich der Musik und den Tänzen Swingära verschrieben hat. Wir bieten fortlaufend Tanzkurse in verschiedenen Levels und organisieren verschiedene Swing Events. Als gemeinnütziger Verein setzen wir unsere ganze Energie in die Förderung und Verbreitung des Swingtanzes und der Kultur, die dieser über Jahrzehnte hinweg in sich trägt. Einen Überblick über die Entwicklung der SwingConnection könnt ihr [hier]({{< ref "/geschichte" >}} "Unsere Vereinsgeschichte") nachlesen.
@@ -27,3 +28,42 @@ Unter den folgenden Links kannst du dir die Vereinssatzung, unseren Verhaltenkod
 - [Vereinssatzung (PDF)]()       
 - [Verhaltenskodex (PDF)]()
 - [Datenschutz (PDF)]()
+
+### Zuständigkeiten in der SCL
+
+#### Vorstand
+- tba. (Vorsitzende)
+- tba. (Schatzmeister)
+- tba. ()
+
+#### Teachers
+- tba.
+- Henning
+
+#### Calloway
+- tba.
+- tba.
+
+#### DJs
+- tba.
+- Henning
+
+#### Safer Space Team
+- tba.
+- tba.
+
+#### Veranstaltungsplanung
+- tba.
+- tba.
+
+#### Werbung & Design
+- tba.
+- tba.
+
+#### Internetseite
+- Henning
+- Steffen
+- tba.
+
+Das sind nur die offiziellen Zuständigkeiten. Bei uns gibt es darüber hinaus immer etwas zu tun. Nichts passiert von alleine und das organisieren, planen und durchführen von Kursbetrieb, Übungsabenden und Workshops wird ausschliesslich ehrenamtlich bzw. freiwillig durch die Vereinsmitglieder sichergestellt. Bei uns kann sich jeder einbringen der möchte.
+
