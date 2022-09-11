@@ -16,7 +16,7 @@ Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsi
 
 ![Swing Tea Time](slider_teadance.jpg)
 
-**Jeden 2. Sonntag im Monat** lädt sich das **Horns Erben** ab **xxx Uhr** den Swing ein (ausser in der Sommerpause). Zur Swing Tea Time hüllt sich das wunderschöne Kulturgut in den Duft frisch gebackener Kuchen und den Klang eines Louis Armstrong, Django Reinhardt oder einer Ella Fitzgerald. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen.
+**Jeden 2. Sonntag im Monat** lädt sich das [Horns Erben](https://horns-erben.de/) ab **xxx Uhr** den Swing ein (ausser in der Sommerpause). Zur Swing Tea Time hüllt sich das wunderschöne Kulturgut in den Duft frisch gebackener Kuchen und den Klang eines Louis Armstrong, Django Reinhardt oder einer Ella Fitzgerald. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen.
 
 :warning: **Aktuell pausiert die Swing Tea Time bis auf weiteres. Wir geben euch bescheid, sobald es wieder losgeht.** :warning: 
 
