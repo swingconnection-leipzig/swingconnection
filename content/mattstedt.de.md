@@ -2,7 +2,10 @@
 title: "Spring Camp Mattstedt"
 draft: false
 slug: "mattstedt"
+
 ---
+
+![Spring Camp Mattstedt](../slider_mattstedt.jpg)
 
 Unser schönes Spring Camp findet diese Jahr vom **xxx bis xxx** statt. Es erwartet euch ein tolles Wochenende voller Entspannung, Tanz und Swingmusik auf dem wunderschönen Mühlenhof Mattstedt in Thüringen. Es erwarten euch zwei Tage Workshop mit Lindy Hop, Balboa, Blues und SoloJazz mit Trainern der SwingConnection-Leipzig und Gästen. Und natürlich könnt ihr euch auf den Parties austoben.
 

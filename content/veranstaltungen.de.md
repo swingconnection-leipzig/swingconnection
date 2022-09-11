@@ -21,9 +21,6 @@ Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsi
 :warning: **Aktuell pausiert die Swing Tea Time bis auf weiteres. Wir geben euch bescheid, sobald es wieder losgeht.** :warning: 
 
 ### Spring Camp Mattstedt
-
-![Spring Camp Mattstedt](slider_mattstedt.jpg)
-
 Die beiden Highlights des Jahres sind unsere Camps jeden Frühling und Sommer. Raus ins Grüne und je nach Gusto abmatten oder abtanzen. Das Spring Camp am Mühlenhof in Mattstedt richtet sich sowohl an angefixte Tanzanfänger als auch an Menschen, die schon länger dabei sind. Hier habt ihr ein ganzes Wochenende nur Swing im Kopf und lernt eure Kursgefährten und andere Kursleiter:innen besser kennen.
 
 Hier könnte ihr einen Eindruck von der gemütlichen Atmosphäre in Mattstedt gewinnen: https://www.youtube.com/watch?v=czMHDvKlnEA
