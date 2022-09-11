@@ -34,6 +34,8 @@ Mehr Informationen zu unserem nächsten Spring Camp und den Link zur Anmeldung f
 
 Für Vereinsmitglieder bieten wir einmal im Jahr das Summer Camp am wunderschönen Barniner See an. Das Wochenende mit Entspannen, Baden, Tanzen und Feiern. 
 
+Mehr Informationen zu unserem nächsten Summer Camp und den Link zur Anmeldung findet ihr [hier]({{< ref "/barnin" >}} "Barnin")
+
 ### Workshops
 
 An einzelnen Wochenenden bieten wir immer mal wieder kleine und größere Workshops an. Zum Beispiel das Erlernen einer Routine / Choreografie, das Festigen von Basics, Drop-Ins, oder Schnupperstunden für verschiedene Tänze.
