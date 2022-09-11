@@ -3,20 +3,20 @@ title: "Veranstaltungen"
 draft: false
 ---
 
-Nur Tanzkurse kann jeder. Wir Swingtänzer wollen mehr! Nach der Arbeit kommt das Spiel. In unserem Fall Veranstaltungen zum freien Tanzen, Camps und Workshops! Hier bekommt ihr eine Übersicht, was die SwingConnection ausserhalb der regulären Kurse veranstaltet.
+Nur Tanzkurse kann jeder. Wir Swingtänzer wollen mehr! Nach der Arbeit kommt das Spiel. In unserem Fall Veranstaltungen zum freien Tanzen, Camps und Workshops! Hier bekommt ihr eine Übersicht, was die SwingConnection außerhalb der regulären Kurse veranstaltet.
 
 ### Minor Swing
 
 ![Minor Swing](slider_minor_swing.jpg)
 
 Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen.
-**Jeden Mittwoch ab 19:30 Uhr** findet der Minor Swing **im Noels Ballroom** statt. Der MinorSwing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentisch Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen.
+**Jeden Mittwoch ab 19:30 Uhr** findet der Minor Swing **im Noels Ballroom** statt. Der MinorSwing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen.
 
 ### Swing Tea Time
 
 ![Swing Tea Time](slider_teadance.jpg)
 
-**Jeden 2. Sonntag im Monat** lädt sich das [Horns Erben](https://horns-erben.de/) in der Südvorstadt ab **xxx Uhr** den Swing ein (ausser in der Sommerpause). Zur Swing Tea Time hüllt sich das wunderschöne Kulturgut in den Duft frisch gebackener Kuchen und den Klang eines Louis Armstrong, Django Reinhardt oder einer Ella Fitzgerald. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen.
+**Jeden 2. Sonntag im Monat** lädt sich das [Horns Erben](https://horns-erben.de/) in der Südvorstadt ab **xxx Uhr** den Swing ein (außer in der Sommerpause). Zur Swing Tea Time hüllt sich das wunderschöne Kulturgut in den Duft frisch gebackener Kuchen und den Klang eines Louis Armstrong, Django Reinhardt oder einer Ella Fitzgerald. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen.
 
 :warning: **Aktuell pausiert die Swing Tea Time bis auf weiteres. Wir geben euch bescheid, sobald es wieder losgeht.** :warning: 
 
