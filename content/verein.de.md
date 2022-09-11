@@ -3,7 +3,7 @@ title: "Unser Verein"
 draft: false
 ---
 
-Unser Verein, der SwingConnection Leipzig e.V., ist eine Gemeinschaft tanzversessener Leipziger, die sich der Musik und den Tänzen Swingära verschrieben hat. Wir bieten fortlaufend Tanzkurse in verschiedenen Levels und organisieren verschiedene Swing Events. Als gemeinnütziger Verein setzen wir unsere ganze Energie in die Förderung und Verbreitung des Swingtanzes und der Kultur, die dieser über Jahrzehnte hinweg in sich trägt. Einen Überblick über die Entwicklung der SwingConnection könnt ihr [hier]() nachlesen.
+Unser Verein, der SwingConnection Leipzig e.V., ist eine Gemeinschaft tanzversessener Leipziger, die sich der Musik und den Tänzen Swingära verschrieben hat. Wir bieten fortlaufend Tanzkurse in verschiedenen Levels und organisieren verschiedene Swing Events. Als gemeinnütziger Verein setzen wir unsere ganze Energie in die Förderung und Verbreitung des Swingtanzes und der Kultur, die dieser über Jahrzehnte hinweg in sich trägt. Einen Überblick über die Entwicklung der SwingConnection könnt ihr [hier]({{< ref "/geschichte" >}} "Unsere Vereinsgeschichte") nachlesen.
 
 Wir haben aktuell etwa 120 Mitglieder, die gemeinsam üben, tanzen, feiern, an Wettbewerben teilnehmen und den Spirit der Swingtänze in die Welt hinaustragen.
 
