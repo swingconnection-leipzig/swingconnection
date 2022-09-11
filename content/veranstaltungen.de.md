@@ -16,14 +16,14 @@ Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsi
 
 ![Swing Tea Time](slider_teadance.jpg)
 
-**Jeden 2. Sonntag im Monat** lädt sich das [Horns Erben](https://horns-erben.de/) ab **xxx Uhr** den Swing ein (ausser in der Sommerpause). Zur Swing Tea Time hüllt sich das wunderschöne Kulturgut in den Duft frisch gebackener Kuchen und den Klang eines Louis Armstrong, Django Reinhardt oder einer Ella Fitzgerald. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen.
+**Jeden 2. Sonntag im Monat** lädt sich das [Horns Erben](https://horns-erben.de/) in der Südvorstadt ab **xxx Uhr** den Swing ein (ausser in der Sommerpause). Zur Swing Tea Time hüllt sich das wunderschöne Kulturgut in den Duft frisch gebackener Kuchen und den Klang eines Louis Armstrong, Django Reinhardt oder einer Ella Fitzgerald. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen.
 
 :warning: **Aktuell pausiert die Swing Tea Time bis auf weiteres. Wir geben euch bescheid, sobald es wieder losgeht.** :warning: 
 
 ### Spring Camp Mattstedt
 Die beiden Highlights des Jahres sind unsere Camps jeden Frühling und Sommer. Raus ins Grüne und je nach Gusto abmatten oder abtanzen. Das Spring Camp am Mühlenhof in Mattstedt richtet sich sowohl an angefixte Tanzanfänger als auch an Menschen, die schon länger dabei sind. Hier habt ihr ein ganzes Wochenende nur Swing im Kopf und lernt eure Kursgefährten und andere Kursleiter:innen besser kennen.
 
-Hier könnte ihr einen Eindruck von der gemütlichen Atmosphäre in Mattstedt gewinnen: https://www.youtube.com/watch?v=czMHDvKlnEA
+Hier könnt ihr einen Eindruck von der gemütlichen Atmosphäre in Mattstedt gewinnen: https://www.youtube.com/watch?v=czMHDvKlnEA
 
 Mehr Informationen zu unserem nächsten Spring Camp und den Link zur Anmeldung findet ihr [hier]({{< ref "/mattstedt" >}} "Mattstedt")
 
