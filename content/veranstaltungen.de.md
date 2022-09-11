@@ -28,6 +28,8 @@ Die beiden Highlights des Jahres sind unsere Camps jeden Frühling und Sommer. R
 
 Hier könnte ihr einen Eindruck von der gemütlichen Atmosphäre in Mattstedt gewinnen: https://www.youtube.com/watch?v=czMHDvKlnEA
 
+Mehr Informationen zu unserem nächsten Spring Camp und den Link zur Anmeldung findet ihr [hier]({{< ref "/mattstedt" >}} "Mattstedt")
+
 ### Summer Camp Barnin
 
 Für Vereinsmitglieder bieten wir einmal im Jahr das Summer Camp am wunderschönen Barniner See an. Das Wochenende mit Entspannen, Baden, Tanzen und Feiern. 
