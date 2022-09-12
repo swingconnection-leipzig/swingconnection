@@ -41,5 +41,4 @@ tbc.
 Den nächsten Swingbrunch kundigen wir unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") an.
 
 ### Workshops
-An einzelnen Wochenenden bieten wir immer mal wieder kleine und größere Workshops an. Zum Beispiel das Erlernen einer Routine / Choreografie, das Festigen von Basics, Drop-Ins.
-
+An einzelnen Wochenenden bieten wir immer mal wieder kleine und größere Workshops an. Diese beinhalten zum Beispiel das Erlernen einer Swing-Routine, das Festigen von Basics oder das Erlernen neuer Moves. Außerdem bieten wir Wochenend-Intensivkurse für Anfänger:innen an. Die nächsten Wochenendworkshop kundigen wir unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") an.
