@@ -28,12 +28,12 @@ Hier könnt ihr einen Eindruck von der gemütlichen Atmosphäre in Mattstedt gew
 Mehr Informationen zu unserem nächsten Spring Camp und den Link zur Anmeldung findet ihr [hier]({{< ref "/mattstedt" >}} "Mattstedt")
 
 ### Summer Camp Barnin
+Für Vereinsmitglieder bieten wir einmal im Jahr das Summer Camp am wunderschönen Barniner See an. Das Wochenende mit Entspannen, Baden, Tanzen und Feiern. Mehr Informationen zu unserem nächsten Summer Camp und den Link zur Anmeldung findet ihr [hier]({{< ref "/barnin" >}} "Barnin")
 
-Für Vereinsmitglieder bieten wir einmal im Jahr das Summer Camp am wunderschönen Barniner See an. Das Wochenende mit Entspannen, Baden, Tanzen und Feiern. 
-
-Mehr Informationen zu unserem nächsten Summer Camp und den Link zur Anmeldung findet ihr [hier]({{< ref "/barnin" >}} "Barnin")
+### Tag der offenen Tür
+Ein- bis zweimal im Jahr veranstalten wir einen Tag der offenen Tür, an dem wir unseren Verein präsentieren und Schnupperstunden für die verschiedene Tänze anbieten, die man bei uns erlernen kann. Den nächsten Tag der offenen Tür kundigen wir unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") an.
 
 ### Workshops
 
-An einzelnen Wochenenden bieten wir immer mal wieder kleine und größere Workshops an. Zum Beispiel das Erlernen einer Routine / Choreografie, das Festigen von Basics, Drop-Ins, oder Schnupperstunden für verschiedene Tänze.
+An einzelnen Wochenenden bieten wir immer mal wieder kleine und größere Workshops an. Zum Beispiel das Erlernen einer Routine / Choreografie, das Festigen von Basics, Drop-Ins.
 
