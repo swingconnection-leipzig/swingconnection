@@ -4,7 +4,7 @@ draft: false
 ---
 
 ### Herzlich willkommen bei der SwingConnection Leipzig! 
-Wir sind ein gemeinnütziger Verein tanzversessener Leipziger, die sich der Musik und den Tänzen der Swingära verschrieben haben. Wir bieten fortlaufend Tanzkurse in verschiedenen Levels an und organisieren Swing Events.
+Wir sind ein gemeinnütziger Verein tanzversessener Leipziger, die sich der Musik und den Tänzen der Swingära verschrieben haben. Wir bieten fortlaufend Tanzkurse für Lindy Hop, Balboa, Shag, Charleston, Blues und Solo Jazz in verschiedenen Levels an und organisieren diverse Swing Events.
 
 Unter dem Menüpunkt [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") findet ihr ihr Informationen zu aktuellen Terminen und Neuigkeiten rund um unseren Verein.
 
