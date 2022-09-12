@@ -149,7 +149,6 @@ languageName = "German"
     Facebook = "https://www.facebook.com/groups/swingconnection.leipzig"
 	Youtubechannel = "https://www.youtube.com/user/swingconnection"
 	Email = "info@swingconnection-leipzig.com"
-    RSS = true
 
   # TypeIt config
   [params.typeit]
