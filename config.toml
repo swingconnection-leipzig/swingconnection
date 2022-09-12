@@ -115,7 +115,7 @@ languageName = "German"
 
   # Home page config
   [params.home]
-    # LoveIt NEW | 0.2.0 amount of RSS pages
+    # amount of RSS pages
     rss = 10
     
 	# Home page profile
@@ -135,10 +135,10 @@ languageName = "German"
       subtitle = ""
       
 	  # whether to use typeit animation for subtitle
-      typeit = true
+      typeit = false
       
 	  # whether to show social links
-      social = true
+      social = false
       
 	  # disclaimer (HTML format is supported)
       disclaimer = ""
