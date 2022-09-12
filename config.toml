@@ -115,7 +115,7 @@ languageName = "German"
 
   # Home page config
   [params.home]
-    # LoveIt NEW | 0.2.0 amount of RSS pages
+    # amount of RSS pages
     rss = 10
     
 	# Home page profile
@@ -135,21 +135,13 @@ languageName = "German"
       subtitle = ""
       
 	  # whether to use typeit animation for subtitle
-      typeit = true
+      typeit = false
       
 	  # whether to show social links
-      social = true
+      social = false
       
 	  # disclaimer (HTML format is supported)
       disclaimer = ""
-
-  # Social config about the author
-  [params.social]
-    Instagram = "https://www.instagram.com/swingconnectionleipzig/"
-    Facebook = "https://www.facebook.com/groups/swingconnection.leipzig"
-	Youtubechannel = "https://www.youtube.com/user/swingconnection"
-	Email = "info@swingconnection-leipzig.com"
-    RSS = true
 
   # TypeIt config
   [params.typeit]
@@ -231,6 +223,33 @@ languageName = "German"
 	  name = 'Kontakt & Impressum'
 	  url = '/kontakt/'
 	  weight = 6
+	
+	[[languages.de.menu.main]]
+      weight = 7
+      identifier = "facebook"
+      pre = "<i class='fab fa-facebook fa-fw' aria-hidden='true'></i>"
+      post = ""
+      name = ""
+      url = "https://www.facebook.com/groups/swingconnection.leipzig"
+      title = "Facebook"  
+	  
+	[[languages.de.menu.main]]
+      weight = 8
+      identifier = "instagram"
+      pre = "<i class='fab fa-instagram fa-fw' aria-hidden='true'></i>"
+      post = ""
+      name = ""
+      url = "https://www.instagram.com/swingconnectionleipzig/"
+      title = "Instagram"  
+	
+	[[languages.de.menu.main]]
+      weight = 9
+      identifier = "youtube"
+      pre = "<i class='fab fa-youtube fa-fw' aria-hidden='true'></i>"
+      post = ""
+      name = ""
+      url = "https://www.youtube.com/user/swingconnection"
+      title = "Youtube"	
 	  
   [languages.en]
     weight = 1
@@ -272,4 +291,31 @@ languageName = "German"
 	  name = 'Contact & Imprint'
 	  url = 'en/contact/'
 	  weight = 6
+	
+	[[languages.en.menu.main]]
+      weight = 7
+      identifier = "facebook"
+      pre = "<i class='fab fa-facebook fa-fw' aria-hidden='true'></i>"
+      post = ""
+      name = ""
+      url = "https://www.facebook.com/groups/swingconnection.leipzig"
+      title = "Facebook"  
+	  
+	[[languages.en.menu.main]]
+      weight = 8
+      identifier = "instagram"
+      pre = "<i class='fab fa-instagram fa-fw' aria-hidden='true'></i>"
+      post = ""
+      name = ""
+      url = "https://www.instagram.com/swingconnectionleipzig/"
+      title = "Instagram"  
+	
+	[[languages.en.menu.main]]
+      weight = 9
+      identifier = "youtube"
+      pre = "<i class='fab fa-youtube fa-fw' aria-hidden='true'></i>"
+      post = ""
+      name = ""
+      url = "https://www.youtube.com/user/swingconnection"
+      title = "Youtube"	
   

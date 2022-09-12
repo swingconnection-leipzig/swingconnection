@@ -6,6 +6,8 @@ slug: "geschichte"
 
 #### 2022
 Mattstedt  
+Kursleiterwochenende
+Lindy Hop Taster als Beitrag zu Fundraising Projekt für Kyiv Swing Dance Club organisiert von der Sebastian Weber Dance Company
 Relaunch der Internetseite  
 
 #### 2021
@@ -15,11 +17,13 @@ Mattstedt
 
 #### 2020
 Corona  
+Kursleiterwochenende
 
 #### 2019
 BigBal Theory mit Mel und Jo  
 Blues meets Balboa mit Vicci und Adamo  
 From Dusk till Dawn mit Adam und Maté  
+Kursleiterwochenende
 Barnin  
 
 #### 2018
