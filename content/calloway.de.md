@@ -3,14 +3,11 @@ title: "Tanzstudio Calloway"
 draft: false
 ---
 
-Im September 2015 haben wir unser Tanzstudio im Leipziger Zentrum eröffnet – das Calloway. An mehreren Abenden in der Woche finden im Calloway Tanzkurse in Lindy Hop, Balboa, Collegiate Shag, Authentic Jazz und weiteren Tanzstilen der Swingära statt.
+Im September 2015 haben wir unser Tanzstudio im Leipziger Zentrum eröffnet – das Calloway. An mehreren Abenden in der Woche finden im Calloway Tanzkurse in Lindy Hop, Balboa, Collegiate Shag, Authentic Jazz und weiteren Tanzstilen der Swingära statt. Der Name Calloway erinnert an den amerikanischen Bandleader, Jazz-Sänger, Saxophonist und Tänzer [Cab Calloway](https://en.wikipedia.org/wiki/Cab_Calloway), der vor allem durch seine Auftritte im legendären Cotton Club in den 1930er Jahren zu großer Berühmtheit gelangte.
 
 ![Calloway Saal](saal.jpg)
 
 Das Studio verfügt über einen Tanzsaal mit hellem, schwingendem Parkettboden und Fensterfronten zum Innenhof. Die große Tanzfläche mit Spiegelwand bietet optimale Bedingungen für die Tanzkurse, Show- und Vereinstrainings. Zudem veranstalten wir hier Workshops und Swingpartys. Neben dem Tanzsaal mit Sitzfläche, die auch als Bühne für Live-Bands genutzt wird, verfügt das Studio über einen Eingangsbereich mit Schuhwechselraum und einen Barraum.
-
-Der Name Calloway erinnert an den amerikanischen Bandleader, Jazz-Sänger, Saxophonist und Tänzer [Cab Calloway](https://en.wikipedia.org/wiki/Cab_Calloway), der vor allem durch seine Auftritte im legendären Cotton Club in den 1930er Jahren zu großer Berühmtheit gelangte.
-
 
 ### Anfahrt
 Tanzstudio Calloway  
