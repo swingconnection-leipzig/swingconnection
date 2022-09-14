@@ -19,9 +19,11 @@ Aktuell beträgt die Jahresgebühr für eine Mitgliedschaft 180 € bzw. 144 €
 Die formale Vorraussetzung für eine Mitgliedschaft ist die vorangegangene Teilnahme an mindestens zwei Kursen. Der Eintritt in unseren Verein ist ab dem 1. jeden Monats möglich und muss 10 Tage vor Monatsbeginn beim Vorstand vorliegen. Weiterhin erwarten wir von neuen Mitgliedern, dass sie sich aktiv am Vereinsleben beteiligen, d.h. u.a. bereit sind auch mal Aufgaben zu übernehmen.
 
 #### Mitgliedschaft beantragen
-**[Hier Mitgliedsantrag herunterladen (PDF)]()**
+Die Mitgliedschaft kann über unser Anmeldeportal beantragt werden.  
 
-Der ausgefüllte Antrag kann bei den Mitgliedern des Vorstands abgegeben oder an unsere [Adresse]({{< ref "/kontakt" >}} "Kontakt") gesendet werden. Unter den folgenden Links kannst du dir die Vereinssatzung, unseren Verhaltenskodex und unsere Datenschutzerklärung herunterladen.
+**[Hier Mitgliedschaft beantragen](https://easyverein.com/public/SCL/applicationform/3255)**
+
+Unter den folgenden Links kannst du dir die Vereinssatzung, unseren Verhaltenskodex und unsere Datenschutzerklärung herunterladen.
 
 - [Vereinssatzung (PDF)]()       
 - [Verhaltenskodex (PDF)]()
