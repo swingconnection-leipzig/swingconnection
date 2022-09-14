@@ -41,4 +41,4 @@ Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Am **10.
 Balboa? Shag? Habt ihr noch nie gehört? Kein Problem: Eine Übersicht über die von uns angebotenen Tänze und ihre historischen Wurzeln findet ihr [hier]() (Link noch inaktiv).
 
 ### Gutscheine
-Wir bieten auch Gutscheine im Postkartenformat zum Verschenken an. Der Gutschein ist übertragbar und kann bis innerhalb von 2 Jahren nach Ausstellung eingelöst werden. Auf der Rückseite ist Platz für eine persönliche Nachricht. Schreib uns bei Interesse eine E-Mail an info@swingconnection-leipzig.com.
+Wir bieten auch Gutscheine im Postkartenformat zum Verschenken an. Der Gutschein ist übertragbar und kann bis innerhalb von 2 Jahren nach Ausstellung eingelöst werden. Auf der Rückseite ist Platz für eine persönliche Nachricht. Schreib uns bei Interesse eine [E-Mail](info@swingconnection-leipzig.com).
