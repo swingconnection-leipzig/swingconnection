@@ -26,7 +26,7 @@ Die Mitgliedschaft kann über unser Anmeldeportal beantragt werden.
 Unter den folgenden Links kannst du dir die Vereinssatzung, unseren Verhaltenskodex und unsere Datenschutzerklärung herunterladen.
 
 - [Vereinssatzung (PDF)]()       
-- [Verhaltenskodex (PDF)]()
+- [Verhaltenskodex](https://docs.google.com/document/d/1EpcW5ju8RwoBK17TJuWFc2o_GQM9j8C42rYCSFf-o08/edit)
 - [Datenschutz (PDF)]()
 
 ### Zuständigkeiten in der SCL
