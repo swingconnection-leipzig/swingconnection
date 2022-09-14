@@ -23,7 +23,7 @@ Der Vorstand ist verantwortlich für den Inhalt der Webseite nach § 55 Abs. 2 R
 Eintragung im Vereinsregister des Amtsgerichtes Leipzig.  
 Registernummer: VR 5170
 
-[Datenschutzerklärung & DSGVO]({{< ref "/datenschutz" >}} "Datenschutz") [(PDF Download)]()
+[Datenschutzerklärung & DSGVO]({{< ref "/datenschutz" >}} "Datenschutz")
 
 ### Haftungsausschluss
 
