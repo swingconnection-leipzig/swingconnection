@@ -13,7 +13,7 @@ Einen Überblick über die Entwicklung der SwingConnection seit dem Jahr 2000 k�
 Du hast in den Basicskursen Swingluft geschnuppert und willst mehr? Wir freuen uns immer über Zuwachs. Als Mitglied bei der SwingConnection Leipzig kannst du dich aktiv am Vereinsleben beteiligen. Außerdem kannst du das ganze Jahr über kostenlos an allen regulären Tanzkursen teilnehmen und bekommst ermäßigten Zugang zu weiteren Veranstaltungen, die die SCL organisiert. Falls du Fragen zur Mitgliedschaft hast, sprich uns gerne bei unseren Veranstaltungen an oder schreibe uns eine [E-Mail](info@swingconnection-leipzig.com).
 
 #### Jahresgebühr
-Aktuell beträgt die Jahresgebühr für eine Mitgliedschaft 180 € bzw. 144 € (ermäßigt). Die ermäßigte Gebühr gilt für Inhaber von Schülerausweis, Studentenausweis, Leipzig-Pass oder Schwerbehindertenausweis.
+Aktuell beträgt die Jahresgebühr für eine Mitgliedschaft 180 € bzw. 144 € (ermäßigt). Die ermäßigte Gebühr gilt für Inhaber von Schülerausweis, Studentenausweis, Leipzig-Pass oder Schwerbehindertenausweis. Es wird außerdem einmalig eine Aufnahmegebühr in Höhe von 20 € fällig.  
 
 #### Voraussetzung
 Die formale Vorraussetzung für eine Mitgliedschaft ist die vorangegangene Teilnahme an mindestens zwei Kursen. Der Eintritt in unseren Verein ist ab dem 1. jeden Monats möglich und muss 10 Tage vor Monatsbeginn beim Vorstand vorliegen. Weiterhin erwarten wir von neuen Mitgliedern, dass sie sich aktiv am Vereinsleben beteiligen, d.h. u.a. bereit sind auch mal Aufgaben zu übernehmen.
