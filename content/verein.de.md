@@ -34,14 +34,14 @@ Unter den folgenden Links kannst du dir die Vereinssatzung, unsere Beitragsordnu
 In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und das organisieren, planen und durchführen von Kursbetrieb, Übungsabenden und Workshops wird ausschließlich ehrenamtlich bzw. freiwillig durch die Vereinsmitglieder sichergestellt. Bei uns kann sich jeder einbringen der möchte. 
 
 #### Vorstand
-- Erste Vorsitzende: tba. ([E-Mail](tba.)) :key:
-- Schatzmeister: Steffen ([E-Mail](tba.)) :key:
-- tba. ([E-Mail](tba.)) :key:
+- Erste Vorsitzende: tba. ([E-Mail](tba.))  
+- Schatzmeister: Steffen ([E-Mail](tba.))  
+- tba. ([E-Mail](tba.))
 
 #### Teachers
 - tba.
 - tba.
-- Henning ([E-Mail](tba.)) :key:
+- Henning ([E-Mail](tba.))
 - tba.
 - tba.
 
@@ -55,7 +55,7 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 #### DJs
 - tba.
 - tba.
-- Henning ([E-Mail](tba.)) :key:
+- Henning ([E-Mail](tba.))
 - tba.
 
 #### Safer Space Team
@@ -75,8 +75,8 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - tba.
 
 #### Internetseite
-- Henning ([E-Mail](tba.)) :key:
-- Steffen ([E-Mail](tba.)) :key:
+- Henning ([E-Mail](tba.))
+- Steffen ([E-Mail](tba.))
 - tba.
 
 Das GitHub-Repository der Internetseite befindet sich [hier](https://github.com/hnolzen/swingconnection)
@@ -85,4 +85,6 @@ Das GitHub-Repository der Internetseite befindet sich [hier](https://github.com/
 - tba.
 - tba.
 
-Alle Personen mit einem :key: Symbol haben einen Schlüssel für das Calloway.
+#### Schlüssel :key:
+Folgende Personen haben einen Schlüssel für das Calloway:  
+tba., tba., Henning, Steffen, tba.
