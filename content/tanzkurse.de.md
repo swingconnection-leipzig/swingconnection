@@ -9,8 +9,8 @@ Die aktuelle Kursrunde läuft vom **16.08.2022 bis 22.09.2022**.
 ![Wir haben wieder viele schöne Tanzkurse für euch zusammengestellt](kursplan.jpg)
 
 ### Preise
-- Vollzahler: 72 € / 8-Wochen-Kurs
-- Ermäßigt: 64 € / 8-Wochen-Kurs
+- Vollzahler: 9€ / Stunde (8-Wochen-Kursrunde: 72 €, 6-Wochen-Kursrunde: 54 €)
+- Ermäßigt: 8€ / Stunde (8-Wochen-Kursrunde: 64 €, 6-Wochen-Kursrunde: 48 €)
 
 Für Vereinsmitglieder entfällt der Kursbeitrag. Ermässigte Preise gelten für Inhaber von Schüler-, Studenten- und Schwerbehindertenausweis oder Leipzig-Pass. Bitte legt den entsprechenden Nachweis in der ersten Kursstunde unaufgefordert vor.
 
@@ -41,4 +41,4 @@ Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Am **10.
 Balboa? Shag? Habt ihr noch nie gehört? Kein Problem: Eine Übersicht über die von uns angebotenen Tänze und ihre historischen Wurzeln findet ihr [hier]() (Link noch inaktiv).
 
 ### Gutscheine
-Wir bieten auch Gutscheine im Postkartenformat zum Verschenken an. Der Gutschein ist übertragbar und kann bis innerhalb von 2 Jahren nach Ausstellung eingelöst werden. Auf der Rückseite ist Platz für eine persönliche Nachricht. Schreib uns bei Interesse eine E-Mail an info@swingconnection-leipzig.com.
+Wir bieten auch Gutscheine im Postkartenformat zum Verschenken an. Der Gutschein ist übertragbar und kann bis innerhalb von 2 Jahren nach Ausstellung eingelöst werden. Auf der Rückseite ist Platz für eine persönliche Nachricht. Schreib uns bei Interesse eine [E-Mail](info@swingconnection-leipzig.com).
