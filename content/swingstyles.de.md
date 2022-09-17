@@ -4,6 +4,8 @@ draft: false
 slug: "swingstyles"
 ---
 
+:warning: **Diese Seite wird noch überarbeitet.** :warning:
+
 Der englische Begriff Swing (Schwung, Schaukel) bezeichnet eine bestimmte Musikrichtung, den Rhythmus und Tanz des Jazz der 1920er und 1930er Jahre, der in den 1940er Jahren seinen Höhepunkt fand.
 
 Swing ist sicherlich der bekannteste Musikstil des Jazz, der sich aus den vorangegangenen Musikrichtungen Dixieland- und Chicago-Jazz herausgebildet hat. Swing verwendet Blechblasinstrumente (Trompete, Posaune) und Holzblasinstrumente (Klarinette, Saxofon), aber auch Streichinstrumente (Gitarre, Geige), getrieben von einer Rhythmusgruppe aus Kontrabass und Schlagzeug. Daher ist Swing auch eng mit der Entstehung der Big Bands verbunden.
