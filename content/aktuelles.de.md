@@ -18,7 +18,8 @@ Am **10.10.2022** startet unsere nächste 8-wöchige Kursrunde. Die Anmeldung ö
 Gute Neuigkeiten! Ab Oktober findet unser Minor Swing wieder jeden Mittwoch ab 19:30 Uhr im Noels Ballroom statt.
 
 ### Neuer Tanz-Kalender
-Einen Kalender mit einer Übersicht über Swingtanzveranstaltungen in Leipzig findet ihr in Zukunft [hier](tba) (aktuell noch inaktiv).
+Es gibt einen neuen Tanz-Kalender mit einer Übersicht über Swingtanzveranstaltungen in Leipzig.  
+[**Hier geht's zum Kalender "Swing in Leipzig"**](https://kalender.digital/0c529f4b4448ea55b992)
 
 ### Relaunch der Internetseite
 Unsere alte Internetseite war in die Jahre gekommen. Daher haben wir uns für einen Relaunch entschieden. Die neue Seite ist etwas übersichtlicher und schlanker geworden. Falls ihr Anregungen habt, lasst es uns gerne wissen.
