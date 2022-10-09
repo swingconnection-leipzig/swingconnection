@@ -9,7 +9,6 @@ Unser Verein, der SwingConnection Leipzig e.V., ist eine Gemeinschaft tanzverses
 Einen Überblick über die Entwicklung der SwingConnection seit dem Jahr 2000 könnt ihr [hier]({{< ref "/geschichte" >}} "Unsere Vereinsgeschichte") nachlesen.
 
 ### Mitgliedschaft
-
 Du hast in den Basicskursen Swingluft geschnuppert und willst mehr? Wir freuen uns immer über Zuwachs. Als Mitglied bei der SwingConnection Leipzig kannst du dich aktiv am Vereinsleben beteiligen. Außerdem kannst du das ganze Jahr über kostenlos an allen regulären Tanzkursen teilnehmen und bekommst ermäßigten Zugang zu weiteren Veranstaltungen, die die SCL organisiert. Falls du Fragen zur Mitgliedschaft hast, sprich uns gerne bei unseren Veranstaltungen an oder schreibe uns eine [E-Mail](info@swingconnection-leipzig.com).
 
 #### Jahresgebühr
@@ -30,19 +29,20 @@ Unter den folgenden Links kannst du dir die Vereinssatzung, unsere Beitragsordnu
 - [Verhaltenskodex](https://docs.google.com/document/d/1EpcW5ju8RwoBK17TJuWFc2o_GQM9j8C42rYCSFf-o08/edit)
 
 ### Zuständigkeiten in der SCL
-
 In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und das organisieren, planen und durchführen von Kursbetrieb, Übungsabenden und Workshops wird ausschließlich ehrenamtlich bzw. freiwillig durch die Vereinsmitglieder sichergestellt. Bei uns kann sich jeder einbringen der möchte. 
 
 #### Vorstand
-- Erste Vorsitzende: tba. ([E-Mail](tba.))  
-- Schatzmeister: Steffen ([E-Mail](tba.))  
+- Erste Vorsitzende: Jona Lucklum ([E-Mail](tba.))  
+- Schatzmeister: Steffen Allner ([E-Mail](tba.))  
 - tba. ([E-Mail](tba.))
 
 #### Teachers
-- tba.
-- tba.
+- Alex ([E-Mail](tba.))
 - Henning ([E-Mail](tba.))
-- tba.
+- Jona ([E-Mail](tba.))
+- Katha ([E-Mail](tba.))
+- Kristian ([E-Mail](tba.))
+- Steffen ([E-Mail](tba.))
 - tba.
 
 #### Kursanmeldungen
@@ -56,6 +56,7 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - tba.
 - tba.
 - Henning ([E-Mail](tba.))
+- Jona ([E-Mail](tba.))
 - tba.
 
 #### Safer Space Team
@@ -67,15 +68,21 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - tba.
 
 #### Werbung & Design
-- tba.
+- Alex ([E-Mail](tba.))
+- Katha ([E-Mail](tba.))
+- Kristian ([E-Mail](tba.))
 - tba.
 
 #### Social Media
-- tba.
+- Alex ([E-Mail](tba.))
+- Katha ([E-Mail](tba.))
+- Kristian ([E-Mail](tba.))
 - tba.
 
 #### Internetseite
 - Henning ([E-Mail](tba.))
+- Katha ([E-Mail](tba.))
+- Kristian ([E-Mail](tba.))
 - Steffen ([E-Mail](tba.))
 - tba.
 
@@ -83,8 +90,7 @@ Das GitHub-Repository der Internetseite befindet sich [hier](https://github.com/
 
 #### Datenschutz und Rechtliches
 - tba.
-- tba.
 
 #### Schlüssel :key:
 Folgende Personen haben einen Schlüssel für das Calloway:  
-tba., tba., Henning, Steffen, tba.
+tba., Alex, Henning, Jona, Steffen, tba.
