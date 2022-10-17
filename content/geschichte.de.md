@@ -9,6 +9,10 @@ Mattstedt
 Kursleiterwochenende
 Lindy Hop Taster als Beitrag zu Fundraising Projekt für Kyiv Swing Dance Club organisiert von der Sebastian Weber Dance Company
 Relaunch der Internetseite  
+Erstes SCL Strukturtreffen zur Verbesserung der Vereinsstrukturen  
+Neues Vereinstool wechange zur Verbesserung der Kommunikation im Verein  
+Neues Vereinstool easyVerein zur Verbesserung der Verwaltung  
+
 
 #### 2021
 Corona  
