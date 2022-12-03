@@ -22,11 +22,7 @@ Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsi
 :warning: **Aktuell pausiert die Swing Tea Time bis auf weiteres** :warning: 
 
 ### Spring Camp Mattstedt
-Die beiden Highlights des Jahres sind unsere Camps jeden Frühling und Sommer. Raus ins Grüne und je nach Gusto abmatten oder abtanzen. Das Spring Camp am Mühlenhof in Mattstedt richtet sich sowohl an angefixte Tanzanfänger als auch an Menschen, die schon länger dabei sind. Hier habt ihr ein ganzes Wochenende nur Swing im Kopf und lernt eure Kursgefährten und andere Kursleiter:innen besser kennen.
-
-Hier könnt ihr einen Eindruck von der gemütlichen Atmosphäre in Mattstedt gewinnen: https://www.youtube.com/watch?v=czMHDvKlnEA
-
-Mehr Informationen zu unserem nächsten Spring Camp und den Link zur Anmeldung findet ihr [hier]({{< ref "/mattstedt" >}} "Mattstedt")
+Die beiden Highlights des Jahres sind unsere Camps jeden Frühling und Sommer. Raus ins Grüne und je nach Gusto abmatten oder abtanzen. Das Spring Camp am Mühlenhof in Mattstedt richtet sich sowohl an angefixte Tanzanfänger als auch an Menschen, die schon länger dabei sind. Hier habt ihr ein ganzes Wochenende nur Swing im Kopf und lernt eure Kursgefährten und andere Kursleiter:innen besser kennen. Mehr Informationen zu unserem nächsten Spring Camp und den Link zur Anmeldung findet ihr [hier]({{< ref "/mattstedt" >}} "Mattstedt")
 
 ### Summer Camp Barnin
 Für Vereinsmitglieder bieten wir einmal im Jahr das Summer Camp am wunderschönen Barniner See an. Das Wochenende mit Entspannen, Baden, Tanzen und Feiern. Mehr Informationen zu unserem nächsten Summer Camp und den Link zur Anmeldung findet ihr [hier]({{< ref "/barnin" >}} "Barnin")
