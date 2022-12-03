@@ -11,11 +11,10 @@ Dufourstr. 8
 04107 Leipzig  
 E-Mail: info@swingconnection-leipzig.com   
 
-### Vorstand  
+### Vorstand
 Jona Lucklum – Erste Vorsitzende  
-xxx – stellv. Vorsitzender  
-Steffen Allner – Schatzmeister  
-xxx – Mitglieder / Kommunikation  
+Ella Felix – Stellv. Vorsitzende  
+Steffen Allner – Kassenwart    
 
 Der Vorstand ist verantwortlich für den Inhalt der Webseite nach § 55 Abs. 2 RStV. Quellenangabe für die verwendeten Bilder und Grafiken ist SwingConnection Leipzig e.V.
 
