@@ -38,7 +38,7 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermässigte Preise gelten für
 Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Im nächsten Jahr startet eine neue Kursrunde. Die Anmeldung öffnet erfahrungsgemäß etwa zwei Wochen vor Beginn einer neuen Kursrunde. Wir kündigen die Öffnung der Anmeldung im Vorfeld auch unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") und in unserer [Facebook-Gruppe](https://www.facebook.com/groups/swingconnection.leipzig) an.
 
 ### Tanzstile des Swing
-Balboa? Shag? Habt ihr noch nie gehört? Kein Problem: Eine Übersicht über die von uns angebotenen Tänze und ihre historischen Wurzeln findet ihr [hier]() (Link noch inaktiv).
+Balboa? Shag? Habt ihr noch nie gehört? Kein Problem: Eine Übersicht über die von uns angebotenen Tänze und ihre historischen Wurzeln findet ihr auf der Seite [Tanzstile]() (Link noch inaktiv).
 
 ### Gutscheine
 Wir bieten auch Gutscheine im Postkartenformat zum Verschenken an. Der Gutschein ist übertragbar und kann bis innerhalb von 2 Jahren nach Ausstellung eingelöst werden. Auf der Rückseite ist Platz für eine persönliche Nachricht. Schreib uns bei Interesse eine [E-Mail](info@swingconnection-leipzig.com).

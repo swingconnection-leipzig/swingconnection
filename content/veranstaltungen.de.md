@@ -22,10 +22,10 @@ Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsi
 :warning: **Aktuell pausiert die Swing Tea Time bis auf weiteres** :warning: 
 
 ### Spring Camp Mattstedt
-Die beiden Highlights des Jahres sind unsere Camps jeden Frühling und Sommer. Raus ins Grüne und je nach Gusto abmatten oder abtanzen. Das Spring Camp am Mühlenhof in Mattstedt richtet sich sowohl an angefixte Tanzanfänger als auch an Menschen, die schon länger dabei sind. Hier habt ihr ein ganzes Wochenende nur Swing im Kopf und lernt eure Kursgefährten und andere Kursleiter:innen besser kennen. Mehr Informationen zu unserem nächsten Spring Camp und den Link zur Anmeldung findet ihr [hier]({{< ref "/mattstedt" >}} "Mattstedt")
+Die beiden Highlights des Jahres sind unsere Camps jeden Frühling und Sommer. Raus ins Grüne und je nach Gusto abmatten oder abtanzen. Das Spring Camp am Mühlenhof in Mattstedt richtet sich sowohl an angefixte Tanzanfänger als auch an Menschen, die schon länger dabei sind. Hier habt ihr ein ganzes Wochenende nur Swing im Kopf und lernt eure Kursgefährten und andere Kursleiter:innen besser kennen. Mehr Informationen und den Link zur Anmeldung findet ihr auf der Seite [**Spring Camp Mattstedt**]({{< ref "/mattstedt" >}} "Mattstedt")
 
 ### Summer Camp Barnin
-Für Vereinsmitglieder bieten wir einmal im Jahr das Summer Camp am wunderschönen Barniner See an. Das Wochenende mit Entspannen, Baden, Tanzen und Feiern. Mehr Informationen zu unserem nächsten Summer Camp und den Link zur Anmeldung findet ihr [hier]({{< ref "/barnin" >}} "Barnin")
+Für Vereinsmitglieder bieten wir einmal im Jahr das Summer Camp am wunderschönen Barniner See an. Das Wochenende mit Entspannen, Baden, Tanzen und Feiern. Mehr Informationen und den Link zur Anmeldung findet ihr auf der Seite [**Summer Camp Barnin**]({{< ref "/barnin" >}} "Barnin")
 
 ### Tag der offenen Tür
 Ein- bis zweimal im Jahr veranstalten wir einen Tag der offenen Tür, an dem wir unseren Verein präsentieren und Schnupperstunden für die verschiedene Tänze anbieten, die man bei uns erlernen kann. Den nächsten Tag der offenen Tür kundigen wir unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") an.
