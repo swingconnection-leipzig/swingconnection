@@ -6,7 +6,7 @@ slug: "verein"
 
 Unser Verein, der SwingConnection Leipzig e.V., ist eine Gemeinschaft tanzversessener Leipziger, die sich der Musik und den Tänzen Swingära verschrieben hat. Wir bieten fortlaufend Tanzkurse in verschiedenen Levels und organisieren verschiedene Swing Events. Als gemeinnütziger Verein setzen wir unsere ganze Energie in die Förderung und Verbreitung des Swingtanzes und der Kultur, die dieser über Jahrzehnte hinweg in sich trägt. Wir haben aktuell etwa 120 Mitglieder, die gemeinsam üben, tanzen, feiern, an Wettbewerben teilnehmen und den Spirit der Swingtänze in die Welt hinaustragen.
 
-Einen Überblick über die Entwicklung der SwingConnection seit dem Jahr 2000 könnt ihr [hier]({{< ref "/geschichte" >}} "Unsere Vereinsgeschichte") nachlesen.
+Einen Überblick über die Entwicklung der SwingConnection seit dem Jahr 2000 könnt ihr auf der Seite [**Unsere Vereinsgeschichte**]({{< ref "/geschichte" >}} "Unsere Vereinsgeschichte") nachlesen.
 
 ### Mitgliedschaft
 Du hast in den Basicskursen Swingluft geschnuppert und willst mehr? Wir freuen uns immer über Zuwachs. Als Mitglied bei der SwingConnection Leipzig kannst du dich aktiv am Vereinsleben beteiligen. Außerdem kannst du das ganze Jahr über kostenlos an allen regulären Tanzkursen teilnehmen und bekommst ermäßigten Zugang zu weiteren Veranstaltungen, die die SCL organisiert. Falls du Fragen zur Mitgliedschaft hast, sprich uns gerne bei unseren Veranstaltungen an oder schreibe uns eine [E-Mail](info@swingconnection-leipzig.com).
@@ -85,8 +85,6 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - Kristian ([E-Mail](tba.))
 - Steffen ([E-Mail](tba.))
 - tba.
-
-Das GitHub-Repository der Internetseite befindet sich [hier](https://github.com/hnolzen/swingconnection)
 
 #### Datenschutz und Rechtliches
 - tba.
