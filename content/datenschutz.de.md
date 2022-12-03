@@ -27,20 +27,16 @@ Der Sportverein hat als für die Verarbeitung Verantwortlicher zahlreiche techni
 
 Nach Artikel 13 und 14 EU-DSGVO hat der Verantwortliche einer betroffenen Person, deren Daten er verarbeitet, die in den Artikeln genannten Informationen bereit zu stellen. Dieser Informationspflicht kommt dieses Merkblatt nach.
 
-Namen und Kontaktdaten des Verantwortlichen und seiner Vertreter:
-SwingConnection-Leipzig e.V. (gemeinnützig)
-Dufourstr. 8
-04107 Leipzig
-E-mail: info@swingconnection-leipzig.com
-Fax: xxx 
-Tel.: xxx
+Namen und Kontaktdaten des Verantwortlichen und seiner Vertreter:  
+SwingConnection-Leipzig e.V. (gemeinnützig)  
+Dufourstr. 8  
+04107 Leipzig  
+E-mail: info@swingconnection-leipzig.com  
 
-gesetzlich vertreten durch den Vorstand nach § 26 BGB:
-xxx – Vorsitzender
-xxx – stellv. Vorsitzender
-xxx – Schatzmeister
-xxx – Kommunikation
-xxx – Design
+gesetzlich vertreten durch den Vorstand nach § 26 BGB:  
+Jona Lucklum – Erste Vorsitzende  
+Ella Felix – Stellv. Vorsitzende  
+Steffen Allner – Kassenwart  
 
 Kontaktdaten des Datenschutzbeauftragten/der Datenschutzbeauftragten:
 -nicht benannt, da weniger als 10 Personen im regelmäßigem Umgang mit personenbezogenen Daten
