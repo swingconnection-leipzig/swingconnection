@@ -13,10 +13,6 @@ Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsi
 **Jeden Mittwoch ab 19:30 Uhr** findet der Minor Swing **im Noels Ballroom** statt. Der Minor Swing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen.
 
 ### Swing Tea Time
-:warning: **Aktuell pausiert die Swing Tea Time bis auf weiteres** :warning: 
-
-![Swing Tea Time](slider_teadance.jpg)
-
 **Jeden 2. Sonntag im Monat** lädt sich das [Horns Erben](https://horns-erben.de/) in der Südvorstadt von **15 bis 18:30 Uhr** den Swing ein. Zur Swing Tea Time hüllt sich das wunderschöne Kulturgut in den Duft frisch gebackener Kuchen und den Klang eines Louis Armstrong, Django Reinhardt oder einer Ella Fitzgerald. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen.
 
 :warning: **Aktuell pausiert die Swing Tea Time bis auf weiteres** :warning: 
