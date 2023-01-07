@@ -33,8 +33,8 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 
 #### Vorstand
 - Erste Vorsitzende: Jona Lucklum ([E-Mail](tba.))  
+- Stellv. Vorsitzende: Ella Felix ([E-Mail](tba.))  
 - Schatzmeister: Steffen Allner ([E-Mail](tba.))  
-- tba. ([E-Mail](tba.))
 
 #### Teachers
 - Alex ([E-Mail](tba.))
