@@ -4,9 +4,10 @@ draft: false
 slug: "tanzkurse"
 ---
 
-Die aktuelle Kursrunde läuft vom **11.10.2022 bis 09.12.2022**.
+Die aktuelle Kursrunde ist vorbei. Demnächst erscheint hier ein neuer Kursplan. 
+#Die aktuelle Kursrunde läuft vom **11.10.2022 bis 09.12.2022**.
 
-![Wir haben wieder viele schöne Tanzkurse für euch zusammengestellt](kursplan.jpg)
+#![Wir haben wieder viele schöne Tanzkurse für euch zusammengestellt](kursplan.jpg)
 
 ### Preise
 - Vollzahler: 9€ / Stunde (8-Wochen-Kursrunde: 72 €, 6-Wochen-Kursrunde: 54 €)
@@ -35,7 +36,7 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermässigte Preise gelten für
 
 
 ### Nächste Kursrunde
-Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Im nächsten Jahr startet eine neue Kursrunde. Die Anmeldung öffnet erfahrungsgemäß etwa zwei Wochen vor Beginn einer neuen Kursrunde. Wir kündigen die Öffnung der Anmeldung im Vorfeld auch unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") und in unserer [Facebook-Gruppe](https://www.facebook.com/groups/swingconnection.leipzig) an.
+Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Im Februar startet eine neue Kursrunde. Die Anmeldung öffnet erfahrungsgemäß etwa zwei Wochen vor Beginn einer neuen Kursrunde. Wir kündigen die Öffnung der Anmeldung im Vorfeld auch unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") und in unserer [Facebook-Gruppe](https://www.facebook.com/groups/swingconnection.leipzig) an.
 
 ### Tanzstile des Swing
 Balboa? Shag? Habt ihr noch nie gehört? Kein Problem: Eine Übersicht über die von uns angebotenen Tänze und ihre historischen Wurzeln findet ihr auf der Seite [Tanzstile]() (Link noch inaktiv).
