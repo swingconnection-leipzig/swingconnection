@@ -10,7 +10,7 @@ Kursleiterwochenende
 Lindy Hop Taster als Beitrag zu Fundraising Projekt für Kyiv Swing Dance Club organisiert von der Sebastian Weber Dance Company
 Relaunch der Internetseite  
 Erstes SCL Strukturtreffen zur Verbesserung der Vereinsstrukturen  
-Neues Vereinstool wechange zur Verbesserung der Kommunikation im Verein  
+Beginn der Nutzung der Plattform [Wechange](https://wechange.de/group/swing-connection-leipzig/) zur Verbesserung der Kommunikation im Verein  
 Neues Vereinstool easyVerein zur Verbesserung der Verwaltung  
 
 
