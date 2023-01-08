@@ -4,10 +4,9 @@ draft: false
 slug: "tanzkurse"
 ---
 
-Die aktuelle Kursrunde ist vorbei. Demnächst erscheint hier ein neuer Kursplan. 
-#Die aktuelle Kursrunde läuft vom **11.10.2022 bis 09.12.2022**.
+Die aktuelle Kursrunde ist vorbei. Die nächste Kursrunde läuft vom **13.02.2023 bis 20.03.2023**. Demnächst erscheint hier ein neuer Kursplan. 
 
-#![Wir haben wieder viele schöne Tanzkurse für euch zusammengestellt](kursplan.jpg)
+![Wir haben wieder viele schöne Tanzkurse für euch zusammengestellt](kursplan.jpg)
 
 ### Preise
 - Vollzahler: 9€ / Stunde (8-Wochen-Kursrunde: 72 €, 6-Wochen-Kursrunde: 54 €)
