@@ -19,7 +19,7 @@ Im Februar startet unsere nächste Kursrunde. Die Anmeldung öffnet etwa zwei Wo
 Seit Oktober findet unser Minor Swing wieder jeden Mittwoch ab 19:30 Uhr im Noels Ballroom statt.
 
 ### Mattstedt 2023
-Unser schönes Spring Camp findet diese Jahr vom **15.06.2023 bis 18.06.2023** statt. Es erwartet euch ein tolles Wochenende voller Entspannung, Tanz und Swingmusik auf dem wunderschönen Mühlenhof Mattstedt in Thüringen. Mehr Informationen und den Link zur Anmeldung findet ihr auf der Seite [**Spring Camp Mattstedt**]({{< ref "/mattstedt" >}} "Mattstedt").
+Unser schönes Spring Camp findet dieses Jahr vom **15.06.2023 bis 18.06.2023** statt. Es erwartet euch ein tolles Wochenende voller Entspannung, Tanz und Swingmusik auf dem wunderschönen Mühlenhof Mattstedt in Thüringen. Mehr Informationen und den Link zur Anmeldung findet ihr auf der Seite [**Spring Camp Mattstedt**]({{< ref "/mattstedt" >}} "Mattstedt").
 
 ### Big Bal Theory 2023
 Unser Balboa Workshop Big Bal Theory findet dieses Jahr vom **12.05.2023 bis 14.05.2023** statt. Mehr Informationen erscheinen hier in kürze.

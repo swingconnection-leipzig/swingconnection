@@ -7,7 +7,7 @@ slug: "mattstedt"
 
 ![Spring Camp Mattstedt](../slider_mattstedt.jpg)
 
-Unser schönes Spring Camp findet diese Jahr vom **15.06.2023 bis 18.06.2023** statt. Es erwartet euch ein tolles Wochenende voller Entspannung, Tanz und Swingmusik auf dem wunderschönen Mühlenhof Mattstedt in Thüringen. Es erwarten euch zwei Tage Workshop mit Lindy Hop, Balboa, Blues und Solo Jazz mit Trainern der SwingConnection-Leipzig und Gästen. Und natürlich könnt ihr euch auf den Partys austoben.
+Unser schönes Spring Camp findet dieses Jahr vom **15.06.2023 bis 18.06.2023** statt. Es erwartet euch ein tolles Wochenende voller Entspannung, Tanz und Swingmusik auf dem wunderschönen Mühlenhof Mattstedt in Thüringen. Es erwarten euch zwei Tage Workshop mit Lindy Hop, Balboa, Blues und Solo Jazz mit Kursleiter:innen der SwingConnection Leipzig und Gästen. Und natürlich könnt ihr euch auf den Partys austoben.
 
 Hier könnt ihr einen Eindruck von der gemütlichen Atmosphäre in Mattstedt gewinnen: https://www.youtube.com/watch?v=czMHDvKlnEA
 
@@ -18,7 +18,7 @@ In den letzten Jahren richtete sich das Camp hauptsächlich an frisch angefixte 
 Der Zeitplan steht erst kurz vor Beginn des Spring Camps fest, da wir in der Anmeldung auch nach euren Interessen und Leveln fragen. 
 
 ### Teacher
-tba.
+Es unterrichten euch die Kursleiter:innen der Swingconnection Leipzig.
 
 ### Unterkunft
 Beim Übernachten könnt ihr wählen zwischen einer Matratze in einem großen Schlafsaal, (Doppel-)Zimmer im Haus (nur begrenzte Plätze verfügbar), oder eigenem Zelt auf der Wiese am Bach. Die Zimmer befinden sich im Haupthaus. Dafür ergibt sich ein Aufpreis von 35€ pro Nacht.
