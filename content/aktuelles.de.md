@@ -4,7 +4,7 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 07.01.2023
+zuletzt aktualisiert am 15.01.2023
 
 ### Termine Tanzkurse
 
@@ -17,6 +17,9 @@ Im Februar startet unsere nächste Kursrunde. Die Anmeldung öffnet etwa zwei Wo
 
 ### Minor Swing
 Seit Oktober findet unser Minor Swing wieder jeden Mittwoch ab 19:30 Uhr im Noels Ballroom statt.
+
+### Mattstedt 2023
+Unser schönes Spring Camp findet diese Jahr vom **15.06.2023 bis 18.06.2023** statt. Es erwartet euch ein tolles Wochenende voller Entspannung, Tanz und Swingmusik auf dem wunderschönen Mühlenhof Mattstedt in Thüringen. Mehr Informationen und den Link zur Anmeldung findet ihr auf der Seite [**Spring Camp Mattstedt**]({{< ref "/mattstedt" >}} "Mattstedt").
 
 ### Swing Kalender für Leipzig
 Im neuen, vereinsunabhängigen Kalender [**"Swing in Leipzig"**](https://kalender.digital/0c529f4b4448ea55b992) findet ihr eine Übersicht *aller* Swing Veranstaltungen in Leipzig (Kurse, Workshops, Tanzabende, Social Dances, Konzerte).  
