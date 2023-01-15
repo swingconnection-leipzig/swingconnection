@@ -9,8 +9,9 @@ Die aktuelle Kursrunde ist vorbei. Die nächste Kursrunde läuft vom **13.02.202
 ![Wir haben wieder viele schöne Tanzkurse für euch zusammengestellt](kursplan.jpg)
 
 ### Preise
-- Vollzahler: 9€ / Stunde (8-Wochen-Kursrunde: 72 €, 6-Wochen-Kursrunde: 54 €)
-- Ermäßigt: 8€ / Stunde (8-Wochen-Kursrunde: 64 €, 6-Wochen-Kursrunde: 48 €)
+- Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
+- Ermäßigt:   64 € (8-Wochen-Kursrunde), 48 € (6-Wochen-Kursrunde)
+- Drop-In Stunde: 10 €
 
 Für Vereinsmitglieder entfällt der Kursbeitrag. Ermässigte Preise gelten für Inhaber von Schüler-, Studenten- und Schwerbehindertenausweis oder Leipzig-Pass. Bitte legt den entsprechenden Nachweis in der ersten Kursstunde unaufgefordert vor.
 
