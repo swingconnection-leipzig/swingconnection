@@ -69,7 +69,7 @@ languageName = "German"
       logo = "images/scl_logo.png"
       
 	  # title name
-      name = "SwingConnection Leipzig e.V."
+      name = ""
       
 	  # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
