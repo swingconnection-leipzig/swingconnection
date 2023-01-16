@@ -46,6 +46,8 @@ jobs:
           password: ${{ secrets.SFTP_PASSWORD }}
           server: ${{ secrets.SFTP_SERVER }}
           port: ${{ secrets.SFTP_PORT }}
+          # Transfere directories recursively.
+          sftpArgs: '-R'
           local_path: './public/*'
           remote_path: ${{ secrets.SFTP_REMOTE_PATH }}
           sftp_only: true
