@@ -39,7 +39,7 @@ jobs:
           Disallow: /
 
           EOF
-      - name: Deploy to swingconnction staging
+      - name: Deploy to swingconnection staging
         uses: wlixcc/SFTP-Deploy-Action@v1.2.4
         with:
           username: ${{ secrets.SFTP_USERNAME }}
