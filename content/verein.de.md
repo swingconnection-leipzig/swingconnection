@@ -32,40 +32,41 @@ Unter den folgenden Links kannst du dir die Vereinssatzung, unsere Beitragsordnu
 In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und das Organisieren, Planen und Durchführen von Kursbetrieb, Übungsabenden und Workshops wird ausschließlich ehrenamtlich bzw. freiwillig durch die Vereinsmitglieder:innen sichergestellt. Im Folgenden sind einige offizielle Zuständigkeiten aufgelistet.
 
 #### Vorstand
-- Erste Vorsitzende: Jona Lucklum ([E-Mail](tba.))  
-- Stellv. Vorsitzende: Ella Felix ([E-Mail](tba.))  
-- Kassenwart: Steffen Allner ([E-Mail](tba.))  
+- Erste Vorsitzende: Jona Lucklum ([E-Mail](jona@swingconnection-leipzig.com))  
+- Stellv. Vorsitzende: Ella Felix ([E-Mail](ella@swingconnection-leipzig.com))  
+- Kassenwart: Steffen Allner ([E-Mail](steffen@swingconnection-leipzig.com))  
 
 #### Kursleiter:innen (zurzeit aktiv)
-- Alex ([E-Mail](tba.))
-- Ariane ([E-Mail](tba.))
-- Ella ([E-Mail](tba.))
-- Helen ([E-Mail](tba.))
-- Henning ([E-Mail](tba.))
-- Jona ([E-Mail](tba.))
-- Katha ([E-Mail](tba.))
-- Katja ([E-Mail](tba.))
-- Kristian ([E-Mail](tba.))
-- Line ([E-Mail](tba.)) 
-- Liu ([E-Mail](tba.))
-- Pia ([E-Mail](tba.))
-- Sima* ([E-Mail](tba.))
-- Sophie ([E-Mail](tba.))
-- Steffen ([E-Mail](tba.))
-- Thanh Ha ([E-Mail](tba.)) 
+- Alex ([E-Mail](alex@swingconnection-leipzig.com))
+- Ariane ([E-Mail](ariane@swingconnection-leipzig.com))
+- Catze ([E-Mail](catze@swingconnection-leipzig.com))
+- Ella ([E-Mail](ella@swingconnection-leipzig.com))
+- Helen ([E-Mail](helen@swingconnection-leipzig.com))
+- Henning ([E-Mail](henning@swingconnection-leipzig.com))
+- Jona ([E-Mail](jona@swingconnection-leipzig.com))
+- Katha ([E-Mail](katha@swingconnection-leipzig.com))
+- Katja ([E-Mail](katja@swingconnection-leipzig.com))
+- Kristian ([E-Mail](kristian@swingconnection-leipzig.com))
+- Line ([E-Mail](line@swingconnection-leipzig.com)) 
+- Liu ([E-Mail](liu@swingconnection-leipzig.com))
+- Pia ([E-Mail](pia@swingconnection-leipzig.com))
+- Sima* ([E-Mail](sima@swingconnection-leipzig.com))
+- Sophie ([E-Mail](sophie@swingconnection-leipzig.com))
+- Steffen ([E-Mail](steffen@swingconnection-leipzig.com))
+- Thanh Ha ([E-Mail](thanhha@swingconnection-leipzig.com)) 
 
 #### Safer Space Team
 - tba.
 - tba.
 
 #### Werbung, Design & Social Media
-- Alex ([E-Mail](tba.))
-- Katha ([E-Mail](tba.))
-- Kristian ([E-Mail](tba.))
+- Alex ([E-Mail](alex@swingconnection-leipzig.com))
+- Katha ([E-Mail](katha@swingconnection-leipzig.com))
+- Kristian ([E-Mail](kristian@swingconnection-leipzig.com))
 
 #### Internetseite
-- Henning ([E-Mail](tba.))
-- Katha ([E-Mail](tba.))
-- Kristian ([E-Mail](tba.))
-- Steffen ([E-Mail](tba.))
+- Henning ([E-Mail](henning@swingconnection-leipzig.com))
+- Katha ([E-Mail](katha@swingconnection-leipzig.com))
+- Kristian ([E-Mail](kristian@swingconnection-leipzig.com))
+- Steffen ([E-Mail](steffen@swingconnection-leipzig.com))
 
