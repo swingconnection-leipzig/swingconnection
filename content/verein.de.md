@@ -70,3 +70,5 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - Kristian ([E-Mail](kristian@swingconnection-leipzig.com))
 - Steffen ([E-Mail](steffen@swingconnection-leipzig.com))
 
+Fragen oder Anregungen zur Internetseite können gerne an website@swingconnection-leipzig.com gerichtet werden.
+

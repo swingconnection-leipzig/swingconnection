@@ -28,5 +28,5 @@ Unser Balboa Workshop Big Bal Theory findet dieses Jahr vom **12.05.2023 bis 14.
 Im neuen, vereinsunabhängigen Kalender [**"Swing in Leipzig"**](https://kalender.digital/0c529f4b4448ea55b992) findet ihr eine Übersicht *aller* Swing Veranstaltungen in Leipzig (Kurse, Workshops, Tanzabende, Social Dances, Konzerte).  
 
 ### Relaunch der Internetseite
-Unsere alte Internetseite war in die Jahre gekommen. Daher haben wir uns für einen Relaunch entschieden. Die neue Seite ist etwas übersichtlicher und schlanker geworden. Falls ihr Anregungen habt, lasst es uns gerne wissen.
+Unsere alte Internetseite war in die Jahre gekommen. Daher haben wir uns für einen Relaunch entschieden. Die neue Seite ist etwas übersichtlicher und schlanker geworden. Falls ihr Anregungen habt, lasst es uns gerne wissen (website@swingconnection-leipzig.com).
 
