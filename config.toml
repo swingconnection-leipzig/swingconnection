@@ -1,4 +1,4 @@
-baseURL = 'https://hnolzen.github.io/swingconnection/'
+baseURL = 'https://swingconnection-leipzig.github.io/swingconnection/'
 title = 'SwingConnection Leipzig e.V.'
 theme = 'LoveIt'
 enableEmoji = true
