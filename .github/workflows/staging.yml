@@ -39,13 +39,16 @@ jobs:
           Disallow: /
 
           EOF
-      - name: Deploy to swingconnection staging
-        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
+      - name: FTP Deployer
+        uses: sand4rt/ftp-deployer@v1.7
         with:
-          username: ${{ secrets.SFTP_USERNAME }}
-          password: ${{ secrets.SFTP_PASSWORD }}
-          server: ${{ secrets.SFTP_SERVER }}
-          port: ${{ secrets.SFTP_PORT }}
-          local_path: './public/*'
-          remote_path: ${{ secrets.SFTP_REMOTE_PATH }}
-          sftp_only: true
+          sftp: true # optional
+          host: ${{ secrets.SFTP_SERVER }} # e.g. ftp.host.com or sftp.host.com (without ftp:// or ftps://)
+          port: 22 # optional, default is: 21
+          username: ${{ secrets.SFTP_USERNAME }} # FTP username
+          password: ${{ secrets.SFTP_PASSWORD }} # FTP password
+          remote_folder: ${{ secrets.SFTP_REMOTE_PATH }} # optional, remote path of your FTP server
+          local_folder: ./public # optional, local path, default is: dist
+          cleanup: true # optional, remove existing files inside FTP remote folder
+          include: '["**/*"]' # optional, e.g. '['dist']'
+          exclude: '[]' # optional, e.g. '['node_modules/**', '.git/**', '*.env']'
