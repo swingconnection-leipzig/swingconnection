@@ -49,6 +49,7 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - Kristian ([E-Mail](kristian@swingconnection-leipzig.com))
 - Line ([E-Mail](line@swingconnection-leipzig.com)) 
 - Liu ([E-Mail](liu@swingconnection-leipzig.com))
+- Nico ([E-Mail](nico@swingconnection-leipzig.com))
 - Pia ([E-Mail](pia@swingconnection-leipzig.com))
 - Sima* ([E-Mail](sima@swingconnection-leipzig.com))
 - Sophie ([E-Mail](sophie@swingconnection-leipzig.com))
