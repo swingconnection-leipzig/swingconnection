@@ -4,7 +4,7 @@ theme = 'LoveIt'
 enableEmoji = true
 
 defaultContentLanguage = 'de'
-languageCode = 'de'
+languageCode = 'de-De'
 languageName = "German"
 
 # Author config
