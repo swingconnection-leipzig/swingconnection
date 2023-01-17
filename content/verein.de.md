@@ -29,7 +29,7 @@ Unter den folgenden Links kannst du dir die Vereinssatzung, unsere Beitragsordnu
 - [Verhaltenskodex](https://docs.google.com/document/d/1EpcW5ju8RwoBK17TJuWFc2o_GQM9j8C42rYCSFf-o08/edit)
 
 ### Zuständigkeiten in der SCL
-In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und das Organisieren, Planen und Durchführen von Kursbetrieb, Übungsabenden und Workshops wird ausschließlich ehrenamtlich bzw. freiwillig durch die Vereinsmitglieder:innen sichergestellt. Im Folgenden sind einige offizielle Zuständigkeiten aufgelistet.
+In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und das Organisieren, Planen und Durchführen von Kursbetrieb, Übungsabenden und Workshops wird ausschließlich ehrenamtlich bzw. freiwillig durch die Vereinsmitglieder sichergestellt. Im Folgenden sind einige offizielle Zuständigkeiten aufgelistet.
 
 #### Vorstand
 - Erste Vorsitzende: Jona Lucklum ([E-Mail](jona@swingconnection-leipzig.com))  

@@ -27,7 +27,7 @@ Für Vereinsmitglieder bieten wir einmal im Jahr das Summer Camp am wunderschön
 Ein- bis zweimal im Jahr veranstalten wir einen Tag der offenen Tür, an dem wir unseren Verein präsentieren und Schnupperstunden für die verschiedene Tänze anbieten, die man bei uns erlernen kann. Den nächsten Tag der offenen Tür kundigen wir unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") an.
 
 ### Swingbrunch
-Ein- bis zweimal im Jahr veranstalten wir einen Swingbrunch. Den nächsten Swingbrunch kundigen wir unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") an.
+Ein- bis zweimal im Jahr veranstalten wir einen Swingbrunch. Den nächsten Swingbrunch kündigen wir unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") an.
 
 ### Workshops
 An einzelnen Wochenenden bieten wir immer mal wieder kleine und größere Workshops an. Diese beinhalten zum Beispiel das Erlernen einer Swing-Routine, das Festigen von Basics oder das Erlernen neuer Moves. Außerdem bieten wir Wochenend-Intensivkurse für Anfänger:innen an. Die nächsten Wochenendworkshop kundigen wir unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") an.
