@@ -8,7 +8,7 @@ zuletzt aktualisiert am 15.01.2023
 
 ### Termine Tanzkurse
 
-[//]: # " ![Kursrunde](slider_kursrunde.png) "
+![Kursrunde](slider_kursrunde.png)
 
 [//]: # " Die aktuelle Kursrunde läuft vom **10.10.2022** bis **02.12.2022**." 
 Mehr Informationen zu den Kursen und den Link zur Anmeldung erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
