@@ -10,7 +10,7 @@ zuletzt aktualisiert am 19.01.2023
 
 ![Kursrunde](slider_kursrunde.jpeg)
 
-Die nächste Kursrunde läuft vom **13.02.2023** bis **20.03.2023**.". Mehr Informationen zu den Kursen und den Link zur Anmeldung erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
+Die nächste Kursrunde läuft vom **13.02.2023** bis **20.03.2023**. Mehr Informationen zu den Kursen und den Link zur Anmeldung erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
 
 ### Minor Swing
 Seit Oktober findet unser Minor Swing wieder jeden Mittwoch ab 19:30 Uhr im Noels Ballroom statt.

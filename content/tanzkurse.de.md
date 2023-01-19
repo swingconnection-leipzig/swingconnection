@@ -4,7 +4,7 @@ draft: false
 slug: "tanzkurse"
 ---
 
-Die aktuelle Kursrunde ist vorbei. Die nächste Kursrunde läuft vom **13.02.2023 bis 20.03.2023**. Demnächst erscheint hier ein neuer Kursplan. 
+Die nächste Kursrunde läuft vom **13.02.2023 bis 20.03.2023**. Demnächst erscheint hier ein neuer Kursplan. 
 
 ![Wir haben wieder viele schöne Tanzkurse für euch zusammengestellt](kursplan.jpg)
 
@@ -36,7 +36,13 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermässigte Preise gelten für
 
 
 ### Nächste Kursrunde
-Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Im Februar startet eine neue Kursrunde. Die Anmeldung öffnet erfahrungsgemäß etwa zwei Wochen vor Beginn einer neuen Kursrunde. Wir kündigen die Öffnung der Anmeldung im Vorfeld auch unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") und in unserer [Facebook-Gruppe](https://www.facebook.com/groups/swingconnection.leipzig) an.
+Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Dieses Jahr beiten wir neben Workshops am Wochenende und einem Sommerprogramm vier reguläre Kursrunden an:
+- 13.02.-20.03.
+- 10.04.-29.05
+- 19.06.-24.07.
+- 09-10.-27.11.
+
+Die Anmeldung öffnet erfahrungsgemäß jeweils etwa zwei Wochen vor Beginn einer neuen Kursrunde. Wir kündigen die Öffnung der Anmeldung im Vorfeld auch unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") und in unserer [Facebook-Gruppe](https://www.facebook.com/groups/swingconnection.leipzig) an.
 
 ### Tanzstile des Swing
 Balboa? Shag? Habt ihr noch nie gehört? Kein Problem: Eine Übersicht über die von uns angebotenen Tänze und ihre historischen Wurzeln findet ihr auf der Seite [Tanzstile]({{< ref "/swingstyles" >}} "Tanzstile").
