@@ -4,7 +4,7 @@ draft: false
 slug: "tanzkurse"
 ---
 
-Die nächste Kursrunde läuft vom **13.02.2023 bis 20.03.2023**. Demnächst erscheint hier ein neuer Kursplan. 
+Die Winter-Kursrunde läuft vom **13.02.2023 bis 20.03.2023**. Demnächst erscheint hier ein neuer Kursplan. 
 
 ![Wir haben wieder viele schöne Tanzkurse für euch zusammengestellt](kursplan.jpg)
 
@@ -37,10 +37,10 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermässigte Preise gelten für
 
 ### Nächste Kursrunde
 Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Dieses Jahr beiten wir neben Workshops am Wochenende und einem Sommerprogramm vier reguläre Kursrunden an:
-- 13.02.-20.03.
-- 10.04.-29.05
-- 19.06.-24.07.
-- 09-10.-27.11.
+- 13.02.-20.03.2023 (Winter)
+- 10.04.-29.05.2023 (Frühjahr)
+- 19.06.-24.07.2023 (Sommer)
+- 09-10.-27.11.2023 (Herbst)
 
 Die Anmeldung öffnet erfahrungsgemäß jeweils etwa zwei Wochen vor Beginn einer neuen Kursrunde. Wir kündigen die Öffnung der Anmeldung im Vorfeld auch unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") und in unserer [Facebook-Gruppe](https://www.facebook.com/groups/swingconnection.leipzig) an.
 
