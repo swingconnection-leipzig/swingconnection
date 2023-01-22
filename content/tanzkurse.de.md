@@ -4,7 +4,7 @@ draft: false
 slug: "tanzkurse"
 ---
 
-Die Winter-Kursrunde läuft vom **13.02.2023 bis 24.03.2023**. Demnächst erscheint hier ein neuer Kursplan. 
+Die Winter-Kursrunde läuft vom **13.02.2023 bis 24.03.2023**.
 
 ![Wir haben wieder viele schöne Tanzkurse für euch zusammengestellt](kursplan.jpg)
 
