@@ -15,7 +15,7 @@ Du hast in den Basicskursen Swingluft geschnuppert und willst mehr? Wir freuen u
 Aktuell beträgt die Jahresgebühr für eine Mitgliedschaft 180 € bzw. 144 € (ermäßigt). Die ermäßigte Gebühr gilt für Inhaber von Schülerausweis, Studentenausweis, Leipzig-Pass oder Schwerbehindertenausweis. Außerdem wird einmalig eine Aufnahmegebühr in Höhe von 20 € fällig.
 
 #### Voraussetzung
-Die formale Vorraussetzung für eine Mitgliedschaft ist die vorangegangene Teilnahme an mindestens zwei Kursen. Der Eintritt in unseren Verein ist ab dem 1. jeden Monats möglich und muss 10 Tage vor Monatsbeginn beim Vorstand vorliegen. Weiterhin erwarten wir von neuen Mitgliedern, dass sie sich aktiv am Vereinsleben beteiligen. Dazu gehört die Bereitschaft Aufgaben zu übernehmen und sich bei unserer neuen [Vereins-Kommunikationsplatform auf Wechange](https://wechange.de/group/swing-connection-leipzig/) anzumelden.
+Die formale Voraussetzung für eine Mitgliedschaft ist die vorangegangene Teilnahme an mindestens zwei Kursen. Der Eintritt in unseren Verein ist ab dem 1. jeden Monats möglich und muss 10 Tage vor Monatsbeginn beim Vorstand vorliegen. Weiterhin erwarten wir von neuen Mitgliedern, dass sie sich aktiv am Vereinsleben beteiligen. Dazu gehört die Bereitschaft Aufgaben zu übernehmen und sich bei unserer neuen [Vereins-Kommunikationsplatform auf Wechange](https://wechange.de/group/swing-connection-leipzig/) anzumelden.
 
 #### Mitgliedschaft beantragen
 Die Mitgliedschaft kann über unser Anmeldeportal beantragt werden.  

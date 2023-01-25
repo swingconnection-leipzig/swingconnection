@@ -5,13 +5,10 @@ slug: "barnin"
 ---
 
 ### Unterkunft
-Die Betten sind bezogen. Was ihr benötigt, sind Schlafsack/Decke und Kopfkissen. Oropax sind vor allem
-im Haupthaus ratsam.
+Die Betten sind bezogen. Was ihr benötigt, sind Schlafsack/Decke und Kopfkissen. Oropax sind vor allem im Haupthaus ratsam.
 
 ### Verpflegung
-Die wird wieder lecker! Für vegetarische Kost ist gesorgt. Vegan wird schwierig. Gereicht wird ein
-ausgedehntes Frühstück, Kaffee & frisch gebackener Kuchen sowie ein erfüllendes Abendessen. Aus
-einer kleinen aber ausreichenden Zusammenstellung verschiedener Getränke kann sich jeder per
+Die wird wieder lecker! Für vegetarische Kost ist gesorgt. Vegan wird schwierig. Gereicht wird ein ausgedehntes Frühstück, Kaffee & frisch gebackener Kuchen sowie ein erfüllendes Abendessen. Aus einer kleinen aber ausreichenden Zusammenstellung verschiedener Getränke kann sich jeder per
 Strichliste bedienen.
 
 ### Kurse
