@@ -44,6 +44,3 @@ Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Dieses J
 
 Die Anmeldung öffnet erfahrungsgemäß jeweils etwa zwei Wochen vor Beginn einer neuen Kursrunde. Wir kündigen die Öffnung der Anmeldung im Vorfeld auch unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") und in unserer [Facebook-Gruppe](https://www.facebook.com/groups/swingconnection.leipzig) an.
 
-### Tanzstile des Swing
-Balboa? Shag? Habt ihr noch nie gehört? Kein Problem: Eine Übersicht über die von uns angebotenen Tänze und ihre historischen Wurzeln findet ihr auf der Seite [Tanzstile]({{< ref "/swingstyles" >}} "Tanzstile").
-
