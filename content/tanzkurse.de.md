@@ -32,7 +32,7 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermässigte Preise gelten für
 
 - Wenn ihr erkältet seid oder euch krank fühlt, bleibt bitte zu Hause. 
 
-- Bitte beachtet unseren [Verhaltenskodex]({{< ref "/verhaltenskodex" >}} "Verhaltenskodex").
+- Bitte beachtet unseren [Verhaltenskodex](https://docs.google.com/document/d/1EpcW5ju8RwoBK17TJuWFc2o_GQM9j8C42rYCSFf-o08/edit).
 
 
 ### Nächste Kursrunde
