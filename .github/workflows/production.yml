@@ -1,9 +1,9 @@
-name: Staging - Build and Deploy Site
+name: Production - Build and Deploy Site
 
 on:
   push:
     branches:
-      - staging
+      - production
 
 jobs:
   build-and-deploy-site:
@@ -31,13 +31,6 @@ jobs:
           arguments: --only-4xx --check-favicon --check-html --assume-extension --empty-alt-ignore --disable-external
         continue-on-error: true
 
-      - name: Add a robots.txt to disallow crawling staging
-        run: |
-          cat > ./public/robots.txt <<EOF
-          User-agent: *
-          Disallow: /
-
-          EOF
       - name: FTP Deployer
         uses: sand4rt/ftp-deployer@v1.7
         with:
@@ -46,7 +39,7 @@ jobs:
           port: 22 # optional, default is: 21
           username: ${{ secrets.SFTP_USERNAME }} # FTP username
           password: ${{ secrets.SFTP_PASSWORD }} # FTP password
-          remote_folder: ${{ secrets.SFTP_REMOTE_PATH }} # optional, remote path of your FTP server
+          remote_folder: ${{ secrets.SFTP_REMOTE_PATH_PROD }} # optional, remote path of your FTP server
           local_folder: ./public # optional, local path, default is: dist
           cleanup: true # optional, remove existing files inside FTP remote folder
           include: '["**/*"]' # optional, e.g. '['dist']'
