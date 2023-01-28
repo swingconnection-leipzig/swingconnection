@@ -18,7 +18,7 @@ In den letzten Jahren richtete sich das Camp hauptsächlich an frisch angefixte 
 Der Zeitplan steht erst kurz vor Beginn des Spring Camps fest, da wir in der Anmeldung auch nach euren Interessen und Leveln fragen. 
 
 ### Teacher
-Es unterrichten euch die Kursleiter:innen der Swingconnection Leipzig.
+Es unterrichten euch die Kursleiter:innen der SwingConnection Leipzig.
 
 ### Unterkunft
 Beim Übernachten könnt ihr wählen zwischen einer Matratze in einem großen Schlafsaal, (Doppel-)Zimmer im Haus (nur begrenzte Plätze verfügbar), oder eigenem Zelt auf der Wiese am Bach. Die Zimmer befinden sich im Haupthaus. Dafür ergibt sich ein Aufpreis von 35€ pro Nacht.
