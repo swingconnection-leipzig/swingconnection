@@ -13,7 +13,7 @@ Die Winter-Kursrunde läuft vom **13.02.2023 bis 24.03.2023**.
 - Ermäßigt:   64 € (8-Wochen-Kursrunde), 48 € (6-Wochen-Kursrunde)
 - Drop-In Stunde: 10 €
 
-Für Vereinsmitglieder entfällt der Kursbeitrag. Ermässigte Preise gelten für Inhaber von Schüler-, Studenten- und Schwerbehindertenausweis oder Leipzig-Pass. Bitte legt den entsprechenden Nachweis in der ersten Kursstunde unaufgefordert vor.
+Für Vereinsmitglieder entfällt der Kursbeitrag. Ermäßigte Preise gelten für Inhaber von Schüler-, Studenten- und Schwerbehindertenausweis oder Leipzig-Pass. Bitte legt den entsprechenden Nachweis in der ersten Kursstunde unaufgefordert vor.
 
 ### Anmeldung
 Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden:  

@@ -5,10 +5,5 @@ draft: false
 
 ### Welcome the SwingConnection Leipzig! 
 
-![SCL_logo](scl_logo.png)
-
-
-tba.
-
-
+Soon there will also be an English translation of this website. We are working on it. Stay tuned!
 
