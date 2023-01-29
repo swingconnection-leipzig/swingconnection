@@ -22,7 +22,7 @@ jobs:
           extended: true
 
       - name: Build site with Hugo
-        run: hugo --minify --baseURL="${{ secrets.PROD_DOMAIN}}"
+        run: hugo --minify --baseURL="${{ secrets.PROD_DOMAIN }}"
 
       - name: Check HTML
         uses: chabad360/htmlproofer@master

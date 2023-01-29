@@ -13,7 +13,7 @@ Die Winter-Kursrunde läuft vom **13.02.2023 bis 24.03.2023**.
 - Ermäßigt:   64 € (8-Wochen-Kursrunde), 48 € (6-Wochen-Kursrunde)
 - Drop-In Stunde: 10 €
 
-Für Vereinsmitglieder entfällt der Kursbeitrag. Ermässigte Preise gelten für Inhaber von Schüler-, Studenten- und Schwerbehindertenausweis oder Leipzig-Pass. Bitte legt den entsprechenden Nachweis in der ersten Kursstunde unaufgefordert vor.
+Für Vereinsmitglieder entfällt der Kursbeitrag. Ermäßigte Preise gelten für Inhaber von Schüler-, Studenten- und Schwerbehindertenausweis oder Leipzig-Pass. Bitte legt den entsprechenden Nachweis in der ersten Kursstunde unaufgefordert vor.
 
 ### Anmeldung
 Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden:  
@@ -32,7 +32,7 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermässigte Preise gelten für
 
 - Wenn ihr erkältet seid oder euch krank fühlt, bleibt bitte zu Hause. 
 
-- Bitte beachtet unseren [Verhaltenskodex]({{< ref "/verhaltenskodex" >}} "Verhaltenskodex").
+- Bitte beachtet unseren [Verhaltenskodex](https://docs.google.com/document/d/1EpcW5ju8RwoBK17TJuWFc2o_GQM9j8C42rYCSFf-o08/edit).
 
 
 ### Nächste Kursrunde
@@ -43,7 +43,4 @@ Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Dieses J
 - 09-10.-01.12.2023 (Herbst)
 
 Die Anmeldung öffnet erfahrungsgemäß jeweils etwa zwei Wochen vor Beginn einer neuen Kursrunde. Wir kündigen die Öffnung der Anmeldung im Vorfeld auch unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") und in unserer [Facebook-Gruppe](https://www.facebook.com/groups/swingconnection.leipzig) an.
-
-### Tanzstile des Swing
-Balboa? Shag? Habt ihr noch nie gehört? Kein Problem: Eine Übersicht über die von uns angebotenen Tänze und ihre historischen Wurzeln findet ihr auf der Seite [Tanzstile]({{< ref "/swingstyles" >}} "Tanzstile").
 
