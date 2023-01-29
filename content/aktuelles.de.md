@@ -13,7 +13,7 @@ zuletzt aktualisiert am 29.01.2023
 Die Winter-Kursrunde läuft vom **13.02.2023** bis **24.03.2023**. Mehr Informationen zu den Kursen und den Link zur Anmeldung erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
 
 ### Swing Brunch
-Der nächste Swing Brunch findet am **04.02.2023** von 11:00 bis 14:00 Uhr in unserem Tanzstudio Calloway statt.
+Der nächste Swing Brunch findet am **04.02.2023** von 11:00 bis 14:00 Uhr in unserem Tanzstudio Calloway statt. Am **18.03.2023** organisieren wir zum Start der neuen Kursrunde ein Swing Brunch mit anschließendem Tag der offenen Tür und Schnupperkursen.
 
 ### Big Bal Theory 2023
 Unser Balboa Workshop Big Bal Theory findet dieses Jahr vom **12.05.2023 bis 14.05.2023** statt. Mehr Informationen erscheinen hier in kürze.
