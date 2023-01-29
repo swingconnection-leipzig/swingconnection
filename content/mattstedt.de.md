@@ -10,9 +10,6 @@ Unser schönes Spring Camp findet dieses Jahr vom **15.06.2023 bis 18.06.2023** 
 
 Hier könnt ihr einen Eindruck von der gemütlichen Atmosphäre in Mattstedt gewinnen: https://www.youtube.com/watch?v=czMHDvKlnEA
 
-### Preise
-tba.
-
 ### Anmeldung
 Über unser Kursbuchungsportal könnt ihr euch zum Spring Camp anmelden:  
 **Der Anmeldelink wird demnächst freigeschaltet**
