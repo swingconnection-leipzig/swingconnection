@@ -7,7 +7,7 @@ slug: "geschichte"
 #### 2022
 Mattstedt  
 Kursleiterwochenende
-Lindy Hop Taster als Beitrag zu Fundraising Projekt für Kyiv Swing Dance Club organisiert von der Sebastian Weber Dance Company
+Lindy Hop Taster als Beitrag zu Fundraising Projekt "Move for Ukraine" organisiert von der Sebastian Weber Dance Company
 Relaunch der Internetseite  
 Erstes SCL Strukturtreffen zur Verbesserung der Vereinsstrukturen  
 Beginn der Nutzung der Plattform [Wechange](https://wechange.de/group/swing-connection-leipzig/) zur Verbesserung der Kommunikation im Verein  
@@ -47,7 +47,7 @@ tba
 
 #### 2015
 Der Wunsch nach einem eigenen Vereinsraum für Kurse und Veranstaltungen wird konkret. In der Dufourstr. 8 wird die ehemalige Carola-Bar angemietet, während der Sommerpause ausgebaut und erhält den Namen Calloway.
-Neben der SwingConnection unterrichten beim SpringCamp in Mattstedt auch Lehrer aus Jena und Dresden. Teilnehmer aus Thüringen, Sachsen und Sachsen-Anhalt geniessen die Kurse.
+Neben der SwingConnection unterrichten beim SpringCamp in Mattstedt auch Lehrer aus Jena und Dresden. Teilnehmer aus Thüringen, Sachsen und Sachsen-Anhalt genießen die Kurse.
 
 #### 2014
 Der Unfalltod von Paul erschüttert uns. Wir verlieren ihn als Freund, euphorischen Tänzer und aktives Vereins- und Vorstandsmitglied. Der Vorstand wird neu formiert und auf fünf Mitglieder erweitert.
@@ -60,7 +60,7 @@ In Leipzig wächst das Interesse am Swingtanz stetig. Der Verein unterrichtet mi
 Hohes Engagement aller Beteiligten im neu gegründeten Verein ermöglichen die neue Homepage im eigenen Corporate Design. Neben Lindy Hop & Balboa erweitern wir unser Kursprogramm um die 20s Solo-Charleston, Authentic Jazz und Collegiate Shag Kurse. Showauftritte beim Herbstball Zeitz, beim Bigbandball Jena, beim Welttanztag Leipzig und den Tangotagen in Leipzig sowie Tasterkurse bei den ElektroSwing Abendveranstaltungen verdeutlichen die gute tänzerische Entwicklung im Verein.
 
 #### 2011
-Wir geben Kurse im Lindy Hop, Balboa und Charleston in verschiedenen Niveaustufen. Mit dem Minor Swing haben wir ein wöchentliches Social Dance Event in Leipzig mit verschiedenen DJangos’s der Leipziger Tanzszene offiziell ins Leben gerufen.Am 14.12.2011 haben wir uns als Verein auf eigene Füße gestellt – Gründung Swingconnection-Leipzig e.V.
+Wir geben Kurse im Lindy Hop, Balboa und Charleston in verschiedenen Niveaustufen. Mit dem Minor Swing haben wir ein wöchentliches Social Dance Event in Leipzig mit verschiedenen DJangos’s der Leipziger Tanzszene offiziell ins Leben gerufen.Am 14.12.2011 haben wir uns als Verein auf eigene Füße gestellt – Gründung SwingConnection-Leipzig e.V.
 
 #### 2010
 Nach steigendem Interesse am Balboa haben wir diesen Tanz im Frühjahr 2010 in unserer Kursprogramm aufgenommen. Nach kurzer Zeit stieg auch das Interesse Lindy Hop & Balboa außerhalb der Kurse zu tanzen. Seit 17.11 2010 organisieren wir jede Woche ein Social Dance Events in Noels Ballroom. Mitglieder aus Verein und Leipziger Tanzszene begleiten musikalisch durch den Abend.
@@ -85,7 +85,7 @@ Die Kurse Swing/Lindy Hop waren aus dem Hochschulsport nicht mehr wegzudenken. U
 
 #### 2001
 
-Wir begannen erste Kurse im Swing/Lindy Hop im Hochschulsport der Universiät Leipzig durch Ingolf und Birgit. Mit der Teilnahme an der ersten Workshopwoche beim La Santa Swing gab es regelmäßige Teilnahmen an verschiedenen internationalen Workshops.
+Wir begannen erste Kurse im Swing/Lindy Hop im Hochschulsport der Universität Leipzig durch Ingolf und Birgit. Mit der Teilnahme an der ersten Workshopwoche beim La Santa Swing gab es regelmäßige Teilnahmen an verschiedenen internationalen Workshops.
 
 #### 2000
 
