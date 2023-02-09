@@ -33,3 +33,6 @@ In regelmäßigen Abständen veranstalten wir einen Swing Brunch. Laut Jahrespla
 
 ### Workshops
 An einzelnen Wochenenden bieten wir immer mal wieder kleine und größere Workshops an. Diese beinhalten zum Beispiel das Erlernen einer Swing-Routine, das Festigen von Basics oder das Erlernen neuer Moves. Außerdem bieten wir Wochenend-Intensivkurse für Anfänger:innen an. Die nächsten Wochenendworkshop kundigen wir unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") an.
+
+### Auftritte und Schnupperkurse für private Veranstaltungen
+Wir bieten auch Auftritte und Schnupperkurse für private Veranstaltungen wie zum Beispiel Hochzeiten, Geburtstage und Firmenfeiern an. Schreiben Sie uns dazu gerne eine E-Mail an info@swingconnection-leipzig.com.
