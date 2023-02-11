@@ -11,8 +11,8 @@ slug: "bigbal"
 
 ### Tracks
 L0 - Einsteiger (3,5h Samstag + 3,5h Sonntag)  
-L1 - Intermediate (4h Sonntag)  
-L2 - Advanced (4h Samstag)  
+L1 - Intermediate (2h Samstag + 2h Sonntag)  
+L2 - Advanced (2h Samstag + 2h Sonntag)  
 Kombination auf L1 und L2 möglich
 
 ### Level
