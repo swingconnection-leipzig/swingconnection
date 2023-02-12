@@ -44,4 +44,4 @@ Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Dieses J
 
 Die Anmeldung öffnet erfahrungsgemäß jeweils etwa zwei Wochen vor Beginn einer neuen Kursrunde. Wir kündigen die Öffnung der Anmeldung im Vorfeld auch unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") und in unserer [Facebook-Gruppe](https://www.facebook.com/groups/swingconnection.leipzig) an.
 
-In Zukunft werden wir wieder mehr Basics-Kurse für Lindy Hop und Balboa anbieten.
+In der Kursrunde im Frühling (Start 11.04.2023) werden wir wieder Basics-Kurse für Lindy Hop und Balboa anbieten.
