@@ -57,8 +57,7 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - Thanh Ha ([E-Mail](mailto:thanhha@swingconnection-leipzig.com)) 
 
 #### Safer Space Team
-- tba.
-- tba.
+- Leitung: Ella ([E-Mail](mailto:ella@swingconnection-leipzig.com)) und Jona ([E-Mail](mailto:jona@swingconnection-leipzig.com))
 
 #### Werbung, Design & Social Media
 - Alex ([E-Mail](mailto:alex@swingconnection-leipzig.com))
