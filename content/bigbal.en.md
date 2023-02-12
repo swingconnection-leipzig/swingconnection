@@ -11,9 +11,11 @@ slug: "bigbal"
 
 ### Tracks
 L0 - Beginner (3,5h Saturday + 3,5h Sunday)  
-L1 - Intermediate (4h Sunday)  
-L2 - Advanced (4h Saturday)  
+L1 - Intermediate (2h Saturday + 2h Sunday)  
+L2 - Advanced (2h Saturday + 2h Sunday)  
 It is possible to register for both levels
+
+All courses will be taught as switch courses. So it will be possible to practice as a follower and a leader depending on your needs and wishes.
 
 ### Level
 **Level 0 - Beginner (Sat + Sun)**: You've never danced Balboa before, or you've taken a Balboa course at some point, but you need a thorough refresher. On two days you will learn the basics.
@@ -50,4 +52,4 @@ SwingConnection Leipzig e.V., Dufourstraße 8, 04107 Leipzig
 
 ### Anmeldung
 You can register for the Big Bal Theory Workshop via our course booking portal:
-**The registration link will be activated on February 12**.
+**[Zur Anmeldung](https://scl.swinggeeks.de/BBT2023/)**
