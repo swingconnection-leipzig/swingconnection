@@ -15,6 +15,8 @@ L1 - Intermediate (2h Samstag + 2h Sonntag)
 L2 - Advanced (2h Samstag + 2h Sonntag)  
 Kombination auf L1 und L2 möglich
 
+Alle Kurse werden als Switch-Kurse unterrichtet. Es wird also möglich sein, je nach Bedarf und Wunsch als Follower und Leader zu üben.
+
 ### Level
 **Level 0 – Einsteiger (Sa + So)**: Du hast noch nie Balboa getanzt, oder hattest irgendwann mal einen Balboakurs gemacht, aber du brauchst mal eine gründliche Auffrischung. An zwei Tagen lernst du die Basics.
 
