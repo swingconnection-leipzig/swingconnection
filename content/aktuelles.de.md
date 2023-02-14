@@ -12,6 +12,13 @@ zuletzt aktualisiert am 12.02.2023
 
 Die Winter-Kursrunde läuft vom **13.02.2023** bis **24.03.2023**. Mehr Informationen zu den Kursen und den Link zur Anmeldung erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
 
+### Tea Dance - 3 o'clock jump
+
+![Tea Dance](../slider_tea_dance_three_oclock.png)
+
+Am **26.02.2023** findet von 15:00 bis 18:00 Uhr eine Swing Tea Time im Calloway statt. 
+
+
 ### Swing Brunch
 Der nächste Swing Brunch findet am **04.02.2023** von 11:00 bis 14:00 Uhr in unserem Tanzstudio Calloway statt. Am **18.03.2023** organisieren wir zum Start der neuen Kursrunde ein Swing Brunch mit anschließendem Tag der offenen Tür und Schnupperkursen.
 
