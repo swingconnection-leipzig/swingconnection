@@ -13,7 +13,7 @@ zuletzt aktualisiert am 12.02.2023
 Die Winter-Kursrunde läuft vom **13.02.2023** bis **24.03.2023**. Mehr Informationen zu den Kursen und den Link zur Anmeldung erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
 
 ### Swing Brunch
-Der nächste Swing Brunch findet am **04.02.2023** von 11:00 bis 14:00 Uhr in unserem Tanzstudio Calloway statt. Am **18.03.2023** organisieren wir zum Start der neuen Kursrunde ein Swing Brunch mit anschließendem Tag der offenen Tür und Schnupperkursen.
+Am **18.03.2023** organisieren wir zum Start der neuen Kursrunde ein Swing Brunch mit anschließendem Tag der offenen Tür und Schnupperkursen.
 
 ### Tag der offenen Tür
 Der nächste Tag der offenen Tür findet am **18.03.2023** am Nachmittag statt. Die Uhrzeit wird noch bekannt gegeben.
