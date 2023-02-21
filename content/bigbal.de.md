@@ -24,7 +24,7 @@ Alle Kurse werden als Switch-Kurse unterrichtet. Es wird also möglich sein, je 
 
 **Level 2 – Advanced (Sa + So)**: Du tanzt seit mehr als 3 Jahren intensiv Balboa und besuchst fast wöchentlich Socials? Deine Basics sitzen astrein und neue Bewegungen und Schritte kannst du zügig darin einbauen? Wenn die Lindy-Tänzer hecheln, wird dein Balboa-Motor erstmal angeschmissen und auch bei 230 bpm weißt du genau, was du machst? Hol dir bei Mel & Jo noch mehr von dem Spaß!
 
-**Anmerkung**: Level 1 und 2 unterscheiden sich inhaltlich. Eine Anmeldung für beide Level ist möglich (FullPass), wenn die Voraussetzungen erfüllt sind. Zum Beispiel kann in dem einen Level gefolgt und in dem anderen geführt werden (bei der Anmeldung im Kommentarfeld angeben).
+**Anmerkung**: Level 1 und 2 unterscheiden sich inhaltlich. Eine Anmeldung für beide Level ist möglich (FullPass), wenn die Voraussetzungen erfüllt sind. 
 
 ### Teachers
 
