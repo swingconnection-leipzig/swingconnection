@@ -20,11 +20,11 @@ All courses will be taught as switch courses. So it will be possible to practice
 ### Level
 **Level 0 - Beginner (Sat + Sun)**: You've never danced Balboa before, or you've taken a Balboa course at some point, but you need a thorough refresher. On two days you will learn the basics.
 
-**Level 1 - Intermediate (Sun)**: You know the basic steps (Uphold, Downhold, Out&Ins, Tossout), have been dancing Balboa non-stop for about 1 year, also at Socials and parties. Now you want more! In this level you learn a lot, which builds on your basics. Even if you have been swing dancing for 3 or 4 years, there is still something to learn!
+**Level 1 - Intermediate (Sat + Sun)**: You know the basic steps (Uphold, Downhold, Out&Ins, Tossout), have been dancing Balboa non-stop for about 1 year, also at Socials and parties. Now you want more! In this level you learn a lot, which builds on your basics. Even if you have been swing dancing for 3 or 4 years, there is still something to learn!
 
-**Level 2 - Advanced (Sa)**: You have been dancing Balboa intensively for more than 3 years and attend socials almost weekly? Your basics are spot on and you can quickly incorporate new moves and steps? When the Lindy dancers are panting, your Balboa engine is fired up and even at 230 bpm you know exactly what you're doing? Get more of the fun with Mel&Jo!
+**Level 2 - Advanced (Sat + Sun)**: You have been dancing Balboa intensively for more than 3 years and attend socials almost weekly? Your basics are spot on and you can quickly incorporate new moves and steps? When the Lindy dancers are panting, your Balboa engine is fired up and even at 230 bpm you know exactly what you're doing? Get more of the fun with Mel&Jo!
 
-**Note 1**: Level 1 and 2 differ in content. It is possible to register for both levels (Full Pass) if the prerequisites are met. For example, you can follow in one level and lead in the other (specify in the comments field when registering).
+**Note**: Level 1 and 2 differ in content. It is possible to register for both levels (Full Pass) if the prerequisites are met.
 
 
 ### Teachers
