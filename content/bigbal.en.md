@@ -24,7 +24,7 @@ All courses will be taught as switch courses. So it will be possible to practice
 
 **Level 2 - Advanced (Sat + Sun)**: You have been dancing Balboa intensively for more than 3 years and attend socials almost weekly? Your basics are spot on and you can quickly incorporate new moves and steps? When the Lindy dancers are panting, your Balboa engine is fired up and even at 230 bpm you know exactly what you're doing? Get more of the fun with Mel&Jo!
 
-**Note**: Level 1 and 2 differ in content. It is possible to register for both levels (Full Pass) if the prerequisites are met. For example, you can follow in one level and lead in the other (specify in the comments field when registering).
+**Note**: Level 1 and 2 differ in content. It is possible to register for both levels (Full Pass) if the prerequisites are met.
 
 
 ### Teachers
