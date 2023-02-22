@@ -23,7 +23,7 @@ Am **26.02.2023** findet von 15:00 bis 18:00 Uhr eine Swing Tea Time im Calloway
 
 ![Swing Brunch](../slider_swing_brunch.png)
 
-Der nächste Swing Brunch findet am **04.02.2023** von 11:00 bis 14:00 Uhr in unserem Tanzstudio Calloway statt. Am **18.03.2023** organisieren wir zum Start der neuen Kursrunde ein Swing Brunch mit anschließendem Tag der offenen Tür und Schnupperkursen.
+Am **18.03.2023** organisieren wir zum Start der neuen Kursrunde ein Swing Brunch mit anschließendem Tag der offenen Tür und Schnupperkursen.
 
 ### Tag der offenen Tür
 
