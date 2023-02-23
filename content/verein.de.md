@@ -41,7 +41,6 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - Ariane ([E-Mail](mailto:ariane@swingconnection-leipzig.com))
 - Catze ([E-Mail](mailto:catze@swingconnection-leipzig.com))
 - Ella ([E-Mail](mailto:ella@swingconnection-leipzig.com))
-- Helen ([E-Mail](mailto:helen@swingconnection-leipzig.com))
 - Henning ([E-Mail](mailto:henning@swingconnection-leipzig.com))
 - Jona ([E-Mail](mailto:jona@swingconnection-leipzig.com))
 - Katha ([E-Mail](mailto:katha@swingconnection-leipzig.com))
@@ -54,7 +53,7 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - Sima* ([E-Mail](mailto:sima@swingconnection-leipzig.com))
 - Sophie ([E-Mail](mailto:sophie@swingconnection-leipzig.com))
 - Steffen ([E-Mail](mailto:steffen@swingconnection-leipzig.com))
-- Thanh Ha ([E-Mail](mailto:thanhha@swingconnection-leipzig.com)) 
+- Thanh Ha ([E-Mail](mailto:thanh-ha@swingconnection-leipzig.com)) 
 
 #### Safer Space Team
 - Leitung: Ella ([E-Mail](mailto:ella@swingconnection-leipzig.com)) und Jona ([E-Mail](mailto:jona@swingconnection-leipzig.com))
