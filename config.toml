@@ -181,7 +181,7 @@ languageName = "German"
 
 # Options to make hugo output files
 [outputs]
-  home = ["JSON"]
+  home = ["HTML", "JSON"]
 
 # Language config
 [languages]
