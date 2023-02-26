@@ -20,11 +20,11 @@ Alle Kurse werden als Switch-Kurse unterrichtet. Es wird also möglich sein, je 
 ### Level
 **Level 0 – Einsteiger (Sa + So)**: Du hast noch nie Balboa getanzt, oder hattest irgendwann mal einen Balboakurs gemacht, aber du brauchst mal eine gründliche Auffrischung. An zwei Tagen lernst du die Basics.
 
-**Level 1 – Intermediate (So)**: Du kannst die Grundschritte (Uphold, Downhold, Out&Ins, Tossout), tanzt seit ca. 1 Jahr Balboa non-stop auch auf Swingerparties. Jetzt willst du mehr! In diesem Level lernst du sehr viel, was auf deine Basics aufsetzt. Auch wenn du schon 3 oder 4 Jahre Swing tanzt, gibt es hier immer noch etwas zu lernen!
+**Level 1 – Intermediate (Sa + So)**: Du kannst die Grundschritte (Uphold, Downhold, Out&Ins, Tossout), tanzt seit ca. 1 Jahr Balboa non-stop auch auf Swingerparties. Jetzt willst du mehr! In diesem Level lernst du sehr viel, was auf deine Basics aufsetzt. Auch wenn du schon 3 oder 4 Jahre Swing tanzt, gibt es hier immer noch etwas zu lernen!
 
-**Level 2 – Advanced (Sa)**: Du tanzt seit mehr als 3 Jahren intensiv Balboa und besuchst fast wöchentlich Socials? Deine Basics sitzen astrein und neue Bewegungen und Schritte kannst du zügig darin einbauen? Wenn die Lindy-Tänzer hecheln, wird dein Balboa-Motor erstmal angeschmissen und auch bei 230 bpm weißt du genau, was du machst? Hol dir bei Mel & Jo noch mehr von dem Spaß!
+**Level 2 – Advanced (Sa + So)**: Du tanzt seit mehr als 3 Jahren intensiv Balboa und besuchst fast wöchentlich Socials? Deine Basics sitzen astrein und neue Bewegungen und Schritte kannst du zügig darin einbauen? Wenn die Lindy-Tänzer hecheln, wird dein Balboa-Motor erstmal angeschmissen und auch bei 230 bpm weißt du genau, was du machst? Hol dir bei Mel & Jo noch mehr von dem Spaß!
 
-**Anmerkung 1**: Level 1 und 2 unterscheiden sich inhaltlich. Eine Anmeldung für beide Level ist möglich (FullPass), wenn die Voraussetzungen erfüllt sind. Zum Beispiel kann in dem einen Level gefolgt und in dem anderen geführt werden (bei der Anmeldung im Kommentarfeld angeben).
+**Anmerkung**: Level 1 und 2 unterscheiden sich inhaltlich. Eine Anmeldung für beide Level ist möglich (FullPass), wenn die Voraussetzungen erfüllt sind. 
 
 ### Teachers
 
