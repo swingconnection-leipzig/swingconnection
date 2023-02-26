@@ -179,6 +179,9 @@ languageName = "German"
 	# Windows v8-10 tile color
     tileColor = "#da532c"
 
+# Options to make hugo output files
+[outputs]
+  home = ["HTML", "JSON"]
 
 # Language config
 [languages]
