@@ -16,7 +16,7 @@ Die Winter-Kursrunde läuft vom **13.02.2023** bis **24.03.2023**. Mehr Informat
 
 ![Swing Brunch](../slider_swing_brunch.png)
 
-Am **18.03.2023** organisieren wir zum Start der neuen Kursrunde ein Swing Brunch mit anschließendem Tag der offenen Tür und Schnupperkursen.
+Am **18.03.2023** organisieren wir zum Start der neuen Kursrunde ein Swing Brunch mit anschließendem Tag der offenen Tür und Schnupperkursen. Los geht es ab 11 Uhr, Direkt im Anschluss findet der Tag der offenen Tür statt.
 
 ### Tag der offenen Tür
 
