@@ -4,20 +4,13 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 21.02.2023
+zuletzt aktualisiert am 27.02.2023
 
 ### Termine Tanzkurse
 
 ![Kursrunde](../slider_kursrunde.jpeg)
 
 Die Winter-Kursrunde läuft vom **13.02.2023** bis **24.03.2023**. Mehr Informationen zu den Kursen und den Link zur Anmeldung erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
-
-### Tea Dance - 3 o'clock jump
-
-![Tea Dance](../slider_tea_dance_three_oclock.png)
-
-Am **26.02.2023** findet von 15:00 bis 18:00 Uhr eine Swing Tea Time im Calloway statt. 
-
 
 ### Swing Brunch
 
