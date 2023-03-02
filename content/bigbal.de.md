@@ -51,4 +51,7 @@ SwingConnection Leipzig e.V., Dufourstraße 8, 04107 Leipzig
 
 ### Anmeldung
 Über unser Kursbuchungsportal könnt ihr euch zum Big Bal Theory Workshop anmelden:
-**[Zur Anmeldung](https://scl.swinggeeks.de/BBT2023/)**
+**[Zur Anmeldung](https://scl.swinggeeks.de/BBT2023/)**  
+
+##### Danke
+Wir möchten uns bei [SwingPlanIt](https://www.swingplanit.com/) dafür bedanken, dass wir unser Event dort bewerben dürfen: https://www.swingplanit.com/event/big-bal-theory
