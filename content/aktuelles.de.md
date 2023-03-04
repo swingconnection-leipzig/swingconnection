@@ -4,7 +4,7 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 21.02.2023
+zuletzt aktualisiert am 27.02.2023
 
 ### Termine Tanzkurse
 
@@ -12,18 +12,11 @@ zuletzt aktualisiert am 21.02.2023
 
 Die Winter-Kursrunde läuft vom **13.02.2023** bis **24.03.2023**. Mehr Informationen zu den Kursen und den Link zur Anmeldung erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
 
-### Tea Dance - 3 o'clock jump
-
-![Tea Dance](../slider_tea_dance_three_oclock.png)
-
-Am **26.02.2023** findet von 15:00 bis 18:00 Uhr eine Swing Tea Time im Calloway statt. 
-
-
 ### Swing Brunch
 
 ![Swing Brunch](../slider_swing_brunch.png)
 
-Am **18.03.2023** organisieren wir zum Start der neuen Kursrunde ein Swing Brunch mit anschließendem Tag der offenen Tür und Schnupperkursen.
+Am **18.03.2023** organisieren wir zum Start der neuen Kursrunde ein Swing Brunch mit anschließendem Tag der offenen Tür und Schnupperkursen. Los geht es ab 11 Uhr. Direkt im Anschluss findet der Tag der offenen Tür statt. Getränke sind gegen kleines Geld an der Bar vorhanden. Bringt für das gemeinsame Buffet aber gerne Speisen oder Naschereien mit.
 
 ### Tag der offenen Tür
 
@@ -47,11 +40,10 @@ Unser schönes Spring Camp findet dieses Jahr vom **15.06.2023 bis 18.06.2023** 
 
 ![Minor Swing](../slider_minor_swing.png)
 
-Seit Oktober findet unser Minor Swing wieder jeden Mittwoch ab 19:30 Uhr im Noels Ballroom statt.
+Jeden Mittwoch ab 19:30 Uhr findet unser wöchentlicher Social im Noels Ballroom statt.
 
 ### Swing Kalender für Leipzig
 Im neuen, vereinsunabhängigen Kalender [**"Swing in Leipzig"**](https://kalender.digital/0c529f4b4448ea55b992) findet ihr eine Übersicht *aller* Swing Veranstaltungen in Leipzig (Kurse, Workshops, Tanzabende, Social Dances, Konzerte).
 
 ### Relaunch der Internetseite
-Unsere alte Internetseite war in die Jahre gekommen. Daher haben wir uns für einen Relaunch entschieden. Die neue Seite ist etwas übersichtlicher und schlanker geworden. Falls ihr Anregungen habt, lasst es uns gerne wissen (website@swingconnection-leipzig.com).
-
+Unsere alte Internetseite war in die Jahre gekommen. Daher haben wir uns für einen Relaunch entschieden. Falls ihr Anregungen zur neuen Seite habt, lasst es uns gerne wissen (website@swingconnection-leipzig.com).

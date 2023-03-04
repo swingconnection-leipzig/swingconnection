@@ -20,7 +20,7 @@ Alle Kurse werden als Switch-Kurse unterrichtet. Es wird also möglich sein, je 
 ### Level
 **Level 0 – Einsteiger (Sa + So)**: Du hast noch nie Balboa getanzt, oder hattest irgendwann mal einen Balboakurs gemacht, aber du brauchst mal eine gründliche Auffrischung. An zwei Tagen lernst du die Basics.
 
-**Level 1 – Intermediate (Sa + So)**: Du kannst die Grundschritte (Uphold, Downhold, Out&Ins, Tossout), tanzt seit ca. 1 Jahr Balboa non-stop auch auf Swingerparties. Jetzt willst du mehr! In diesem Level lernst du sehr viel, was auf deine Basics aufsetzt. Auch wenn du schon 3 oder 4 Jahre Swing tanzt, gibt es hier immer noch etwas zu lernen!
+**Level 1 – Intermediate (Sa + So)**: Du kannst die Grundschritte (Uphold, Downhold, Out&Ins, Tossout), tanzt seit ca. 1 Jahr Balboa non-stop auch auf Swingparties. Jetzt willst du mehr! In diesem Level lernst du sehr viel, was auf deine Basics aufsetzt. Auch wenn du schon 3 oder 4 Jahre Swing tanzt, gibt es hier immer noch etwas zu lernen!
 
 **Level 2 – Advanced (Sa + So)**: Du tanzt seit mehr als 3 Jahren intensiv Balboa und besuchst fast wöchentlich Socials? Deine Basics sitzen astrein und neue Bewegungen und Schritte kannst du zügig darin einbauen? Wenn die Lindy-Tänzer hecheln, wird dein Balboa-Motor erstmal angeschmissen und auch bei 230 bpm weißt du genau, was du machst? Hol dir bei Mel & Jo noch mehr von dem Spaß!
 
@@ -51,4 +51,7 @@ SwingConnection Leipzig e.V., Dufourstraße 8, 04107 Leipzig
 
 ### Anmeldung
 Über unser Kursbuchungsportal könnt ihr euch zum Big Bal Theory Workshop anmelden:
-**[Zur Anmeldung](https://scl.swinggeeks.de/BBT2023/)**
+**[Zur Anmeldung](https://scl.swinggeeks.de/BBT2023/)**  
+
+##### Danke
+Wir möchten uns bei [SwingPlanIt](https://www.swingplanit.com/) dafür bedanken, dass wir unser Event dort bewerben dürfen: https://www.swingplanit.com/event/big-bal-theory
