@@ -52,6 +52,10 @@ Ermira und Theresa unterrichten schon seit längerem in Dresden und freuen sich 
 ### Taster “Bal meets Shag”
 Jo & Mel Calanglang geben eine Schnupperstunde, die von Ed & Inez Thompson inspiriert ist und zeigt, wie sie Shag in ihren Balboa-Tanz integriert haben. Kommt gerne zum Taster vorbei, um euch da bereits auf den gemeinsamen Abend einzustimmen.
 
+### Zeitplan
+
+![Schedule](../BigBal2023_schedule.jpg)
+
 ### Location
 SwingConnection Leipzig e.V., Dufourstraße 8, 04107 Leipzig
 
