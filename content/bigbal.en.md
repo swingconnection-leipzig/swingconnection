@@ -44,7 +44,7 @@ Their aspirations to be balboa ambassadors stems from their drive to continuousl
 ### Parties
 3 Parties, 3 Bands
 
-### Taster Saturday: “Bal meets Shag”
+### Taster “Bal meets Shag”
 Jo & Mel Calanglang will give a taster session that is inspired by Ed & Inez Thompson and how they integrated shag into their balboa dancing. Join the fun as you learn how to mix shag and balboa just like this legendary couple.
 
 ### Location

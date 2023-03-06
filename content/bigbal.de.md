@@ -49,7 +49,7 @@ Ermira und Theresa unterrichten schon seit längerem in Dresden und freuen sich 
 ### Parties
 3 Parties, 3 Bands
 
-### Taster Samstag: “Bal meets Shag”
+### Taster “Bal meets Shag”
 Jo & Mel Calanglang geben eine Schnupperstunde, die von Ed & Inez Thompson inspiriert ist und zeigt, wie sie Shag in ihren Balboa-Tanz integriert haben. Kommt gerne zum Taster vorbei, um euch da bereits auf den gemeinsamen Abend einzustimmen.
 
 ### Location
