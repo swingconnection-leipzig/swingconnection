@@ -40,6 +40,12 @@ Zurzeit tanzen sie bei verschiedenen Veranstaltungen in Europa und den Vereinigt
 
 Ihr Bestreben, Balboa-Botschafter zu werden, rührt von ihrem Drang her, ständig zu lernen und ihre Leidenschaft und ihr Wissen über den Tanz an alle Tanzbegeisterten weiterzugeben.
 
+![Ermira, Leonora und Theresa](../bigbal_beginner_teachers.jpg)
+
+Ermira, Leonora und Theresa haben sich auf den Tanzflächen der Dresdner Swingszene kennen und wertschätzen gelernt. Während Leonora mittlerweile aus Dresden weggezogen und in Wien gelandet ist, verbindet die Drei immer noch die innige Freundschaft und eine Liebe für den Swingtanz, insbesondere für Balboa. Besonders das Switch-Tanzen ist ein elementarer Bestandteil ihrer connection im Tanz, was ein Ausdruck für das Verständnis füreinander und miteinander ist und auch eine Form des Empowerments untereinander darstellt. 
+
+Ermira und Theresa unterrichten schon seit längerem in Dresden und freuen sich darauf beim Big Bal Theory zum ersten Mal bei einem Workshop zu unterrichten. Auch Leonora bringt unzählige Teachererfahrungen mit sich, unter anderem auch vom Swingcamp Mattstedt und Big Bal Theory. Gemeinsam liegen ihnen connection im Tanz sowie Ausdruck von Individualität und Freude am Herzen. Ermira’s schallendes Lachen, Theresa’s Energie auf der Tanzfläche und Leonora’s stilbewusste Grazie sind dabei eine Garantie für einen Unterricht, der voller Spiel, Spaß und Leidenschaft sein wird.
+
 ### Parties
 3 Parties, 3 Bands
 
