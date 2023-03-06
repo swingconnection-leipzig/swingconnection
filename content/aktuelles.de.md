@@ -30,6 +30,12 @@ Der nächste Tag der offenen Tür findet am **18.03.2023** am Nachmittag statt. 
 
 Unser Balboa Workshop Big Bal Theory findet dieses Jahr vom **12.05.2023 bis 14.05.2023** statt. Mehr Informationen und den Link zur Anmeldung findet ihr auf der Seite [**Big Bal Theory 2023**]({{< ref "/bigbal" >}} "Big Bal Theory 2023").
 
+### Big Bal Theory 2023 - Beginner Track
+
+![Big Bal Theory 2023](../slider_bigbal_2023_beginner_track.png)
+
+Unser Balboa Workshop Big Bal Theory hat auch einen Beginner Track. Ihr lernt bei Ermira, Eleonora und Theresa an einem Wochenende Balboa und könnt außerdem an drei tollen Parties mit Livemusik teilnehmen. Mehr Informationen und den Link zur Anmeldung findet ihr auf der Seite [**Big Bal Theory 2023**]({{< ref "/bigbal" >}} "Big Bal Theory 2023").
+
 ### Mattstedt 2023
 
 ![Spring Camp Mattstedt 2023](../slider_mattstedt_2023.png)
