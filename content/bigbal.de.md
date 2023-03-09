@@ -40,11 +40,30 @@ Zurzeit tanzen sie bei verschiedenen Veranstaltungen in Europa und den Vereinigt
 
 Ihr Bestreben, Balboa-Botschafter zu werden, rührt von ihrem Drang her, ständig zu lernen und ihre Leidenschaft und ihr Wissen über den Tanz an alle Tanzbegeisterten weiterzugeben.
 
+![Ermira, Leonora und Theresa](../bigbal_beginner_teachers.jpg)
+
+Ermira, Leonora und Theresa haben sich auf den Tanzflächen der Dresdner Swingszene kennen und wertschätzen gelernt. Während Leonora mittlerweile aus Dresden weggezogen und in Wien gelandet ist, verbindet die Drei immer noch die innige Freundschaft und eine Liebe für den Swingtanz, insbesondere für Balboa. Besonders das Switch-Tanzen ist ein elementarer Bestandteil ihrer connection im Tanz, was ein Ausdruck für das Verständnis füreinander und miteinander ist und auch eine Form des Empowerments untereinander darstellt. 
+
+Ermira und Theresa unterrichten schon seit längerem in Dresden und freuen sich darauf beim Big Bal Theory zum ersten Mal bei einem Workshop zu unterrichten. Auch Leonora bringt unzählige Teachererfahrungen mit sich, unter anderem auch vom Swingcamp Mattstedt und Big Bal Theory. Gemeinsam liegen ihnen connection im Tanz sowie Ausdruck von Individualität und Freude am Herzen. Ermira’s schallendes Lachen, Theresa’s Energie auf der Tanzfläche und Leonora’s stilbewusste Grazie sind dabei eine Garantie für einen Unterricht, der voller Spiel, Spaß und Leidenschaft sein wird.
+
 ### Parties
 3 Parties, 3 Bands
 
-### Taster Samstag: “Bal meets Shag”
+#### Freitagsparty
+![Neighbours Nightmare](../neighbours-nightmare.jpg)
+Neighbour's Nightmare ist - wie der Name schon vermuten lässt - ist nichts für empfindliche Ohren oder schwache Nerven: Es handelt sich selbstverständlich um eine Swing-Band! Die Leipziger:innen lernten sich größtenteils in der Swingtanzszene kennen, weshalb vor allem tanzbare Songs gecovert werden. Besonders versiert sind einige Bandmitglieder auf dem Gebiet der unfreiwilligen Improvisation, was bei den Proben immer wieder für gute Stimmung sorgt. Selbst die Songs zu spielen, zu denen die Bandmitglieder normalerweise über die Tanzfläche bouncen, ist ebenso herausfordernd wie unterhaltsam. Der einzige Nachteil: Man kann nur begrenzt zur eigenen Musik tanzen. Aus diesem Grund hoffen Neighbour's Nightmare auf ein tanzwilliges Publikum und trotz allem zufriedene Nachbarn. www.neighbours-nightmare.de
+
+#### Samstagsparty
+![AppenDixie](../appendixie.jpg)
+www.appendixie.cz/en/
+
+
+### Taster am Samstag “Bal meets Shag”
 Jo & Mel Calanglang geben eine Schnupperstunde, die von Ed & Inez Thompson inspiriert ist und zeigt, wie sie Shag in ihren Balboa-Tanz integriert haben. Kommt gerne zum Taster vorbei, um euch da bereits auf den gemeinsamen Abend einzustimmen.
+
+### Zeitplan
+
+![Schedule](../BigBal2023_schedule.jpg)
 
 ### Location
 SwingConnection Leipzig e.V., Dufourstraße 8, 04107 Leipzig

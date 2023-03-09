@@ -48,5 +48,11 @@ In regelmäßigen Abständen veranstalten wir einen Swing Brunch. Laut Jahrespla
 ### Workshops
 An einzelnen Wochenenden bieten wir immer mal wieder kleine und größere Workshops an. Diese beinhalten zum Beispiel das Erlernen einer Swing-Routine, das Festigen von Basics oder das Erlernen neuer Moves. Außerdem bieten wir Wochenend-Intensivkurse für Anfänger:innen an. Die nächsten Wochenendworkshop kundigen wir unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") an.
 
+### Big Bal Theory 2023
+
+![Big Bal Theory 2023](../slider_bigbal_2023.png)
+
+Unser Balboa Workshop Big Bal Theory findet dieses Jahr vom **12.05.2023 bis 14.05.2023** statt. Mehr Informationen und den Link zur Anmeldung findet ihr auf der Seite [**Big Bal Theory 2023**]({{< ref "/bigbal" >}} "Big Bal Theory 2023").
+
 ### Auftritte und Schnupperkurse für private Veranstaltungen
 Wir bieten auch Auftritte und Schnupperkurse für private Veranstaltungen wie zum Beispiel Hochzeiten, Geburtstage und Firmenfeiern an. Schreiben Sie uns dazu gerne eine E-Mail an info@swingconnection-leipzig.com.
