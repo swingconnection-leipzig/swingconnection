@@ -22,7 +22,7 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermäßigte Preise gelten für
 ### Hinweise
 - Ihr müsst euch nicht paarweise anmelden, sondern könnt euch auch einzeln anmelden.
 
-- Die Kurse finden in unserem Tanzstudio [Calloway]({{< ref "/calloway" >}} "Calloway") in der Doufourstraße 8 statt.
+- Die Kurse finden in unserem Tanzstudio [Calloway]({{< ref "/calloway" >}} "Calloway") und mittwochs zum Teil auch im Noels Ballroom statt.
 
 - Bitte denkt daran, dass ihr den Tanzboden nicht mit Straßenschuhen, sondern nur mit Tanzschuhen oder sauberen Sportschuhen betreten dürft. Eure Schuhe könnt ihr im Eingangsbereich des Calloways wechseln.
 
