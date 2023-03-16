@@ -24,11 +24,11 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermäßigte Preise gelten für
 
 - Die Kurse finden in unserem Tanzstudio [Calloway]({{< ref "/calloway" >}} "Calloway") und mittwochs zum Teil auch im Noels Ballroom statt.
 
-- Bitte denkt daran, dass ihr den Tanzboden nicht mit Straßenschuhen, sondern nur mit Tanzschuhen oder sauberen Sportschuhen betreten dürft. Eure Schuhe könnt ihr im Eingangsbereich des Calloways wechseln.
+- Ihr dürft das Tanzparkett nicht mit Straßenschuhen, sondern nur mit Tanz- oder sauberen Sportschuhen betreten. Eure Schuhe könnt ihr im Eingangsbereich des Calloways wechseln.
 
 - Bitte kommt pünktlich zu den Kursen.
 
-- Solltet ihr mal nicht an einer Kurseinheit teilnehmen können, schreibt den entsprechenden Kursleiter:innen gerne eine kurze E-Mail. 
+- Solltet ihr nicht an einer Kurseinheit teilnehmen können, schreibt euren Kursleiter:innen gerne eine kurze E-Mail. 
 
 - Wenn ihr erkältet seid oder euch krank fühlt, bleibt bitte zu Hause. 
 
@@ -42,6 +42,6 @@ Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Dieses J
 - 19.06.-28.07.2023 (Sommer)
 - 09-10.-01.12.2023 (Herbst)
 
-Die Anmeldung öffnet erfahrungsgemäß jeweils etwa zwei Wochen vor Beginn einer neuen Kursrunde. Wir kündigen die Öffnung der Anmeldung im Vorfeld auch unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") und in unserer [Facebook-Gruppe](https://www.facebook.com/groups/swingconnection.leipzig) an.
+Die Anmeldung öffnet erfahrungsgemäß etwa zwei Wochen vor Beginn einer neuen Kursrunde. Wir kündigen die Öffnung der Anmeldung im Vorfeld auch unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") und in unserer [Facebook-Gruppe](https://www.facebook.com/groups/swingconnection.leipzig) an.
 
 In der Kursrunde im Frühling (Start 11.04.2023) werden wir wieder Basics-Kurse für Lindy Hop und Balboa anbieten.
