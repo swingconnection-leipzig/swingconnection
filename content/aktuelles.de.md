@@ -4,13 +4,13 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 27.02.2023
+zuletzt aktualisiert am 22.03.2023
 
 ### Termine Tanzkurse
 
 ![Kursrunde](../slider_kursrunde.jpeg)
 
-Die Winter-Kursrunde läuft vom **13.02.2023** bis **24.03.2023**. Mehr Informationen zu den Kursen und den Link zur Anmeldung erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
+Die Frühjahrs-Kursrunde läuft vom **10.04.2023** bis **02.06.2023**. Mehr Informationen zu den Kursen und den Link zur Anmeldung erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
 
 ### Swing Brunch
 
