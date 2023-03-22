@@ -4,7 +4,7 @@ draft: false
 slug: "tanzkurse"
 ---
 
-Die Winter-Kursrunde läuft vom **13.02.2023 bis 24.03.2023**.
+Die Frühjahrs-Kursrunde läuft vom **10.04.2023 bis 02.06.2023**.
 
 ![Wir haben wieder viele schöne Tanzkurse für euch zusammengestellt](kursplan.jpg)
 
@@ -43,5 +43,3 @@ Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Dieses J
 - 09-10.-01.12.2023 (Herbst)
 
 Die Anmeldung öffnet erfahrungsgemäß etwa zwei Wochen vor Beginn einer neuen Kursrunde. Wir kündigen die Öffnung der Anmeldung im Vorfeld auch unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") und in unserer [Facebook-Gruppe](https://www.facebook.com/groups/swingconnection.leipzig) an.
-
-In der Kursrunde im Frühling (Start 11.04.2023) werden wir wieder Basics-Kurse für Lindy Hop und Balboa anbieten.
