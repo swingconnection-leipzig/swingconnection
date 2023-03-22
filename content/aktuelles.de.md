@@ -13,12 +13,6 @@ zuletzt aktualisiert am 22.03.2023
 Die Frühjahrs-Kursrunde läuft vom **10.04.2023** bis **02.06.2023**. Mehr Informationen zu den Kursen und den Link zur Anmeldung erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
 
 
-### Tag der offenen Tür
-
-![Tag der offenen Tür](../slider_open_door.png)
-
-Der nächste Tag der offenen Tür findet am **18.03.2023** am Nachmittag statt. Die Uhrzeit wird noch bekannt gegeben.
-
 ### Big Bal Theory 2023
 
 ![Big Bal Theory 2023](../slider_bigbal_2023.png)
