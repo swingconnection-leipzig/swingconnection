@@ -12,11 +12,6 @@ zuletzt aktualisiert am 22.03.2023
 
 Die Frühjahrs-Kursrunde läuft vom **10.04.2023** bis **02.06.2023**. Mehr Informationen zu den Kursen und den Link zur Anmeldung erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
 
-### Swing Brunch
-
-![Swing Brunch](../slider_swing_brunch.png)
-
-Am **18.03.2023** organisieren wir zum Start der neuen Kursrunde ein Swing Brunch mit anschließendem Tag der offenen Tür und Schnupperkursen. Los geht es ab 11 Uhr. Direkt im Anschluss findet der Tag der offenen Tür statt. Getränke sind gegen kleines Geld an der Bar vorhanden. Bringt für das gemeinsame Buffet aber gerne Speisen oder Naschereien mit.
 
 ### Tag der offenen Tür
 
