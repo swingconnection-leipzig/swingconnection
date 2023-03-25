@@ -8,7 +8,7 @@ zuletzt aktualisiert am 22.03.2023
 
 ### Termine Tanzkurse
 
-![Kursrunde](../slider_kursrunde.jpeg)
+![Kursrunde](../slider_kursrunde.png)
 
 Die Frühjahrs-Kursrunde läuft vom **10.04.2023** bis **02.06.2023**. Mehr Informationen zu den Kursen und den Link zur Anmeldung erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
 
