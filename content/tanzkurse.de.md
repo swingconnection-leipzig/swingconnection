@@ -17,7 +17,7 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermäßigte Preise gelten für
 
 ### Anmeldung
 Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden:  
-**[Zur Anmeldung](https://scl.swinggeeks.de/SCL2023-02/)**
+**[Zur Anmeldung](https://scl.swinggeeks.de/SCL2023-04/)**
 
 ### Hinweise
 - Ihr müsst euch nicht paarweise anmelden, sondern könnt euch auch einzeln anmelden.
