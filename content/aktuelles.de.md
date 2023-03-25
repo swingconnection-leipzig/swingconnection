@@ -32,9 +32,6 @@ Unser Balboa Workshop Big Bal Theory hat auch einen Beginner Track. Ihr lernt be
 Unser schönes Spring Camp findet dieses Jahr vom **15.06.2023 bis 18.06.2023** statt. Es erwartet euch ein tolles Wochenende voller Entspannung, Tanz und Swingmusik auf dem wunderschönen Mühlenhof Mattstedt in Thüringen. Mehr Informationen und den Link zur Anmeldung findet ihr auf der Seite [**Spring Camp Mattstedt**]({{< ref "/mattstedt" >}} "Mattstedt").
 
 ### Minor Swing
-
-![Minor Swing](../slider_minor_swing.png)
-
 Jeden Mittwoch ab 19:30 Uhr findet unser wöchentlicher Social im Noels Ballroom statt.
 
 ### Swing Kalender für Leipzig
