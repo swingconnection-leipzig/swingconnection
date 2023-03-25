@@ -6,7 +6,7 @@ slug: "tanzkurse"
 
 Die Frühjahrs-Kursrunde läuft vom **10.04.2023 bis 02.06.2023**.
 
-![Wir haben wieder viele schöne Tanzkurse für euch zusammengestellt](kursplan.jpg)
+![Wir haben wieder viele schöne Tanzkurse für euch zusammengestellt](kursplan.png)
 
 ### Preise
 - Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
