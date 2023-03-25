@@ -4,7 +4,7 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 22.03.2023
+zuletzt aktualisiert am 25.03.2023
 
 ### Termine Tanzkurse
 
