@@ -4,25 +4,14 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 27.02.2023
+zuletzt aktualisiert am 25.03.2023
 
 ### Termine Tanzkurse
 
-![Kursrunde](../slider_kursrunde.jpeg)
+![Kursrunde](../slider_kursrunde.png)
 
-Die Winter-Kursrunde läuft vom **13.02.2023** bis **24.03.2023**. Mehr Informationen zu den Kursen und den Link zur Anmeldung erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
+Die Frühjahrs-Kursrunde läuft vom **10.04.2023** bis **02.06.2023**. Mehr Informationen zu den Kursen und den Link zur Anmeldung erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
 
-### Swing Brunch
-
-![Swing Brunch](../slider_swing_brunch.png)
-
-Am **18.03.2023** organisieren wir zum Start der neuen Kursrunde ein Swing Brunch mit anschließendem Tag der offenen Tür und Schnupperkursen. Los geht es ab 11 Uhr. Direkt im Anschluss findet der Tag der offenen Tür statt. Getränke sind gegen kleines Geld an der Bar vorhanden. Bringt für das gemeinsame Buffet aber gerne Speisen oder Naschereien mit.
-
-### Tag der offenen Tür
-
-![Tag der offenen Tür](../slider_open_door.png)
-
-Der nächste Tag der offenen Tür findet am **18.03.2023** am Nachmittag statt. Die Uhrzeit wird noch bekannt gegeben.
 
 ### Big Bal Theory 2023
 
@@ -43,9 +32,6 @@ Unser Balboa Workshop Big Bal Theory hat auch einen Beginner Track. Ihr lernt be
 Unser schönes Spring Camp findet dieses Jahr vom **15.06.2023 bis 18.06.2023** statt. Es erwartet euch ein tolles Wochenende voller Entspannung, Tanz und Swingmusik auf dem wunderschönen Mühlenhof Mattstedt in Thüringen. Mehr Informationen und den Link zur Anmeldung findet ihr auf der Seite [**Spring Camp Mattstedt**]({{< ref "/mattstedt" >}} "Mattstedt").
 
 ### Minor Swing
-
-![Minor Swing](../slider_minor_swing.png)
-
 Jeden Mittwoch ab 19:30 Uhr findet unser wöchentlicher Social im Noels Ballroom statt.
 
 ### Swing Kalender für Leipzig
