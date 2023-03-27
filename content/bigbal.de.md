@@ -59,6 +59,8 @@ Neighbour's Nightmare ist - wie der Name schon vermuten lässt - nichts für emp
 ![AppenDixie](../appendixie.jpg)
 www.appendixie.cz/en/
 
+#### Sonntagsparty
+www.swingtime-corporation.de/the-band-next/
 
 ### Taster am Samstag “Bal meets Shag”
 Jo & Mel Calanglang geben eine Schnupperstunde, die von Ed & Inez Thompson inspiriert ist und zeigt, wie sie Shag in ihren Balboa-Tanz integriert haben. Kommt gerne zum Taster vorbei, um euch da bereits auf den gemeinsamen Abend einzustimmen.

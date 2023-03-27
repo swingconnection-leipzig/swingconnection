@@ -53,6 +53,9 @@ www.neighbours-nightmare.de
 ![AppenDixie](../../appendixie.jpg)
 www.appendixie.cz/en/
 
+#### Sunday party band
+www.swingtime-corporation.de/the-band-next/
+
 ### Taster “Bal meets Shag”
 Jo & Mel Calanglang will give a taster session that is inspired by Ed & Inez Thompson and how they integrated shag into their balboa dancing. Join the fun as you learn how to mix shag and balboa just like this legendary couple.
 
