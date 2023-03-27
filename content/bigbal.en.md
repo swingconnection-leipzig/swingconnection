@@ -45,6 +45,14 @@ Their aspirations to be balboa ambassadors stems from their drive to continuousl
 ### Parties
 3 Parties, 3 Bands
 
+#### Friday party band
+![Neighbours Nightmare](../../neighbours-nightmare.jpg)
+www.neighbours-nightmare.de
+
+#### Saturday party band
+![AppenDixie](../../appendixie.jpg)
+www.appendixie.cz/en/
+
 ### Taster “Bal meets Shag”
 Jo & Mel Calanglang will give a taster session that is inspired by Ed & Inez Thompson and how they integrated shag into their balboa dancing. Join the fun as you learn how to mix shag and balboa just like this legendary couple.
 
