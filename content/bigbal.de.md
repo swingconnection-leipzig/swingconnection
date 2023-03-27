@@ -26,6 +26,8 @@ Alle Kurse werden als Switch-Kurse unterrichtet. Es wird also möglich sein, je 
 
 **Anmerkung**: Level 1 und 2 unterscheiden sich inhaltlich. Eine Anmeldung für beide Level ist möglich (FullPass), wenn die Voraussetzungen erfüllt sind. 
 
+:warning: **Für die Level Intermediate und Advanced gibt es nur noch Wartelistenplätze!** :warning: 
+
 ### Teachers
 
 ![Mel & Jo](../mel_jo.jpg)
@@ -71,6 +73,8 @@ SwingConnection Leipzig e.V., Dufourstraße 8, 04107 Leipzig
 ### Anmeldung
 Über unser Kursbuchungsportal könnt ihr euch zum Big Bal Theory Workshop anmelden:
 **[Zur Anmeldung](https://scl.swinggeeks.de/BBT2023/)**  
+
+:warning: **Für die Level Intermediate und Advanced gibt es nur noch Wartelistenplätze!** :warning: 
 
 ##### Danke
 Wir möchten uns bei [SwingPlanIt](https://www.swingplanit.com/) dafür bedanken, dass wir unser Event dort bewerben dürfen: https://www.swingplanit.com/event/big-bal-theory
