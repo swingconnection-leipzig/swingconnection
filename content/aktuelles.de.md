@@ -12,6 +12,17 @@ zuletzt aktualisiert am 25.03.2023
 
 Die Frühjahrs-Kursrunde läuft vom **10.04.2023** bis **02.06.2023**. Mehr Informationen zu den Kursen und den Link zur Anmeldung erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
 
+### Three o'clock Jump
+
+![Three o'clock Jump](../slider_three_oclock.png)
+
+Am Sonntag **02.04.2023** laden wir wieder zum 3 o'clock Jump von 15:00 bis 18:00 Uhr im Calloway ein.
+
+### Swing-Tanzsalon am Musikpavillon
+
+![Swing am Pavillon](../slider_pavillon.png)
+
+Am **21.05.2023** findet von 14:15 bis 18:00 Uhr der nächste Swing-Tanzsalon am Musikpavillon im Clara-Zetkin-Park statt. Wir tanzen zur Live-Musik vom Historical Swing Dance Orchestra. Außerdem bieten wir einen Schnupperkurs and und führen eine kleine Choreografie auf.
 
 ### Big Bal Theory 2023
 
