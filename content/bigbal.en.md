@@ -26,6 +26,7 @@ All courses will be taught as switch courses. So it will be possible to practice
 
 **Note**: Level 1 and 2 differ in content. It is possible to register for both levels (Full Pass) if the prerequisites are met.
 
+:warning: **For the Intermediate and Advanced levels there are only places on the waiting list!** :warning: 
 
 ### Teachers
 
@@ -44,6 +45,17 @@ Their aspirations to be balboa ambassadors stems from their drive to continuousl
 ### Parties
 3 Parties, 3 Bands
 
+#### Friday party band
+![Neighbours Nightmare](../../neighbours-nightmare.jpg)
+www.neighbours-nightmare.de
+
+#### Saturday party band
+![AppenDixie](../../appendixie.jpg)
+www.appendixie.cz/en/
+
+#### Sunday party band
+www.swingtime-corporation.de/the-band-next/
+
 ### Taster “Bal meets Shag”
 Jo & Mel Calanglang will give a taster session that is inspired by Ed & Inez Thompson and how they integrated shag into their balboa dancing. Join the fun as you learn how to mix shag and balboa just like this legendary couple.
 
@@ -54,9 +66,13 @@ Jo & Mel Calanglang will give a taster session that is inspired by Ed & Inez Tho
 ### Location
 SwingConnection Leipzig e.V., Dufourstraße 8, 04107 Leipzig
 
+Sunday Party: Horns Erben, Arndstraße 33, 04275 Leipzig
+
 ### Anmeldung
 You can register for the Big Bal Theory Workshop via our course booking portal:
 **[Zur Anmeldung](https://scl.swinggeeks.de/BBT2023/)**
+
+:warning: **For the Intermediate and Advanced levels there are only places on the waiting list!** :warning: 
 
 ##### Thanks
 We would like to thank [SwingPlanIt](https://www.swingplanit.com/) for allowing us to promote our event there: https://www.swingplanit.com/event/big-bal-theory
