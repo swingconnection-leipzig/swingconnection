@@ -26,6 +26,8 @@ Alle Kurse werden als Switch-Kurse unterrichtet. Es wird also möglich sein, je 
 
 **Anmerkung**: Level 1 und 2 unterscheiden sich inhaltlich. Eine Anmeldung für beide Level ist möglich (FullPass), wenn die Voraussetzungen erfüllt sind. 
 
+:warning: **Für die Level Intermediate und Advanced gibt es nur noch Wartelistenplätze!** :warning: 
+
 ### Teachers
 
 ![Mel & Jo](../mel_jo.jpg)
@@ -51,12 +53,14 @@ Ermira und Theresa unterrichten schon seit längerem in Dresden und freuen sich 
 
 #### Freitagsparty
 ![Neighbours Nightmare](../neighbours-nightmare.jpg)
-Neighbour's Nightmare ist - wie der Name schon vermuten lässt - ist nichts für empfindliche Ohren oder schwache Nerven: Es handelt sich selbstverständlich um eine Swing-Band! Die Leipziger:innen lernten sich größtenteils in der Swingtanzszene kennen, weshalb vor allem tanzbare Songs gecovert werden. Besonders versiert sind einige Bandmitglieder auf dem Gebiet der unfreiwilligen Improvisation, was bei den Proben immer wieder für gute Stimmung sorgt. Selbst die Songs zu spielen, zu denen die Bandmitglieder normalerweise über die Tanzfläche bouncen, ist ebenso herausfordernd wie unterhaltsam. Der einzige Nachteil: Man kann nur begrenzt zur eigenen Musik tanzen. Aus diesem Grund hoffen Neighbour's Nightmare auf ein tanzwilliges Publikum und trotz allem zufriedene Nachbarn. www.neighbours-nightmare.de
+Neighbour's Nightmare ist - wie der Name schon vermuten lässt - nichts für empfindliche Ohren oder schwache Nerven: Es handelt sich selbstverständlich um eine Swing-Band! Die Leipziger:innen lernten sich größtenteils in der Swingtanzszene kennen, weshalb vor allem tanzbare Songs gecovert werden. Besonders versiert sind einige Bandmitglieder auf dem Gebiet der unfreiwilligen Improvisation, was bei den Proben immer wieder für gute Stimmung sorgt. Selbst die Songs zu spielen, zu denen die Bandmitglieder normalerweise über die Tanzfläche bouncen, ist ebenso herausfordernd wie unterhaltsam. Der einzige Nachteil: Man kann nur begrenzt zur eigenen Musik tanzen. Aus diesem Grund hoffen Neighbour's Nightmare auf ein tanzwilliges Publikum und trotz allem zufriedene Nachbarn. www.neighbours-nightmare.de
 
 #### Samstagsparty
 ![AppenDixie](../appendixie.jpg)
 www.appendixie.cz/en/
 
+#### Sonntagsparty
+www.swingtime-corporation.de/the-band-next/
 
 ### Taster am Samstag “Bal meets Shag”
 Jo & Mel Calanglang geben eine Schnupperstunde, die von Ed & Inez Thompson inspiriert ist und zeigt, wie sie Shag in ihren Balboa-Tanz integriert haben. Kommt gerne zum Taster vorbei, um euch da bereits auf den gemeinsamen Abend einzustimmen.
@@ -68,9 +72,13 @@ Jo & Mel Calanglang geben eine Schnupperstunde, die von Ed & Inez Thompson inspi
 ### Location
 SwingConnection Leipzig e.V., Dufourstraße 8, 04107 Leipzig
 
+Sonntagsparty: Horns Erben, Arndstraße 33, 04275 Leipzig
+
 ### Anmeldung
 Über unser Kursbuchungsportal könnt ihr euch zum Big Bal Theory Workshop anmelden:
 **[Zur Anmeldung](https://scl.swinggeeks.de/BBT2023/)**  
+
+:warning: **Für die Level Intermediate und Advanced gibt es nur noch Wartelistenplätze!** :warning: 
 
 ##### Danke
 Wir möchten uns bei [SwingPlanIt](https://www.swingplanit.com/) dafür bedanken, dass wir unser Event dort bewerben dürfen: https://www.swingplanit.com/event/big-bal-theory
