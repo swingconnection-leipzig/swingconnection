@@ -72,6 +72,8 @@ Jo & Mel Calanglang geben eine Schnupperstunde, die von Ed & Inez Thompson inspi
 ### Location
 SwingConnection Leipzig e.V., Dufourstraße 8, 04107 Leipzig
 
+Sonntagsparty: Horns Erben, Arndstraße 33, 04275 Leipzig
+
 ### Anmeldung
 Über unser Kursbuchungsportal könnt ihr euch zum Big Bal Theory Workshop anmelden:
 **[Zur Anmeldung](https://scl.swinggeeks.de/BBT2023/)**  

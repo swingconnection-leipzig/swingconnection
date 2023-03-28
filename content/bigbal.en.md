@@ -66,6 +66,8 @@ Jo & Mel Calanglang will give a taster session that is inspired by Ed & Inez Tho
 ### Location
 SwingConnection Leipzig e.V., Dufourstraße 8, 04107 Leipzig
 
+Sunday Party: Horns Erben, Arndstraße 33, 04275 Leipzig
+
 ### Anmeldung
 You can register for the Big Bal Theory Workshop via our course booking portal:
 **[Zur Anmeldung](https://scl.swinggeeks.de/BBT2023/)**
