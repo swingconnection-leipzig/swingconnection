@@ -12,12 +12,6 @@ zuletzt aktualisiert am 29.03.2023
 
 Die Frühjahrs-Kursrunde läuft vom **10.04.2023** bis **02.06.2023**. Mehr Informationen zu den Kursen und den Link zur Anmeldung erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
 
-### Three o'clock Jump
-
-![Three o'clock Jump](../slider_three_oclock.png)
-
-Am Sonntag **02.04.2023** laden wir wieder zum 3 o'clock Jump von 15:00 bis 18:00 Uhr im Calloway ein.
-
 ### Swing-Tanzsalon am Musikpavillon
 
 ![Swing am Pavillon](../slider_pavillon.png)
