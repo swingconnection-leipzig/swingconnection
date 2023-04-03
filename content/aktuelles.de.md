@@ -41,6 +41,3 @@ Jeden Mittwoch ab 19:30 Uhr findet unser wöchentlicher Social im Noels Ballroom
 
 ### Swing Kalender für Leipzig
 Im neuen, vereinsunabhängigen Kalender [**"Swing in Leipzig"**](https://kalender.digital/0c529f4b4448ea55b992) findet ihr eine Übersicht *aller* Swing Veranstaltungen in Leipzig (Kurse, Workshops, Tanzabende, Social Dances, Konzerte).
-
-### Relaunch der Internetseite
-Unsere alte Internetseite war in die Jahre gekommen. Daher haben wir uns für einen Relaunch entschieden. Falls ihr Anregungen zur neuen Seite habt, lasst es uns gerne wissen (website@swingconnection-leipzig.com).
