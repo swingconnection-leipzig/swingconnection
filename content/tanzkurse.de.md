@@ -26,6 +26,8 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermäßigte Preise gelten für
 
 - Ihr dürft das Tanzparkett nicht mit Straßenschuhen, sondern nur mit Tanz- oder sauberen Sportschuhen betreten. Eure Schuhe könnt ihr im Eingangsbereich des Calloways wechseln.
 
+- Wir empfehlen bequeme, flache Sneaker oder Tanzschuhe zu tragen. Hohe Schuhe sind eher ungeeignet.
+
 - Bitte kommt pünktlich zu den Kursen.
 
 - Solltet ihr nicht an einer Kurseinheit teilnehmen können, schreibt euren Kursleiter:innen gerne eine kurze E-Mail. 
