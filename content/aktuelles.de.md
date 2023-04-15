@@ -4,12 +4,17 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 13.04.2023
+zuletzt aktualisiert am 15.04.2023
 
 ### Termine Tanzkurse
 ![Kursrunde](../slider_kursrunde.png)
 
 Die Frühjahrs-Kursrunde läuft vom **10.04.2023** bis **02.06.2023**. Mehr Informationen zu den Kursen und den Link zur Anmeldung erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
+
+### Tap Dance Beginner Workshop mit Andrea Alvergue
+![Tap Dance Beginner Workshop mit Andrea Alvergue](../tap_workshop_andrea_2023.jpg)
+
+Am 06. 07.05.2023 findet in unserem Tanzstudio ein Tap Workshop mit Andrea Alvergue statt! Die Anmeldung öffnet diesen Sonntag, 16.04.23 um 12 Uhr. Alle Infos und den Link zur Anmeldung findet ihr auf der Seite [**Tap Dance Beginner Workshop**]({{< ref "/tap-workshop" >}} "Tap Dance Beginner Workshop").
 
 ### Swing-Tanzsalon am Musikpavillon
 ![Swing am Pavillon](../slider_pavillon.png)
