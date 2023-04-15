@@ -4,7 +4,7 @@ draft: false
 slug: "tap-workshop"
 ---
 
-![Tap Dance Beginner Workshop mit Andrea Alverge](../tap_workshop_andrea_2023.jpg)
+![Tap Dance Beginner Workshop mit Andrea Alvergue](../tap_workshop_andrea_2023.jpg)
 
 ### Tap Dance Beginner Workshop
 Am 06.05. und 07.05.2023 könnt ihr bei uns Tap lernen! An zwei Workshoptagen unterrichtet Andrea Alvergue Tap Technique und Tap based Impro. Wenn ihr eure Füße als Rhytmusinstrumente probieren und Inspiration für Variationen im Swing und Solo Jazz finden möchtet seid ihr hier genau richtig! 
