@@ -19,23 +19,22 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermäßigte Preise gelten für
 Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden:  
 **[Zur Anmeldung](https://scl.swinggeeks.de/SCL2023-04/)**
 
-### Hinweise
+### Hinweise zu den Kursen
+- Bitte beachtet unseren [Verhaltenskodex](https://docs.google.com/document/d/1EpcW5ju8RwoBK17TJuWFc2o_GQM9j8C42rYCSFf-o08/edit).
 - Ihr müsst euch nicht paarweise anmelden, sondern könnt euch auch einzeln anmelden.
-
-- Die Kurse finden in unserem Tanzstudio [Calloway]({{< ref "/calloway" >}} "Calloway") und mittwochs zum Teil auch im Noels Ballroom statt.
-
-- Ihr dürft das Tanzparkett nicht mit Straßenschuhen, sondern nur mit Tanz- oder sauberen Sportschuhen betreten. Eure Schuhe könnt ihr im Eingangsbereich des Calloways wechseln.
-
-- Wir empfehlen bequeme, flache Sneaker oder Tanzschuhe zu tragen. Hohe Schuhe sind eher ungeeignet.
-
-- Bitte kommt pünktlich zu den Kursen.
-
+- In den Kursen werden die Tanzpartner:innen regelmäßig gewechselt. Wenn ihr nicht wechseln wollt, müsst ihr das nicht tun.
+- Die Kursleiter:innen sind dazu angehalten genderneutrale Sprache zu verwenden. Es wird generell von Leader und Follower (neutrale Begriffe) gesprochen und jede Person kann entscheiden welche der Rollen sie tanzen möchte.
+- Die Kurse finden auf Deutsch statt, können bei Bedarf aber auch auf Englisch gegeben werden.
+- Bitte kommt pünktlich zu den Kursen und plant Zeit zum Umziehen und Schuhe wechseln ein.
 - Solltet ihr nicht an einer Kurseinheit teilnehmen können, schreibt euren Kursleiter:innen gerne eine kurze E-Mail. 
-
+- Wir empfehlen bequeme, flache, saubere Sneaker oder Tanzschuhe zu tragen. Hohe Schuhe sind eher ungeeignet.
 - Wenn ihr erkältet seid oder euch krank fühlt, bleibt bitte zu Hause. 
 
-- Bitte beachtet unseren [Verhaltenskodex](https://docs.google.com/document/d/1EpcW5ju8RwoBK17TJuWFc2o_GQM9j8C42rYCSFf-o08/edit).
-
+### Hinweise zu den Räumlichkeiten
+- Die Kurse finden in unserem Tanzstudio [Calloway]({{< ref "/calloway" >}} "Calloway") und mittwochs zum Teil auch im Noels Ballroom statt. Beide Räumlichkeiten sind nicht barrierefrei.
+- Ihr dürft das Tanzparkett nicht mit Straßenschuhen, sondern nur mit Tanz- oder sauberen Sportschuhen betreten. Eure Schuhe könnt ihr im Eingangsbereich des Calloways wechseln oder auf halber Treppe im Schuhwechselraum.
+- Im Calloway gibt es genderneutrale Toiletten. Eine Toilette hat nur Einzelkabinen, eine Toilette hat Pissoirs und Einzelkabinen, sowie eine Dusche. Die Toilettenräume sind nach diesen Merkmalen ausgewiesen.
+- Es gibt einen Umkleideraum mit Garderobe zwischen Küche und Erker, dieser ist ebenfalls genderneutral, aber ohne Einzelkabine. 
 
 ### Nächste Kursrunde
 Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Dieses Jahr bieten wir neben Workshops am Wochenende und einem Sommerprogramm vier reguläre Kursrunden an:
