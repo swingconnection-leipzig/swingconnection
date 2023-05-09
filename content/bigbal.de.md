@@ -29,7 +29,6 @@ Alle Kurse werden als Switch-Kurse unterrichtet. Es wird also möglich sein, je 
 :warning: **Für die Level Intermediate und Advanced gibt es nur noch Wartelistenplätze!** :warning: 
 
 ### Teachers
-
 ![Mel & Jo](../mel_jo.jpg)
 
 Mel und Jo sind Tanzbegeisterte, die ihre Zeit der Förderung des Swingtanzens in Großbritannien widmen. 
@@ -57,16 +56,22 @@ Neighbour's Nightmare ist - wie der Name schon vermuten lässt - nichts für emp
 
 #### Samstagsparty
 ![AppenDixie](../appendixie.jpg)
+AppenDixie is a band that driven by the local swing dance scene combine the elements of the early swing and traditional jazz with a slight touch of craziness.
+The band has been given a great oppurtunity to play at big dance events and are a regular part of the Prague Swing festivals (PSSF and PSX). Along with the Prague’s festivals the AppenDixie has played for the lindy hop scene of Brno, Dresden, Pilsen and by the end of 2017 they’ll have played for VIenna aswell. (We all do like it hot!)
+The band regularly organises dance parties themselves and raid the existing ones with their powerful live music.
+Besides the swing festivals and local lindy parties they don’t hesitate to throw a corporate party, a wedding or another event where live old-style-jazz music would fit.
 www.appendixie.cz/en/
 
 #### Sonntagsparty
+Die vier Musiker der Swingtime Corporation The Band sind nach ihrem Studium an der Leipziger und Weimarer Musik-Hochschule ganz verschiedene Wege gegangen.
+
+Was sie nun seit Juni 2016 vereint, ist ihre Passion für die Musik Der Swing-Ära. Gern selbst auf dem Parkett unterwegs, wissen sie, was Lindy Hopper, Balboatics und Co. bewegt – eine Tanzkapelle, die für ihr Publikum spielt.
 www.swingtime-corporation.de/the-band-next/
 
 ### Taster am Samstag “Bal meets Shag”
 Jo & Mel Calanglang geben eine Schnupperstunde, die von Ed & Inez Thompson inspiriert ist und zeigt, wie sie Shag in ihren Balboa-Tanz integriert haben. Kommt gerne zum Taster vorbei, um euch da bereits auf den gemeinsamen Abend einzustimmen.
 
 ### Zeitplan
-
 ![Schedule](../BigBal2023_schedule.jpg)
 
 ### Location
