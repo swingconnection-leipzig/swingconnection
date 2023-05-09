@@ -4,7 +4,7 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 15.04.2023
+zuletzt aktualisiert am 09.05.2023
 
 ### Termine Tanzkurse
 ![Kursrunde](../slider_kursrunde.png)
