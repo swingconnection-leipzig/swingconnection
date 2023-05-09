@@ -7,7 +7,7 @@ Im September 2015 haben wir unser Tanzstudio im Leipziger Zentrum eröffnet – 
 
 ![Calloway Saal](saal.jpg)
 
-Das Studio verfügt über einen Tanzsaal mit hellem, schwingendem Parkettboden und Fensterfronten zum Innenhof. Die große Tanzfläche mit Spiegelwand bietet optimale Bedingungen für die Tanzkurse, Show- und Vereinstrainings. Zudem veranstalten wir hier Workshops und Swingpartys. Neben dem Tanzsaal mit Sitzfläche, die auch als Bühne für Live-Bands genutzt wird, verfügt das Studio über einen Eingangsbereich mit Schuhwechselraum und einen Barraum.
+Das Studio verfügt über einen Tanzsaal mit hellem, schwingendem Parkettboden und Fensterfronten zum Innenhof. Die große Tanzfläche mit Spiegelwand bietet optimale Bedingungen für die Tanzkurse, Show- und Vereinstrainings. Zudem veranstalten wir hier Workshops und Swingpartys. Neben dem Tanzsaal mit Sitzfläche, die auch als Bühne für Live-Bands genutzt wird, verfügt das Studio über einen Eingangsbereich mit Schuhwechselraum und einen Barraum. Im Tanzstudio gibt es zwei genderneutrale Toiletten. Eine Toilette hat nur Einzelkabinen, eine Toilette hat Pissoirs und Einzelkabinen, sowie eine Dusche. Es gibt einen Umkleideraum mit Garderobe zwischen Küche und Erker, dieser ist ebenfalls genderneutral, aber ohne Einzelkabine. 
 
 ### Anfahrt
 Tanzstudio Calloway  
