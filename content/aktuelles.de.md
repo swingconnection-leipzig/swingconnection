@@ -4,7 +4,7 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 09.05.2023
+zuletzt aktualisiert am 15.05.2023
 
 ### Termine Tanzkurse
 ![Kursrunde](../slider_kursrunde.png)
@@ -15,16 +15,6 @@ Die Frühjahrs-Kursrunde läuft vom **10.04.2023** bis **02.06.2023**. Mehr Info
 ![Swing am Pavillon](../slider_pavillon.png)
 
 Am **21.05.2023** findet von 14:15 bis 18:00 Uhr der nächste Swing-Tanzsalon am Musikpavillon im Clara-Zetkin-Park statt. Wir tanzen zur Live-Musik vom Historical Swing Dance Orchestra. Außerdem bieten wir einen Schnupperkurs and und führen eine kleine Choreografie auf.
-
-### Big Bal Theory 2023
-![Big Bal Theory 2023](../slider_bigbal_2023.png)
-
-Unser Balboa Workshop Big Bal Theory findet dieses Jahr vom **12.05.2023 bis 14.05.2023** statt. Mehr Informationen und den Link zur Anmeldung findet ihr auf der Seite [**Big Bal Theory 2023**]({{< ref "/bigbal" >}} "Big Bal Theory 2023").
-
-### Big Bal Theory 2023 - Beginner Track
-![Big Bal Theory 2023](../slider_bigbal_2023_beginner_track.png)
-
-Unser Balboa Workshop Big Bal Theory hat auch einen Beginner Track. Ihr lernt bei Ermira, Eleonora und Theresa an einem Wochenende Balboa und könnt außerdem an drei tollen Parties mit Livemusik teilnehmen. Mehr Informationen und den Link zur Anmeldung findet ihr auf der Seite [**Big Bal Theory 2023**]({{< ref "/bigbal" >}} "Big Bal Theory 2023").
 
 ### Mattstedt 2023
 ![Spring Camp Mattstedt 2023](../slider_mattstedt_2023.png)
