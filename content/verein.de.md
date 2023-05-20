@@ -44,7 +44,6 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - Henning ([E-Mail](mailto:henning@swingconnection-leipzig.com))
 - Jona ([E-Mail](mailto:jona@swingconnection-leipzig.com))
 - Katha ([E-Mail](mailto:katha@swingconnection-leipzig.com))
-- Katja ([E-Mail](mailto:katja@swingconnection-leipzig.com))
 - Kristian ([E-Mail](mailto:kristian@swingconnection-leipzig.com))
 - Line ([E-Mail](mailto:line@swingconnection-leipzig.com)) 
 - Liu ([E-Mail](mailto:liu@swingconnection-leipzig.com))
