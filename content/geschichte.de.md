@@ -6,6 +6,7 @@ slug: "geschichte"
 
 #### 2023
 Workshop Big Bal Theory mit Mel und Jo  
+Beitrag zu Leipzig Tanzt! im Opernhaus  
 Mattstedt  
 Tap Workshop mit Andrea  
 
