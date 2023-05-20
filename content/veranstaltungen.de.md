@@ -31,8 +31,6 @@ Für Vereinsmitglieder bieten wir einmal im Jahr das Summer Camp am wunderschön
 
 Ein- bis zweimal im Jahr veranstalten wir einen Tag der offenen Tür, an dem wir unseren Verein präsentieren und Schnupperstunden für die verschiedene Tänze anbieten, die man bei uns erlernen kann. Den nächsten Tag der offenen Tür kundigen wir unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") an.
 
-Der nächste Tag der offenen Tür findet am **18.03.2023** statt.
-
 ### Swing Brunch
 ![Swing Brunch](../slider_swing_brunch.png)
 
