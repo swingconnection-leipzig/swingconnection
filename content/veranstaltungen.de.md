@@ -14,7 +14,7 @@ Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsi
 ### Swing Tea Time
 ![Tea Dance](../slider_tea_dance.png)
 
-In regelmäßigen Abständen laden wir zur Swing Tea Time ein. Dann hüllt sich das unser Tanzstudio in den Duft frisch gebackener Kuchen und den Klang eines Louis Armstrong, Django Reinhardt oder einer Ella Fitzgerald. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Die nächste Swing Tea Time kundigen wir unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") an.
+In regelmäßigen Abständen laden wir zur Swing Tea Time ein. Dann hüllt sich unser Tanzstudio in den Duft frisch gebackener Kuchen und den Klang eines Louis Armstrong, Django Reinhardt oder einer Ella Fitzgerald. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Die nächste Swing Tea Time kundigen wir unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") an.
 
 ### Spring Camp Mattstedt
 ![Spring Camp Mattstedt 2023](../slider_mattstedt_2023.png)
