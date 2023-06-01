@@ -4,12 +4,12 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 15.05.2023
+zuletzt aktualisiert am 01.06.2023
 
 ### Termine Tanzkurse
 ![Kursrunde](../slider_kursrunde.jpg)
 
-Die Frühjahrs-Kursrunde läuft vom **10.04.2023** bis **02.06.2023**. Mehr Informationen zu den Kursen und den Link zur Anmeldung erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
+Die Sommer-Kursrunde läuft vom **19.06.2023 bis 28.07.2023**. Mehr Informationen zu den Kursen und den Link zur Anmeldung erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
 
 ### Swing-Tanzsalon am Musikpavillon
 ![Swing am Pavillon](../slider_pavillon.png)
