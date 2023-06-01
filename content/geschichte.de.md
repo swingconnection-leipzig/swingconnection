@@ -4,6 +4,12 @@ draft: false
 slug: "geschichte"
 ---
 
+#### 2023
+Workshop Big Bal Theory mit Mel und Jo  
+Beitrag zu Leipzig Tanzt! im Opernhaus  
+Mattstedt  
+Tap Workshop mit Andrea  
+
 #### 2022
 Mattstedt  
 Kursleiterwochenende
@@ -12,7 +18,6 @@ Relaunch der Internetseite
 Erstes SCL Strukturtreffen zur Verbesserung der Vereinsstrukturen  
 Beginn der Nutzung der Plattform [Wechange](https://wechange.de/group/swing-connection-leipzig/) zur Verbesserung der Kommunikation im Verein  
 Neues Vereinstool easyVerein zur Verbesserung der Verwaltung  
-
 
 #### 2021
 Corona  
