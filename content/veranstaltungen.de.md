@@ -11,6 +11,8 @@ Nur Tanzkurse kann jeder. Wir Swingtänzer wollen mehr! Nach der Arbeit kommt da
 Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen.
 **Jeden Mittwoch ab 19:30 Uhr** findet der Minor Swing **im Noels Ballroom** statt. Der Minor Swing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen.
 
+:warning: **Ab dem 07.06.2023 findet unser wöchentlicher Social im Clara-Zetkin-Park ab 19:30 Uhr am Inselteich statt.** :warning: 
+
 ### Swing Tea Time
 ![Tea Dance](../slider_tea_dance.png)
 
