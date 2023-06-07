@@ -6,7 +6,7 @@ slug: "tanzkurse"
 
 Die Sommer-Kursrunde läuft vom **19.06.2023 bis 28.07.2023**.
 
-![Wir haben wieder viele schöne Tanzkurse für euch zusammengestellt](kursplan.png)
+![Wir haben wieder viele schöne Tanzkurse für euch zusammengestellt](kursplan.jpg)
 
 ### Preise
 - Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
