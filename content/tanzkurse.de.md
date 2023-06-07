@@ -4,9 +4,9 @@ draft: false
 slug: "tanzkurse"
 ---
 
-Die Frühjahrs-Kursrunde läuft vom **10.04.2023 bis 02.06.2023**.
+Die Sommer-Kursrunde läuft vom **19.06.2023 bis 28.07.2023**.
 
-![Wir haben wieder viele schöne Tanzkurse für euch zusammengestellt](kursplan.png)
+![Wir haben wieder viele schöne Tanzkurse für euch zusammengestellt](kursplan.jpg)
 
 ### Preise
 - Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
@@ -17,7 +17,7 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermäßigte Preise gelten für
 
 ### Anmeldung
 Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden:  
-**[Zur Anmeldung](https://scl.swinggeeks.de/SCL2023-04/)**
+**[Zur Anmeldung](https://scl.swinggeeks.de/SCL2023-06/)**
 
 ### Hinweise zu den Kursen
 - Bitte beachtet unseren [Verhaltenskodex](https://docs.google.com/document/d/1EpcW5ju8RwoBK17TJuWFc2o_GQM9j8C42rYCSFf-o08/edit).
