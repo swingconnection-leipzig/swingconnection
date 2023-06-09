@@ -17,7 +17,7 @@ Die Sommer-Kursrunde läuft vom **19.06.2023 bis 28.07.2023**. Mehr Informatione
 Unser Spring Camp findet dieses Jahr vom **15.06.2023 bis 18.06.2023** statt. Es erwartet euch ein tolles Wochenende voller Entspannung, Tanz und Swingmusik auf dem wunderschönen Mühlenhof Mattstedt in Thüringen. Mehr Informationen und den Link zur Anmeldung findet ihr auf der Seite [**Spring Camp Mattstedt**]({{< ref "/mattstedt" >}} "Mattstedt").
 
 ### Minor Swing im Sommer
-Ab dem 07.06.2023 findet unser wöchentlicher Social im Clara-Zetkin-Park ab 19:30 Uhr am Inselteich statt.
+Der Minor Swing macht Sommerpause. In der Zwischenzeit trifft sich die Leipziger Swingszene regelmäßig mittwochs ab 19:30 Uhr bei guten Wetter zum Social am Inselteich im Clara-Zetkin-Park.
 
 ### Swing Kalender für Leipzig
 Im vereinsunabhängigen Kalender [**"Swing in Leipzig"**](https://kalender.digital/0c529f4b4448ea55b992) findet ihr eine Übersicht *aller* Swing Veranstaltungen in Leipzig (Kurse, Workshops, Tanzabende, Social Dances, Konzerte).
