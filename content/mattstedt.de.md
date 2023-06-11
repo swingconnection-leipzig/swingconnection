@@ -28,10 +28,28 @@ Es unterrichten euch die Kursleiter:innen der SwingConnection Leipzig.
 Beim Übernachten könnt ihr wählen zwischen einer Matratze in einem großen Schlafsaal, (Doppel-)Zimmer im Haus (nur begrenzte Plätze verfügbar), oder eigenem Zelt auf der Wiese am Bach. Die Zimmer befinden sich im Haupthaus. Dafür ergibt sich ein Aufpreis von 35€ pro Nacht.
 
 ### Verpflegung
-Für unser leibliches Wohl wird gesorgt. Es gibt eine Vollverpflegung mit Frühstück, Kaffee & Kuchen sowie Abendbrot. Das Essen ist ausgesprochen lecker! Vegane und glutenfreie Kost kann leider nicht garantiert werden. Vegetarier:innen werden aber sehr glücklich, da wir wieder fleischlose Gerichte haben werden. Bitte beachtet, dass es keinen Preisnachlass für Selbstversorger gibt.
+Für unser leibliches Wohl wird gesorgt. Es gibt eine Vollverpflegung mit Frühstück, Kaffee & Kuchen sowie Abendbrot. Das Essen ist ausgesprochen lecker! Vegane und glutenfreie Kost kann leider nicht garantiert werden. Vegetarier:innen werden aber sehr glücklich, da wir wieder fleischlose Gerichte haben werden.
 
 ### Location
 Mattstedt ist ein kleines Dorf in Thüringen so ziemlich in der Mitte von Weimar, Jena und Naumburg. Der große Mühlenhof liegt an einem rauschen Bach und ganz idyllisch im Grünen. Hier können wir gemeinsam tanzen, feiern sowie unseren Workshop durchführen und den Frühling begrüßen. Freitag und Samstag gibt es eine Party mit DJs.
 
 ### Anreise
 Mit dem Auto über die A9 (Naumburg) oder A4 (Erfurt/Weimar) immer in Richtung Apolda. Für Zugfahrer gilt das Gleiche, über Erfurt/Weimar oder Naumburg bis nach Apolda. Fahrgemeinschaften haben sich bewährt und können leicht über unsere Facebook-Gruppe organisiert werden. Für das Navi nehmt die Adresse: 99510 Mattstedt, Unterdorf 115. Die Anreise erfolgt in Eigenverantwortung.
+
+### Kosten
+Workshop:
+- SCL: 95 €
+- Extern: 115 €
+- Ohne Kurse: 45 €
+
+Übernachtung & Verpflegung:
+- Do - So: 125 €
+- Fr - So: 100 €
+
+Für SCL Mitglieder, Inhaber von Schüler-, Studenten- und Schwerbehindertenausweis oder Leipzig-Pass gibt es 5€ Ermäßigung. Bitte beachtet, dass es keinen Preisnachlass für Selbstversorger gibt.
+
+Die Übernachtungs- und Verpflegungskosten müssen vor Ort in bar bezahlt werden. Es gibt keine Geldautomaten im Ort!
+
+Wir haben ein Kontingent von 5 Plätzen, für die wir keine festen Workshopgebühren verlangen, Personen zu unterstützen, die sich ein Teilnahme schwer leisten können
+
+Wir bieten Banküberweisung und PayPal als Zahlungsmöglichkeiten an. Da PayPal allerdings höhere Kosten für uns verursacht, bitten wir Euch möglichst per Banküberweisung zu bezahlen. Alternativ könnt ihr auch per Lastschrift bezahlen.
