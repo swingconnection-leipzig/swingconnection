@@ -34,7 +34,7 @@ Für unser leibliches Wohl wird gesorgt. Es gibt eine Vollverpflegung mit Frühs
 Mattstedt ist ein kleines Dorf in Thüringen so ziemlich in der Mitte von Weimar, Jena und Naumburg. Der große Mühlenhof liegt an einem rauschen Bach und ganz idyllisch im Grünen. Hier können wir gemeinsam tanzen, feiern sowie unseren Workshop durchführen und den Frühling begrüßen. Freitag und Samstag gibt es eine Party mit DJs.
 
 ### Anreise
-Mit dem Auto über die A9 (Naumburg) oder A4 (Erfurt/Weimar) immer in Richtung Apolda. Für Zugfahrer gilt das Gleiche, über Erfurt/Weimar oder Naumburg bis nach Apolda. Fahrgemeinschaften haben sich bewährt und können leicht über unsere Facebook-Gruppe organisiert werden. Für das Navi nehmt die Adresse: 99510 Mattstedt, Unterdorf 115. Die Anreise erfolgt in Eigenverantwortung.
+Mit dem Auto über die A9 (Naumburg) oder A4 (Erfurt/Weimar) immer in Richtung Apolda. Für Zugfahrer gilt das Gleiche, über Erfurt/Weimar oder Naumburg bis nach Apolda. Fahrgemeinschaften haben sich bewährt und können leicht über unsere Facebook-Gruppe organisiert werden. Die Adresse lautet: Mühlenhof Mattstedt, Unterdorf 115, 99510 Mattstedt. Die Anreise erfolgt in Eigenverantwortung.
 
 ### Kosten
 Workshop:
