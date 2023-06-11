@@ -25,7 +25,7 @@ Der Zeitplan steht erst kurz vor Beginn des Spring Camps fest, da wir in der Anm
 Es unterrichten euch die Kursleiter:innen der SwingConnection Leipzig.
 
 ### Unterkunft
-Beim Übernachten könnt ihr wählen zwischen einer Matratze in einem großen Schlafsaal, (Doppel-)Zimmer im Haus (nur begrenzte Plätze verfügbar), oder eigenem Zelt auf der Wiese am Bach. Die Zimmer befinden sich im Haupthaus. Dafür ergibt sich ein Aufpreis von 35€ pro Nacht.
+Beim Übernachten könnt ihr wählen zwischen einer Matratze in einem großen Schlafsaal oder eigenem, selbst mitgebrachten Zelt auf der Wiese am Bach. Für Familien bietet sich für einen Aufpreis von 35€ pro Nacht vielleicht auch ein Zimmer im Haus an (nur begrenzte Plätze verfügbar!).
 
 ### Verpflegung
 Für unser leibliches Wohl wird gesorgt. Es gibt eine Vollverpflegung mit Frühstück, Kaffee & Kuchen sowie Abendbrot. Das Essen ist ausgesprochen lecker! Vegane und glutenfreie Kost kann leider nicht garantiert werden. Vegetarier:innen werden aber sehr glücklich, da wir wieder fleischlose Gerichte haben werden.
