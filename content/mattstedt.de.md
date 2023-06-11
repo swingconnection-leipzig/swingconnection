@@ -31,7 +31,7 @@ Beim Übernachten könnt ihr wählen zwischen einer Matratze in einem großen Sc
 Für unser leibliches Wohl wird gesorgt. Es gibt eine Vollverpflegung mit Frühstück, Kaffee & Kuchen sowie Abendbrot. Das Essen ist ausgesprochen lecker! Vegane und glutenfreie Kost kann leider nicht garantiert werden. Vegetarier:innen werden aber sehr glücklich, da wir wieder fleischlose Gerichte haben werden.
 
 ### Location
-Mattstedt ist ein kleines Dorf in Thüringen so ziemlich in der Mitte von Weimar, Jena und Naumburg. Der große Mühlenhof liegt an einem rauschen Bach und ganz idyllisch im Grünen. Hier können wir gemeinsam tanzen, feiern sowie unseren Workshop durchführen und den Frühling begrüßen. Freitag und Samstag gibt es eine Party mit DJs.
+Mattstedt ist ein kleines Dorf in Thüringen so ziemlich in der Mitte von Weimar, Jena und Naumburg. Der große Mühlenhof liegt an einem rauschen Bach und ganz idyllisch im Grünen. Hier können wir gemeinsam tanzen, feiern sowie unseren Workshop durchführen und den Frühling begrüßen. https://www.muehlenhofmattstedt.de/muehlenhof-gallery
 
 ### Anreise
 Mit dem Auto über die A9 (Naumburg) oder A4 (Erfurt/Weimar) immer in Richtung Apolda. Für Zugfahrer gilt das Gleiche, über Erfurt/Weimar oder Naumburg bis nach Apolda. Fahrgemeinschaften haben sich bewährt und können leicht über unsere Facebook-Gruppe organisiert werden. Die Adresse lautet: Mühlenhof Mattstedt, Unterdorf 115, 99510 Mattstedt. Die Anreise erfolgt in Eigenverantwortung.
