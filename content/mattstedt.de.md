@@ -18,8 +18,8 @@ Hier könnt ihr einen Eindruck von der gemütlichen Atmosphäre in Mattstedt gew
 ### Level
 Grundsätzlich richtet sich das Camp an frisch angefixte Swing-Tänzer:innen und diejenigen, die in aller Ruhe an ihren Skills arbeiten wollen. Für Fortgeschrittene gibt es Möglichkeiten zur Auffrischung und Gelegenheiten zum Social Dance. Mattstedt ist ideal für Menschen, die einen oder zwei Basics Kurse besucht haben und in die Welt der Workshops eintauchen wollen.
 
-### Zeitplan
-Der Zeitplan steht erst kurz vor Beginn des Spring Camps fest, da wir in der Anmeldung auch nach euren Interessen und Leveln fragen. 
+### Zeitplan & Programm
+Der Zeitplan steht erst kurz vor Beginn des Spring Camps fest, da wir in der Anmeldung auch nach euren Interessen und Leveln fragen. Wir stellen ein bunt gemischtes Programm zusammen. Es werden Kurse unterschiedlicher Level in Lindy Hop, Balboa, eventuell Shag, Blues und Solo Jazz angeboten. Darüber hinaus gibt es meistens auch Kurse zu Körperarbeit oder Taster von Tänzen anderer Stilrichtungen. Am Freitag und am Samstag gibt es jeweils eine Party mit DJs.
 
 ### Teacher
 Es unterrichten euch die Kursleiter:innen der SwingConnection Leipzig.
