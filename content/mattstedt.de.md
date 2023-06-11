@@ -16,7 +16,7 @@ Hier könnt ihr einen Eindruck von der gemütlichen Atmosphäre in Mattstedt gew
 **[Zur Anmeldung](https://scl.swinggeeks.de/SCM2023/)**
 
 ### Level
-Dieses Jahr richtet sich das Camp wieder an frisch angefixte Swing-Tänzer:innen und diejenigen, die in aller Ruhe an ihren Skills „arbeiten“ wollen. Doch gibt auch Möglichkeiten zur Auffrischung und Gelegenheiten zum Social Dance. Mattstedt ist ideal für Menschen, die einen oder zwei Basics Kurse besucht haben und in die Welt der Workshops eintauchen wollen.
+Grundsätzlich richtet sich das Camp an frisch angefixte Swing-Tänzer:innen und diejenigen, die in aller Ruhe an ihren Skills arbeiten wollen. Für Fortgeschrittene gibt es Möglichkeiten zur Auffrischung und Gelegenheiten zum Social Dance. Mattstedt ist ideal für Menschen, die einen oder zwei Basics Kurse besucht haben und in die Welt der Workshops eintauchen wollen.
 
 ### Zeitplan
 Der Zeitplan steht erst kurz vor Beginn des Spring Camps fest, da wir in der Anmeldung auch nach euren Interessen und Leveln fragen. 
