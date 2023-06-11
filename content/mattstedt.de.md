@@ -23,14 +23,24 @@ Es unterrichten euch die Kursleiter:innen der SwingConnection Leipzig.
 ### Unterkunft
 Beim Übernachten könnt ihr wählen zwischen einer Matratze in einem großen Schlafsaal oder eigenem, selbst mitgebrachten Zelt auf der Wiese am Bach. Für Familien bietet sich für einen Aufpreis von 35€ pro Nacht vielleicht auch ein Zimmer im Haus an (nur begrenzte Plätze verfügbar!).
 
+Alle Betten im Schlafsaal sind mit Laken bezogen. Im Schlafsaal benötigt ihr Schlafsack/Decke und Kopfkissen.
+
 ### Verpflegung
-Für unser leibliches Wohl wird gesorgt. Es gibt eine Vollverpflegung mit Frühstück, Kaffee & Kuchen sowie Abendbrot. Das Essen ist ausgesprochen lecker! Vegane und glutenfreie Kost kann leider nicht garantiert werden. Vegetarier:innen werden aber sehr glücklich, da wir wieder fleischlose Gerichte haben werden.
+Für unser leibliches Wohl wird gesorgt. Es gibt eine Vollverpflegung mit Frühstück, Kaffee & Kuchen sowie Abendbrot. Das Essen ist ausgesprochen lecker! Vegane und glutenfreie Kost kann leider nicht garantiert werden. Vegetarier:innen werden aber sehr glücklich, da wir wieder fleischlose Gerichte haben werden. Kaffee, Tee und Wasser sind im Preis der Verpflegung inbegriffen. Sonstige Getränke kann man zu moderaten Preisen erwerben.
 
 ### Location
 Mattstedt ist ein kleines Dorf in Thüringen so ziemlich in der Mitte von Weimar, Jena und Naumburg. Der große Mühlenhof liegt an einem rauschen Bach und ganz idyllisch im Grünen. Hier können wir gemeinsam tanzen, feiern sowie unseren Workshop durchführen und den Frühling begrüßen. https://www.muehlenhofmattstedt.de/muehlenhof-gallery
 
 ### Anreise
 Mit dem Auto über die A9 (Naumburg) oder A4 (Erfurt/Weimar) immer in Richtung Apolda. Für Zugfahrer gilt das Gleiche, über Erfurt/Weimar oder Naumburg bis nach Apolda. Fahrgemeinschaften haben sich bewährt und können leicht über unsere Facebook-Gruppe organisiert werden. Die Adresse lautet: Mühlenhof Mattstedt, Unterdorf 115, 99510 Mattstedt. Die Anreise erfolgt in Eigenverantwortung.
+
+Wer sich für Do-So angemeldet hat, kann am Donnerstag ab 17:00 Uhr anreisen. Wer Freitag anreist, ist zum Kaffee willkommen.
+
+### Hinweise
+- Falls Kurse zu Körperarbeit angeboten werden (z.B. Yogakurs), bietet es sich an, eine Yoga- oder Isomatte mitzunehmen.
+- Bitte berücksichtigt, dass der Mobilfunkempfang in Mattstedt schlecht ist.
+- In den letzten Jahren waren die Zecken auf der Wiese und im Wald kontaktfreudig.
+- Oropax können im Schlafsaal hilfreich sein.
 
 ### Kosten
 Workshop:
