@@ -45,16 +45,7 @@ Wer sich für Do-So angemeldet hat, kann am Donnerstag ab 17:00 Uhr anreisen. We
 - Oropax können im Schlafsaal hilfreich sein.
 
 ### Kosten
-Workshop:
-- SCL: 95 €
-- Extern: 115 €
-- Ohne Kurse: 45 €
-
-Übernachtung & Verpflegung:
-- Do - So: 125 €
-- Fr - So: 100 €
-
-Für SCL Mitglieder, Inhaber von Schüler-, Studenten- und Schwerbehindertenausweis oder Leipzig-Pass gibt es 5€ Ermäßigung. Bitte beachtet, dass es keinen Preisnachlass für Selbstversorger gibt.
+Die Kosten für den Workshop und die Unterkunft stehen im Anmeldeportal.
 
 Die Übernachtungs- und Verpflegungskosten müssen vor Ort in bar bezahlt werden. Es gibt keine Geldautomaten im Ort!
 
