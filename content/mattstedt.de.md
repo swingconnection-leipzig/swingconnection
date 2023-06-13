@@ -17,6 +17,8 @@ Grundsätzlich richtet sich das Camp an frisch angefixte Swing-Tänzer:innen und
 ### Zeitplan & Programm
 Der Zeitplan steht erst kurz vor Beginn des Spring Camps fest, da wir in der Anmeldung auch nach euren Interessen und Leveln fragen. Wir stellen ein bunt gemischtes Programm zusammen. Es werden Kurse unterschiedlicher Level in Lindy Hop, Balboa, eventuell Shag, Blues und Solo Jazz angeboten. Darüber hinaus gibt es meistens auch Kurse zu Körperarbeit oder Taster von Tänzen anderer Stilrichtungen. Am Freitag und am Samstag gibt es jeweils eine Party mit DJs.
 
+![Schedule Mattstedt 2023](../mattstedt_2023_schedule.png)
+
 ### Teacher
 Es unterrichten euch die Kursleiter:innen der SwingConnection Leipzig.
 
