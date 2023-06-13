@@ -17,6 +17,8 @@ Grundsätzlich richtet sich das Camp an frisch angefixte Swing-Tänzer:innen und
 ### Zeitplan & Programm
 Der Zeitplan steht erst kurz vor Beginn des Spring Camps fest, da wir in der Anmeldung auch nach euren Interessen und Leveln fragen. Wir stellen ein bunt gemischtes Programm zusammen. Es werden Kurse unterschiedlicher Level in Lindy Hop, Balboa, eventuell Shag, Blues und Solo Jazz angeboten. Darüber hinaus gibt es meistens auch Kurse zu Körperarbeit oder Taster von Tänzen anderer Stilrichtungen. Am Freitag und am Samstag gibt es jeweils eine Party mit DJs.
 
+![Schedule Mattstedt 2023](../mattstedt_2023_schedule.png)
+
 ### Teacher
 Es unterrichten euch die Kursleiter:innen der SwingConnection Leipzig.
 
@@ -37,22 +39,20 @@ Mit dem Auto über die A9 (Naumburg) oder A4 (Erfurt/Weimar) immer in Richtung A
 Wer sich für Do-So angemeldet hat, kann am Donnerstag ab 17:00 Uhr anreisen. Wer Freitag anreist, ist zum Kaffee willkommen.
 
 ### Hinweise
+- Für die Übernachtungen in den Zimmern bitte Bettwäsche mitbringen.
+- Für die Übernachtungen im Schlafsaal bitte Schlafsack und/oder eine Decke und Kissen mitbringen.
+- Ohrstöpsel, Schlafmaske und Taschenlampe können im Schlafsaal hilfreich sein.
+- Wenn das Wetter an dem Wochenende kalt sein sollte, ist warme Kleidung wichtig, das es im Schlafsaal keine Heizung gibt!
+- Bringt bitte auch Hand- und Badetücher selber mit. 
+- Darüber hinaus können folgende Dinge hilfreich sein: Badelatschen, Steckdosenverteiler, Ladekabel, Wasserflasche, Thermosbecher, Standspiegel, Wanderschuhe.
 - Falls Kurse zu Körperarbeit angeboten werden (z.B. Yogakurs), bietet es sich an, eine Yoga- oder Isomatte mitzunehmen.
 - Bitte berücksichtigt, dass der Mobilfunkempfang in Mattstedt schlecht ist.
-- In den letzten Jahren waren die Zecken auf der Wiese und im Wald kontaktfreudig.
-- Oropax können im Schlafsaal hilfreich sein.
+- In den letzten Jahren waren die Zecken und Mücken auf der Wiese und im Wald kontaktfreudig. Bringt ggf. Mückenspray und Zeckenschutz mit.
+- Vergesst eure Tanzschuhe nicht ;-)
+- Wenn du Nahrungsmittelunverträglichkeiten hast, erkundige dich bitte vor Ort beim Küchenteam, welche Speisen du meiden solltest.
 
 ### Kosten
-Workshop:
-- SCL: 95 €
-- Extern: 115 €
-- Ohne Kurse: 45 €
-
-Übernachtung & Verpflegung:
-- Do - So: 125 €
-- Fr - So: 100 €
-
-Für SCL Mitglieder, Inhaber von Schüler-, Studenten- und Schwerbehindertenausweis oder Leipzig-Pass gibt es 5€ Ermäßigung. Bitte beachtet, dass es keinen Preisnachlass für Selbstversorger gibt.
+Die Kosten für den Workshop und die Unterkunft stehen im Anmeldeportal.
 
 Die Übernachtungs- und Verpflegungskosten müssen vor Ort in bar bezahlt werden. Es gibt keine Geldautomaten im Ort!
 
