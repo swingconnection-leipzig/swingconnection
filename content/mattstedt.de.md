@@ -39,10 +39,17 @@ Mit dem Auto über die A9 (Naumburg) oder A4 (Erfurt/Weimar) immer in Richtung A
 Wer sich für Do-So angemeldet hat, kann am Donnerstag ab 17:00 Uhr anreisen. Wer Freitag anreist, ist zum Kaffee willkommen.
 
 ### Hinweise
+- Für die Übernachtungen in den Zimmern bitte Bettwäsche mitbringen.
+- Für die Übernachtungen im Schlafsaal bitte Schlafsack und/oder eine Decke und Kissen mitbringen.
+- Ohrstöpsel, Schlafmaske und Taschenlampe können im Schlafsaal hilfreich sein.
+- Wenn das Wetter an dem Wochenende kalt sein sollte, ist warme Kleidung wichtig, das es im Schlafsaal keine Heizung gibt!
+- Bringt bitte auch Hand- und Badetücher selber mit. 
+- Darüber hinaus können folgende Dinge hilfreich sein: Badelatschen, Steckdosenverteiler, Ladekabel, Wasserflasche, Thermosbecher, Standspiegel, Wanderschuhe.
 - Falls Kurse zu Körperarbeit angeboten werden (z.B. Yogakurs), bietet es sich an, eine Yoga- oder Isomatte mitzunehmen.
 - Bitte berücksichtigt, dass der Mobilfunkempfang in Mattstedt schlecht ist.
-- In den letzten Jahren waren die Zecken auf der Wiese und im Wald kontaktfreudig.
-- Oropax können im Schlafsaal hilfreich sein.
+- In den letzten Jahren waren die Zecken und Mücken auf der Wiese und im Wald kontaktfreudig. Bringt ggf. Mückenspray und Zeckenschutz mit.
+- Vergesst eure Tanzschuhe nicht ;-)
+- Wenn du Nahrungsmittelunverträglichkeiten hast, erkundige dich bitte vor Ort beim Küchenteam, welche Speisen du meiden solltest.
 
 ### Kosten
 Die Kosten für den Workshop und die Unterkunft stehen im Anmeldeportal.
