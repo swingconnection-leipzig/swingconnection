@@ -50,6 +50,7 @@ Wer sich für Do-So angemeldet hat, kann am Donnerstag ab 17:00 Uhr anreisen. We
 - In den letzten Jahren waren die Zecken und Mücken auf der Wiese und im Wald kontaktfreudig. Bringt ggf. Mückenspray und Zeckenschutz mit.
 - Vergesst eure Tanzschuhe nicht ;-)
 - Wenn du Nahrungsmittelunverträglichkeiten hast, erkundige dich bitte vor Ort beim Küchenteam, welche Speisen du meiden solltest.
+- Erfahrungsgemäß hat die Person, die den Check-in macht, zu den Anreise-Zeiten nicht so viele Kapazitäten. Falls ihr zum ersten Mal in Mattstedt seid, lasst euch den Hof bei eurer Ankunft aber gerne von Leuten zeigen, die bereits dort waren - die helfen euch gerne. 
 
 ### Kosten
 Die Kosten für den Workshop und die Unterkunft stehen im Anmeldeportal.
