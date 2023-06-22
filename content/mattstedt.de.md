@@ -5,9 +5,9 @@ slug: "mattstedt"
 
 ---
 
-![Spring Camp Mattstedt 2023](../slider_mattstedt_2023.png)
 
-Unser schönes Spring Camp findet dieses Jahr vom **15.06.2023 bis 18.06.2023** statt. Es erwartet euch ein tolles Wochenende voller Entspannung, Tanz und Swingmusik auf dem wunderschönen Mühlenhof Mattstedt in Thüringen. Es erwarten euch zwei Tage Workshop mit Lindy Hop, Balboa, Blues und Solo Jazz mit Kursleiter:innen der SwingConnection Leipzig und Gästen. Und natürlich könnt ihr euch auf den Partys austoben.
+
+Unser schönes Spring Camp findet dieses Jahr vom **xx.xx.2024 bis xx.xx.2024** statt. Es erwartet euch ein tolles Wochenende voller Entspannung, Tanz und Swingmusik auf dem wunderschönen Mühlenhof Mattstedt in Thüringen. Es erwarten euch zwei Tage Workshop mit Lindy Hop, Balboa, Blues und Solo Jazz mit Kursleiter:innen der SwingConnection Leipzig und Gästen. Und natürlich könnt ihr euch auf den Partys austoben.
 
 Hier könnt ihr einen Eindruck von der gemütlichen Atmosphäre in Mattstedt gewinnen: https://www.youtube.com/watch?v=czMHDvKlnEA
 
@@ -17,7 +17,7 @@ Grundsätzlich richtet sich das Camp an frisch angefixte Swing-Tänzer:innen und
 ### Zeitplan & Programm
 Der Zeitplan steht erst kurz vor Beginn des Spring Camps fest, da wir in der Anmeldung auch nach euren Interessen und Leveln fragen. Wir stellen ein bunt gemischtes Programm zusammen. Es werden Kurse unterschiedlicher Level in Lindy Hop, Balboa, eventuell Shag, Blues und Solo Jazz angeboten. Darüber hinaus gibt es meistens auch Kurse zu Körperarbeit oder Taster von Tänzen anderer Stilrichtungen. Am Freitag und am Samstag gibt es jeweils eine Party mit DJs.
 
-![Schedule Mattstedt 2023](../mattstedt_2023_schedule.png)
+
 
 ### Teacher
 Es unterrichten euch die Kursleiter:innen der SwingConnection Leipzig.
@@ -50,6 +50,7 @@ Wer sich für Do-So angemeldet hat, kann am Donnerstag ab 17:00 Uhr anreisen. We
 - In den letzten Jahren waren die Zecken und Mücken auf der Wiese und im Wald kontaktfreudig. Bringt ggf. Mückenspray und Zeckenschutz mit.
 - Vergesst eure Tanzschuhe nicht ;-)
 - Wenn du Nahrungsmittelunverträglichkeiten hast, erkundige dich bitte vor Ort beim Küchenteam, welche Speisen du meiden solltest.
+- Erfahrungsgemäß hat die Person, die den Check-in macht, zu den Anreise-Zeiten nicht so viele Kapazitäten. Falls ihr zum ersten Mal in Mattstedt seid, lasst euch den Hof bei eurer Ankunft aber gerne von Leuten zeigen, die bereits dort waren - die helfen euch gerne. 
 
 ### Kosten
 Die Kosten für den Workshop und die Unterkunft stehen im Anmeldeportal.
@@ -62,4 +63,3 @@ Wir bieten Banküberweisung und PayPal als Zahlungsmöglichkeiten an. Da PayPal 
 
 ### Anmeldung
 Über unser Kursbuchungsportal könnt ihr euch zum Spring Camp anmelden:  
-**[Zur Anmeldung](https://scl.swinggeeks.de/SCM2023/)**
