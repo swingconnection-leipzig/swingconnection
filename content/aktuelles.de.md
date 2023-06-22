@@ -4,17 +4,18 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 07.06.2023
+zuletzt aktualisiert am 20.06.2023
 
 ### Termine Tanzkurse
 ![Kursrunde](../slider_kursrunde.jpg)
 
 Die Sommer-Kursrunde läuft vom **19.06.2023 bis 28.07.2023**. Mehr Informationen zu den Kursen und den Link zur Anmeldung erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
 
-### Mattstedt 2023
-![Spring Camp Mattstedt 2023](../slider_mattstedt_2023.png)
+### Queerer Swingtanz-Workshop & Social Dance
+Am **08.07.2023** veranstalten wir im Rahmen des CSD Leipzig einen queeren Lindy Hop und Solo Jazz Workshop für Tanzanfänger:innen mit freier Wahl der Tanzrolle. Über unser Kursbuchungsportal könnt ihr euch für den Workshop anmelden:  
+**[Zur Anmeldung](https://scl.swinggeeks.de/SCLW07/)** 
 
-Unser Spring Camp findet dieses Jahr vom **15.06.2023 bis 18.06.2023** statt. Es erwartet euch ein tolles Wochenende voller Entspannung, Tanz und Swingmusik auf dem wunderschönen Mühlenhof Mattstedt in Thüringen. Mehr Informationen und den Link zur Anmeldung findet ihr auf der Seite [**Spring Camp Mattstedt**]({{< ref "/mattstedt" >}} "Mattstedt").
+Mehr Informationen zu der Veranstaltung erhaltet ihr unter folgendem Link: https://www.csd-leipzig.de/veranstaltung/queer-swingtanz-workshop-social-dance/
 
 ### Minor Swing im Sommer
 Der Minor Swing macht Sommerpause. In der Zwischenzeit trifft sich die Leipziger Swingtanz-Community regelmäßig mittwochs ab 19:30 Uhr bei gutem Wetter zum Social Dance am Inselteich im Clara-Zetkin-Park.
