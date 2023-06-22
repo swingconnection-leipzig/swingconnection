@@ -5,6 +5,12 @@ draft: false
 
 Nur Tanzkurse kann jeder. Wir Swingtänzer wollen mehr! Nach der Arbeit kommt das Spiel. In unserem Fall Veranstaltungen zum freien Tanzen, Camps und Workshops! Hier bekommt ihr eine Übersicht, was die SwingConnection außerhalb der regulären Kurse veranstaltet.
 
+### Queerer Swingtanz-Workshop & Social Dance
+Am **08.07.2023** veranstalten wir im Rahmen des CSD Leipzig einen queeren Lindy Hop und Solo Jazz Workshop für Tanzanfänger:innen mit freier Wahl der Tanzrolle. Über unser Kursbuchungsportal könnt ihr euch für den Workshop anmelden:  
+**[Zur Anmeldung](https://scl.swinggeeks.de/SCLW07/)** 
+
+Mehr Informationen zu der Veranstaltung erhaltet ihr unter folgendem Link: https://www.csd-leipzig.de/veranstaltung/queer-swingtanz-workshop-social-dance/
+
 ### Minor Swing
 ![Minor Swing](../slider_minor_swing.png)
 
@@ -19,9 +25,7 @@ Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsi
 In regelmäßigen Abständen laden wir zur Swing Tea Time ein. Dann hüllt sich unser Tanzstudio in den Duft frisch gebackener Kuchen und den Klang eines Louis Armstrong, Django Reinhardt oder einer Ella Fitzgerald. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Die nächste Swing Tea Time kundigen wir unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") an.
 
 ### Spring Camp Mattstedt
-![Spring Camp Mattstedt 2023](../slider_mattstedt_2023.png)
-
-Die beiden Highlights des Jahres sind unsere Camps jeden Frühling und Sommer. Raus ins Grüne und je nach Gusto abmatten oder abtanzen. Das Spring Camp am Mühlenhof in Mattstedt richtet sich sowohl an angefixte Tanzanfänger als auch an Menschen, die schon länger dabei sind. Hier habt ihr ein ganzes Wochenende nur Swing im Kopf und lernt eure Kursgefährten und andere Kursleiter:innen besser kennen. Unser schönes Spring Camp findet diese Jahr vom **15.06.2023 bis 18.06.2023** statt. Mehr Informationen und den Link zur Anmeldung findet ihr auf der Seite [**Spring Camp Mattstedt**]({{< ref "/mattstedt" >}} "Mattstedt")
+Die beiden Highlights des Jahres sind unsere Camps jeden Frühling und Sommer. Raus ins Grüne und je nach Gusto abmatten oder abtanzen. Das Spring Camp am Mühlenhof in Mattstedt richtet sich sowohl an angefixte Tanzanfänger als auch an Menschen, die schon länger dabei sind. Hier habt ihr ein ganzes Wochenende nur Swing im Kopf und lernt eure Kursgefährten und andere Kursleiter:innen besser kennen. Unser schönes Spring Camp findet dieses Jahr vom **xx.xx.2024 bis xx.xx.2025** statt. Mehr Informationen und den Link zur Anmeldung findet ihr auf der Seite [**Spring Camp Mattstedt**]({{< ref "/mattstedt" >}} "Mattstedt")
 
 ### Summer Camp Barnin
 Für Vereinsmitglieder bieten wir einmal im Jahr das Summer Camp am wunderschönen Barniner See an. Das Wochenende mit Entspannen, Baden, Tanzen und Feiern.
