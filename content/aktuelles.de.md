@@ -4,18 +4,16 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 20.06.2023
+zuletzt aktualisiert am 12.07.2023
 
-### Termine Tanzkurse
-![Kursrunde](../slider_kursrunde.jpg)
+### Sommerprogramm
+![Kursrunde](../slider_summer_2023.jpeg)
 
-Die Sommer-Kursrunde läuft vom **19.06.2023 bis 28.07.2023**. Mehr Informationen zu den Kursen und den Link zur Anmeldung erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
+Das Sommerprogramm läuft vom **31.07.2023 bis 20.09.2023**. Mehr Informationen zu den Kursen erhaltet ihr auf der Seite [Sommerprogramm]({{< ref "/sommerprogramm" >}} "Sommerprogramm").
 
-### Queerer Swingtanz-Workshop & Social Dance
-Am **08.07.2023** veranstalten wir im Rahmen des CSD Leipzig einen queeren Lindy Hop und Solo Jazz Workshop für Tanzanfänger:innen mit freier Wahl der Tanzrolle. Über unser Kursbuchungsportal könnt ihr euch für den Workshop anmelden:  
-**[Zur Anmeldung](https://scl.swinggeeks.de/SCLW07/)** 
-
-Mehr Informationen zu der Veranstaltung erhaltet ihr unter folgendem Link: https://www.csd-leipzig.de/veranstaltung/queer-swingtanz-workshop-social-dance/
+### Swing Pavillon
+![Kursrunde](../slider_pavillon_08_2023.jpg)
+Am **12.08.2023** findet wieder ab 15 Uhr Swing am Musikpavillon im Clara-Zetkin-Park statt. Es wird wieder einen Schnupperkurs und eine Show geben. Getanzt wird zu Livemusik.   
 
 ### Minor Swing im Sommer
 Der Minor Swing macht Sommerpause. In der Zwischenzeit trifft sich die Leipziger Swingtanz-Community regelmäßig mittwochs ab 19:30 Uhr bei gutem Wetter zum Social Dance am Inselteich im Clara-Zetkin-Park.
