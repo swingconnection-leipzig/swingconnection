@@ -5,12 +5,6 @@ draft: false
 
 Nur Tanzkurse kann jeder. Wir Swingtänzer wollen mehr! Nach der Arbeit kommt das Spiel. In unserem Fall Veranstaltungen zum freien Tanzen, Camps und Workshops! Hier bekommt ihr eine Übersicht, was die SwingConnection außerhalb der regulären Kurse veranstaltet.
 
-### Queerer Swingtanz-Workshop & Social Dance
-Am **08.07.2023** veranstalten wir im Rahmen des CSD Leipzig einen queeren Lindy Hop und Solo Jazz Workshop für Tanzanfänger:innen mit freier Wahl der Tanzrolle. Über unser Kursbuchungsportal könnt ihr euch für den Workshop anmelden:  
-**[Zur Anmeldung](https://scl.swinggeeks.de/SCLW07/)** 
-
-Mehr Informationen zu der Veranstaltung erhaltet ihr unter folgendem Link: https://www.csd-leipzig.de/veranstaltung/queer-swingtanz-workshop-social-dance/
-
 ### Minor Swing
 ![Minor Swing](../slider_minor_swing.png)
 
