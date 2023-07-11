@@ -11,6 +11,10 @@ zuletzt aktualisiert am 20.06.2023
 
 Die Sommer-Kursrunde läuft vom **19.06.2023 bis 28.07.2023**. Mehr Informationen zu den Kursen und den Link zur Anmeldung erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
 
+### Swing Pavillon
+![Kursrunde](../slider_pavillon_08_2023.jpg)
+Am **12.08.2023** findet wieder ab 15 Uhr Swing am Musikpavillon im Clara-Zetkin-Park statt. Es wird wieder einen Schnupperkurs und eine Show geben. Getanzt wird zu Livemusik.   
+
 ### Minor Swing im Sommer
 Der Minor Swing macht Sommerpause. In der Zwischenzeit trifft sich die Leipziger Swingtanz-Community regelmäßig mittwochs ab 19:30 Uhr bei gutem Wetter zum Social Dance am Inselteich im Clara-Zetkin-Park.
 
