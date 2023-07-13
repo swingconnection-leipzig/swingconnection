@@ -55,8 +55,6 @@ Wer sich für Do-So angemeldet hat, kann am Donnerstag ab 17:00 Uhr anreisen. We
 ### Kosten
 Die Kosten für den Workshop und die Unterkunft stehen im Anmeldeportal.
 
-Die Übernachtungs- und Verpflegungskosten müssen vor Ort in bar bezahlt werden. Es gibt keine Geldautomaten im Ort!
-
 Wir haben ein Kontingent von 5 Plätzen, für die wir keine festen Workshopgebühren verlangen, Personen zu unterstützen, die sich ein Teilnahme schwer leisten können
 
 Wir bieten Banküberweisung und PayPal als Zahlungsmöglichkeiten an. Da PayPal allerdings höhere Kosten für uns verursacht, bitten wir Euch möglichst per Banküberweisung zu bezahlen. Alternativ könnt ihr auch per Lastschrift bezahlen.
