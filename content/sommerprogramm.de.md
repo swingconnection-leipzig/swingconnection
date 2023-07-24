@@ -21,10 +21,17 @@ Woche 01.09.-10.09.
 Woche 11.09.-30.09.
 ![Kursrunde](../summer_schedule_sep_02.jpg)
 
+### Afro Dance with Unity
+Am **09.09.2023** und am **16.09.2023** findet jeweils ein Afro Dance Workshop statt. Mehr Infos erhaltet ihr auf der Seite [Afro Dance mit Unity]({{< ref "/summer_afrodance" >}} "Afro Dance mit Unity"). 
+
+
+### Twerk mit Miss Cula
+Am **13.08.2023** und am **22.08.2023** findet jeweils ein Twerk Workshop statt. Mehr Infos erhaltet ihr auf der Seite [Twerk mit Miss Cula]({{< ref "/summer_twerk" >}} "Twerk mit Miss Cula").
 
 ### Kosten
 - Für Vereinsmitglieder sind die Veranstaltungen kostenlos.
 - Externe Teilnehmende zahlen 10€ (1-1,5h) oder 15€ (>1,5h). 
+- **Der Eintritt muss in bar bezahlt werden.**
 - Afro Dance findet auf Spendenbasis statt. 
 
 ### Anmeldung
