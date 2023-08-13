@@ -5,7 +5,7 @@ slug: "sommerprogramm"
 
 ---
 
-Das Sommerprogramm ist da! Es vom **31.07.2023 bis 20.09.2023**.
+Das Sommerprogramm ist da! Es läuft vom **31.07.2023 bis 20.09.2023**.
 
 ### Stundenplan
 
