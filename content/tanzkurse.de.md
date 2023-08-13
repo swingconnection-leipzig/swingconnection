@@ -4,9 +4,7 @@ draft: false
 slug: "tanzkurse"
 ---
 
-Die Sommer-Kursrunde läuft vom **19.06.2023 bis 28.07.2023**.
-
-![Wir haben wieder viele schöne Tanzkurse für euch zusammengestellt](kursplan.jpg)
+Die nächste reguläre Kursrunde startet am **09.10.2023**. Bis dahin läuft das Sommerprogramm vom **31.07.2023 bis 20.09.2023**. Mehr Informationen erhaltet ihr dazu auf der Seite [Sommerprogramm]({{< ref "/sommerprogramm" >}} "Sommerprogramm").
 
 ### Preise
 - Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
