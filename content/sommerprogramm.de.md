@@ -5,7 +5,7 @@ slug: "sommerprogramm"
 
 ---
 
-Das Sommerprogramm ist da! Es vom **31.07.2023 bis 20.09.2023**.
+Das Sommerprogramm ist da! Es läuft vom **31.07.2023 bis 20.09.2023**.
 
 ### Stundenplan
 
@@ -24,9 +24,11 @@ Woche 11.09.-30.09.
 ### Afro Dance with Unity
 Am **09.09.2023** und am **16.09.2023** findet jeweils ein Afro Dance Workshop statt. Mehr Infos erhaltet ihr auf der Seite [Afro Dance mit Unity]({{< ref "/summer_afrodance" >}} "Afro Dance mit Unity"). 
 
-
 ### Twerk mit Miss Cula
 Am **13.08.2023** und am **22.08.2023** findet jeweils ein Twerk Workshop statt. Mehr Infos erhaltet ihr auf der Seite [Twerk mit Miss Cula]({{< ref "/summer_twerk" >}} "Twerk mit Miss Cula").
+
+### Swing dance workshop for Queers
+Am **02.09.2023** findet ein Swingtanz-Workshop für Queers statt. Mehr Infos erhaltet ihr auf der Seite [Swing dance workshop for Queers]({{< ref "/summer_queers" >}} "Swing dance workshop for Queers").
 
 ### Kosten
 - Für Vereinsmitglieder sind die Veranstaltungen kostenlos.
