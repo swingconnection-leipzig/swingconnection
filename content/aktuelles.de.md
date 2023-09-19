@@ -7,8 +7,6 @@ slug: "aktuelles"
 zuletzt aktualisiert am 19.09.2023
 
 ### Sommerprogramm
-![Kursrunde](../slider_summer_2023.jpeg)
-
 Das Sommerprogramm läuft vom **31.07.2023 bis 20.09.2023**. Mehr Informationen zu den Kursen erhaltet ihr auf der Seite [Sommerprogramm]({{< ref "/sommerprogramm" >}} "Sommerprogramm"). 
 
 ### Minor Swing
