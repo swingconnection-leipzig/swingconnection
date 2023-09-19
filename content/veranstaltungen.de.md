@@ -8,10 +8,7 @@ Nur Tanzkurse kann jeder. Wir Swingtänzer wollen mehr! Nach der Arbeit kommt da
 ### Minor Swing
 ![Minor Swing](../slider_minor_swing.png)
 
-Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen.
-**Jeden Mittwoch ab 19:30 Uhr** findet der Minor Swing **im Noels Ballroom** statt. Der Minor Swing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen.
-
-:warning: **Der Minor Swing macht Sommerpause. In der Zwischenzeit trifft sich die Leipziger Swingtanz-Community regelmäßig mittwochs ab 19:30 Uhr bei gutem Wetter zum Social Dance am Inselteich im Clara-Zetkin-Park.** :warning: 
+Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen. **Jeden Mittwoch ab 19:15 Uhr** findet der Minor Swing in unserem Tanzstudio **Calloway** statt. Der Minor Swing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen.
 
 ### Swing Tea Time
 ![Tea Dance](../slider_tea_dance.png)
@@ -21,19 +18,10 @@ In regelmäßigen Abständen laden wir zur Swing Tea Time ein. Dann hüllt sich 
 ### Spring Camp Mattstedt
 Die beiden Highlights des Jahres sind unsere Camps jeden Frühling und Sommer. Raus ins Grüne und je nach Gusto abmatten oder abtanzen. Das Spring Camp am Mühlenhof in Mattstedt richtet sich sowohl an angefixte Tanzanfänger als auch an Menschen, die schon länger dabei sind. Hier habt ihr ein ganzes Wochenende nur Swing im Kopf und lernt eure Kursgefährten und andere Kursleiter:innen besser kennen. Unser schönes Spring Camp findet dieses Jahr vom **xx.xx.2024 bis xx.xx.2024** statt.
 
-### Summer Camp Barnin
-Für Vereinsmitglieder bieten wir einmal im Jahr das Summer Camp am wunderschönen Barniner See an. Das Wochenende mit Entspannen, Baden, Tanzen und Feiern.
-
-:warning: **Aktuell pausiert das Summer Camp bis auf weiteres** :warning: 
-
 ### Tag der offenen Tür
-![Tag der offenen Tür](../slider_open_door.png)
-
 Ein- bis zweimal im Jahr veranstalten wir einen Tag der offenen Tür, an dem wir unseren Verein präsentieren und Schnupperstunden für die verschiedene Tänze anbieten, die man bei uns erlernen kann. Den nächsten Tag der offenen Tür kundigen wir unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") an.
 
 ### Swing Brunch
-![Swing Brunch](../slider_swing_brunch.png)
-
 In regelmäßigen Abständen veranstalten wir einen Swing Brunch. Laut Jahresplan finden Swing Brunches im Jahr 2023 am 04.02., 18.03., 15.07., 23.09. und 11.11. statt. Den jeweils nächsten Swing Brunch kündigen wir unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") an.
 
 ### Workshops
