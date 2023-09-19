@@ -4,7 +4,9 @@ draft: false
 slug: "tanzkurse"
 ---
 
-Die nächste reguläre Kursrunde startet am **09.10.2023**. Bis dahin läuft das Sommerprogramm vom **31.07.2023 bis 20.09.2023**. Mehr Informationen erhaltet ihr dazu auf der Seite [Sommerprogramm]({{< ref "/sommerprogramm" >}} "Sommerprogramm").
+Die Herbst-Kursrunde startet am **09.10.2023** und läuft bis zum **27.11.2023**.
+
+![Kursrunde Herbst 2023](../kursplan_herbst_2023.jpg)
 
 ### Preise
 - Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
@@ -15,7 +17,7 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermäßigte Preise gelten für
 
 ### Anmeldung
 Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden:  
-**[Zur Anmeldung](https://scl.swinggeeks.de/SCL2023-06/)**
+**[Zur Anmeldung](https://scl.swinggeeks.de/SCL2023-10/)**
 
 ### Hinweise zu den Kursen
 - Bitte beachtet unseren [Verhaltenskodex](https://docs.google.com/document/d/1EpcW5ju8RwoBK17TJuWFc2o_GQM9j8C42rYCSFf-o08/edit).
