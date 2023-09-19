@@ -46,7 +46,7 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - Katha ([E-Mail](mailto:katha@swingconnection-leipzig.com))
 - Kristian ([E-Mail](mailto:kristian@swingconnection-leipzig.com))
 - Line ([E-Mail](mailto:line@swingconnection-leipzig.com)) 
-- Liu ([E-Mail](mailto:liu@swingconnection-leipzig.com))
+- Lui ([E-Mail](mailto:lui@swingconnection-leipzig.com))
 - Nico ([E-Mail](mailto:nico@swingconnection-leipzig.com))
 - Pia ([E-Mail](mailto:pia@swingconnection-leipzig.com))
 - Sima* ([E-Mail](mailto:sima@swingconnection-leipzig.com))
@@ -59,7 +59,6 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - Leitung: Jona ([E-Mail](mailto:jona@swingconnection-leipzig.com))
 
 #### Werbung, Design & Social Media
-- Alex ([E-Mail](mailto:alex@swingconnection-leipzig.com))
 - Katha ([E-Mail](mailto:katha@swingconnection-leipzig.com))
 - Kristian ([E-Mail](mailto:kristian@swingconnection-leipzig.com))
 
