@@ -50,7 +50,6 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - Nico ([E-Mail](mailto:nico@swingconnection-leipzig.com))
 - Pia ([E-Mail](mailto:pia@swingconnection-leipzig.com))
 - Sima* ([E-Mail](mailto:sima@swingconnection-leipzig.com))
-- Sophie ([E-Mail](mailto:sophie@swingconnection-leipzig.com))
 - Steffen ([E-Mail](mailto:steffen@swingconnection-leipzig.com))
 - Thanh Ha ([E-Mail](mailto:thanh-ha@swingconnection-leipzig.com)) 
 
