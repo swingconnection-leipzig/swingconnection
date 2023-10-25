@@ -5,6 +5,9 @@ draft: false
 
 Nur Tanzkurse kann jeder. Wir Swingtänzer wollen mehr! Nach der Arbeit kommt das Spiel. In unserem Fall Veranstaltungen zum freien Tanzen, Camps und Workshops! Hier bekommt ihr eine Übersicht, was die SwingConnection außerhalb der regulären Kurse veranstaltet.
 
+### Friday Night Balboa
+Nachdem der Balboa Social im September guten Zuspruch fand, wollen wir das Format fortsetzen und laden am **03.11.2023** zum Friday Night Balboa ins Calloway ein. Wir starten 18.30 Uhr mit einem Drop-In-Kurs mit Lui und André. Im Anschluss ab 19.30 Uhr ist Balboa-Social Dance. Mehr Informationen erhaltet ihr auf der Seite [Friday Balboa Night]({{< ref "/fridaynightbalboa" >}} "Friday Night Balboa").
+
 ### Minor Swing
 ![Minor Swing](../slider_minor_swing.png)
 
