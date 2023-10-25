@@ -4,7 +4,7 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 18.10.2023
+zuletzt aktualisiert am 25.10.2023
 
 ### Herbst-Kursrunde
 ![Kursrunde Herbst 2023](../slider_kurse_herbst_2023.png)
@@ -12,7 +12,7 @@ zuletzt aktualisiert am 18.10.2023
 Die Herbst-Kursrunde startet am **09.10.2023** und läuft bis zum **27.11.2023**. Mehr Informationen erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
 
 ### Friday Balboa Night
-Am **03.11.2023** findet um 19:30 Uhr ein Balboa Social Dance in unserem Tanzstudio statt. Davor gibt es um 18:30 Uhr eine Drop-in class. Mehr Informationen erhaltet ihr auf der Seite [Friday Balboa Night]({{< ref "/fridaynightbalboa" >}} "Friday Night Balboa").
+Nachdem der Balboa Social im September guten Zuspruch fand, wollen wir das Format fortsetzen und laden am **03.11.2023** zum Friday Night Balboa ins Calloway ein. Wir starten 18.30 Uhr mit einem Drop-In-Kurs mit Lui und André. Im Anschluss ab 19.30 Uhr ist Balboa-Social Dance.  Mehr Informationen erhaltet ihr auf der Seite [Friday Balboa Night]({{< ref "/fridaynightbalboa" >}} "Friday Night Balboa").
 
 ### Dance and smile with Mito
 Am Samstag, den **25.11.2023**, gibt es die Möglichkeit einen Einblick in Afro Swing und traditionelle Tänze aus Mozambik zu gewinnen. In beiden Workshops wird solo getanzt werden. Mehr Informationen erhaltet ihr auf der Seite [Dance and smile with Mito]({{< ref "/workshop_mito" >}} "Dance and smile with Mito"). 
