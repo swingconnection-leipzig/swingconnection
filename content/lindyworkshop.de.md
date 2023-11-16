@@ -23,7 +23,7 @@ Katha & Alex
 
 ### Zeit
 - Teil 1: 26.11., 15:00-17:00 Uhr
-- Teil 2: 01.12., 17:00-19:00 Uhr
+- Teil 2: 02.12., 17:00-19:00 Uhr
 
 ### Ort
 Calloway (Dufourstraße 8)
