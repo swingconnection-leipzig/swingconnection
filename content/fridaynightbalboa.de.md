@@ -5,9 +5,15 @@ slug: "fridaynightbalboa"
 
 ---
 
+![Dance and smile always with Mito](../slider_friday_night_balboa.png)
+
 Wir laden am **01.12.2023** zum **Friday Night Balboa** ins Calloway ein.
 
-**Mehr Infos folgen.**
+**Mehr Infos folgen.** 
+
+(:dizzy: Fest steht, dass es mit Glühwein und Punsch vorweihnachtlich werden darf :christmas_tree: )
+
+
 
 ### Ort
 Calloway (Dufourstraße 8)
