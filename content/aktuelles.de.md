@@ -4,7 +4,7 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 16.11.2023
+zuletzt aktualisiert am 17.11.2023
 
 ### Herbst-Kursrunde
 ![Kursrunde Herbst 2023](../slider_kurse_herbst_2023.png)
