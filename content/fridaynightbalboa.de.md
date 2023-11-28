@@ -5,15 +5,15 @@ slug: "fridaynightbalboa"
 
 ---
 
-![Dance and smile always with Mito](../slider_friday_night_balboa.png)
+![Friday Night Balboa](../slider_friday_night_balboa.png)
 
-Wir laden am **01.12.2023** zum **Friday Night Balboa** ins Calloway ein.
+Die SwingConnection Leipzig lädt am **01.12.2023** zum **Friday Night Balboa** im Dezember ein. Wir starten **18.30 Uhr** mit einem Drop-In-Kurs. Das Thema wird noch ausgearbeitet - lasst euch überraschen oder fragt kurz vorher noch mal nach. Auf jeden Fall wird der Kurs Beginner:innen-freundlich, aber auch für erfahrene Tänzer:innen interessante Elemente enthalten. Unterrichtsprache ist deutsch, englische Übersetzungen sind möglich. Es ist keine Anmeldung erforderlich. Bitte sei pünktlich.  
 
-**Mehr Infos folgen.** 
+Im Anschluss **ab 19.30 Uhr** ist **Balboa-Social Dance**. Es darf gerne etwas vorweihnachtlich werden. Glühwein und Punsch sind an der Bar vorhanden.
 
-(:dizzy: Fest steht, dass es mit Glühwein und Punsch vorweihnachtlich werden darf :christmas_tree: )
-
-
+### Zeit
+- 18.30 Uhr Drop-In-Kurs 
+- 19.30 – 22.30 Uhr Social Dance
 
 ### Ort
 Calloway (Dufourstraße 8)
@@ -25,6 +25,7 @@ Calloway (Dufourstraße 8)
 - Snacks dürfen gerne mitgebracht werden.  
 
 ### Kosten:
-- Social-Dance: auf Spendenbasis (Vorschlag 3-8 €)
+- Drop-In Kurs: 10 € / für Vereinsmitglieder kostenlos
+- Social-Dance: auf Spendenbasis (Vorschlag 5-8 €)
 
 Wir freuen uns auf euch! 
