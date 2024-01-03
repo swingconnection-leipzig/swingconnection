@@ -11,6 +11,9 @@ zuletzt aktualisiert am 03.01.2024
 
 Die Winter-Kursrunde startet am **12.02.2024** und läuft bis zum **22.03.2024**. Mehr Informationen erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
 
+### Mattstedt 2024 - Save the date
+Unser schönes Spring Camp findet dieses Jahr vom **06.06.2024 bis 09.06.2024** statt. Mehr Informationen erhaltet ihr auf der Seite [Mattstedt]({{< ref "/mattstedt" >}} "Mattstedt").
+
 ### Minor Swing
 Der Minor Swing findet ab dem **11.10.2023** regelmäßig mittwochs ab 19:15 Uhr in unserem Tanzstudio **Calloway** statt.
 
