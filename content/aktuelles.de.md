@@ -15,7 +15,7 @@ Die Winter-Kursrunde startet am **12.02.2024** und läuft bis zum **22.03.2024**
 Unser schönes Spring Camp findet dieses Jahr vom **06.06.2024 bis 09.06.2024** statt. Mehr Informationen erhaltet ihr auf der Seite [Mattstedt]({{< ref "/mattstedt" >}} "Mattstedt").
 
 ### Minor Swing
-Der Minor Swing findet ab dem **11.10.2023** regelmäßig mittwochs ab 19:15 Uhr in unserem Tanzstudio **Calloway** statt.
+Der Minor Swing findet regelmäßig mittwochs ab 19:15 Uhr in unserem Tanzstudio **Calloway** statt.
 
 ### Swing Kalender für Leipzig
 Im vereinsunabhängigen Kalender [**"Swing in Leipzig"**](https://kalender.digital/0c529f4b4448ea55b992) findet ihr eine Übersicht *aller* Swing Veranstaltungen in Leipzig (Kurse, Workshops, Tanzabende, Social Dances, Konzerte).
