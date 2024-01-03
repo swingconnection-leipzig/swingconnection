@@ -4,12 +4,12 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 04.12.2023
+zuletzt aktualisiert am 03.01.2024
 
 ### Herbst-Kursrunde
 ![Kursrunde Herbst 2023](../slider_kurse_herbst_2023.png)
 
-Die Herbst-Kursrunde startet am **09.10.2023** und läuft bis zum **27.11.2023**. Mehr Informationen erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
+Die Winter-Kursrunde startet am **12.02.2024** und läuft bis zum **22.03.2024**. Mehr Informationen erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
 
 ### Minor Swing
 Der Minor Swing findet ab dem **11.10.2023** regelmäßig mittwochs ab 19:15 Uhr in unserem Tanzstudio **Calloway** statt.
