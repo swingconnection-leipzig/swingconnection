@@ -4,9 +4,9 @@ draft: false
 slug: "tanzkurse"
 ---
 
-Die Herbst-Kursrunde startet am **09.10.2023** und läuft bis zum **27.11.2023**.
+Die Herbst-Kursrunde startet am **12.02.2024** und läuft bis zum **22.03.2024**.
 
-![Kursrunde Herbst 2023](../kursplan_herbst_2023.jpg)
+![Kursrunde Winter 2024](../kursplan_herbst_2023.jpg)
 
 ### Preise
 - Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
@@ -38,9 +38,9 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermäßigte Preise gelten für
 
 ### Nächste Kursrunde
 Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Dieses Jahr bieten wir neben Workshops am Wochenende und einem Sommerprogramm vier reguläre Kursrunden an:
-- 13.02.-24.03.2023 (Winter)
-- 10.04.-02.06.2023 (Frühjahr)
-- 19.06.-28.07.2023 (Sommer)
-- 09-10.-01.12.2023 (Herbst)
+- 12.02.-22.03.2024 (Winter)
+- 08.04.-31.05.2024 (Frühjahr)
+- 17.06.-26.07.2024 (Sommer)
+- 14.10.-06.12.2024 (Herbst)
 
 Die Anmeldung öffnet erfahrungsgemäß etwa zwei Wochen vor Beginn einer neuen Kursrunde. Wir kündigen die Öffnung der Anmeldung im Vorfeld auch unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles"), in unserer [Facebook-Gruppe](https://www.facebook.com/groups/swingconnection.leipzig) und auf [Instagram](https://www.instagram.com/swingconnectionleipzig/) an.
