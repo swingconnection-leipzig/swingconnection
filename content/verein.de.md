@@ -38,7 +38,6 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 
 #### Kursleiter:innen (zurzeit aktiv)
 - Alex ([E-Mail](mailto:alex@swingconnection-leipzig.com))
-- Ariane ([E-Mail](mailto:ariane@swingconnection-leipzig.com))
 - Catze ([E-Mail](mailto:catze@swingconnection-leipzig.com))
 - Ella ([E-Mail](mailto:ella@swingconnection-leipzig.com))
 - Henning ([E-Mail](mailto:henning@swingconnection-leipzig.com))
@@ -47,11 +46,9 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - Kristian ([E-Mail](mailto:kristian@swingconnection-leipzig.com))
 - Line ([E-Mail](mailto:line@swingconnection-leipzig.com)) 
 - Lui ([E-Mail](mailto:lui@swingconnection-leipzig.com))
-- Nico ([E-Mail](mailto:nico@swingconnection-leipzig.com))
 - Pia ([E-Mail](mailto:pia@swingconnection-leipzig.com))
 - Sima* ([E-Mail](mailto:sima@swingconnection-leipzig.com))
 - Steffen ([E-Mail](mailto:steffen@swingconnection-leipzig.com))
-- Thanh Ha ([E-Mail](mailto:thanh-ha@swingconnection-leipzig.com)) 
 
 #### Safer Space Team
 - Leitung: Ella ([E-Mail](mailto:ella@swingconnection-leipzig.com))
