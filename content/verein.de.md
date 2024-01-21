@@ -51,8 +51,11 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - Steffen ([E-Mail](mailto:steffen@swingconnection-leipzig.com))
 
 #### Safer Space Team
+- Catze ([E-Mail](mailto:catze@swingconnection-leipzig.com))
 - Ella ([E-Mail](mailto:ella@swingconnection-leipzig.com))
 - Jona ([E-Mail](mailto:jona@swingconnection-leipzig.com))
+- Lui ([E-Mail](mailto:lui@swingconnection-leipzig.com))
+- Pia ([E-Mail](mailto:pia@swingconnection-leipzig.com))
 
 ### Einmietungen
 - Björn ([E-Mail](mailto:einmietung@swingconnection-leipzig.com))
