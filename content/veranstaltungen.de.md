@@ -27,3 +27,6 @@ An einzelnen Wochenenden bieten wir immer mal wieder kleine und größere Worksh
 
 ### Auftritte und Schnupperkurse für private Veranstaltungen
 Wir bieten auch Auftritte und Schnupperkurse für private Veranstaltungen wie zum Beispiel Hochzeiten, Geburtstage und Firmenfeiern an. Schreiben Sie uns dazu gerne eine E-Mail an info@swingconnection-leipzig.com.
+
+### Swing Kalender für Leipzig
+Im vereinsunabhängigen Kalender [**"Swing in Leipzig"**](https://kalender.digital/0c529f4b4448ea55b992) findet ihr eine Übersicht *aller* Swing Veranstaltungen in Leipzig (Kurse, Workshops, Tanzabende, Social Dances, Konzerte).
