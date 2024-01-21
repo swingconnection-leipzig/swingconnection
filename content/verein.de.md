@@ -51,8 +51,11 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - Steffen ([E-Mail](mailto:steffen@swingconnection-leipzig.com))
 
 #### Safer Space Team
-- Leitung: Ella ([E-Mail](mailto:ella@swingconnection-leipzig.com))
-- Leitung: Jona ([E-Mail](mailto:jona@swingconnection-leipzig.com))
+- Ella ([E-Mail](mailto:ella@swingconnection-leipzig.com))
+- Jona ([E-Mail](mailto:jona@swingconnection-leipzig.com))
+
+### Einmietungen
+- Björn ([E-Mail](mailto:einmietung@swingconnection-leipzig.com))
 
 #### Werbung, Design & Social Media
 - Katha ([E-Mail](mailto:katha@swingconnection-leipzig.com))

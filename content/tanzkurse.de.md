@@ -6,7 +6,7 @@ slug: "tanzkurse"
 
 Die Herbst-Kursrunde startet am **12.02.2024** und läuft bis zum **22.03.2024**.
 
-![Kursrunde Winter 2024](../kursplan_herbst_2023.jpg)
+![Kursrunde Winter 2024](../kursplan_winter_2024.jpg)
 
 ### Preise
 - Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
@@ -16,8 +16,8 @@ Die Herbst-Kursrunde startet am **12.02.2024** und läuft bis zum **22.03.2024**
 Für Vereinsmitglieder entfällt der Kursbeitrag. Ermäßigte Preise gelten für Inhaber von Schüler-, Studenten- und Schwerbehindertenausweis oder Leipzig-Pass. Bitte legt den entsprechenden Nachweis in der ersten Kursstunde unaufgefordert vor.
 
 ### Anmeldung
-Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden:  
-**[Zur Anmeldung](https://scl.swinggeeks.de/SCL2023-10/)**
+Über unser Kursbuchungsportal könnt ihr euch ab dem **28.01.** zu den Kursen anmelden:  
+**[Zur Anmeldung](https://scl.swinggeeks.de/SCL2024-02/)**
 
 ### Hinweise zu den Kursen
 - Bitte beachtet unseren [Verhaltenskodex](https://docs.google.com/document/d/1EpcW5ju8RwoBK17TJuWFc2o_GQM9j8C42rYCSFf-o08/edit).
