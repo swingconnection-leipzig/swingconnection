@@ -4,10 +4,10 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 03.01.2024
+zuletzt aktualisiert am 21.01.2024
 
 ### Herbst-Kursrunde
-![Kursrunde Herbst 2023](../slider_kurse_herbst_2023.png)
+![Kursrunde Herbst 2023](../slider_kurse_winter_2024.png)
 
 Die Winter-Kursrunde startet am **12.02.2024** und läuft bis zum **22.03.2024**. Mehr Informationen erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
 
