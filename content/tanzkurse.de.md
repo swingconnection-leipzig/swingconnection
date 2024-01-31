@@ -4,7 +4,7 @@ draft: false
 slug: "tanzkurse"
 ---
 
-Die Herbst-Kursrunde startet am **12.02.2024** und läuft bis zum **22.03.2024**.
+Die Winter-Kursrunde läuft vom **12.02.2024** bis zum **22.03.2024**.
 
 ![Kursrunde Winter 2024](../kursplan_winter_2024.jpg)
 
