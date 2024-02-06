@@ -18,7 +18,7 @@ Wir laden am **22.03.2024** zum nächsten Friday Night Balboa ins Calloway ein. 
 Unser schönes Spring Camp findet dieses Jahr vom **06.06.2024 bis 09.06.2024** statt. Mehr Informationen erhaltet ihr auf der Seite [Mattstedt]({{< ref "/mattstedt" >}} "Mattstedt").
 
 ### Minor Swing
-Der Minor Swing findet regelmäßig mittwochs ab 19:15 Uhr in unserem Tanzstudio **Calloway** statt.
+Der Minor Swing findet regelmäßig mittwochs ab 19:30 Uhr in unserem Tanzstudio **Calloway** statt.
 
 ### Swing Kalender für Leipzig
 Im vereinsunabhängigen Kalender [**"Swing in Leipzig"**](https://kalender.digital/0c529f4b4448ea55b992) findet ihr eine Übersicht *aller* Swing Veranstaltungen in Leipzig (Kurse, Workshops, Tanzabende, Social Dances, Konzerte).
