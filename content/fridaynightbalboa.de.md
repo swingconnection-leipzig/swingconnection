@@ -26,6 +26,6 @@ Calloway (Dufourstraße 8)
 
 ### Kosten:
 - Drop-In Kurs: 10 € / für Vereinsmitglieder kostenlos
-- Social-Dance: auf Spendenbasis (Vorschlag 5-8 €)
+- Social-Dance: auf Spendenbasis (Vorschlag 5-10 €)
 
 Wir freuen uns auf euch! 
