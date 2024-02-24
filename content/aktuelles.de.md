@@ -4,7 +4,7 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 06.02.2024
+zuletzt aktualisiert am 24.02.2024
 
 ### Winter-Kursrunde
 ![Kursrunde Winter 2024](../slider_kurse_winter_2024.png)
