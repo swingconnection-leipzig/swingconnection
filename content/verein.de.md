@@ -37,7 +37,7 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - Kassenwart: Steffen Allner ([E-Mail](mailto:steffen@swingconnection-leipzig.com))
 
 #### Kursleiter:innen (zurzeit aktiv)
-- Alex ([E-Mail](mailto:alex@swingconnection-leipzig.com))
+- André ([E-Mail](mailto:andre@swingconnection-leipzig.com))
 - Catze ([E-Mail](mailto:catze@swingconnection-leipzig.com))
 - Ella ([E-Mail](mailto:ella@swingconnection-leipzig.com))
 - Henning ([E-Mail](mailto:henning@swingconnection-leipzig.com))
