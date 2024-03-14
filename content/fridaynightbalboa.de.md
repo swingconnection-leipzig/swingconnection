@@ -7,13 +7,14 @@ slug: "fridaynightbalboa"
 
 ![Friday Night Balboa](../slider_friday_night_balboa_3_2024.png)
 
-Die SwingConnection Leipzig lädt am **22.03.2024** zum **Friday Night Balboa** ein. Wir starten **18.30 Uhr** mit einem Drop-In-Kurs. Das Thema wird noch ausgearbeitet - lasst euch überraschen oder fragt kurz vorher noch mal nach. Auf jeden Fall wird der Kurs Beginner:innen-freundlich, aber auch für erfahrene Tänzer:innen interessante Elemente enthalten. Unterrichtsprache ist deutsch, englische Übersetzungen sind möglich. Es ist keine Anmeldung erforderlich. Bitte sei pünktlich.  
+Die SwingConnection Leipzig lädt am **22.03.24** zum **Friday Night Balboa** im März ein.  
+Wir starten **18:30 Uhr** mit einem **Drop-In-Kurs** mit Line und Lui. Diesmal werden wir uns dem Slow Bal - als Balboa auf langsame Musik widmen. Der ist Kurs Beginner:innen-freundlich, aber auch für erfahrene Tänzer:innen interessante Elemente enthalten. Die Unterrichtsprache ist deutsch, englische Übersetzungen sind möglich. Es ist keine Anmeldung erforderlich. Bitte sei pünktlich.
 
-Im Anschluss **ab 19.30 Uhr** ist **Balboa-Social Dance**.
+Auch beim anschließenden Social Dance 19:30 - 22:30 Uhr wird es neben Classic-Balboa ein paar Slow-Songs geben.
 
 ### Zeit
-- 18.30 Uhr Drop-In-Kurs 
-- 19.30 – 22.30 Uhr Social Dance
+- 18:30 Uhr Drop-In-Kurs (Slow Bal)
+- 19:30 – 22:30 Uhr Social Dance
 
 ### Ort
 Calloway (Dufourstraße 8)
