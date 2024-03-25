@@ -4,9 +4,9 @@ draft: false
 slug: "tanzkurse"
 ---
 
-Die Winter-Kursrunde läuft vom **12.02.2024** bis zum **22.03.2024**.
+Die Frühjahrs-Kursrunde läuft vom **08.04.2024** bis zum **31.05.2024**.
 
-![Kursrunde Winter 2024](../kursplan_winter_2024.jpg)
+
 
 ### Preise
 - Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
@@ -25,7 +25,7 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermäßigte Preise gelten für
 
 ### Anmeldung
 Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden:  
-**[Zur Anmeldung](https://scl.swinggeeks.de/SCL2024-02/)**
+
 
 ### Hinweise zu den Kursen
 - Bitte beachtet unseren [Verhaltenskodex](https://docs.google.com/document/d/1EpcW5ju8RwoBK17TJuWFc2o_GQM9j8C42rYCSFf-o08/edit).
