@@ -17,7 +17,7 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermäßigte Preise gelten für
 
 ### Level-Beschreibungen
 - Beginner: Dieser Kurs ist für alle geeignet, die noch keine Vorerfahrung haben. 
-- Mixed: Dieser Kurs ist für alle geeignet, die Lindy Hop Vorerfahrung haben, z.B. Basic-Kurse der SCL.
+- Mixed: Dieser Kurs ist für alle geeignet, die bereits etwas Vorerfahrung haben, z.B. Basic-Kurse der SCL.
 - Switch: Ihr könnt im Kurs flexibel wählen, ob ihr als Follow oder Lead üben wollt. Ihr könnt aber auch bei einer Rolle bleiben.
 - JAZZ!: Dieser Kurs besteht aus einem Solo Jazz Teil und aus einem Lindy Hop Teil, in welchem im Paar getanzt wird.
 - Int: Dieser Kurs ist für alle geeignet, die schon fortgeschritten sind, z.B. mehrere Mixed-Kurse besucht haben und die Basics sicher beherrschen.
