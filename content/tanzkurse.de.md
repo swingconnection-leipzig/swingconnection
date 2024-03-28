@@ -6,7 +6,7 @@ slug: "tanzkurse"
 
 Die Frühjahrs-Kursrunde läuft vom **08.04.2024** bis zum **31.05.2024**.
 
-
+![Kursrunde Frühjahr 2024](../schedule_spring_2024.png)
 
 ### Preise
 - Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
