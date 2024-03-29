@@ -4,9 +4,9 @@ draft: false
 slug: "tanzkurse"
 ---
 
-Die Winter-Kursrunde läuft vom **12.02.2024** bis zum **22.03.2024**.
+Die Frühjahrs-Kursrunde läuft vom **08.04.2024** bis zum **31.05.2024**.
 
-![Kursrunde Winter 2024](../kursplan_winter_2024.jpg)
+![Kursrunde Frühjahr 2024](../schedule_spring_2024.png)
 
 ### Preise
 - Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
@@ -17,7 +17,7 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermäßigte Preise gelten für
 
 ### Level-Beschreibungen
 - Beginner: Dieser Kurs ist für alle geeignet, die noch keine Vorerfahrung haben. 
-- Mixed: Dieser Kurs ist für alle geeignet, die Lindy Hop Vorerfahrung haben, z.B. Basic-Kurse der SCL.
+- Mixed: Dieser Kurs ist für alle geeignet, die bereits etwas Vorerfahrung haben, z.B. Basic-Kurse der SCL.
 - Switch: Ihr könnt im Kurs flexibel wählen, ob ihr als Follow oder Lead üben wollt. Ihr könnt aber auch bei einer Rolle bleiben.
 - JAZZ!: Dieser Kurs besteht aus einem Solo Jazz Teil und aus einem Lindy Hop Teil, in welchem im Paar getanzt wird.
 - Int: Dieser Kurs ist für alle geeignet, die schon fortgeschritten sind, z.B. mehrere Mixed-Kurse besucht haben und die Basics sicher beherrschen.
@@ -25,7 +25,8 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermäßigte Preise gelten für
 
 ### Anmeldung
 Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden:  
-**[Zur Anmeldung](https://scl.swinggeeks.de/SCL2024-02/)**
+
+**Der Link zur Anmeldung wird am 01.04. freigeschaltet**
 
 ### Hinweise zu den Kursen
 - Bitte beachtet unseren [Verhaltenskodex](https://docs.google.com/document/d/1EpcW5ju8RwoBK17TJuWFc2o_GQM9j8C42rYCSFf-o08/edit).
