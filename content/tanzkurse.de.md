@@ -16,12 +16,9 @@ Die Frühjahrs-Kursrunde läuft vom **08.04.2024** bis zum **31.05.2024**.
 Für Vereinsmitglieder entfällt der Kursbeitrag. Ermäßigte Preise gelten für Inhaber von Schüler-, Studenten- und Schwerbehindertenausweis oder Leipzig-Pass. Bitte legt den entsprechenden Nachweis in der ersten Kursstunde unaufgefordert vor.
 
 ### Level-Beschreibungen
-- Beginner: Dieser Kurs ist für alle geeignet, die noch keine Vorerfahrung haben. 
+- Basics: Dieser Kurs ist für alle geeignet, die noch keine Vorerfahrung haben. 
 - Mixed: Dieser Kurs ist für alle geeignet, die bereits etwas Vorerfahrung haben, z.B. Basic-Kurse der SCL.
-- Switch: Ihr könnt im Kurs flexibel wählen, ob ihr als Follow oder Lead üben wollt. Ihr könnt aber auch bei einer Rolle bleiben.
-- JAZZ!: Dieser Kurs besteht aus einem Solo Jazz Teil und aus einem Lindy Hop Teil, in welchem im Paar getanzt wird.
-- Int: Dieser Kurs ist für alle geeignet, die schon fortgeschritten sind, z.B. mehrere Mixed-Kurse besucht haben und die Basics sicher beherrschen.
-- Adv: Dieser Kurs ist für alle geeignet, die weit fortgeschritten sind.
+- Intermediate (Int): Dieser Kurs ist für alle geeignet, die schon fortgeschritten sind, z.B. mehrere Mixed-Kurse besucht haben und die Basics sicher beherrschen.
 
 ### Anmeldung
 Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden:  
@@ -31,6 +28,7 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermäßigte Preise gelten für
 - Bitte beachtet unseren [Verhaltenskodex](https://docs.google.com/document/d/1EpcW5ju8RwoBK17TJuWFc2o_GQM9j8C42rYCSFf-o08/edit).
 - Ihr müsst euch nicht paarweise anmelden, sondern könnt euch auch einzeln anmelden.
 - In den Kursen werden die Tanzpartner:innen regelmäßig gewechselt. Wenn ihr nicht wechseln wollt, müsst ihr das nicht tun.
+- Ihr könnt im Kurs flexibel wählen, ob ihr als Follow oder Lead üben wollt. Ihr könnt aber auch bei einer Rolle bleiben.
 - Die Kursleiter:innen sind dazu angehalten genderneutrale Sprache zu verwenden. Es wird generell von Leader und Follower (neutrale Begriffe) gesprochen und jede Person kann entscheiden welche der Rollen sie tanzen möchte.
 - Die Kurse finden auf Deutsch statt, können bei Bedarf aber auch auf Englisch gegeben werden.
 - Bitte kommt pünktlich zu den Kursen und plant Zeit zum Umziehen und Schuhe wechseln ein.
