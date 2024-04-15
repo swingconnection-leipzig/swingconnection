@@ -59,3 +59,4 @@ Wir bieten Banküberweisung und PayPal als Zahlungsmöglichkeiten an. Da PayPal 
 
 ### Anmeldung
 Über unser Kursbuchungsportal könnt ihr euch zum Spring Camp anmelden:  
+**[Zur Anmeldung](https://scl.swinggeeks.de/SCM2024/)**
