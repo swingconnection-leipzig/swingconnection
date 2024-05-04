@@ -4,7 +4,7 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 14.04.2024
+zuletzt aktualisiert am 04.05.2024
 
 ### Frühjahrs-Kursrunde
 ![Kursrunde Frühjahr 2024](../slider_kurse_spring_2024.png)
