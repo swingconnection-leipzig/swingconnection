@@ -6,7 +6,7 @@ slug: "tanzkurse"
 
 Die Sommer-Kursrunde läuft vom **19.06.2024** bis zum **24.07.2024**.
 
-![Kursrunde Frühjahr 2024](../schedule_summer_2024.jpg)
+![Kursrunde Sommer 2024](../schedule_summer_2024.jpg)
 
 ### Preise
 - Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
