@@ -17,8 +17,6 @@ Grundsätzlich richtet sich das Camp an frisch angefixte Swing-Tänzer:innen und
 ### Zeitplan & Programm
 Der Zeitplan steht erst kurz vor Beginn des Spring Camps fest, da wir in der Anmeldung auch nach euren Interessen und Leveln fragen. Wir stellen ein bunt gemischtes Programm zusammen. Es werden Kurse unterschiedlicher Level in Lindy Hop, Balboa, eventuell Shag, Blues und Solo Jazz angeboten. Darüber hinaus gibt es meistens auch Kurse zu Körperarbeit oder Taster von Tänzen anderer Stilrichtungen. Am Freitag und am Samstag gibt es jeweils eine Party mit DJs.
 
-- [Kursplan Mattstedt 2024](../Kursplan_Mattstedt_2024-06-06.pdf) (Stand 06.06.2024, Sonntag ist noch unklar, wird vor Ort geklärt)
-
 ### Teacher
 Es unterrichten euch die Kursleiter:innen der SwingConnection Leipzig.
 
@@ -61,4 +59,4 @@ Wir bieten Banküberweisung und PayPal als Zahlungsmöglichkeiten an. Da PayPal 
 
 ### Anmeldung
 Über unser Kursbuchungsportal könnt ihr euch zum Spring Camp anmelden:  
-**[Zur Anmeldung](https://scl.swinggeeks.de/SCM2024/)**
+
