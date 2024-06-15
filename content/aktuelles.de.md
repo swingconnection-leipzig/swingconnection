@@ -4,16 +4,13 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 05.06.2024
+zuletzt aktualisiert am 16.06.2024
 
 ### Sommer-Kursrunde
 
 ![Kursrunde Sommer 2024](../slider_kurse_sommer_2024.png)
 
 Die 6-wöchige Sommer-Kursrunde startet am **19.06.2024** und läuft bis zum **24.07.2024**. **Die Anmeldung ist eröffnet.** Mehr Informationen erhaltet ihr auf der Seite [Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse").
-
-### Mattstedt 2024
-Unser schönes Spring Camp findet dieses Jahr vom **06.06.2024 bis 09.06.2024** statt. Mehr Informationen erhaltet ihr auf der Seite [Mattstedt]({{< ref "/mattstedt" >}} "Mattstedt").
 
 ### Minor Swing
 Der Minor Swing findet regelmäßig mittwochs ab 19:30 Uhr in unserem Tanzstudio Calloway statt.
