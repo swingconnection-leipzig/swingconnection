@@ -58,7 +58,7 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - Pia ([E-Mail](mailto:pia@swingconnection-leipzig.com))
 
 ### Einmietungen
-- Björn ([E-Mail](mailto:einmietung@swingconnection-leipzig.com))
+- Björn & Luisa ([E-Mail](mailto:einmietung@swingconnection-leipzig.com))
 
 #### Werbung, Design & Social Media
 - Katha ([E-Mail](mailto:katha@swingconnection-leipzig.com))
@@ -67,5 +67,6 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 #### Internetseite
 - Henning ([E-Mail](mailto:henning@swingconnection-leipzig.com))
 - Steffen ([E-Mail](mailto:steffen@swingconnection-leipzig.com))
+- Christoph ([E-Mail](mailto:christoph@swingconnection-leipzig.com))
 
 Fragen oder Anregungen zur Internetseite können gerne an website@swingconnection-leipzig.com gerichtet werden.
