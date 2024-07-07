@@ -1,0 +1,81 @@
+[[main]]
+identifier = 'aktuelles'
+name = 'News'
+url = 'en/news/'
+weight = 10
+
+[[main]]
+identifier = 'tanzkurse'
+name = 'Dance classes'
+url = 'en/classes/'
+weight = 20
+
+[[main]]
+identifier = 'veranstaltungen'
+name = 'Events'
+url = 'en/events/'
+weight = 30
+
+[[main]]
+name = "Minor Swing"
+url = "en/minorswing/"
+parent = "veranstaltungen"
+weight = 31
+
+[[main]]
+name = "Friday Night Balboa"
+url = "en/fridaynightbalboa/"
+parent = "veranstaltungen"
+weight = 32
+
+[[main]]
+identifier = 'calloway'
+name = 'Studio'
+url = 'en/calloway/'
+weight = 40
+
+[[main]]
+identifier = 'verein'
+name = 'Our association'
+url = 'en/association/'
+weight = 50
+
+[[main]]
+parent = 'verein'
+identifier = 'geschichte'
+name = 'Vereinsgeschichte'
+url = 'en/geschichte/'
+weight = 51
+
+[[main]]
+identifier = 'kontakt'
+name = 'Contact & Imprint'
+url = 'en/contact/'
+weight = 60
+
+[[main]]
+weight = 70
+identifier = "facebook"
+pre = "<i class='fab fa-facebook fa-fw' aria-hidden='true'></i>"
+post = ""
+name = ""
+url = "https://www.facebook.com/groups/swingconnection.leipzig"
+title = "Facebook"
+
+[[main]]
+weight = 80
+identifier = "instagram"
+pre = "<i class='fab fa-instagram fa-fw' aria-hidden='true'></i>"
+post = ""
+name = ""
+url = "https://www.instagram.com/swingconnectionleipzig/"
+title = "Instagram"
+
+[[main]]
+weight = 90
+identifier = "youtube"
+pre = "<i class='fab fa-youtube fa-fw' aria-hidden='true'></i>"
+post = ""
+name = ""
+url = "https://www.youtube.com/user/swingconnection"
+title = "Youtube"	
