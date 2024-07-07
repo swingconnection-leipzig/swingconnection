@@ -1,0 +1,16 @@
+baseURL = 'https://swingconnection-leipzig.github.io/swingconnection/'
+title = 'SwingConnection Leipzig e.V.'
+theme = 'LoveIt'
+enableEmoji = true
+
+defaultContentLanguage = 'de'
+languageCode = 'de-De'
+languageName = "German"
+
+# Author config
+[author]
+  name = "Swingconnection Leipzig e.V."
+
+# Options to make hugo output files
+[outputs]
+  home = ["HTML", "JSON"]
