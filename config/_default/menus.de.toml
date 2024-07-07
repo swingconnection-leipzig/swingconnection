@@ -47,6 +47,12 @@ parent = "veranstaltungen"
 weight = 35
 
 [[main]]
+name = "Swing Brunch"
+url = "/swingbrunch/"
+parent = "veranstaltungen"
+weight = 35
+
+[[main]]
 identifier = 'calloway'
 name = 'Tanzstudio'
 url = '/calloway/'
