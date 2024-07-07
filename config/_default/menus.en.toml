@@ -85,7 +85,7 @@ url = 'en/history/'
 weight = 52
 
 [[main]]
-identifier = 'contakt'
+identifier = 'contact'
 name = 'Contact & Imprint'
 url = 'en/contact/'
 weight = 60
