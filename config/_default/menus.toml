@@ -29,10 +29,40 @@ parent = "veranstaltungen"
 weight = 32
 
 [[main]]
+name = "Mattstedt"
+url = "/mattstedt/"
+parent = "veranstaltungen"
+weight = 33
+
+[[main]]
+name = "Tag der offenen Tür"
+url = "/opendoor/"
+parent = "veranstaltungen"
+weight = 34
+
+[[main]]
+name = "Swing Tea Time"
+url = "/swingteatime/"
+parent = "veranstaltungen"
+weight = 35
+
+[[main]]
+name = "Swing Brunch"
+url = "/swingbrunch/"
+parent = "veranstaltungen"
+weight = 35
+
+[[main]]
 identifier = 'calloway'
 name = 'Tanzstudio'
 url = '/calloway/'
 weight = 40
+
+[[main]]
+parent = 'calloway'
+name = 'Einmietung'
+url = '/einmietung/'
+weight = 41
 
 [[main]]
 identifier = 'verein'
@@ -42,10 +72,17 @@ weight = 50
 
 [[main]]
 parent = 'verein'
+identifier = 'mitgliedschaft'
+name = 'Mitgliedschaft'
+url = '/mitgliedschaft/'
+weight = 51
+
+[[main]]
+parent = 'verein'
 identifier = 'geschichte'
 name = 'Vereinsgeschichte'
 url = '/geschichte/'
-weight = 51
+weight = 52
 
 [[main]]
 identifier = 'kontakt'
