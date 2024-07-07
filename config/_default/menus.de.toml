@@ -53,6 +53,12 @@ url = '/calloway/'
 weight = 40
 
 [[main]]
+parent = 'calloway'
+name = 'Einmietung'
+url = '/einmietung/'
+weight = 41
+
+[[main]]
 identifier = 'verein'
 name = 'Unser Verein'
 url = '/verein/'
