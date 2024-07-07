@@ -1,0 +1,9 @@
+[de]
+    weight = 1
+    languageCode = "de"
+    languageName = "Deutsch"
+
+[en]
+    weight = 2
+    languageCode = "en"
+    languageName = "English"
