@@ -29,6 +29,24 @@ parent = "veranstaltungen"
 weight = 32
 
 [[main]]
+name = "Mattstedt"
+url = "/mattstedt/"
+parent = "veranstaltungen"
+weight = 33
+
+[[main]]
+name = "Tag der offenen Tür"
+url = "/opendoor/"
+parent = "veranstaltungen"
+weight = 34
+
+[[main]]
+name = "Swing Tea Time"
+url = "/swingteatime/"
+parent = "veranstaltungen"
+weight = 35
+
+[[main]]
 identifier = 'calloway'
 name = 'Tanzstudio'
 url = '/calloway/'
