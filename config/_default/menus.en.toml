@@ -1,17 +1,17 @@
 [[main]]
-identifier = 'aktuelles'
+identifier = 'news'
 name = 'News'
 url = 'en/news/'
 weight = 10
 
 [[main]]
-identifier = 'tanzkurse'
-name = 'Dance classes'
+identifier = 'classes'
+name = 'Classes'
 url = 'en/classes/'
 weight = 20
 
 [[main]]
-identifier = 'veranstaltungen'
+identifier = 'events'
 name = 'Events'
 url = 'en/events/'
 weight = 30
@@ -53,27 +53,27 @@ url = 'en/calloway/'
 weight = 40
 
 [[main]]
-identifier = 'verein'
+identifier = 'association'
 name = 'Our association'
 url = 'en/association/'
 weight = 50
 
 [[main]]
-parent = 'verein'
+parent = 'association'
 identifier = 'membership'
 name = 'Membership'
 url = '/membership/'
 weight = 51
 
 [[main]]
-parent = 'verein'
-identifier = 'geschichte'
-name = 'Vereinsgeschichte'
-url = 'en/geschichte/'
+parent = 'association'
+identifier = 'history'
+name = 'History'
+url = 'en/history/'
 weight = 52
 
 [[main]]
-identifier = 'kontakt'
+identifier = 'contakt'
 name = 'Contact & Imprint'
 url = 'en/contact/'
 weight = 60
