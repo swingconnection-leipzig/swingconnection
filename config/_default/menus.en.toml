@@ -60,10 +60,17 @@ weight = 50
 
 [[main]]
 parent = 'verein'
+identifier = 'membership'
+name = 'Membership'
+url = '/membership/'
+weight = 51
+
+[[main]]
+parent = 'verein'
 identifier = 'geschichte'
 name = 'Vereinsgeschichte'
 url = 'en/geschichte/'
-weight = 51
+weight = 52
 
 [[main]]
 identifier = 'kontakt'
