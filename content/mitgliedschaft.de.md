@@ -4,7 +4,6 @@ draft: false
 slug: "mitgliedschaft"
 ---
 
-### Mitgliedschaft
 Du hast in den Basicskursen Swingluft geschnuppert und willst mehr? Wir freuen uns immer über Zuwachs. Als Mitglied bei der SwingConnection Leipzig kannst du dich aktiv am Vereinsleben beteiligen. Außerdem kannst du das ganze Jahr über kostenlos an allen regulären Tanzkursen teilnehmen und bekommst ermäßigten Zugang zu weiteren Veranstaltungen, die die SCL organisiert. Falls du Fragen zur Mitgliedschaft hast, sprich uns gerne bei unseren Veranstaltungen an oder schreibe uns eine [E-Mail](info@swingconnection-leipzig.com).
 
 #### Jahresgebühr
