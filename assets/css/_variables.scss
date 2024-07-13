@@ -32,7 +32,7 @@ $global-link-color: #161209 !default;
 $global-link-color-dark: #a9a9b3 !default;
 
 // Color of the hover link
-$global-link-hover-color: #2d96bd !default;
+$global-link-hover-color: #ce8380 !default;
 $global-link-hover-color-dark: #fff !default;
 
 // Color of the border
@@ -67,7 +67,8 @@ $header-background-color: #f8f8f8 !default;
 $header-background-color-dark: #252627 !default;
 
 // Color of the hover header item
-$header-hover-color: #00648a;
+//$header-hover-color: #00648a;
+$header-hover-color: #991916;
 $header-hover-color-dark: #fff !default;
 
 // Color of the search background
@@ -81,12 +82,13 @@ $toc-title-font-size: 1.2rem !default;
 $toc-content-font-size: 1rem !default;
 
 // Color of the single link
-$single-link-color: #00648a;
-$single-link-color-dark: #55bde2 !default;
+$single-link-color: #991916;
+$single-link-color-dark:  #a24443 !default;
 
 // Color of the hover single link
-$single-link-hover-color: #ef3982 !default;
-$single-link-hover-color-dark: #bdebfc !default;
+//$single-link-hover-color: #ef3982 !default;
+$single-link-hover-color: #ce8380 !default;
+$single-link-hover-color-dark: #ce8380 !default;
 
 // Color of the table background
 $table-background-color: #fff !default;
