@@ -14,7 +14,7 @@ tba.
 Calloway (Dufourstraße 8)
 
 ### Hinweise
-- Bitte beachtet unseren [Code of Conduct](https://drive.google.com/file/d/1YkaUGv2HEB9FJ01FnjdeniP-5yl-rAqF/)
+- Bitte beachtet unseren [Code of Conduct](../Code_of_Conduct_-_Kurse.pdf)
 - Bitte denkt an saubere Wechselschuhe.  
 - Getränke sind gegen Vertrauenskasse an der Bar vorhanden.  
 
