@@ -17,7 +17,7 @@ url = '/veranstaltungen/'
 weight = 30
 
 [[main]]
-name = "Minor Swing"
+name = "Minor Swing Social"
 url = "/minorswing/"
 parent = "veranstaltungen"
 weight = 31
@@ -28,11 +28,11 @@ url = "/fridaynightbalboa/"
 parent = "veranstaltungen"
 weight = 32
 
-[[main]]
-name = "Mattstedt"
-url = "/mattstedt/"
-parent = "veranstaltungen"
-weight = 33
+#[[main]]
+#name = "Mattstedt"
+#url = "/mattstedt/"
+#parent = "veranstaltungen"
+#weight = 33
 
 [[main]]
 name = "Tag der offenen Tür"
@@ -46,11 +46,11 @@ url = "/swingteatime/"
 parent = "veranstaltungen"
 weight = 35
 
-[[main]]
-name = "Swing Brunch"
-url = "/swingbrunch/"
-parent = "veranstaltungen"
-weight = 35
+#[[main]]
+#name = "Swing Brunch"
+#url = "/swingbrunch/"
+#parent = "veranstaltungen"
+#weight = 35
 
 [[main]]
 identifier = 'calloway'

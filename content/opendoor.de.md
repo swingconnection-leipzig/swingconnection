@@ -8,7 +8,7 @@ slug: "opendoor"
 Ein- bis zweimal im Jahr veranstalten wir einen Tag der offenen Tür, an dem wir unseren Verein präsentieren und Schnupperstunden für die verschiedene Tänze anbieten, die man bei uns erlernen kann.
 
 ### Zeit
-tba.
+> Der Termin wird mit dem Sommerprogramm angekündigt!
 
 ### Ort
 Calloway (Dufourstraße 8)

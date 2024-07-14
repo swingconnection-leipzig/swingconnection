@@ -7,7 +7,9 @@ slug: "fridaynightbalboa"
 
 ![Friday Night Balboa](../slider_fnb_mai_2024.png)
 
-Die SwingConnection Leipzig lädt am **xx.xx.2024** zum **Friday Night Balboa** ein.  
+> Der nächste Termin steht noch nicht fest.
+
+[//]: # (Die SwingConnection Leipzig lädt am **xx.xx.2024** zum **Friday Night Balboa** ein.  )
 Wir starten **18:30 Uhr** mit einem **Drop-In-Kurs**. Der Kurs ist Beginner:innen-freundlich, wird aber auch für erfahrene Tänzer:innen interessant sein. Es sind alle Level willkommen! Die Unterrichtsprache ist deutsch, englische Übersetzungen sind möglich. Es ist keine Anmeldung erforderlich. Bitte sei pünktlich.
 
 Im Anschluss ab **19.30 Uhr** ist **Balboa-Social Dance**. 
