@@ -35,8 +35,8 @@ parent = "events"
 weight = 33
 
 [[main]]
-name = "Tag der offenen Tür"
-url = "en/opendoor/"
+name = "Open Doors Day"
+url = "en/opendoors/"
 parent = "events"
 weight = 34
 
