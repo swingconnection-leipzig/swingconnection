@@ -1,7 +1,7 @@
 ---
 title: "Tag der offenen Tür"
 draft: false
-slug: "opendoor"
+slug: "tag-der-offenen-tuer"
 
 ---
 
