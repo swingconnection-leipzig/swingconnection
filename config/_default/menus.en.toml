@@ -74,7 +74,7 @@ weight = 50
 parent = 'association'
 identifier = 'membership'
 name = 'Membership'
-url = '/membership/'
+url = 'en/membership/'
 weight = 51
 
 [[main]]
