@@ -17,7 +17,7 @@ url = '/veranstaltungen/'
 weight = 30
 
 [[main]]
-name = "Minor Swing"
+name = "Minor Swing Social"
 url = "/minorswing/"
 parent = "veranstaltungen"
 weight = 31
