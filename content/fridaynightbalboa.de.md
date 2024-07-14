@@ -20,7 +20,7 @@ Im Anschluss ab **19.30 Uhr** ist **Balboa-Social Dance**.
 Calloway (Dufourstraße 8)
 
 ### Hinweise
-- Es ist ein SwingConnection-Event. Bitte beachtet unseren [Code of Conduct](https://drive.google.com/file/d/1YkaUGv2HEB9FJ01FnjdeniP-5yl-rAqF/)
+- Es ist ein SwingConnection-Event. Bitte beachtet unseren [Code of Conduct](../Code_of_Conduct_-_Kurse.pdf)
 - Bitte denkt an saubere Wechselschuhe.  
 - Getränke sind gegen Vertrauenskasse an der Bar vorhanden.  
 - Snacks dürfen gerne mitgebracht werden.  
