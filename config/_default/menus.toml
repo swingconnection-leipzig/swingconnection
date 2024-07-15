@@ -36,7 +36,7 @@ weight = 33
 
 [[main]]
 name = "Tag der offenen Tür"
-url = "/opendoor/"
+url = "/tag-der-offenen-tuer/"
 parent = "veranstaltungen"
 weight = 34
 

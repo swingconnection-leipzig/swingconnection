@@ -25,7 +25,7 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermäßigte Preise gelten für
 **[Zur Anmeldung](https://scl.swinggeeks.de/SCL2024-06/)**
 
 ### Hinweise zu den Kursen
-- Bitte beachtet unseren [Verhaltenskodex](https://docs.google.com/document/d/1EpcW5ju8RwoBK17TJuWFc2o_GQM9j8C42rYCSFf-o08/edit).
+- Bitte beachtet unseren [Verhaltenskodex](../Code_of_Conduct_-_Kurse.pdf).
 - Ihr müsst euch nicht paarweise anmelden, sondern könnt euch auch einzeln anmelden.
 - In den Kursen werden die Tanzpartner:innen regelmäßig gewechselt. Wenn ihr nicht wechseln wollt, müsst ihr das nicht tun.
 - Ihr könnt im Kurs flexibel wählen, ob ihr als Follow oder Lead üben wollt. Ihr könnt aber auch bei einer Rolle bleiben.
