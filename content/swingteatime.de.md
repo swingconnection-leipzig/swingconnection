@@ -10,13 +10,13 @@ slug: "swingteatime"
 In regelmäßigen Abständen laden wir zur Swing Tea Time ein. Dann hüllt sich unser Tanzstudio in den Duft frisch gebackener Kuchen und den Klang eines Louis Armstrong, Django Reinhardt oder einer Ella Fitzgerald. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. 
 
 ### Zeit
-tba.
+> Die nächsten Termine werden mit dem Sommerprogramm angekündigt!
 
 ### Ort
 Calloway (Dufourstraße 8)
 
 ### Hinweise
-- Bitte beachtet unseren [Code of Conduct](https://drive.google.com/file/d/1YkaUGv2HEB9FJ01FnjdeniP-5yl-rAqF/)
+- Bitte beachtet unseren [Code of Conduct](../Code_of_Conduct_-_Kurse.pdf)
 - Bitte denkt an saubere Wechselschuhe.  
 - Getränke sind gegen Vertrauenskasse an der Bar vorhanden.  
 

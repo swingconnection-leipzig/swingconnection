@@ -17,40 +17,40 @@ url = 'en/events/'
 weight = 30
 
 [[main]]
-name = "Minor Swing"
+name = "Minor Swing Social"
 url = "en/minorswing/"
 parent = "events"
 weight = 31
 
-[[main]]
-name = "Friday Night Balboa"
-url = "en/fridaynightbalboa/"
-parent = "events"
-weight = 32
+#[[main]]
+#name = "Friday Night Balboa"
+#url = "en/fridaynightbalboa/"
+#parent = "events"
+#weight = 32
+#
+#[[main]]
+#name = "Mattstedt"
+#url = "en/mattstedt/"
+#parent = "events"
+#weight = 33
+#
+#[[main]]
+#name = "Open Doors Day"
+#url = "en/opendoors/"
+#parent = "events"
+#weight = 34
+#
+#[[main]]
+#name = "Swing Tea Time"
+#url = "en/swingteatime/"
+#parent = "events"
+#weight = 35
 
-[[main]]
-name = "Mattstedt"
-url = "en/mattstedt/"
-parent = "events"
-weight = 33
-
-[[main]]
-name = "Tag der offenen Tür"
-url = "en/opendoor/"
-parent = "events"
-weight = 34
-
-[[main]]
-name = "Swing Tea Time"
-url = "en/swingteatime/"
-parent = "events"
-weight = 35
-
-[[main]]
-name = "Swing Brunch"
-url = "en/swingbrunch/"
-parent = "events"
-weight = 35
+#[[main]]
+#name = "Swing Brunch"
+#url = "en/swingbrunch/"
+#parent = "events"
+#weight = 35
 
 [[main]]
 identifier = 'calloway'
@@ -58,11 +58,11 @@ name = 'Studio'
 url = 'en/calloway/'
 weight = 40
 
-[[main]]
-parent = 'calloway'
-name = 'Renting'
-url = 'en/renting/'
-weight = 41
+#[[main]]
+#parent = 'calloway'
+#name = 'Renting'
+#url = 'en/renting/'
+#weight = 41
 
 [[main]]
 identifier = 'association'
@@ -70,19 +70,19 @@ name = 'Our association'
 url = 'en/association/'
 weight = 50
 
-[[main]]
-parent = 'association'
-identifier = 'membership'
-name = 'Membership'
-url = '/membership/'
-weight = 51
+#[[main]]
+#parent = 'association'
+#identifier = 'membership'
+#name = 'Membership'
+#url = 'en/membership/'
+#weight = 51
 
-[[main]]
-parent = 'association'
-identifier = 'history'
-name = 'History'
-url = 'en/history/'
-weight = 52
+#[[main]]
+#parent = 'association'
+#identifier = 'history'
+#name = 'History'
+#url = 'en/history/'
+#weight = 52
 
 [[main]]
 identifier = 'contact'
