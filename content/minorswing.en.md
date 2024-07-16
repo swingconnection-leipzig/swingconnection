@@ -1,7 +1,7 @@
 ---
 title: "Minor Swing"
 draft: false
-slug: "minorswing"
+slug: "minor-swing-social"
 
 ---
 

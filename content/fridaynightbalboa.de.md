@@ -1,7 +1,7 @@
 ---
 title: "Friday Night Balboa"
 draft: false
-slug: "fridaynightbalboa"
+slug: "friday-night-balboa"
 
 ---
 

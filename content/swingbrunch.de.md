@@ -1,7 +1,7 @@
 ---
 title: "Swing Brunch"
 draft: false
-slug: "swingbrunch"
+slug: "swing-brunch"
 ---
 
 In regelmäßigen Abständen laden wir zum Swing Brunch ein. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. 

@@ -18,13 +18,13 @@ weight = 30
 
 [[main]]
 name = "Minor Swing Social"
-url = "en/minorswing/"
+url = "en/minor-swing-social/"
 parent = "events"
 weight = 31
 
 #[[main]]
 #name = "Friday Night Balboa"
-#url = "en/fridaynightbalboa/"
+#url = "en/friday-night-balboa/"
 #parent = "events"
 #weight = 32
 #
@@ -36,19 +36,19 @@ weight = 31
 #
 #[[main]]
 #name = "Open Doors Day"
-#url = "en/opendoors/"
+#url = "en/open-doors-day/"
 #parent = "events"
 #weight = 34
 #
 #[[main]]
 #name = "Swing Tea Time"
-#url = "en/swingteatime/"
+#url = "en/swing-tea-time/"
 #parent = "events"
 #weight = 35
 
 #[[main]]
 #name = "Swing Brunch"
-#url = "en/swingbrunch/"
+#url = "en/swing-brunch/"
 #parent = "events"
 #weight = 35
 
