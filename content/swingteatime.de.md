@@ -1,7 +1,7 @@
 ---
 title: "Swing Tea Time"
 draft: false
-slug: "swingteatime"
+slug: "swing-tea-time"
 
 ---
 
