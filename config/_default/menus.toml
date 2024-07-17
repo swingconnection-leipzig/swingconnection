@@ -18,13 +18,13 @@ weight = 30
 
 [[main]]
 name = "Minor Swing"
-url = "/minorswing/"
+url = "/minor-swing-social/"
 parent = "veranstaltungen"
 weight = 31
 
 [[main]]
 name = "Friday Night Balboa"
-url = "/fridaynightbalboa/"
+url = "/friday-night-balboa/"
 parent = "veranstaltungen"
 weight = 32
 
@@ -42,13 +42,13 @@ weight = 34
 
 [[main]]
 name = "Swing Tea Time"
-url = "/swingteatime/"
+url = "/swing-tea-time/"
 parent = "veranstaltungen"
 weight = 35
 
 [[main]]
 name = "Swing Brunch"
-url = "/swingbrunch/"
+url = "/swing-brunch/"
 parent = "veranstaltungen"
 weight = 35
 

@@ -1,8 +1,7 @@
 ---
 title: "Minor Swing"
 draft: false
-slug: "minorswing"
-
+slug: "minor-swing-social"
 ---
 
 ![Minor Swing](../slider_minor_swing.png)
