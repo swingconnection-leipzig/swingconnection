@@ -4,7 +4,13 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 16.06.2024
+zuletzt aktualisiert am 19.07.2024
+
+### Sommerprogramm
+
+Dieses Jahr findet vom **5. August** bis zum **29. September** wieder ein [Sommerprogramm]({{< ref "/sommerprogramm" >}}) statt. 
+
+![Kursrunde Sommer 2024](../Sommerprogramm_Woche_1+2b.jpg)
 
 ### Sommer-Kursrunde
 
