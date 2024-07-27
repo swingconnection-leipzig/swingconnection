@@ -8,19 +8,25 @@ Nur Tanzkurse kann jeder. Wir Swingtänzer wollen mehr! Nach der Arbeit kommt da
 Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") an.
 
 ### Minor Swing
+> Achtung: Während des Sommers findet bei guten Wetter kein Minor Swing im Calloway statt. Stattdessen treffen sich viele Tänzer am Inselteich im Clara-Zetkin-Park.
+
 Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen. **Jeden Mittwoch ab 19:30 Uhr** findet der Minor Swing in unserem Tanzstudio **Calloway** statt. Der Minor Swing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Mehr Infos erhaltet ihr auf der Seite [Minor Swing]({{< ref "/minorswing" >}} "Minor Swing").
+
+### Swing Tea Time
+> Die nächsten Termine sind **18\. August und 22\. September jeweils ab 16:00 bis 20:00 Uhr**
+
+In regelmäßigen Abständen laden wir zur Swing Tea Time ein. Dann hüllt sich unser Tanzstudio in den Duft frisch gebackener Kuchen und den Klang eines Louis Armstrong, Django Reinhardt oder einer Ella Fitzgerald. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Mehr Infos erhaltet ihr auf der Seite [Swing Tea Time]({{< ref "/swingteatime" >}} "Swing Tea Time").
+
+### Tag der offenen Tür
+> Der Tag der offenen Tür findet am **29\. September ab 13:00 bis 16:00 Uhr** statt
+
+Ein- bis zweimal im Jahr veranstalten wir einen Tag der offenen Tür, an dem wir unseren Verein präsentieren und Schnupperstunden für die verschiedene Tänze anbieten, die man bei uns erlernen kann. Mehr Infos erhaltet ihr auf der Seite [Tag der offenen Tür]({{< ref "/opendoor" >}} "Tag der offenen Tür").
 
 ### Friday Night Balboa
 In regelmäßigen Abständen laden wir zum Friday Night Balboa ein. Mehr Infos erhaltet ihr auf der Seite [Friday Night Balboa]({{< ref "/fridaynightbalboa" >}} "Friday Night Balboa").
 
-### Swing Tea Time
-In regelmäßigen Abständen laden wir zur Swing Tea Time ein. Dann hüllt sich unser Tanzstudio in den Duft frisch gebackener Kuchen und den Klang eines Louis Armstrong, Django Reinhardt oder einer Ella Fitzgerald. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Mehr Infos erhaltet ihr auf der Seite [Swing Tea Time]({{< ref "/swingteatime" >}} "Swing Tea Time").
-
 ### Spring Camp Mattstedt
 Die beiden Highlights des Jahres sind unsere Camps jeden Frühling und Sommer. Raus ins Grüne und je nach Gusto abmatten oder abtanzen. Das Spring Camp am Mühlenhof in Mattstedt richtet sich sowohl an angefixte Tanzanfänger als auch an Menschen, die schon länger dabei sind. Hier habt ihr ein ganzes Wochenende nur Swing im Kopf und lernt eure Kursgefährten und andere Kursleiter:innen besser kennen. Mehr Infos erhaltet ihr auf der Seite [Mattstedt]({{< ref "/mattstedt" >}} "Mattstedt").
-
-### Tag der offenen Tür
-Ein- bis zweimal im Jahr veranstalten wir einen Tag der offenen Tür, an dem wir unseren Verein präsentieren und Schnupperstunden für die verschiedene Tänze anbieten, die man bei uns erlernen kann. Mehr Infos erhaltet ihr auf der Seite [Tag der offenen Tür]({{< ref "/opendoor" >}} "Tag der offenen Tür").
 
 ### Swing Brunch
 In regelmäßigen Abständen veranstalten wir einen Swing Brunch.
