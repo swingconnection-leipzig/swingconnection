@@ -8,7 +8,7 @@ slug: "tag-der-offenen-tuer"
 Ein- bis zweimal im Jahr veranstalten wir einen Tag der offenen Tür, an dem wir unseren Verein präsentieren und Schnupperstunden für die verschiedene Tänze anbieten, die man bei uns erlernen kann.
 
 ### Zeit
-> Der Termin wird mit dem Sommerprogramm angekündigt!
+29\. September ab 13:00 bis 16:00 Uhr
 
 ### Ort
 Calloway (Dufourstraße 8)
