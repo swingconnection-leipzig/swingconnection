@@ -4,9 +4,10 @@ draft: false
 slug: "tanzkurse"
 ---
 
-Die Sommer-Kursrunde läuft vom **19.06.2024** bis zum **24.07.2024**.
+### Sommerprogramm
+Während der Sommerpause findet unser Sommerprogramm vom **5. August** bis zum **29. September** mit interessanten und abwechslungsreichen Workshops statt. Mehr Informationen findet ihr unter der Seite [Sommerprogramm]({{< ref "/sommerprogramm" >}}).
 
-![Kursrunde Sommer 2024](../schedule_summer_2024.jpg)
+> Die nächste reguläre Kursrunde startet im Herbst ab dem **14. Oktober**.
 
 ### Preise
 - Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
