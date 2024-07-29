@@ -10,7 +10,7 @@ zuletzt aktualisiert am 27.07.2024
 
 Dieses Jahr findet vom **5. August** bis zum **29. September** wieder ein [Sommerprogramm]({{< ref "/sommerprogramm" >}}) statt. 
 
-![Kursrunde Sommer 2024](../Sommerprogramm_Woche_1+2b.jpg)
+![Kursrunde Sommer 2024](../Sommerprogramm_Woche_1+2_v2.jpg)
 
 ### Tag der offenen Tür
 Der Tag der offenen Tür findet am **29\. September ab 13:00 bis 16:00 Uhr** statt. Ein- bis zweimal im Jahr veranstalten wir einen Tag der offenen Tür, an dem wir unseren Verein präsentieren und Schnupperstunden für die verschiedene Tänze anbieten, die man bei uns erlernen kann. Mehr Infos erhaltet ihr auf der Seite [Tag der offenen Tür]({{< ref "/opendoor" >}} "Tag der offenen Tür").
