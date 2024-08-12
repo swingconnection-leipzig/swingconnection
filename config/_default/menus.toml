@@ -17,6 +17,12 @@ parent = "tanzkurse"
 weight = 21
 
 [[main]]
+name = 'Fit for Swing Workshop'
+url = '/fit-for-swing-workshop/'
+parent = "tanzkurse"
+weight = 22
+
+[[main]]
 identifier = 'veranstaltungen'
 name = 'Veranstaltungen'
 url = '/veranstaltungen/'
