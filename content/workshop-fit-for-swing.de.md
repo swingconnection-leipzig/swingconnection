@@ -20,7 +20,9 @@ Bitte bring Folgendes zum Workshop mit:
 
 > Für diesen Workshop ist eine Anmeldung erforderlich. [Jetzt anmelden](https://scl.swinggeeks.de/SCL2024-08/)
 
-![Marlen Schumann ](../Marlen_Schumann.jpg)
+![Marlen Schumann, Foto: &copy; Sabrina Lieb](../Marlen_Schumann.jpg)
+Foto: &copy; Sabrina Lieb
+
 
 **Marlen Schumann** ist Tänzerin, Choreographin und Tanzdozentin und fokussiert sich seit vielen Jahren auf die Tänzer-Fitness. Sie ist ausgebildete Fitness- und Athletiktrainerin und absolviert derzeit eine Sportphysiotherapie-Ausbildung. Sie führt Tänzerinnen und Tänzer in das athletische Training ein und ist deutschlandweit an verschiedenen Tanzcompagnien und Gesundheitsprojekten im Tanz tätig.
 
