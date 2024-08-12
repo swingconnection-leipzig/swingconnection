@@ -12,6 +12,9 @@ Dieses Jahr findet vom **5. August** bis zum **29. September** wieder ein [Somme
 
 ![Sommerprogramm 2024](../Sommerprogramm_Woche_1+2_v3.jpg)
 
+### Fit for Swing
+Unser Sommerprogramm bietet dieses Jahr etwas Besonderes: Den Workshop "[Fit for Swing]({{< ref "/workshop-fit-for-swing" >}})" mit Marlen Schumann am 20. August. Schwerpunkte sind Koordinations- und Kraftübungen sowie essentielle Tipps zur Verletzungsprävention für Tänzer.
+
 ### Tag der offenen Tür
 Der Tag der offenen Tür findet am **29\. September ab 13:00 bis 16:00 Uhr** statt. Ein- bis zweimal im Jahr veranstalten wir einen Tag der offenen Tür, an dem wir unseren Verein präsentieren und Schnupperstunden für die verschiedene Tänze anbieten, die man bei uns erlernen kann. Mehr Infos erhaltet ihr auf der Seite [Tag der offenen Tür]({{< ref "/opendoor" >}} "Tag der offenen Tür").
 
