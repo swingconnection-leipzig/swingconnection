@@ -17,8 +17,8 @@ parent = "tanzkurse"
 weight = 21
 
 [[main]]
-name = 'Fit for Swing Workshop'
-url = '/fit-for-swing-workshop/'
+name = 'Dance Fitness Workshop'
+url = '/dance-fitness-workshop/'
 parent = "tanzkurse"
 weight = 22
 
