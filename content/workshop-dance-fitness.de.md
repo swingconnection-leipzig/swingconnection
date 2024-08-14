@@ -1,11 +1,11 @@
 ---
-title: "Fit for Swing"
+title: "Dance Fitness"
 draft: false
-slug: "fit-for-swing-workshop"
+slug: "dance-fitness-workshop"
 ---
 
 
-![Fit for Swing Workshop](../workshop_fitforswing_h.png)
+![Dance Fitness Workshop](../workshop_dancefitness.png)
 
 ---
 
