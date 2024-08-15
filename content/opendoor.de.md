@@ -5,6 +5,8 @@ slug: "tag-der-offenen-tuer"
 
 ---
 
+![Tag der offenen Tür](../slider_open_door_09-2024.png)
+
 Ein- bis zweimal im Jahr veranstalten wir einen Tag der offenen Tür, an dem wir unseren Verein präsentieren und Schnupperstunden für die verschiedene Tänze anbieten, die man bei uns erlernen kann.
 
 ### Zeit
