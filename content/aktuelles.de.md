@@ -4,13 +4,10 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 14.08.2024
+zuletzt aktualisiert am 17.08.2024
 
 ### Sommerprogramm
-
 Dieses Jahr findet vom **5. August** bis zum **29. September** wieder ein [Sommerprogramm]({{< ref "/sommerprogramm" >}}) statt. 
-
-![Sommerprogramm 2024](../Sommerprogramm_Woche_1+2_v3.jpg)
 
 ### Dance Fitness
 Unser Sommerprogramm bietet dieses Jahr etwas Besonderes: Den Workshop "[Dance Fitness]({{< ref "/workshop-dance-fitness" >}})" mit Marlen Schumann am 20. August. Schwerpunkte sind Koordinations- und Kraftübungen sowie essentielle Tipps zur Verletzungsprävention für Tänzer.
