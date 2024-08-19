@@ -13,7 +13,7 @@ Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktue
 Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen. **Jeden Mittwoch ab 19:30 Uhr** findet der Minor Swing in unserem Tanzstudio **Calloway** statt. Der Minor Swing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Mehr Infos erhaltet ihr auf der Seite [Minor Swing]({{< ref "/minorswing" >}} "Minor Swing").
 
 ### Swing Tea Time
-> Die nächsten Termine sind **18\. August und 22\. September jeweils ab 16:00 bis 20:00 Uhr**
+> Die nächsten Termine sind **22\. und 29\. September jeweils ab 16:00 bis 20:00 Uhr**
 
 In regelmäßigen Abständen laden wir zur Swing Tea Time ein. Dann hüllt sich unser Tanzstudio in den Duft frisch gebackener Kuchen und den Klang eines Louis Armstrong, Django Reinhardt oder einer Ella Fitzgerald. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Mehr Infos erhaltet ihr auf der Seite [Swing Tea Time]({{< ref "/swingteatime" >}} "Swing Tea Time").
 
