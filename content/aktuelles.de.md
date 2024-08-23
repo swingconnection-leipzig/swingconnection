@@ -9,9 +9,6 @@ zuletzt aktualisiert am 23.08.2024
 ### Sommerprogramm
 Dieses Jahr findet vom **5. August** bis zum **29. September** wieder ein [Sommerprogramm]({{< ref "/sommerprogramm" >}}) statt. 
 
-### Dance Fitness
-Unser Sommerprogramm bietet dieses Jahr etwas Besonderes: Den Workshop "[Dance Fitness]({{< ref "/workshop-dance-fitness" >}})" mit Marlen Schumann am 20. August. Schwerpunkte sind Koordinations- und Kraftübungen sowie essentielle Tipps zur Verletzungsprävention für Tänzer.
-
 ### Tag der offenen Tür
 Der Tag der offenen Tür findet am **29\. September ab 13:00 bis 16:00 Uhr** statt. Erlebt unseren Verein und nutzt die Chance, verschiedene Tänze bei Schnupperstunden auszuprobieren, die wir im Kursprogramm haben. Mehr Infos erhaltet ihr auf der Seite [Tag der offenen Tür]({{< ref "/opendoor" >}} "Tag der offenen Tür").
 
