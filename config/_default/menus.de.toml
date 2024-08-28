@@ -17,12 +17,6 @@ parent = "tanzkurse"
 weight = 21
 
 [[main]]
-name = 'Dance Fitness Workshop'
-url = '/dance-fitness-workshop/'
-parent = "tanzkurse"
-weight = 22
-
-[[main]]
 identifier = 'veranstaltungen'
 name = 'Veranstaltungen'
 url = '/veranstaltungen/'
