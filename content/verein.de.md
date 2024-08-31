@@ -35,6 +35,11 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - Erste Vorsitzende: Ella Felix ([E-Mail](mailto:ella@swingconnection-leipzig.com))
 - Stellv. Vorsitzende: Katharina Lübbers ([E-Mail](mailto:katha@swingconnection-leipzig.com))
 - Kassenwart: Henning Nolzen ([E-Mail](mailto:henning@swingconnection-leipzig.com))
+- André Müller ([E-Mail](mailto:andre@swingconnection-leipzig.com))
+- Julia von Gönner ([E-Mail](mailto:julia@swingconnection-leipzig.com))
+- Kristian Frach ([E-Mail](mailto:kristian@swingconnection-leipzig.com))
+- Kristian Konrad ([E-Mail](mailto:kristian.c@swingconnection-leipzig.com))
+- Steffen Allner ([E-Mail](mailto:steffen@swingconnection-leipzig.com))
 
 #### Kursleiter:innen (zurzeit aktiv)
 - André ([E-Mail](mailto:andre@swingconnection-leipzig.com))
