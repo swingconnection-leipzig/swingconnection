@@ -10,6 +10,5 @@ Den Abschluss unseres Sommerprogramms bildet ein [Tag der offenen Tür]({{< ref 
 
 > Für den Workshop "Balzomba" ist eine Anmeldung erforderlich: [zur Anmeldung](https://scl.swinggeeks.de/SCL2024-08/)
 
-![Sommerprogramm 2024 - Woche 3+4](../schedule_summer_2024_week3+4.png)
 ![Sommerprogramm 2024 - Woche 5+6](../schedule_summer_2024_week5+6.png)
 ![Sommerprogramm 2024 - Woche 7+8](../schedule_summer_2024_week7+8.png)
