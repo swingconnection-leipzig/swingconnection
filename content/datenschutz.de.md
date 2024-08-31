@@ -37,6 +37,11 @@ gesetzlich vertreten durch den Vorstand nach § 26 BGB:
 Ella Felix – Erste Vorsitzende  
 Katharina Lübbers – Stellv. Vorsitzende  
 Henning Nolzen – Kassenwart
+André Müller  
+Julia von Gönner  
+Kristian Frach  
+Kristian Konrad  
+Steffen Allner  
 
 Kontaktdaten des Datenschutzbeauftragten/der Datenschutzbeauftragten:
 -nicht benannt, da weniger als 10 Personen im regelmäßigem Umgang mit personenbezogenen Daten
