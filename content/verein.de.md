@@ -38,7 +38,7 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - André Müller ([E-Mail](mailto:andre@swingconnection-leipzig.com))
 - Julia von Gönner ([E-Mail](mailto:julia@swingconnection-leipzig.com))
 - Kristian Frach ([E-Mail](mailto:kristian@swingconnection-leipzig.com))
-- Kristian Konrad ([E-Mail](mailto:kristian.c@swingconnection-leipzig.com))
+- Kristian Conrad ([E-Mail](mailto:kristian.c@swingconnection-leipzig.com))
 - Steffen Allner ([E-Mail](mailto:steffen@swingconnection-leipzig.com))
 
 #### Kursleiter:innen (zurzeit aktiv)

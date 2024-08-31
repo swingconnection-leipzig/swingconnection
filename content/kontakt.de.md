@@ -18,7 +18,7 @@ Henning Nolzen – Kassenwart
 André Müller  
 Julia von Gönner  
 Kristian Frach  
-Kristian Konrad  
+Kristian Conrad  
 Steffen Allner  
 
 Der Vorstand ist verantwortlich für den Inhalt der Webseite nach § 55 Abs. 2 RStV. Quellenangabe für die verwendeten Bilder und Grafiken ist SwingConnection-Leipzig e.V.

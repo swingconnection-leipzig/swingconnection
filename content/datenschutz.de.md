@@ -40,7 +40,7 @@ Henning Nolzen – Kassenwart
 André Müller  
 Julia von Gönner  
 Kristian Frach  
-Kristian Konrad  
+Kristian Conrad  
 Steffen Allner  
 
 Kontaktdaten des Datenschutzbeauftragten/der Datenschutzbeauftragten:
