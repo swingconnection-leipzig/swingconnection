@@ -17,6 +17,12 @@ parent = "tanzkurse"
 weight = 21
 
 [[main]]
+name = 'Lindy Hop mit Pomona & Grey'
+url = '/lindy-workshop-pomona-grey/'
+parent = "tanzkurse"
+weight = 22
+
+[[main]]
 identifier = 'veranstaltungen'
 name = 'Veranstaltungen'
 url = '/veranstaltungen/'
