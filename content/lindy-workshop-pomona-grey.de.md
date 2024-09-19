@@ -36,7 +36,9 @@ Calloway (Dufourstraße 8)
 - Snacks dürfen gerne mitgebracht werden.  
 
 ### Kosten:
-- Normalpreis: 20 € 
-- SCL-Mitglieder: 10 € 
-
+- Gesamter Workshop - Normalpreis: 25 € 
+- Gesamter Workshop - SCL-Mitglied: 15 € 
+- Eine Stunde - Normalpreis: 20 € 
+- Eine Stunde - SCL-Mitglied: 10 € 
+ 
 Wir freuen uns auf euch! 
