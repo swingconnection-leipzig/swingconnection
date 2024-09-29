@@ -7,6 +7,8 @@ slug: "tag-der-offenen-tuer"
 
 ![Tag der offenen Tür](../slider_open_door_09-2024.png)
 
+> Der nächste Termin steht noch nicht fest.
+
 ---
 
 Du hast Lust auf Swing tanzen, aber weißt noch nicht, mit welchem unserer Kurse du einsteigen sollst? Du willst erst mal schauen, ob Swing tanzen überhaupt etwas für dich sein könnte? Oder du hast einfach Lust, etwas Neues auszuprobieren, dich zu bewegen und einen tanzbegeisterten Verein kennen zu lernen? Komm zu unserem Tag der Offenen Tür!

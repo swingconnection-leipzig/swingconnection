@@ -13,14 +13,7 @@ Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktue
 Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen. **Jeden Mittwoch ab 19:30 Uhr** findet der Minor Swing in unserem Tanzstudio **Calloway** statt. Der Minor Swing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Mehr Infos erhaltet ihr auf der Seite [Minor Swing]({{< ref "/minorswing" >}} "Minor Swing").
 
 ### Swing Tea Time
-> Die nächsten Termine sind **22\. und 29\. September jeweils ab 16:00 bis 20:00 Uhr**
-
 In regelmäßigen Abständen laden wir zur Swing Tea Time ein. Dann hüllt sich unser Tanzstudio in den Duft frisch gebackener Kuchen und den Klang eines Louis Armstrong, Django Reinhardt oder einer Ella Fitzgerald. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Mehr Infos erhaltet ihr auf der Seite [Swing Tea Time]({{< ref "/swingteatime" >}} "Swing Tea Time").
-
-### Tag der offenen Tür
-> Der Tag der offenen Tür findet am **29\. September ab 13:00 bis 16:00 Uhr** statt
-
-Ein- bis zweimal im Jahr veranstalten wir einen Tag der offenen Tür, an dem wir unseren Verein präsentieren und Schnupperstunden für die verschiedene Tänze anbieten, die man bei uns erlernen kann. Mehr Infos erhaltet ihr auf der Seite [Tag der offenen Tür]({{< ref "/opendoor" >}} "Tag der offenen Tür").
 
 ### Friday Night Balboa
 In regelmäßigen Abständen laden wir zum Friday Night Balboa ein. Mehr Infos erhaltet ihr auf der Seite [Friday Night Balboa]({{< ref "/fridaynightbalboa" >}} "Friday Night Balboa").
@@ -33,6 +26,9 @@ In regelmäßigen Abständen veranstalten wir einen Swing Brunch.
 
 ### Workshops
 An einzelnen Wochenenden bieten wir immer mal wieder kleine und größere Workshops an. Diese beinhalten zum Beispiel das Erlernen einer Swing-Routine, das Festigen von Basics oder das Erlernen neuer Moves. Außerdem bieten wir Wochenend-Intensivkurse für Anfänger:innen an.
+
+### Tag der offenen Tür
+Ein- bis zweimal im Jahr veranstalten wir einen Tag der offenen Tür, an dem wir unseren Verein präsentieren und Schnupperstunden für die verschiedene Tänze anbieten, die man bei uns erlernen kann.
 
 ### Auftritte und Schnupperkurse für private Veranstaltungen
 Wir bieten auch Auftritte und Schnupperkurse für private Veranstaltungen wie zum Beispiel Hochzeiten, Geburtstage und Firmenfeiern an. Schreiben Sie uns dazu gerne eine E-Mail an info@swingconnection-leipzig.com.
