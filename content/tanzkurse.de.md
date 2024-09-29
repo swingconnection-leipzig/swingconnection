@@ -4,9 +4,11 @@ draft: false
 slug: "tanzkurse"
 ---
 
+![Kursrunde Herbst 2024](../2024-10-kursrunde-quer.png)
+
 Die Herbst-Kursrunde läuft vom **14.10.2024** bis zum **06.12.2024**.
 
-![Kursrunde Herbst 2024](../schedule_herbst_2024.jpg)
+![Kursplan Herbst 2024](../schedule_herbst_2024.jpg)
 
 ### Preise
 - Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
