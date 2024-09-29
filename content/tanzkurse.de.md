@@ -4,12 +4,11 @@ draft: false
 slug: "tanzkurse"
 ---
 
-### Sommerprogramm
-Während der Sommerpause findet unser Sommerprogramm vom **5. August** bis zum **29. September** mit interessanten und abwechslungsreichen Workshops statt. Mehr Informationen findet ihr unter der Seite [Sommerprogramm]({{< ref "/sommerprogramm" >}}).
+![Kursrunde Herbst 2024](../2024-10-kursrunde-quer.png)
 
-> Die nächste reguläre Kursrunde startet im Herbst ab dem **14. Oktober**.
-> 
-> Bei unseren **[Tag der offenen Tür]({{< ref "/opendoor" >}}) am 29. September** könnt ihr bereits unverbindlich und kostenlos verschiedene Swingtänze ausprobieren.
+Die Herbst-Kursrunde läuft vom **14.10.2024** bis zum **06.12.2024**.
+
+![Kursplan Herbst 2024](../schedule_herbst_2024.jpg)
 
 ### Preise
 - Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
@@ -25,7 +24,7 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermäßigte Preise gelten für
 
 ### Anmeldung
 Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden:  
-**[Zur Anmeldung](https://scl.swinggeeks.de/SCL2024-06/)**
+**[Zur Anmeldung](https://scl.swinggeeks.de/SCL2024-10/)**
 
 ### Hinweise zu den Kursen
 - Bitte beachtet unseren [Verhaltenskodex](../Code_of_Conduct_-_Kurse.pdf).
