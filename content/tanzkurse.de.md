@@ -55,7 +55,7 @@ Anfängerkurs für Collegiate Shag. Nähere Kursbeschreibung folgt bald!
 {{< /admonition >}}
 
 {{< admonition success "Solo Jazz (Do 19:45)" false >}}
-Solo Jazz (auch: Authentic Jazz oder Vernacular Jazz) hat seinen Ursprung in Schwarzen Kulturkreisen (insbesondere Afro-Amerikanischen Communities) und wird häufig in Verbindung mit Paartänzen wie Lindy Hop aber auch für sich stehend getanzt. In diesem Kurs werden wir die Musik nutzen, um uns durch Rhythmen und Bewegungen zu führen, um Swing und Jazz Musik aber auch die eigenen Ideen, Emotionen und Eigenheiten auszudrücken.
+Wir lernen einige Klassiker der Solo Jazz Moves kennen und widmen uns besonders den Übergängen. Aus einfachen, reinen Schrittabfolgen entwickeln wir so verbundene, fließende Bewegungen, die Du zu deinem eigenen Tanz machst.
 {{< /admonition >}}
 
 ### Hinweise zu den Kursen
