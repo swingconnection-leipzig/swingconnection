@@ -10,17 +10,11 @@ name = 'Tanzkurse'
 url = '/tanzkurse/'
 weight = 20
 
-[[main]]
-name = 'Sommerprogramm'
-url = '/sommerprogramm/'
-parent = "tanzkurse"
-weight = 21
-
-[[main]]
-name = 'Lindy Hop mit Pomona & Grey'
-url = '/lindy-workshop-pomona-grey/'
-parent = "tanzkurse"
-weight = 22
+#[[main]]
+#name = 'Sommerprogramm'
+#url = '/sommerprogramm/'
+#parent = "tanzkurse"
+#weight = 21
 
 [[main]]
 identifier = 'veranstaltungen'
@@ -46,11 +40,11 @@ weight = 32
 #parent = "veranstaltungen"
 #weight = 33
 
-[[main]]
-name = "Tag der offenen Tür"
-url = "/tag-der-offenen-tuer/"
-parent = "veranstaltungen"
-weight = 34
+#[[main]]
+#name = "Tag der offenen Tür"
+#url = "/tag-der-offenen-tuer/"
+#parent = "veranstaltungen"
+#weight = 34
 
 [[main]]
 name = "Swing Tea Time"
