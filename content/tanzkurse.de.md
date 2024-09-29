@@ -4,7 +4,7 @@ draft: false
 slug: "tanzkurse"
 ---
 
-![Kursplan Herbst 2024](../schedule_herbst_2024.png)
+![Kursplan Herbst 2024](../schedule_herbst_2024_v2.png)
 
 Die Herbst-Kursrunde läuft vom **14.10.2024** bis zum **06.12.2024**.
 
@@ -26,44 +26,36 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermäßigte Preise gelten für
 
 ### Kursbeschreibungen
 
-#### Lindy Hop
+{{< admonition success "Balboa Basics (Di 18:30)" false >}}
+Anfängerkurs für Balboa. Nähere Kursbeschreibung folgt bald!
+{{< /admonition >}}
 
-{{< admonition success "Lindy Hop Basics (Mi 18:00)" >}}
+{{< admonition success "Balboa Mixed (Mi 18:00)" false >}}
+Dieser Kurs ist für alle geeignet, die Balboa Vorerfahrung haben, z.B. Basic-Kurse der SCL. Nähere Kursbeschreibung folgt bald!
+{{< /admonition >}}
+
+{{< admonition success "Balboa Intermediate (Di 18:30)" false >}}
+Intermediate-Kurs für Balboa. Nähere Kursbeschreibung folgt bald!
+{{< /admonition >}}
+
+{{< admonition success "Fusion (Di 19:45)" false >}}
+...
+{{< /admonition >}}
+
+{{< admonition success "Lindy Hop Basics (Mi 18:00)" false >}}
 Lindy Hop hat seinen Ursprung in Schwarzen Kulturkreisen (insbesondere Afro-Amerikanischen Communities) und wird auf Swing/Jazz Musik getanzt. Wir werden die Basics des Paartanzes lernen. Alle Personen können führen und folgen und die Rolle wechseln (switchen) oder nur eine Rolle tanzen. Wir nutzen genderneutrale Sprache und möchten eine queerfreundliche, offene Atmosphäre schaffen, mit Fokus auf Consent und Gleichberechtigung in der Tanzpartnerschaft.
 {{< /admonition >}}
 
-{{< admonition success "Lindy Hop Intermediate (Do 18:30)" >}}
-Willkommen im Lindy Charleston Lab, in dem wir zusammen am Lindy Charleston herumexperimentieren. Unter dem Mikroskop schauen wir noch einmal ganz genau auf die Basics der Bewegung, um daraus anschließend zahlreiche Figuren zu klonen. In unseren Reagenzgläsern befinden sich Dynamikvariationen, Schrittvariationen, das Tandem/Shadow inkl. diverser Eingänge, Hand-to-Hand Variationen, Transitions, Airplane, Charleston Swingouts und Switchmoves. Aber das hier ist das Lab: Hier könnt ihr euch ausprobieren und mit uns austauschen. Wir laden euch daher herzlich ein, weitere Reagenzgläser mitzubringen, damit wir zusammen neue Varianten klonen können.
+{{< admonition success "Lindy Hop Intermediate (Do 18:30)" false >}}
+Willkommen im **Lindy Charleston Lab**, in dem wir zusammen am Lindy Charleston herumexperimentieren. Unter dem Mikroskop schauen wir noch einmal ganz genau auf die Basics der Bewegung, um daraus anschließend zahlreiche Figuren zu klonen. In unseren Reagenzgläsern befinden sich Dynamikvariationen, Schrittvariationen, das Tandem/Shadow inkl. diverser Eingänge, Hand-to-Hand Variationen, Transitions, Airplane, Charleston Swingouts und Switchmoves. Aber das hier ist das Lab: Hier könnt ihr euch ausprobieren und mit uns austauschen. Wir laden euch daher herzlich ein, weitere Reagenzgläser mitzubringen, damit wir zusammen neue Varianten klonen können.
 {{< /admonition >}}
 
-#### Solo Jazz
+{{< admonition success "Shag Basics (Di 19:45)" false >}}
+Anfängerkurs für Collegiate Shag. Nähere Kursbeschreibung folgt bald!
+{{< /admonition >}}
 
-{{< admonition success "Solo Jazz (Do 19:45)" >}}
+{{< admonition success "Solo Jazz (Do 19:45)" false >}}
 Solo Jazz (auch: Authentic Jazz oder Vernacular Jazz) hat seinen Ursprung in Schwarzen Kulturkreisen (insbesondere Afro-Amerikanischen Communities) und wird häufig in Verbindung mit Paartänzen wie Lindy Hop aber auch für sich stehend getanzt. In diesem Kurs werden wir die Musik nutzen, um uns durch Rhythmen und Bewegungen zu führen, um Swing und Jazz Musik aber auch die eigenen Ideen, Emotionen und Eigenheiten auszudrücken.
-{{< /admonition >}}
-
-#### Balboa
-
-{{< admonition success "Balboa Basics (Di 18:30)" >}}
-...
-{{< /admonition >}}
-
-{{< admonition success "Balboa mixed (Mi 18:00)" >}}
-...
-{{< /admonition >}}
-
-{{< admonition success "Balboa Intermediate (Di 18:30)" >}}
-...
-{{< /admonition >}}
-
-#### Shag
-{{< admonition success "Shag Basics (Di 19:45)" >}}
-...
-{{< /admonition >}}
-
-#### Fusion
-{{< admonition success "Fusion (Di 19:45)" >}}
-...
 {{< /admonition >}}
 
 ### Hinweise zu den Kursen
