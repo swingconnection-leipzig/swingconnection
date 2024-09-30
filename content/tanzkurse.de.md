@@ -4,7 +4,7 @@ draft: false
 slug: "tanzkurse"
 ---
 
-![Kursplan Herbst 2024](../schedule_herbst_2024_ohne_websiteinfo_v3.png)
+![Kursplan Herbst 2024](../schedule_herbst_2024_ohne_websiteinfo_v4.png)
 
 Die Herbst-Kursrunde läuft vom **14.10.2024** bis zum **06.12.2024**.
 
@@ -49,7 +49,7 @@ Lindy Hop hat seinen Ursprung in Schwarzen Kulturkreisen (insbesondere Afro-Amer
 {{< /admonition >}}
 
 {{< admonition success "Lindy Hop Intermediate (Do 18:30)" false >}}
-Willkommen im **Lindy Charleston Lab**, in dem wir zusammen am Lindy Charleston herumexperimentieren. Unter dem Mikroskop schauen wir noch einmal ganz genau auf die Basics der Bewegung, um daraus anschließend zahlreiche Figuren zu klonen. In unseren Reagenzgläsern befinden sich Dynamikvariationen, Schrittvariationen, das Tandem/Shadow inkl. diverser Eingänge, Hand-to-Hand Variationen, Transitions, Airplane, Charleston Swingouts und Switchmoves. Aber das hier ist das Lab: Hier könnt ihr euch ausprobieren und mit uns austauschen. Wir laden euch daher herzlich ein, weitere Reagenzgläser mitzubringen, damit wir zusammen neue Varianten klonen können.
+Diesmal dreht sich bei uns alles um **Lindy Charleston**. Zunächst schauen wir noch einmal ganz genau auf die Basics der Bewegung, um daraus anschließend zahlreiche Figuren zu entwickeln. Dabei legen wir den Fokus auf Dynamikvariationen, Schrittvariationen, das Tandem/Shadow inkl. diverser Eingänge, Hand-to-Hand Variationen, Transitions, Airplane, Charleston Swingouts und Switchmoves. Aber das ist nicht alles: Hier könnt ihr euch ausprobieren und mit uns austauschen. Wir laden euch daher herzlich ein, weitere Lindy Charleston Themen mitzubringen, damit wir zusammen neue Varianten entdecken können.
 {{< /admonition >}}
 
 {{< admonition success "Shag Basics (Di 19:45)" false >}}
