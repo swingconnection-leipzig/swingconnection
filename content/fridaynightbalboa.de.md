@@ -5,7 +5,7 @@ slug: "friday-night-balboa"
 
 ---
 
-![Friday Night Balboa](../2024-11-1-fnb-quer.png)
+![Friday Night Balboa](../2024-11-1-fnb-quer_v2.png)
 
 Die SwingConnection Leipzig lädt am **8.11.2024** und **29.11.2024** zum **Friday Night Balboa** ein.
 
