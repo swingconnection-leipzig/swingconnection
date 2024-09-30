@@ -4,7 +4,7 @@ draft: false
 slug: "tanzkurse"
 ---
 
-![Kursplan Herbst 2024](../schedule_herbst_2024_v2.png)
+![Kursplan Herbst 2024](../schedule_herbst_2024_ohne_websiteinfo_v2.png)
 
 Die Herbst-Kursrunde läuft vom **14.10.2024** bis zum **06.12.2024**.
 
@@ -39,7 +39,9 @@ Intermediate-Kurs für Balboa. Nähere Kursbeschreibung folgt bald!
 {{< /admonition >}}
 
 {{< admonition success "Fusion (Di 19:45)" false >}}
-...
+Fusion beschreibt das freie Improvisieren mit Elementen verschiedenster Tänze, z.B. lateinamerikanische oder afrikanische Rhythmen,
+Ästhetik aus dem Jazz und Figuren aus verschiedenen Paartänzen. Getanzt wird zu zweit oder allein auf moderne Popmusik.
+Die Tanzrolle (führen, folgen, solo) kann frei gewählt und jederzeit gewechselt werden. Der Kurs ist queerfreundlich und offen für alle Menschen, unabhängig von Tanzerfahrung. Kurssprache deu/eng möglich.
 {{< /admonition >}}
 
 {{< admonition success "Lindy Hop Basics (Mi 18:00)" false >}}
@@ -51,7 +53,9 @@ Willkommen im **Lindy Charleston Lab**, in dem wir zusammen am Lindy Charleston 
 {{< /admonition >}}
 
 {{< admonition success "Shag Basics (Di 19:45)" false >}}
-Anfängerkurs für Collegiate Shag. Nähere Kursbeschreibung folgt bald!
+Wenn hohe BPM auch euer Herz höher schlagen lassen seid ihr beim **Collegiate Shag** genau richtig! Entstanden aus frühen Formen des Foxtrotts wurde er von College Studenten im Süden Amerikas in den 1930er Jahren etabliert. Es eignen sich Swing-Musik, Gypsy-Jazz und sogar Rock'n'Roll, um ihn zu tanzen.
+
+Wir wollen die Grundlagen dieses fröhlichen und energiegeladenen Swingtanzes unterrichten und dabei vor allem jede Menge Spaß mit euch haben! Es sind keinerlei Vorkenntnisse notwendig und alle können führen oder folgen und auch die Rollen switchen.
 {{< /admonition >}}
 
 {{< admonition success "Solo Jazz (Do 19:45)" false >}}
