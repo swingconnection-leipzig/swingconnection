@@ -4,7 +4,7 @@ draft: false
 slug: "tanzkurse"
 ---
 
-![Kursplan Herbst 2024](../schedule_herbst_2024_ohne_websiteinfo_v2.png)
+![Kursplan Herbst 2024](../schedule_herbst_2024_ohne_websiteinfo_v3.png)
 
 Die Herbst-Kursrunde läuft vom **14.10.2024** bis zum **06.12.2024**.
 
