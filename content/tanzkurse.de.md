@@ -4,12 +4,9 @@ draft: false
 slug: "tanzkurse"
 ---
 
-### Sommerprogramm
-Während der Sommerpause findet unser Sommerprogramm vom **5. August** bis zum **29. September** mit interessanten und abwechslungsreichen Workshops statt. Mehr Informationen findet ihr unter der Seite [Sommerprogramm]({{< ref "/sommerprogramm" >}}).
+![Kursplan Herbst 2024](../schedule_herbst_2024_ohne_websiteinfo_v2.png)
 
-> Die nächste reguläre Kursrunde startet im Herbst ab dem **14. Oktober**.
-> 
-> Bei unseren **[Tag der offenen Tür]({{< ref "/opendoor" >}}) am 29. September** könnt ihr bereits unverbindlich und kostenlos verschiedene Swingtänze ausprobieren.
+Die Herbst-Kursrunde läuft vom **14.10.2024** bis zum **06.12.2024**.
 
 ### Preise
 - Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
@@ -25,7 +22,45 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermäßigte Preise gelten für
 
 ### Anmeldung
 Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden:  
-**[Zur Anmeldung](https://scl.swinggeeks.de/SCL2024-06/)**
+**[Zur Anmeldung](https://scl.swinggeeks.de/SCL2024-10/)**
+
+### Kursbeschreibungen
+
+{{< admonition success "Balboa Basics (Di 18:30)" false >}}
+Anfängerkurs für Balboa. Nähere Kursbeschreibung folgt bald!
+{{< /admonition >}}
+
+{{< admonition success "Balboa Mixed (Mi 18:00)" false >}}
+Dieser Kurs ist für alle geeignet, die Balboa Vorerfahrung haben, z.B. Basic-Kurse der SCL. Nähere Kursbeschreibung folgt bald!
+{{< /admonition >}}
+
+{{< admonition success "Balboa Intermediate (Di 18:30)" false >}}
+Intermediate-Kurs für Balboa. Nähere Kursbeschreibung folgt bald!
+{{< /admonition >}}
+
+{{< admonition success "Fusion (Di 19:45)" false >}}
+Fusion beschreibt das freie Improvisieren mit Elementen verschiedenster Tänze, z.B. lateinamerikanische oder afrikanische Rhythmen,
+Ästhetik aus dem Jazz und Figuren aus verschiedenen Paartänzen. Getanzt wird zu zweit oder allein auf moderne Popmusik.
+Die Tanzrolle (führen, folgen, solo) kann frei gewählt und jederzeit gewechselt werden. Der Kurs ist queerfreundlich und offen für alle Menschen, unabhängig von Tanzerfahrung. Kurssprache deu/eng möglich.
+{{< /admonition >}}
+
+{{< admonition success "Lindy Hop Basics (Mi 18:00)" false >}}
+Lindy Hop hat seinen Ursprung in Schwarzen Kulturkreisen (insbesondere Afro-Amerikanischen Communities) und wird auf Swing/Jazz Musik getanzt. Wir werden die Basics des Paartanzes lernen. Alle Personen können führen und folgen und die Rolle wechseln (switchen) oder nur eine Rolle tanzen. Wir nutzen genderneutrale Sprache und möchten eine queerfreundliche, offene Atmosphäre schaffen, mit Fokus auf Consent und Gleichberechtigung in der Tanzpartnerschaft.
+{{< /admonition >}}
+
+{{< admonition success "Lindy Hop Intermediate (Do 18:30)" false >}}
+Willkommen im **Lindy Charleston Lab**, in dem wir zusammen am Lindy Charleston herumexperimentieren. Unter dem Mikroskop schauen wir noch einmal ganz genau auf die Basics der Bewegung, um daraus anschließend zahlreiche Figuren zu klonen. In unseren Reagenzgläsern befinden sich Dynamikvariationen, Schrittvariationen, das Tandem/Shadow inkl. diverser Eingänge, Hand-to-Hand Variationen, Transitions, Airplane, Charleston Swingouts und Switchmoves. Aber das hier ist das Lab: Hier könnt ihr euch ausprobieren und mit uns austauschen. Wir laden euch daher herzlich ein, weitere Reagenzgläser mitzubringen, damit wir zusammen neue Varianten klonen können.
+{{< /admonition >}}
+
+{{< admonition success "Shag Basics (Di 19:45)" false >}}
+Wenn hohe BPM auch euer Herz höher schlagen lassen seid ihr beim **Collegiate Shag** genau richtig! Entstanden aus frühen Formen des Foxtrotts wurde er von College Studenten im Süden Amerikas in den 1930er Jahren etabliert. Es eignen sich Swing-Musik, Gypsy-Jazz und sogar Rock'n'Roll, um ihn zu tanzen.
+
+Wir wollen die Grundlagen dieses fröhlichen und energiegeladenen Swingtanzes unterrichten und dabei vor allem jede Menge Spaß mit euch haben! Es sind keinerlei Vorkenntnisse notwendig und alle können führen oder folgen und auch die Rollen switchen.
+{{< /admonition >}}
+
+{{< admonition success "Solo Jazz (Do 19:45)" false >}}
+Wir lernen einige Klassiker der Solo Jazz Moves kennen und widmen uns besonders den Übergängen. Aus einfachen, reinen Schrittabfolgen entwickeln wir so verbundene, fließende Bewegungen, die Du zu deinem eigenen Tanz machst.
+{{< /admonition >}}
 
 ### Hinweise zu den Kursen
 - Bitte beachtet unseren [Verhaltenskodex](../Code_of_Conduct_-_Kurse.pdf).
