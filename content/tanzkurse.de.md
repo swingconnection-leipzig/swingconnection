@@ -4,7 +4,7 @@ draft: false
 slug: "tanzkurse"
 ---
 
-![Kursplan Herbst 2024](../schedule_herbst_2024_ohne_websiteinfo_v2.png)
+![Kursplan Herbst 2024](../schedule_herbst_2024_ohne_websiteinfo_v3.png)
 
 Die Herbst-Kursrunde läuft vom **14.10.2024** bis zum **06.12.2024**.
 
@@ -39,9 +39,9 @@ Intermediate-Kurs für Balboa. Nähere Kursbeschreibung folgt bald!
 {{< /admonition >}}
 
 {{< admonition success "Fusion (Di 19:45)" false >}}
-Fusion beschreibt das freie Improvisieren mit Elementen verschiedenster Tänze, z.B. lateinamerikanische oder afrikanische Rhythmen,
-Ästhetik aus dem Jazz und Figuren aus verschiedenen Paartänzen. Getanzt wird zu zweit oder allein auf moderne Popmusik.
-Die Tanzrolle (führen, folgen, solo) kann frei gewählt und jederzeit gewechselt werden. Der Kurs ist queerfreundlich und offen für alle Menschen, unabhängig von Tanzerfahrung. Kurssprache deu/eng möglich.
+Fusion ist ein Paartanz, bei dem Elemente aus verschiedensten Tanzstilen (z.B. Latin, Blues, Swing, Contact Improv) gemischt werden. Dabei wird frei auf moderne Musik unterschiedlicher Genre improvisiert. Die Kommunikation zwischen den Tänzer:innen steht im Vordergrund und jeder Tanz ist eine einzigartige Neuschaffung. Im Kurs fokussieren wir allgemeine Tanztechniken, ein Gefühl zum eigenen Körper und eine angenehme Verbindung zu anderen Personen, bei der sich beide Partner:innen gleichberechtigt in den Tanz einbringen können. Dabei kann frei zwischen "führen" und "folgen" gewechselt werden (Roleswitch).  Wir nutzen genderneutrale Sprache und möchten eine offene und queerfreundliche Atmosphäre schaffen.
+
+Im Anschluss an den Kurs gibt es die Möglichkeit zum Freien Tanzen, bei der das Gelernte direkt ausprobiert werden kann: **Practice Time 20:45-22:00 Uhr**
 {{< /admonition >}}
 
 {{< admonition success "Lindy Hop Basics (Mi 18:00)" false >}}
