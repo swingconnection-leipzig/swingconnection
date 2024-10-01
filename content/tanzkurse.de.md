@@ -27,7 +27,11 @@ Für Vereinsmitglieder entfällt der Kursbeitrag. Ermäßigte Preise gelten für
 ### Kursbeschreibungen
 
 {{< admonition success "Balboa Basics (Di 18:30)" false >}}
-Anfängerkurs für Balboa. Nähere Kursbeschreibung folgt bald!
+Balboa ist ein Swingtanz, der in enger Körperhaltung auf meist schnelle Musik getanzt wird und durch eine Mischung aus subtilen Gewichtswechseln, kreativem Footwork und öffnenden Figuguren beschrieben werden kann.
+
+Für den Balboa Basics-Kurs sind keine Vorerfahrungen erforderlich. Wir wollen die Grundlagen des Tanzes mit euch teilen, von Schritten und Figuren über Körperhaltung und Connection bis hin zu Skills fürs Tanzen auf dem Social Dancefloor.
+
+Alle Personen können führen / folgen sowie die Rolle wechseln (switchen) oder auch nur eine Rolle tanzen.
 {{< /admonition >}}
 
 {{< admonition success "Balboa Mixed (Mi 18:00)" false >}}
