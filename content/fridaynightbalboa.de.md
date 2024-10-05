@@ -14,7 +14,7 @@ Wir starten **18:30 Uhr** mit einem **Drop-In-Kurs**. Der Kurs ist Beginner:inne
 Im Anschluss ab **19.30 Uhr** ist **Balboa-Social Dance**. 
 
 ### Termine
-- 8\. November - mit Live-Gypsy-Swing von Djangophon!
+- 8\. November - mit **Live-Gypsy-Swing von Djangophon!**
 - 29\. November
 
 ### Zeit
@@ -32,6 +32,6 @@ Calloway (Dufourstraße 8)
 
 ### Kosten:
 - Drop-In Kurs: 10 € / für Vereinsmitglieder kostenlos
-- Social-Dance: auf Spendenbasis (Vorschlag 5-10 €)
+- Social-Dance: auf Spendenbasis (Vorschlag 5-10 €, mit Live-Musik: 12-20 €)
 
 Wir freuen uns auf euch! 
