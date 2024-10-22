@@ -232,7 +232,7 @@ Die betroffene Person kann die Setzung von Cookies durch unsere Internetseite je
 
 Ferner besteht für die betroffene Person die Möglichkeit, einer Erfassung der durch Google Analytics erzeugten, auf eine Nutzung dieser Internetseite bezogenen Daten sowie der Verarbeitung dieser Daten durch Google zu widersprechen und eine solche zu verhindern. Hierzu muss die betroffene Person ein Browser-Add-On unter dem Link https://tools.google.com/dlpage/gaoptout herunterladen und installieren.
 
-Weitere Informationen und die geltenden Datenschutzbestimmungen von Google können unter https://www.google.de/intl/de/policies/privacy/ und unter http://www.google.com/analytics/terms/de.html abgerufen werden. Google Analytics wird unter diesem Link https://www.google.com/intl/de_de/analytics/ genauer erläutert.
+Weitere Informationen und die geltenden Datenschutzbestimmungen von Google können unter https://policies.google.com/privacy und unter https://marketingplatform.google.com/about/analytics/terms/de/ abgerufen werden. Google Analytics wird unter diesem Link https://www.google.com/intl/de_de/analytics/ genauer erläutert.
 
 ### Datenschutzbestimmungen zu Einsatz und Verwendung von Google Remarketing
 
@@ -242,7 +242,7 @@ Betreibergesellschaft der Dienste von Google Remarketing ist die Google Inc., 16
 Google Remarketing setzt ein Cookie auf dem informationstechnologischen System der betroffenen Person. Mit der Setzung des Cookies wird Google eine Wiedererkennung des Besuchers unserer Internetseite ermöglicht, wenn dieser in der Folge Internetseiten aufruft, die ebenfalls Mitglied des Google-Werbenetzwerks sind. Mit jedem Aufruf einer Internetseite, auf welcher der Dienst von Google Remarketing integriert wurde, identifiziert sich der Internetbrowser der betroffenen Person automatisch bei Google. 
 Die betroffene Person kann die Setzung von Cookies durch unsere Internetseite, wie oben bereits dargestellt, jederzeit mittels einer entsprechenden Einstellung des genutzten Internetbrowsers verhindern und damit der Setzung von Cookies dauerhaft widersprechen. Für die betroffene Person die Möglichkeit, der interessenbezogenen Werbung durch Google zu widersprechen. Hierzu muss die betroffene Person von jedem der von ihr genutzten Internetbrowser aus den Link www.google.de/settings/ads aufrufen und dort die gewünschten Einstellungen vornehmen.
 
-Weitere Informationen und die geltenden Datenschutzbestimmungen von Google können unter https://www.google.de/intl/de/policies/privacy/ abgerufen werden.
+Weitere Informationen und die geltenden Datenschutzbestimmungen von Google können unter https://policies.google.com/privacy abgerufen werden.
 
 ### Datenschutzbestimmungen zu Einsatz und Verwendung von Google-AdWords
 
@@ -254,7 +254,7 @@ Gelangt eine betroffene Person über eine Google-Anzeige auf unsere Internetseit
  
 Die betroffene Person kann die Setzung von Cookies durch unsere Internetseite jederzeit mittels einer entsprechenden Einstellung des genutzten Internetbrowsers verhindern und damit der Setzung von Cookies dauerhaft widersprechen. 
 Für die betroffene Person besteht die Möglichkeit, der interessenbezogenen Werbung durch Google zu widersprechen. Hierzu muss die betroffene Person von jedem der von ihr genutzten Internetbrowser aus den Link www.google.de/settings/ads aufrufen und dort die gewünschten Einstellungen vornehmen.
-Weitere Informationen und die geltenden Datenschutzbestimmungen von Google können unter https://www.google.de/intl/de/policies/privacy/ abgerufen werden.
+Weitere Informationen und die geltenden Datenschutzbestimmungen von Google können unter https://policies.google.com/privacy abgerufen werden.
 
 ### Datenschutzbestimmungen zu Einsatz und Verwendung von YouTube
 
@@ -263,7 +263,7 @@ Betreibergesellschaft von YouTube ist die YouTube, LLC, 901 Cherry Ave., San Bru
 
 Durch jeden Aufruf einer der Einzelseiten dieser Internetseite, die durch den für die Verarbeitung Verantwortlichen betrieben wird und auf welcher eine YouTube-Komponente (YouTube-Video) integriert wurde, wird der Internetbrowser auf dem informationstechnologischen System der betroffenen Person automatisch durch die jeweilige YouTube-Komponente veranlasst, eine Darstellung der entsprechenden YouTube-Komponente von YouTube herunterzuladen. Weitere Informationen zu YouTube können unter https://www.youtube.com/yt/about/de/ abgerufen werden. Im Rahmen dieses technischen Verfahrens erhalten YouTube und Google Kenntnis darüber, welche konkrete Unterseite unserer Internetseite durch die betroffene Person besucht wird.
 
-Die von YouTube veröffentlichten Datenschutzbestimmungen, die unter https://www.google.de/intl/de/policies/privacy/ abrufbar sind, geben Aufschluss über die Erhebung, Verarbeitung und Nutzung personenbezogener Daten durch YouTube und Google.
+Die von YouTube veröffentlichten Datenschutzbestimmungen, die unter https://policies.google.com/privacy abrufbar sind, geben Aufschluss über die Erhebung, Verarbeitung und Nutzung personenbezogener Daten durch YouTube und Google.
 
 ### Zahlungsart: Datenschutzbestimmungen zu PayPal als Zahlungsart
 
