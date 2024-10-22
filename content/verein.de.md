@@ -43,17 +43,22 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 
 #### Kursleiter:innen (zurzeit aktiv)
 - André ([E-Mail](mailto:andre@swingconnection-leipzig.com))
+- Ariane ([E-Mail](mailto:ariane@swingconnection-leipzig.com))
 - Catze ([E-Mail](mailto:catze@swingconnection-leipzig.com))
 - Ella ([E-Mail](mailto:ella@swingconnection-leipzig.com))
 - Henning ([E-Mail](mailto:henning@swingconnection-leipzig.com))
 - Jona ([E-Mail](mailto:jona@swingconnection-leipzig.com))
 - Katha ([E-Mail](mailto:katha@swingconnection-leipzig.com))
-- Kristian ([E-Mail](mailto:kristian@swingconnection-leipzig.com))
+- Kristian C. ([E-Mail](mailto:kristian.c@swingconnection-leipzig.com))
+- Kristian F. ([E-Mail](mailto:kristian@swingconnection-leipzig.com))
+- Lene ([E-Mail](mailto:lene@swingconnection-leipzig.com)) 
 - Line ([E-Mail](mailto:line@swingconnection-leipzig.com)) 
 - Lui ([E-Mail](mailto:lui@swingconnection-leipzig.com))
+- Luisa ([E-Mail](mailto:luisa@swingconnection-leipzig.com))
 - Pia ([E-Mail](mailto:pia@swingconnection-leipzig.com))
 - Sima* ([E-Mail](mailto:sima@swingconnection-leipzig.com))
 - Steffen ([E-Mail](mailto:steffen@swingconnection-leipzig.com))
+- Tonia ([E-Mail](mailto:tonia@swingconnection-leipzig.com))
 
 #### Safer Space Team
 - Catze ([E-Mail](mailto:catze@swingconnection-leipzig.com))
@@ -63,7 +68,7 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - Pia ([E-Mail](mailto:pia@swingconnection-leipzig.com))
 
 ### Einmietungen
-- Björn & Luisa ([E-Mail](mailto:einmietung@swingconnection-leipzig.com))
+- Björn, Luisa & Pia ([E-Mail](mailto:einmietung@swingconnection-leipzig.com))
 
 #### Werbung, Design & Social Media
 - Katha ([E-Mail](mailto:katha@swingconnection-leipzig.com))
