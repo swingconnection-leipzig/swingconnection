@@ -13,10 +13,10 @@ Die Herbst-Kursrunde läuft vom **14.10.2024** bis zum **06.12.2024**.
 - Ermäßigt¹:   64 € (8-Wochen-Kursrunde), 48 € (6-Wochen-Kursrunde)
 - Drop-In Stunde²: 10 €
 
-1\. Ermäßigte Preise gelten für Inhaber von Schüler-, Studenten- und Schwerbehindertenausweis oder Leipzig-Pass. Bitte legt den entsprechenden Nachweis in der ersten Kursstunde unaufgefordert vor.
+¹ *Ermäßigte Preise gelten für Inhaber von Schüler-, Studenten- und Schwerbehindertenausweis oder Leipzig-Pass. Bitte legt den entsprechenden Nachweis in der ersten Kursstunde unaufgefordert vor.*
 
-2\. Drop-In-Stunden sind möglich, wenn sie in der Kursbeschreibung angekündigt oder vorab mit den Kursleiter:innen abgestimmt wurden.
-Bitte nehmt dazu rechtzeitig Kontakt zu den [Kursleiter:innen]({{< ref "verein/#kursleiterinnen-zurzeit-aktiv" >}} "Kursleiter:innen") auf.
+² *Drop-In-Stunden sind nur möglich, wenn sie in der Kursbeschreibung angekündigt oder vorab mit den Kursleiter:innen abgestimmt wurden.
+Bitte nehmt dazu rechtzeitig Kontakt zu den [Kursleiter:innen]({{< ref "verein/#kursleiterinnen-zurzeit-aktiv" >}} "Kursleiter:innen") auf.*
 
 Für Vereinsmitglieder entfällt der Kursbeitrag. 
 
