@@ -14,7 +14,7 @@ Wir starten **18:30 Uhr** mit einem **Drop-In-Kurs**. Der Kurs ist Beginner:inne
 Im Anschluss ab **19.30 Uhr** ist **Balboa-Social Dance**. 
 
 ### Termine
-- 8\. November - mit **Live-Gypsy-Swing von Djangophon!**
+- 8\. November - mit **Live-Gypsy-Swing von [Djangophon](#djangophon)!**
 - 29\. November
 
 ### Zeit
@@ -23,6 +23,10 @@ Im Anschluss ab **19.30 Uhr** ist **Balboa-Social Dance**.
 
 ### Ort
 Calloway (Dufourstraße 8)
+
+### Djangophon
+![Djangophon](../Djangophon.jpg)
+Djangophon spielt Gypsy Swing, eine temperamentvolle Facette des Jazz, voller Spielfreude und Improvisation, Musik in der Tradition von Django Reinhardt und Stéphane Grappelli die perfekt für Balboa geeignet ist.
 
 ### Hinweise
 - Es ist ein SwingConnection-Event. Bitte beachtet unseren [Code of Conduct](../Code_of_Conduct_-_Kurse.pdf)
