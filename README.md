@@ -1,4 +1,4 @@
-## SwingConnection Leipzig e.V.
+## Swingconnection-Leipzig e.V.
 
 Dieses Repository hostet die Internetseite der SwingConnection Leipzig e.V. Wenn Sie einen Bug entdeckt haben oder Fragen zu dieser Website haben, kontaktieren Sie uns bitte via [E-Email](website@swingconnection-leipzig.com).
 

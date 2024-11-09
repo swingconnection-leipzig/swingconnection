@@ -4,7 +4,7 @@ draft: false
 ---
 
 ### Impressum
-SwingConnection-Leipzig e.V. (gemeinnützig)  
+Swingconnection-Leipzig e.V. (gemeinnützig)  
 Dufourstr. 8  
 04107 Leipzig  
 
@@ -21,7 +21,7 @@ Kristian Frach
 Kristian Conrad  
 Steffen Allner  
 
-Der Vorstand ist verantwortlich für den Inhalt der Webseite nach § 55 Abs. 2 RStV. Quellenangabe für die verwendeten Bilder und Grafiken ist SwingConnection-Leipzig e.V.
+Der Vorstand ist verantwortlich für den Inhalt der Webseite nach § 55 Abs. 2 RStV. Quellenangabe für die verwendeten Bilder und Grafiken ist Swingconnection-Leipzig e.V.
 
 #### Registereintrag
 Eintragung im Vereinsregister des Amtsgerichtes Leipzig.  
