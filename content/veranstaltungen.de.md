@@ -9,7 +9,6 @@ Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktue
 
 ### Nächste Termine
 - Jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")**
-- Freitag, 08\.11 - **[Friday Night Balboa]({{< ref "/fridaynightbalboa" >}} "Friday Night Balboa")** mit Live-Musik
 - Freitag, 29\.11 - **[Friday Night Balboa]({{< ref "/fridaynightbalboa" >}} "Friday Night Balboa")**
 
 ### Minor Swing
