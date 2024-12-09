@@ -5,7 +5,7 @@ slug: "friday-night-balboa"
 
 ---
 
-Die SwingConnection Leipzig lädt am **29.11.2024** zum **Friday Night Balboa** ein.
+> Der nächste Termin steht noch nicht fest.
 
 Wir starten **18:30 Uhr** mit einem **Drop-In-Kurs**. Der Kurs ist Beginner:innen-freundlich, wird aber auch für erfahrene Tänzer:innen interessant sein. Es sind alle Level willkommen! Die Unterrichtsprache ist deutsch, englische Übersetzungen sind möglich. Es ist keine Anmeldung erforderlich. Bitte sei pünktlich.
 
