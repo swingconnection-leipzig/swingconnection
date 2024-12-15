@@ -13,7 +13,7 @@ zuletzt aktualisiert am 15.12.2024
 Das Jahr 2024 endet bei der SCL schwungvoll: Der letzte Minor Swing des Jahres findet am **18.12.2024** statt. Doch keine Sorge, die Tanzpause wird kurz: Schon am **1.1.2025** starten wir mit einem Minor Swing schwungvoll ins neue Jahr!
 
 ### Tag der offenen Tür am 19.01.2025
-Am **18.01.2025** öffnen wir unsere Türen für euch! Kommt vorbei, lernt Swingtänze kennen und schnuppert in unsere Welt des Tanzes hinein. Weitere Infos folgen in Kürze auf der Seite von unseren [Tag der offenen Tür]({{< ref "/opendoor" >}} "Tag der offenen Tür")!
+Am **19.01.2025** öffnen wir unsere Türen für euch! Kommt vorbei, lernt Swingtänze kennen und schnuppert in unsere Welt des Tanzes hinein. Weitere Infos folgen in Kürze auf der Seite von unseren [Tag der offenen Tür]({{< ref "/opendoor" >}} "Tag der offenen Tür")!
 
 [//]: # (### Minor Swing)
 [//]: # (Der **[Minor Swing]&#40;{{< ref "/minorswing" >}} "Minor Swing"&#41;** findet regelmäßig **jeden Mittwoch ab 19:30 Uhr** in unserem Tanzstudio Calloway statt.)
