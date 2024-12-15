@@ -6,7 +6,9 @@ slug: "tanzkurse"
 
 [//]: # (![Kursplan Herbst 2024]&#40;../schedule_herbst_2024_ohne_websiteinfo_v4.png&#41;)
 
-> **Die nächste Kursrunde beginnt am 03.02.2025. Die Anmeldung wird Mitte Januar hier freigeschalten.**
+> **Die nächste Kursrunde beginnt am 03.02.2025.** Die Anmeldung wird Mitte Januar hier freigeschalten. 
+> 
+> Für alle Unentschlossenen gibt es am **19.01.2025** einen **Tag der offenen Tür**, an dem ihr verschiedene Swing-Tänze ausprobieren könnt.
 
 ### Preise
 - Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
