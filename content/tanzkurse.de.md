@@ -6,7 +6,9 @@ slug: "tanzkurse"
 
 [//]: # (![Kursplan Herbst 2024]&#40;../schedule_herbst_2024_ohne_websiteinfo_v4.png&#41;)
 
-> Die nächste Kursrunde beginnt am 03.02.2025. Die Anmeldung wird Mitte Januar freigeschalten.
+> **Die nächste Kursrunde beginnt am 03.02.2025.** Die Anmeldung wird Mitte Januar hier freigeschalten. 
+> 
+> Für alle Unentschlossenen gibt es am **19.01.2025** einen **Tag der offenen Tür**, an dem ihr verschiedene Swing-Tänze ausprobieren könnt.
 
 ### Preise
 - Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
@@ -26,7 +28,7 @@ Für Vereinsmitglieder entfällt der Kursbeitrag.
 - Intermediate (Int): Dieser Kurs ist für alle geeignet, die schon fortgeschritten sind, z.B. mehrere Mixed-Kurse besucht haben und die Basics sicher beherrschen.
 
 ### Anmeldung
-> Die Anmeldung für die nächste Kursrunde wird Mitte Januar 2025 freigeschalten.
+> Die Anmeldung für die nächste Kursrunde wird Mitte Januar 2025 hier freigeschalten.
 
 [//]: # (Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden:  )
 [//]: # (**[Zur Anmeldung]&#40;https://scl.swinggeeks.de/SCL2024-10/&#41;**)
@@ -104,7 +106,7 @@ Für Vereinsmitglieder entfällt der Kursbeitrag.
 ### Hinweise zu den Räumlichkeiten
 - Die Kurse finden in unserem Tanzstudio [Calloway]({{< ref "/calloway" >}} "Calloway") und mittwochs zum Teil auch im Noels Ballroom statt. Beide Räumlichkeiten sind nicht barrierefrei.
 - Ihr dürft das Tanzparkett nicht mit Straßenschuhen, sondern nur mit Tanz- oder sauberen Sportschuhen betreten. Eure Schuhe könnt ihr im Eingangsbereich des Calloways wechseln oder auf halber Treppe im Schuhwechselraum.
-- Im Calloway gibt es genderneutrale Toiletten. Eine Toilette hat nur Einzelkabinen, eine Toilette hat Pissoirs und Einzelkabinen, sowie eine Dusche. Die Toilettenräume sind nach diesen Merkmalen ausgewiesen.
+- Im Calloway gibt es genderneutrale Toiletten. Eine Toilette hat nur Einzelkabinen, eine Toilette hat Pissoirs und Einzelkabinen. Die Toilettenräume sind nach diesen Merkmalen ausgewiesen.
 - Es gibt einen Umkleideraum mit Garderobe zwischen Küche und Erker, dieser ist ebenfalls genderneutral, aber ohne Einzelkabine. 
 
 ### Nächste Kursrunde
