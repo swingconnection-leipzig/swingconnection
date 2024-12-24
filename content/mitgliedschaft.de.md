@@ -17,8 +17,8 @@ Die Mitgliedschaft kann über unser Anmeldeportal beantragt werden.
 
 **[Hier Mitgliedschaft beantragen](https://easyverein.com/public/SCL/applicationform/3255)**
 
-Unter den folgenden Links kannst du dir die Vereinssatzung, unsere Beitragsordnung und unseren Verhaltenskodex herunterladen.
+Unter den folgenden Links kannst du dir die Vereinssatzung, unsere Beitragsordnung und unseren Code of Conduct herunterladen.
 
 - [Vereinssatzung (PDF)](../SCL_Satzung_2020-08-31.pdf)
 - [Beitragsordnung (PDF)](../SCL_Beitragsordnung_2023-01.pdf)
-- [Verhaltenskodex](../Code_of_Conduct_-_Kurse.pdf)
+- [Code of Conduct](../Code_of_Conduct_-_Kurse.pdf)

@@ -11,7 +11,7 @@ slug: "tag-der-offenen-tuer"
 
 Du hast Lust auf Swing tanzen, aber weißt noch nicht, mit welchem unserer Kurse du einsteigen sollst? Du willst erst mal schauen, ob Swing tanzen überhaupt etwas für dich sein könnte? Oder du hast einfach Lust, etwas Neues auszuprobieren, dich zu bewegen und einen tanzbegeisterten Verein kennen zu lernen? Komm zu unserem Tag der Offenen Tür!
 
-Am **Sonntag, 19. Januar 2025**, erwarten dich Schnupperkurse zu verschiedenen Swing-Tanzarten. Darauf folgend kannst du deine neu erlernten Schritte gleich bei unserem [Tea Dance]({{< ref "/swingteatime" >}}) aufs Parkett bringen. Die ganze Zeit über gibt es Kaffee und Kuchen und die Möglichkeit, den Verein und unsere Tanzkurse kennen zu lernen.
+Am **Sonntag, 19. Januar 2025**, erwarten dich Schnupperkurse zu verschiedenen Swing-Tanzarten. Darauf folgend kannst du deine neu erlernten Schritte gleich bei unserem **[Tea Dance]({{< ref "/swingteatime" >}} "Tea Dance")** aufs Parkett bringen. Die ganze Zeit über gibt es Kaffee und Kuchen und die Möglichkeit, den Verein und unsere Tanzkurse kennen zu lernen.
 
 Wie auch zu unseren regulären Kursen, brauchst du keine Tanzpartnerin oder Tanzpartner, um zu den Schnupperkursen zu kommen. Wir wechseln im Kurs mit jeder Übung oder jedem Song Tanzpartner:innen. (Ihr könnt aber natürlich auch zu zweit kommen und nicht wechseln, wenn euch das lieber ist!) Wenn du noch nicht weißt, ob du lieber führen oder folgen möchtest, kannst du im Kurs auch beide Rollen ausprobieren.
 
@@ -58,7 +58,7 @@ Im Durchgang zum Innenhof befindet sich links eine rote Tür. Dort findet ihr un
 **Kostenlos.** Über eine kleine Spende in die Spendenbox freuen wir uns natürlich immer sehr. Auch Kaffee, Tee und Kuchen bekommt ihr auf Spendenbasis.
 
 ### Hinweise zu den Kursen
-- Bitte beachtet unseren [Verhaltenskodex](../Code_of_Conduct_-_Kurse.pdf).
+- Bitte beachtet unseren [Code of Conduct](../Code_of_Conduct_-_Kurse.pdf).
 - Für den Tag der offenen Tür gibt es keine Anmeldung. Schaut einfach vorbei!
 - In den Kursen werden die Tanzpartner:innen regelmäßig gewechselt. Wenn ihr nicht wechseln wollt, müsst ihr das nicht tun.
 - Ihr könnt im Kurs flexibel wählen, ob ihr als Follow oder Lead üben wollt. Ihr könnt aber auch bei einer Rolle bleiben.

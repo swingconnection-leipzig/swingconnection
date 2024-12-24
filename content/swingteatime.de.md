@@ -7,12 +7,13 @@ slug: "swing-tea-time"
 
 ![Tea Dance](../slider_tea_dance.png)
 
-> Der nächste Termin steht noch nicht fest.
+[//]: # (> Der nächste Termin steht noch nicht fest.)
 
 In regelmäßigen Abständen laden wir zur Swing Tea Time ein. Dann hüllt sich unser Tanzstudio in den Duft frisch gebackener Kuchen und den Klang eines Louis Armstrong, Django Reinhardt oder einer Ella Fitzgerald. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. 
 
 ### Termine
-- Der nächste Termin steht noch nicht fest.
+- **19\. Januar** (Im Rahmen unseres [Tags der offenen Tür]({{< ref "/opendoor" >}}))
+- **26\. Januar** (mit zwei Lindy Hop Workshops)
 
 ### Ort
 Calloway (Dufourstraße 8)
