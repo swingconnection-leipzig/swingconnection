@@ -58,7 +58,7 @@ Im Durchgang zum Innenhof befindet sich links eine rote Tür. Dort findet ihr un
 **Kostenlos.** Über eine kleine Spende in die Spendenbox freuen wir uns natürlich immer sehr. Auch Kaffee, Tee und Kuchen bekommt ihr auf Spendenbasis.
 
 ### Hinweise zu den Kursen
-- Bitte beachtet unseren [Verhaltenskodex](../Code_of_Conduct_-_Kurse.pdf).
+- Bitte beachtet unseren [Code of Conduct](../Code_of_Conduct_-_Kurse.pdf).
 - Für den Tag der offenen Tür gibt es keine Anmeldung. Schaut einfach vorbei!
 - In den Kursen werden die Tanzpartner:innen regelmäßig gewechselt. Wenn ihr nicht wechseln wollt, müsst ihr das nicht tun.
 - Ihr könnt im Kurs flexibel wählen, ob ihr als Follow oder Lead üben wollt. Ihr könnt aber auch bei einer Rolle bleiben.
