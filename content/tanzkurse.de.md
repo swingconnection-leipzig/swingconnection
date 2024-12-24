@@ -92,7 +92,7 @@ Für Vereinsmitglieder entfällt der Kursbeitrag.
 [//]: # ({{< /admonition >}})
 
 ### Hinweise zu den Kursen
-- Bitte beachtet unseren [Verhaltenskodex](../Code_of_Conduct_-_Kurse.pdf).
+- Bitte beachtet unseren [Code of Conduct](../Code_of_Conduct_-_Kurse.pdf).
 - Ihr müsst euch nicht paarweise anmelden, sondern könnt euch auch einzeln anmelden.
 - In den Kursen werden die Tanzpartner:innen regelmäßig gewechselt. Wenn ihr nicht wechseln wollt, müsst ihr das nicht tun.
 - Ihr könnt im Kurs flexibel wählen, ob ihr als Follow oder Lead üben wollt. Ihr könnt aber auch bei einer Rolle bleiben.

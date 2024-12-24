@@ -15,6 +15,9 @@ Das Jahr 2024 endet bei der SCL schwungvoll: Der letzte Minor Swing des Jahres f
 ### Tag der offenen Tür am 19.01.2025
 Am **19.01.2025** öffnen wir unsere Türen für euch! Kommt vorbei, lernt Swingtänze kennen und schnuppert in unsere Welt des Tanzes hinein. Weitere Infos folgen in Kürze auf der Seite von unseren [Tag der offenen Tür]({{< ref "/opendoor" >}} "Tag der offenen Tür")!
 
+### Lindy Hop Workshop und Tea Dance am 26.01.2025
+Am **26.01.2025** werden zwei Lindy Hop Workshops im Mixed und Intermediate Level stattfinden. Im Anschluss gibt es einen [Tea Dance]({{< ref "/swingteatime" >}} "Tea Dance"). Nähere Infos folgen demnächst.
+
 [//]: # (### Minor Swing)
 [//]: # (Der **[Minor Swing]&#40;{{< ref "/minorswing" >}} "Minor Swing"&#41;** findet regelmäßig **jeden Mittwoch ab 19:30 Uhr** in unserem Tanzstudio Calloway statt.)
 
