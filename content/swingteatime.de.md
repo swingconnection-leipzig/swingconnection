@@ -13,7 +13,7 @@ In regelmäßigen Abständen laden wir zur Swing Tea Time ein. Dann hüllt sich 
 
 ### Termine
 - **19\. Januar** (Im Rahmen unseres [Tags der offenen Tür]({{< ref "/opendoor" >}}))
-- **26\. Januar**, ab 15:30 Uhr (mit zwei [Lindy Hop Workshops]({{< ref "/workshops" >}} "Workshops"))
+- **26\. Januar**, ab 15:15 Uhr (mit zwei [Lindy Hop Workshops]({{< ref "/workshops" >}} "Workshops"))
 
 ### Ort
 Calloway (Dufourstraße 8)
