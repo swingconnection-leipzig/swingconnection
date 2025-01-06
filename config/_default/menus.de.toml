@@ -10,11 +10,17 @@ name = 'Tanzkurse'
 url = '/tanzkurse/'
 weight = 20
 
+[[main]]
+name = 'Workshops'
+url = '/workshops/'
+parent = "tanzkurse"
+weight = 21
+
 #[[main]]
 #name = 'Sommerprogramm'
 #url = '/sommerprogramm/'
 #parent = "tanzkurse"
-#weight = 21
+#weight = 22
 
 [[main]]
 identifier = 'veranstaltungen'
