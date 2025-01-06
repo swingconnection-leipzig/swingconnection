@@ -1,10 +1,12 @@
 ---
-title: "Workshops"
+title: ""
 draft: false
 slug: "workshops"
 ---
 
 # Lindy Hop Workshop am 26.01.2025
+
+![Lindy Hop Workshop](../2025-01-lindy_ws-quer_resize.png)
 
 Am Sonntag, den 26.01.2025, erwarten euch im Calloway Lindy Hop Workshops für Mixed/Intermediate-Level zum Thema Heel Digs! Anschließend laden wir euch zu einem gemütlichen [Tea Dance]({{< ref "/swingteatime" >}} "Tea Dance") ein.
 
