@@ -96,22 +96,13 @@ Für Vereinsmitglieder entfällt der Kursbeitrag.
 [//]: # ({{< /admonition >}})
 
 ### Hinweise zu den Kursen
-- Bitte beachtet unseren [Code of Conduct](../Code_of_Conduct_-_Kurse.pdf).
-- Ihr müsst euch nicht paarweise anmelden, sondern könnt euch auch einzeln anmelden.
-- In den Kursen werden die Tanzpartner:innen regelmäßig gewechselt. Wenn ihr nicht wechseln wollt, müsst ihr das nicht tun.
-- Ihr könnt im Kurs flexibel wählen, ob ihr als Follow oder Lead üben wollt. Ihr könnt aber auch bei einer Rolle bleiben.
-- Die Kursleiter:innen sind dazu angehalten genderneutrale Sprache zu verwenden. Es wird generell von Leader und Follower (neutrale Begriffe) gesprochen und jede Person kann entscheiden welche der Rollen sie tanzen möchte.
-- Die Kurse finden auf Deutsch statt, können bei Bedarf aber auch auf Englisch gegeben werden.
-- Bitte kommt pünktlich zu den Kursen und plant Zeit zum Umziehen und Schuhe wechseln ein.
-- Solltet ihr nicht an einer Kurseinheit teilnehmen können, schreibt euren Kursleiter:innen gerne eine kurze E-Mail. 
-- Wir empfehlen bequeme, flache, saubere Sneaker oder Tanzschuhe zu tragen. Hohe Schuhe sind eher ungeeignet.
-- Wenn ihr erkältet seid oder euch krank fühlt, bleibt bitte zu Hause. 
+{{< notes_list file="notes_classes"
+items_top="Ihr müsst euch nicht paarweise anmelden, sondern könnt euch auch einzeln anmelden."
+items_bottom="Wenn ihr erkältet seid oder euch krank fühlt, bleibt bitte zu Hause.;Solltet ihr nicht an einer Kurseinheit teilnehmen können, schreibt euren Kursleiter:innen gerne eine kurze E-Mail."
+>}}
 
 ### Hinweise zu den Räumlichkeiten
-- Die Kurse finden in unserem Tanzstudio [Calloway]({{< ref "/calloway" >}} "Calloway") und mittwochs zum Teil auch im Noels Ballroom statt. Beide Räumlichkeiten sind nicht barrierefrei.
-- Ihr dürft das Tanzparkett nicht mit Straßenschuhen, sondern nur mit Tanz- oder sauberen Sportschuhen betreten. Eure Schuhe könnt ihr im Eingangsbereich des Calloways wechseln oder auf halber Treppe im Schuhwechselraum.
-- Im Calloway gibt es genderneutrale Toiletten. Eine Toilette hat nur Einzelkabinen, eine Toilette hat Pissoirs und Einzelkabinen. Die Toilettenräume sind nach diesen Merkmalen ausgewiesen.
-- Es gibt einen Umkleideraum mit Garderobe zwischen Küche und Erker, dieser ist ebenfalls genderneutral, aber ohne Einzelkabine. 
+{{< notes_list file="notes_location" >}}
 
 ### Nächste Kursrunde
 Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Nächstes Jahr bieten wir neben Workshops am Wochenende und einem Sommerprogramm vier reguläre Kursrunden an:
