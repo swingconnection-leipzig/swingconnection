@@ -56,19 +56,9 @@ Im Durchgang zum Innenhof befindet sich links eine rote Tür. Dort findet ihr un
 **Kostenlos.** Über eine kleine Spende in die Spendenbox freuen wir uns natürlich immer sehr. Auch Kaffee, Tee und Kuchen bekommt ihr auf Spendenbasis.
 
 ### Hinweise zu den Kursen
-- Bitte beachtet unseren [Code of Conduct](../Code_of_Conduct_-_Kurse.pdf).
-- Für den Tag der offenen Tür gibt es keine Anmeldung. Schaut einfach vorbei!
-- In den Kursen werden die Tanzpartner:innen regelmäßig gewechselt. Wenn ihr nicht wechseln wollt, müsst ihr das nicht tun.
-- Ihr könnt im Kurs flexibel wählen, ob ihr als Follow oder Lead üben wollt. Ihr könnt aber auch bei einer Rolle bleiben.
-- Die Kursleiter:innen sind dazu angehalten genderneutrale Sprache zu verwenden. Es wird generell von Leader und Follower (neutrale Begriffe) gesprochen und jede Person kann entscheiden welche der Rollen sie tanzen möchte.
-- Die Kurse finden auf Deutsch statt, können bei Bedarf aber auch auf Englisch gegeben werden.
-- Bitte kommt pünktlich zu den Kursen und plant Zeit zum Umziehen und Schuhe wechseln ein.
-- Wir empfehlen bequeme, flache, saubere Sneaker oder Tanzschuhe zu tragen. Hohe Schuhe sind eher ungeeignet.
-- Wenn ihr erkältet seid oder euch krank fühlt, bleibt bitte zu Hause.
+{{< notes_list file="notes_classes"
+items_top="Für den Tag der offenen Tür gibt es **keine Anmeldung**. Schaut einfach vorbei!"
+>}}
 
 ### Hinweise zu den Räumlichkeiten
-- Die Kurse finden in unserem Tanzstudio [Calloway]({{< ref "/calloway" >}} "Calloway") statt. Die Räumlichkeiten sind nicht barrierefrei.
-- Ihr dürft das Tanzparkett nicht mit Straßenschuhen, sondern nur mit Tanz- oder sauberen Sportschuhen betreten. Eure Schuhe könnt ihr im Eingangsbereich des Calloways wechseln. Falls ihr keine passenden Schuhe habt, könnt ihr auch auf Socken tanzen.
-- Im Calloway gibt es genderneutrale Toiletten. Eine Toilette hat nur Einzelkabinen, eine Toilette hat Pissoirs und Einzelkabinen, sowie eine Dusche. Die Toilettenräume sind nach diesen Merkmalen ausgewiesen.
-- Es gibt einen Umkleideraum mit Garderobe zwischen Küche und Erker, dieser ist ebenfalls genderneutral, aber ohne Einzelkabine.
-- Getränke sind gegen Vertrauenskasse an der Bar vorhanden.
+{{< notes_list file="notes_location" >}}
