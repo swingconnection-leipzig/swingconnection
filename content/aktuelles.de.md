@@ -4,13 +4,13 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 06.01.2025
+zuletzt aktualisiert am 10.01.2025
 
 [//]: # (### Friday Night Balboa)
 [//]: # (Im November laden wir euch wieder zum **[Friday Night Balboa]&#40;{{< ref "/fridaynightbalboa" >}} "Friday Night Balboa"&#41;**-Abend im Calloway ein: Am **29.11.**ab 18:30 Uhr starten wir mit einem Drop-In-Kurs, danach wird getanzt!)
 
 ### Tag der offenen Tür am 19.01.2025
-Am **19.01.2025** öffnen wir unsere Türen für euch! Kommt vorbei, lernt Swingtänze kennen und schnuppert in unsere Welt des Tanzes hinein. Weitere Infos folgen in Kürze auf der Seite von unseren [Tag der offenen Tür]({{< ref "/opendoor" >}} "Tag der offenen Tür")!
+Am **19.01.2025** öffnen wir unsere Türen für euch! Kommt vorbei, lernt Swingtänze kennen und schnuppert in unsere Welt des Tanzes hinein. Weitere Infos findet ihr auf der Seite von unseren **[Tag der offenen Tür]({{< ref "/opendoor" >}} "Tag der offenen Tür")**! Danach gibt es die Möglichkeit, beim [Tea Dance]({{< ref "/swingteatime" >}} "Tea Dance") weiterzutanzen.
 
 ### Lindy Hop Workshop und Tea Dance am 26.01.2025
 Am **26.01.2025** werden zwei **[Lindy Hop Workshops]({{< ref "/workshops" >}} "Workshops")** zum Thema Heel Digs im Mixed und Intermediate Level stattfinden. Im Anschluss gibt es einen [Tea Dance]({{< ref "/swingteatime" >}} "Tea Dance").
