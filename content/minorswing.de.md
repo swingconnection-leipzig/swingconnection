@@ -15,9 +15,7 @@ Jeden Mittwoch ab 19:30 Uhr bis 22:30 Uhr.
 Calloway (Dufourstraße 8)
 
 ### Hinweise
-- Bitte beachtet unseren [Code of Conduct](../Code_of_Conduct_-_Kurse.pdf)
-- Bitte denkt an saubere Wechselschuhe.  
-- Getränke sind gegen Vertrauenskasse an der Bar vorhanden.
+{{< notes_list file="notes_events" >}}
 
 ### Kosten
 Kostenlos. Über eine kleine Spende in die Spendenbox freuen wir uns natürlich immer sehr.

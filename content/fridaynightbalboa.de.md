@@ -22,10 +22,9 @@ Die Termine für 2025 werden bald hier angekündigt.
 Calloway (Dufourstraße 8)
 
 ### Hinweise
-- Es ist ein SwingConnection-Event. Bitte beachtet unseren [Code of Conduct](../Code_of_Conduct_-_Kurse.pdf)
-- Bitte denkt an saubere Wechselschuhe.  
-- Getränke sind gegen Vertrauenskasse an der Bar vorhanden.  
-- Snacks dürfen gerne mitgebracht werden.  
+{{< notes_list file="notes_events"
+items_bottom="Snacks dürfen gerne mitgebracht werden."
+>}}
 
 ### Kosten:
 - Drop-In Kurs: 10 € / für Vereinsmitglieder kostenlos
