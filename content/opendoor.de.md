@@ -5,7 +5,7 @@ slug: "tag-der-offenen-tuer"
 
 ---
 
-[//]: # (![Tag der offenen Tür]&#40;../slider_open_door_09-2024.png&#41;)
+![Tag der offenen Tür](../2025-01-tdot-quer.png)
 
 ---
 
@@ -19,35 +19,33 @@ Wie auch zu unseren regulären Kursen, brauchst du keine Tanzpartnerin oder Tanz
 
 ### Die Schnupperkurse
 
-> Nähere Infos zu den Schnupperkursen folgt demnächst!
+{{< admonition success "15:00-16:00 Collegiate Shag" >}}
+Collegiate Shag (oder auch nur Shag) ist ein sportlicher Swingtanz zu schneller Musik, der euch auf jeden Fall ins Schwitzen bringt. Shag ist voller energiereicher und auch witziger Figuren und kreativer Fußarbeit und bietet viel Platz für Improvisation.
+{{< /admonition >}}
 
-[//]: # ({{< admonition success "13:00-14:00 Collegiate Shag" >}})
+{{< admonition success "16:00-17:00 Balboa" >}}
+Balboa ist ein Swingtanz, der in den 1920er/30er Jahren auf überfüllten Tanzflächen in Südkalifornien entstanden ist. Entsprechend eng und klein wird getanzt. Balboa ist eine Mischung aus kreativer Fußarbeit und schnellen Drehungen und vor allem super, um auch bei schneller Musik ganz entspannt über die Tanzfläche zu gleiten.
 
-[//]: # (Collegiate Shag &#40;oder auch nur Shag&#41; ist ein sportlicher Swingtanz zu schneller Musik, der euch auf jeden Fall ins Schwitzen bringt. Shag ist voller energiereicher und auch witziger Figuren und kreativer Fußarbeit und bietet viel Platz für Improvisation.)
+*Der Kurs findet im Erker statt.*
+{{< /admonition >}}
 
-[//]: # ({{< /admonition >}})
+{{< admonition success "14:00-15:00 Lindy Hop" >}}
+Lindy Hop, entstanden in den 1930er Jahren in afroamerikanischen Ballrooms in Harlem, ist heute wahrscheinlich der bekannteste Swingtanz und wird (fast) überall auf der Welt getanzt. Lindy Hop kann entspannt zu gemächlicher oder dynamisch zu schneller Swingmusik getanzt werden und ist besonders vielfältig und kreativ.
+{{< /admonition >}}
 
-[//]: # ()
-[//]: # ({{< admonition success "14:00-15:00 Balboa" >}})
+{{< admonition success "15:00-16:00 Lindy Hop Switch (mit Vorkenntnissen)" >}}
+Du hast schon Erfahrung im Lindy Hop und möchtest neue Impulse für deinen Tanz? In diesem Kurs lernst du, wie du fließend zwischen den Rollen von Leader und Follower wechseln kannst. Entdecke die Freiheit und den Spaß am Switch Dancing – für mehr Kreativität und Flexibilität auf der Tanzfläche!
 
-[//]: # (Balboa ist ein Swingtanz, der in den 1920er/30er Jahren auf überfüllten Tanzflächen in Südkalifornien entstanden ist. Entsprechend eng und klein wird getanzt. Balboa ist eine Mischung aus kreativer Fußarbeit und schnellen Drehungen und vor allem super, um auch bei schneller Musik ganz entspannt über die Tanzfläche zu gleiten.)
-
-[//]: # ({{< /admonition >}})
-
-[//]: # ()
-[//]: # ({{< admonition success "15:00-16:00 Lindy Hop" >}})
-
-[//]: # (Lindy Hop, entstanden in den 1930er Jahren in afroamerikanischen Ballrooms in Harlem, ist heute wahrscheinlich der bekannteste Swingtanz und wird &#40;fast&#41; überall auf der Welt getanzt. Lindy Hop kann entspannt zu gemächlicher oder dynamisch zu schneller Swingmusik getanzt werden und ist besonders vielfältig und kreativ.)
-
-[//]: # ({{< /admonition >}})
+*Der Kurs findet im Erker statt.*
+{{< /admonition >}}
 
 ---
 
 ### Termin
 Am **19\. Januar**
 
-[//]: # (- ab 13:00 bis 16:00 Uhr: [Schnupperkurse]&#40;{{< ref "#die-schnupperkurse" >}}&#41;)
-[//]: # (- ab 16:00 Uhr: [Swing Tea Time]&#40;{{< ref "/swingteatime" >}}&#41; Social)
+- ab 14:00 bis 17:00 Uhr: [Schnupperkurse]({{< ref "#die-schnupperkurse" >}}) im Calloway Saal und Erker
+- ab 16:00 Uhr: [Swing Tea Time]({{< ref "/swingteatime" >}}) Social
 
 ### Ort
 Tanzstudio Calloway (Dufourstraße 8) [&rarr; Wegbeschreibung]({{< ref "/calloway#anfahrt" >}} "Anfahrt Tanzstudio")
