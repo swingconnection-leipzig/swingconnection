@@ -19,10 +19,9 @@ In regelmäßigen Abständen laden wir zur Swing Tea Time ein. Dann hüllt sich 
 Calloway (Dufourstraße 8)
 
 ### Hinweise
-- Bitte beachtet unseren [Code of Conduct](../Code_of_Conduct_-_Kurse.pdf)
-- Bitte denkt an saubere Wechselschuhe
-- Getränke sind gegen Vertrauenskasse an der Bar vorhanden
-- Kuchenbeiträge sind herzlich willkommen!
+{{< notes_list file="notes_events"
+items_bottom="Kuchenbeiträge sind herzlich willkommen!"
+>}}
 
 ### Kosten
 Eintritt frei! Über eine kleine Spende in die Spendenbox freuen wir uns natürlich immer sehr.
