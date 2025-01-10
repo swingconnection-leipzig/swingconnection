@@ -61,4 +61,6 @@ items_top="Für den Tag der offenen Tür gibt es **keine Anmeldung**. Schaut ein
 >}}
 
 ### Hinweise zu den Räumlichkeiten
-{{< notes_list file="notes_location" >}}
+{{< notes_list file="notes_location" 
+items_bottom="Getränke sind gegen Vertrauenskasse an der Bar vorhanden."
+>}}
