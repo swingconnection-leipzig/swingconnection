@@ -15,8 +15,8 @@ Am **19.01.2025** öffnen wir unsere Türen für euch! Kommt vorbei, lernt Swing
 ### Lindy Hop Workshop und Tea Dance am 26.01.2025
 Am **26.01.2025** werden zwei **[Lindy Hop Workshops]({{< ref "/workshops" >}} "Workshops")** zum Thema Heel Digs im Mixed und Intermediate Level stattfinden. Im Anschluss gibt es einen [Tea Dance]({{< ref "/swingteatime" >}} "Tea Dance").
 
-[//]: # (### Minor Swing)
-[//]: # (Der **[Minor Swing]&#40;{{< ref "/minorswing" >}} "Minor Swing"&#41;** findet regelmäßig **jeden Mittwoch ab 19:30 Uhr** in unserem Tanzstudio Calloway statt.)
+### Minor Swing
+Der **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")** findet regelmäßig **jeden Mittwoch ab 19:30 Uhr** in unserem Tanzstudio Calloway statt.
 
 ### Swing Kalender für Leipzig
 Im vereinsunabhängigen Kalender [**"Swing in Leipzig"**](https://kalender.digital/0c529f4b4448ea55b992) findet ihr eine Übersicht *aller* Swing Veranstaltungen in Leipzig.
