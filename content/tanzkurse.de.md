@@ -50,15 +50,15 @@ Für Vereinsmitglieder entfällt der Kursbeitrag.
 [//]: # ({{< /admonition >}})
 
 {{< admonition success "Balboa Mixed (Do 19:15)" false >}}
-Der Balboa mixed Kurs richtet sich an alle, die bereits die Grundschritte des Balboa beherrschen und neue Variationen lernen wollen, beziehungsweise das bereits Gelernte festigen. Wir wollen das Tempo ein bisschen erhöhen, um auch bei mehr BPM noch locker bleiben zu können.
+Der Balboa Mixed Kurs richtet sich an alle, die die Grundschritte des Balboa bereits beherrschen und neue Variationen lernen wollen oder das bereits Gelernte festigen. Wir wollen das Tempo ein bisschen erhöhen, um auch bei höheren BPM noch locker bleiben zu können.
 {{< /admonition >}}
 
 {{< admonition success "Balboa Intermediate (Di 18:30)" false >}}
-Aufbauend auf Balboa-Basics Figuren arbeiten wir in diesem Kurs erneut an spannenden Technikkombinationen genauso wie an Feinheiten im gemeinsamen Tanz. Wenn du Lust hast dich in Details zu verlieben und daran zu arbeiten, dass auch komplexe Abläufe sich im Paar weich und connected anfühlen, bist du bei uns richtig.
+Aufbauend auf Balboa-Basics Figuren arbeiten wir in diesem Kurs erneut an spannenden Technikkombinationen sowie an Feinheiten im gemeinsamen Tanz. Wenn du Lust hast dich in Details zu verlieben und daran zu arbeiten, dass auch komplexe Abläufe sich im Paar weich und connected anfühlen, bist du bei uns richtig.
 {{< /admonition >}}
 
 {{< admonition success "Body & Mind	(Mi 18:00)" false >}}
-Im Body & Mind bereiten wir uns durch entspannende und aktivierende Übungen, Tanztechniken und Praktiken (u.a. aus Körperarbeit, Mindfulness, Functional Breathing, Qi Gong, Yoga, Tanztherapie uvm.) auf den anschließenden Social Dance und unser Tanzjahr vor. Die Inhalte werden auf die Bedürfnisse der Gruppe abgestimmt.
+Im Body & Mind bereiten wir uns durch entspannende und aktivierende Übungen, Tanztechniken und Praktiken (u. a. aus Körperarbeit, Mindfulness, Functional Breathing, Qi Gong, Yoga, Tanztherapie uvm.) auf den anschließenden Social Dance und unser Tanzjahr vor. Die Inhalte werden auf die Bedürfnisse der Gruppe abgestimmt.
 {{< /admonition >}}
 
 [//]: # ({{< admonition success "Fusion &#40;Di 19:45&#41;" false >}})
@@ -78,19 +78,23 @@ Im Body & Mind bereiten wir uns durch entspannende und aktivierende Übungen, Ta
 {{< admonition success "Jazz + Lindy Hop Basics (Mi 18:00)" false >}}
 In diesem Kurs wird sowohl solo als auch im Paar getanzt. Beides ist Bestandteil des Lindy Hop. Wie Jazz- und Swingmusik lebt auch der Tanz von Improvisation, Austausch und Miteinander. Wir lernen einfache Elemente aus dem Swing und Solo Jazz, um vielseitig und musikalisch miteinander tanzen zu können.
 
-Der Kurs richtet sich an alle, die noch **keine Vorerfahrung** mitbringen, liefert aber auch neue Impulse für all diejenigen, die bereits einen Solojazz oder Lindy Beginner-Kurs belegt haben.
+Der Kurs richtet sich an alle, die noch **keine Vorerfahrung** mitbringen, liefert aber auch neue Impulse für all diejenigen, die bereits einen Solojazz oder Lindy Hop Beginner-Kurs belegt haben.
 
 **Solo Jazz** (auch: Authentic Jazz oder Vernacular Jazz) hat seinen Ursprung in Schwarzen Kulturkreisen (insbesondere Afro-Amerikanischen Communities) und wird häufig in Verbindung mit Paartänzen wie Lindy Hop aber auch für sich stehend getanzt. In diesem Kurs werden wir die Musik nutzen, um uns durch Rhythmen und Bewegungen zu führen, um Swing und Jazz Musik aber auch die eigenen Ideen, Emotionen und Eigenheiten auszudrücken.
 
-**Lindy Hop** wird oft in Verbindung mit Solo Jazz getanzt, daher werden wir auch Basics des Paartanzes lernen. Alle Personen können führen und folgen und die Rolle wechseln (switchen) oder nur eine Rolle tanzen. Wir nutzen genderneutrale Sprache und möchten eine queerfreundliche, offene Atmosphäre schaffen, mit Fokus auf Consent und Gleichberechtigung in der Tanzpartnerschaft.
+**Lindy Hop** wird oft in Verbindung mit Solo Jazz getanzt, daher werden wir auch Basics des Paartanzes lernen. Alle Personen können führen und folgen und die Rolle wechseln (switchen) oder nur eine Rolle tanzen. 
+
+Wir nutzen genderneutrale Sprache und möchten eine queerfreundliche, offene Atmosphäre schaffen, mit Fokus auf Consent und Gleichberechtigung in der Tanzpartnerschaft.
 {{< /admonition >}}
 
 {{< admonition success "Lindy Hop Intermediate (Do 18:00)" false >}}
-Der Kurs richtet sich an alle, die in ihren Basics gefestigt sind und regelmäßig zum Social Dance gehen. Wir wollen gemeinsam entdecken, wie ihr mithilfe von Flow, Stretch und Connection noch angenehmer mit anderen Menschen tanzen könnt und gleichzeitig neue Variationen ausprobieren. Ziel ist auch, das Tempo zu erhöhen. Lernvoraussetzungen: Tuck Turn, sicherer 6-Count-Platzwechsel, Grundprinzipien des Führens und Folgens, sicherer Wechsel zwischen 8-Count und 6-Count-Dynamiken.
+Der Kurs richtet sich an alle, die in ihren Basics gefestigt sind und regelmäßig zum Social Dance gehen. Gemeinsam wollen wir entdecken, wie ihr mithilfe von Flow, Stretch und Connection noch angenehmer mit anderen Menschen tanzen und dabei neue Variationen ausprobieren könnt. Ziel ist auch, das Tempo zu erhöhen.
+
+Lernvoraussetzungen: Tuck Turn, sicherer 6-Count-Platzwechsel, Grundprinzipien des Führens und Folgens, sicherer Wechsel zwischen 8-Count und 6-Count-Dynamiken.
 {{< /admonition >}}
 
 {{< admonition success "Shag Basics (Di 19:45)" false >}}
-Wenn hohe BPM auch euer Herz höher schlagen lassen seid ihr beim **Collegiate Shag** genau richtig! Wir wollen die Grundlagen dieses fröhlichen und energiegeladenen Swingtanzes unterrichten und dabei vor allem jede Menge Spaß mit euch haben! Es sind keinerlei Vorkenntnisse notwendig, falls ihr aber unseren letzten Basic Kurs besucht habt, lohnt es sich trotzdem teilzunehmen! Wir setzten diesmal andere Schwerpunkte sodass für alle etwas Neues dabei ist. Alle können führen oder folgen und auch die Rollen switchen.
+Wenn hohe BPM auch euer Herz höher schlagen lassen, seid ihr beim **Collegiate Shag** genau richtig! Wir wollen die Grundlagen dieses fröhlichen und energiegeladenen Swingtanzes unterrichten und dabei vor allem jede Menge Spaß mit euch haben! Es sind keinerlei Vorkenntnisse notwendig, falls ihr aber unseren letzten Basic Kurs besucht habt, lohnt es sich trotzdem teilzunehmen! Wir setzen diesmal andere Schwerpunkte, sodass für alle etwas Neues dabei ist. Alle können führen oder folgen und auch die Rollen switchen.
 {{< /admonition >}}
 
 [//]: # ({{< admonition success "Solo Jazz &#40;Do 19:45&#41;" false >}})
