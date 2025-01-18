@@ -12,7 +12,7 @@ slug: "tanzkurse"
 >
 > **[Lindy Hop Mixed/Intermediate Workshops]({{< ref "/workshops" >}} "Workshops")** rund um das Thema Heel Digs erwarten euch am **Sonntag, den 26.01.2025**!
 
-![Kursrunde Winter](../2025-01-kursrunde-quer.png)
+![Kursrunde Winter](../2025-02_schedule_winter_website.png)
 
 ### Preise
 - Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
