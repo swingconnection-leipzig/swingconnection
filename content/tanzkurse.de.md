@@ -12,7 +12,7 @@ slug: "tanzkurse"
 >
 > **[Lindy Hop Mixed/Intermediate Workshops]({{< ref "/workshops" >}} "Workshops")** rund um das Thema Heel Digs erwarten euch am **Sonntag, den 26.01.2025**!
 
-![Kursrunde Winter](../2025-01-kursrunde-quer.png)
+![Kursrunde Winter](../2025-02_schedule_winter_website.png)
 
 ### Preise
 - Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
@@ -37,7 +37,7 @@ Für Vereinsmitglieder entfällt der Kursbeitrag.
 [//]: # (Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden:  )
 [//]: # (**[Zur Anmeldung]&#40;https://scl.swinggeeks.de/SCL2024-10/&#41;**)
 
-[//]: # (### Kursbeschreibungen)
+### Kursbeschreibungen
 
 [//]: # ({{< admonition success "Balboa Basics &#40;Di 18:30&#41;" false >}})
 
@@ -49,17 +49,17 @@ Für Vereinsmitglieder entfällt der Kursbeitrag.
 
 [//]: # ({{< /admonition >}})
 
-[//]: # ({{< admonition success "Balboa Mixed &#40;Mi 18:00&#41;" false >}})
+{{< admonition success "Balboa Mixed (Do 19:15)" false >}}
+Der Balboa Mixed Kurs richtet sich an alle, die die Grundschritte des Balboa bereits beherrschen und neue Variationen lernen wollen oder das bereits Gelernte festigen. Wir wollen das Tempo ein bisschen erhöhen, um auch bei höheren BPM noch locker bleiben zu können.
+{{< /admonition >}}
 
-[//]: # (Dieser Kurs ist für alle geeignet, die Balboa Vorerfahrung haben, z.B. Basic-Kurse der SCL. Nähere Kursbeschreibung folgt bald!)
+{{< admonition success "Balboa Intermediate (Di 18:30)" false >}}
+Aufbauend auf Balboa-Basics Figuren arbeiten wir in diesem Kurs erneut an spannenden Technikkombinationen sowie an Feinheiten im gemeinsamen Tanz. Wenn du Lust hast dich in Details zu verlieben und daran zu arbeiten, dass auch komplexe Abläufe sich im Paar weich und connected anfühlen, bist du bei uns richtig.
+{{< /admonition >}}
 
-[//]: # ({{< /admonition >}})
-
-[//]: # ({{< admonition success "Balboa Intermediate &#40;Di 18:30&#41;" false >}})
-
-[//]: # (Intermediate-Kurs für Balboa. Nähere Kursbeschreibung folgt bald!)
-
-[//]: # ({{< /admonition >}})
+{{< admonition success "Body & Mind	(Mi 18:00)" false >}}
+Im Body & Mind bereiten wir uns durch entspannende und aktivierende Übungen, Tanztechniken und Praktiken (u. a. aus Körperarbeit, Mindfulness, Functional Breathing, Qi Gong, Yoga, Tanztherapie uvm.) auf den anschließenden Social Dance und unser Tanzjahr vor. Die Inhalte werden auf die Bedürfnisse der Gruppe abgestimmt.
+{{< /admonition >}}
 
 [//]: # ({{< admonition success "Fusion &#40;Di 19:45&#41;" false >}})
 
@@ -75,19 +75,27 @@ Für Vereinsmitglieder entfällt der Kursbeitrag.
 
 [//]: # ({{< /admonition >}})
 
-[//]: # ({{< admonition success "Lindy Hop Intermediate &#40;Do 18:30&#41;" false >}})
+{{< admonition success "Jazz + Lindy Hop Basics (Mi 18:00)" false >}}
+In diesem Kurs wird sowohl solo als auch im Paar getanzt. Beides ist Bestandteil des Lindy Hop. Wie Jazz- und Swingmusik lebt auch der Tanz von Improvisation, Austausch und Miteinander. Wir lernen einfache Elemente aus dem Swing und Solo Jazz, um vielseitig und musikalisch miteinander tanzen zu können.
 
-[//]: # (Diesmal dreht sich bei uns alles um **Lindy Charleston**. Zunächst schauen wir noch einmal ganz genau auf die Basics der Bewegung, um daraus anschließend zahlreiche Figuren zu entwickeln. Dabei legen wir den Fokus auf Dynamikvariationen, Schrittvariationen, das Tandem/Shadow inkl. diverser Eingänge, Hand-to-Hand Variationen, Transitions, Airplane, Charleston Swingouts und Switchmoves. Aber das ist nicht alles: Hier könnt ihr euch ausprobieren und mit uns austauschen. Wir laden euch daher herzlich ein, weitere Lindy Charleston Themen mitzubringen, damit wir zusammen neue Varianten entdecken können.)
+Der Kurs richtet sich an alle, die noch **keine Vorerfahrung** mitbringen, liefert aber auch neue Impulse für all diejenigen, die bereits einen Solojazz oder Lindy Hop Beginner-Kurs belegt haben.
 
-[//]: # ({{< /admonition >}})
+**Solo Jazz** (auch: Authentic Jazz oder Vernacular Jazz) hat seinen Ursprung in Schwarzen Kulturkreisen (insbesondere Afro-Amerikanischen Communities) und wird häufig in Verbindung mit Paartänzen wie Lindy Hop aber auch für sich stehend getanzt. In diesem Kurs werden wir die Musik nutzen, um uns durch Rhythmen und Bewegungen zu führen, um Swing und Jazz Musik aber auch die eigenen Ideen, Emotionen und Eigenheiten auszudrücken.
 
-[//]: # ({{< admonition success "Shag Basics &#40;Di 19:45&#41;" false >}})
+**Lindy Hop** wird oft in Verbindung mit Solo Jazz getanzt, daher werden wir auch Basics des Paartanzes lernen. Alle Personen können führen und folgen und die Rolle wechseln (switchen) oder nur eine Rolle tanzen. 
 
-[//]: # (Wenn hohe BPM auch euer Herz höher schlagen lassen seid ihr beim **Collegiate Shag** genau richtig! Entstanden aus frühen Formen des Foxtrotts wurde er von College Studenten im Süden Amerikas in den 1930er Jahren etabliert. Es eignen sich Swing-Musik, Gypsy-Jazz und sogar Rock'n'Roll, um ihn zu tanzen.)
+Wir nutzen genderneutrale Sprache und möchten eine queerfreundliche, offene Atmosphäre schaffen, mit Fokus auf Consent und Gleichberechtigung in der Tanzpartnerschaft.
+{{< /admonition >}}
 
-[//]: # (Wir wollen die Grundlagen dieses fröhlichen und energiegeladenen Swingtanzes unterrichten und dabei vor allem jede Menge Spaß mit euch haben! Es sind keinerlei Vorkenntnisse notwendig und alle können führen oder folgen und auch die Rollen switchen.)
+{{< admonition success "Lindy Hop Intermediate (Do 18:00)" false >}}
+Der Kurs richtet sich an alle, die in ihren Basics gefestigt sind und regelmäßig zum Social Dance gehen. Gemeinsam wollen wir entdecken, wie ihr mithilfe von Flow, Stretch und Connection noch angenehmer mit anderen Menschen tanzen und dabei neue Variationen ausprobieren könnt. Ziel ist auch, das Tempo zu erhöhen.
 
-[//]: # ({{< /admonition >}})
+Lernvoraussetzungen: Tuck Turn, sicherer 6-Count-Platzwechsel, Grundprinzipien des Führens und Folgens, sicherer Wechsel zwischen 8-Count und 6-Count-Dynamiken.
+{{< /admonition >}}
+
+{{< admonition success "Shag Basics (Di 19:45)" false >}}
+Wenn hohe BPM auch euer Herz höher schlagen lassen, seid ihr beim **Collegiate Shag** genau richtig! Wir wollen die Grundlagen dieses fröhlichen und energiegeladenen Swingtanzes unterrichten und dabei vor allem jede Menge Spaß mit euch haben! Es sind keinerlei Vorkenntnisse notwendig, falls ihr aber unseren letzten Basic Kurs besucht habt, lohnt es sich trotzdem teilzunehmen! Wir setzen diesmal andere Schwerpunkte, sodass für alle etwas Neues dabei ist. Alle können führen oder folgen und auch die Rollen switchen.
+{{< /admonition >}}
 
 [//]: # ({{< admonition success "Solo Jazz &#40;Do 19:45&#41;" false >}})
 
