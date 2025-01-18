@@ -6,7 +6,7 @@ slug: "tanzkurse"
 
 [//]: # (![Kursplan Herbst 2024]&#40;../schedule_herbst_2024_ohne_websiteinfo_v4.png&#41;)
 
-> **Die nächste Kursrunde beginnt am 03.02.2025.** Die Anmeldung wird Mitte Januar hier freigeschalten. 
+> **Die nächste Kursrunde beginnt am 03.02.2025.** Die Anmeldung ist ab sofort offen! 
 > 
 > Für alle Unentschlossenen gibt es am **19.01.2025** einen **[Tag der offenen Tür]({{< ref "/opendoor" >}} "Tag der offenen Tür")**, an dem ihr verschiedene Swing-Tänze ausprobieren könnt.
 >
@@ -32,10 +32,8 @@ Für Vereinsmitglieder entfällt der Kursbeitrag.
 - Intermediate (Int): Dieser Kurs ist für alle geeignet, die schon fortgeschritten sind, z.B. mehrere Mixed-Kurse besucht haben und die Basics sicher beherrschen.
 
 ### Anmeldung
-> Die Anmeldung für die nächste Kursrunde wird Mitte Januar 2025 hier freigeschalten.
-
-[//]: # (Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden:  )
-[//]: # (**[Zur Anmeldung]&#40;https://scl.swinggeeks.de/SCL2024-10/&#41;**)
+Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden:  
+**[Zur Anmeldung](https://scl.swinggeeks.de/SCL2025-2/)**
 
 ### Kursbeschreibungen
 
@@ -102,6 +100,10 @@ Wenn hohe BPM auch euer Herz höher schlagen lassen, seid ihr beim **Collegiate 
 [//]: # (Wir lernen einige Klassiker der Solo Jazz Moves kennen und widmen uns besonders den Übergängen. Aus einfachen, reinen Schrittabfolgen entwickeln wir so verbundene, fließende Bewegungen, die Du zu deinem eigenen Tanz machst.)
 
 [//]: # ({{< /admonition >}})
+
+{{< admonition success "Freies Training (Di 18:30 & Do 18:00)" false >}}
+Hier könnt ihr mit unserer BT-Box in Eigenregie üben, wenn der parallel laufende Kurs stattfindet.
+{{< /admonition >}}
 
 ### Hinweise zu den Kursen
 {{< notes_list file="notes_classes"
