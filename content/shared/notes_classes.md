@@ -1,4 +1,4 @@
-Bitte beachtet unseren [Code of Conduct](../Code_of_Conduct_-_Kurse.pdf).
+Die Teilnahme an unseren Veranstaltungen setzt die Anerkennung und Umsetzung unseres **[Code of Conduct](../Code_of_Conduct_-_Kurse.pdf)** voraus.
 In den Kursen werden die Tanzpartner:innen regelmäßig gewechselt. Wenn ihr nicht wechseln wollt, müsst ihr das nicht tun.
 Ihr könnt im Kurs flexibel wählen, ob ihr als Follow oder Lead üben wollt. Ihr könnt aber auch bei einer Rolle bleiben.
 Die Kursleiter:innen sind dazu angehalten genderneutrale Sprache zu verwenden. Es wird generell von Leader und Follower (neutrale Begriffe) gesprochen und jede Person kann entscheiden welche der Rollen sie tanzen möchte.
