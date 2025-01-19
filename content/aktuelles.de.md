@@ -15,6 +15,9 @@ Am **19.01.2025** öffnen wir unsere Türen für euch! Kommt vorbei, lernt Swing
 ### Lindy Hop Workshop und Tea Dance am 26.01.2025
 Am **26.01.2025** werden zwei **[Lindy Hop Workshops]({{< ref "/workshops" >}} "Workshops")** zum Thema Heel Digs im Mixed und Intermediate Level stattfinden. Im Anschluss gibt es einen [Tea Dance]({{< ref "/swingteatime" >}} "Tea Dance").
 
+### Kursrunde Winter 2025
+Ab dem **3. Februar 2025** starten unsere neuen **[Kurse]({{< ref "/tanzkurse" >}} "Kurse")**, und du kannst dich ab sofort anmelden. Egal, ob Anfängerin oder Fortgeschrittener – wir haben das richtige Angebot für dich. Sei dabei und erlebe die Freude am Swingtanzen!
+
 ### Minor Swing
 Der **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")** findet regelmäßig **jeden Mittwoch ab 19:30 Uhr** in unserem Tanzstudio Calloway statt.
 
