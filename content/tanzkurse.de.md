@@ -7,8 +7,6 @@ slug: "tanzkurse"
 [//]: # (![Kursplan Herbst 2024]&#40;../schedule_herbst_2024_ohne_websiteinfo_v4.png&#41;)
 
 > **Die nächste Kursrunde beginnt am 03.02.2025.** Die Anmeldung ist ab sofort offen! 
-> 
-> Für alle Unentschlossenen gibt es am **19.01.2025** einen **[Tag der offenen Tür]({{< ref "/opendoor" >}} "Tag der offenen Tür")**, an dem ihr verschiedene Swing-Tänze ausprobieren könnt.
 >
 > **[Lindy Hop Mixed/Intermediate Workshops]({{< ref "/workshops" >}} "Workshops")** rund um das Thema Heel Digs erwarten euch am **Sonntag, den 26.01.2025**!
 

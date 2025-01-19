@@ -10,7 +10,6 @@ Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktue
 ### Nächste Termine
 
 - Jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")** 
-- Sonntag, 19\. Januar - **[Tag der offenen Tür]({{< ref "/opendoor" >}} "Tag der offenen Tür") mit [Tea Dance]({{< ref "/swingteatime" >}} "Tea Dance")**
 - Sonntag, 26\. Januar - **[Lindy Hop Workshops]({{< ref "/workshops" >}} "Workshops") mit [Tea Dance]({{< ref "/swingteatime" >}} "Tea Dance")**
 - Mittwoch, 5. März - Minor Swing **mit Live-Musik** mit Swing to Bop aus Paris
 
