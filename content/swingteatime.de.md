@@ -12,7 +12,6 @@ slug: "swing-tea-time"
 In regelmäßigen Abständen laden wir zur Swing Tea Time ein. Dann hüllt sich unser Tanzstudio in den Duft frisch gebackener Kuchen und den Klang eines Louis Armstrong, Django Reinhardt oder einer Ella Fitzgerald. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. 
 
 ### Termine
-- **19\. Januar**, ab 16:00 Uhr (Im Rahmen unseres [Tags der offenen Tür]({{< ref "/opendoor" >}}))
 - **26\. Januar**, ab 15:15 Uhr (mit zwei [Lindy Hop Workshops]({{< ref "/workshops" >}} "Workshops"))
 
 ### Ort
