@@ -7,8 +7,6 @@ slug: "tanzkurse"
 [//]: # (![Kursplan Herbst 2024]&#40;../schedule_herbst_2024_ohne_websiteinfo_v4.png&#41;)
 
 > **Die nächste Kursrunde beginnt am 03.02.2025.** Die Anmeldung ist ab sofort offen! 
->
-> **[Lindy Hop Mixed/Intermediate Workshops]({{< ref "/workshops" >}} "Workshops")** rund um das Thema Heel Digs erwarten euch am **Sonntag, den 26.01.2025**!
 
 ![Kursrunde Winter](../2025-02_schedule_winter_website.png)
 
