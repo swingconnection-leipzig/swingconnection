@@ -1,12 +1,10 @@
 ---
-title: ""
+title: "Workshops"
 draft: false
 slug: "workshops"
 ---
 
-# Lindy Hop Workshop am 26.01.2025
-
-> Die Workshops am 26.01.2025 fallen leider aus!
+> Zurzeit gibt es noch keine Termine für neue Workshops.
 
 ---
 
