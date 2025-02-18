@@ -26,7 +26,7 @@ Unter den folgenden Links kannst du dir die Vereinssatzung, unsere Beitragsordnu
 
 - [Vereinssatzung (PDF)](../SCL_Satzung_2020-08-31.pdf)
 - [Beitragsordnung (PDF)](../SCL_Beitragsordnung_2023-01.pdf)
-- [Code of Conduct](../Code_of_Conduct_-_Kurse.pdf)
+- [Code of Conduct](../Code_of_Conduct_SCL.pdf)
 
 ### Zuständigkeiten in der SCL
 In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und das Organisieren, Planen und Durchführen von Kursbetrieb, Übungsabenden und Workshops wird ausschließlich ehrenamtlich bzw. freiwillig durch die Vereinsmitglieder sichergestellt. Im Folgenden sind einige offizielle Zuständigkeiten aufgelistet.
