@@ -10,7 +10,7 @@ Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktue
 ### Nächste Termine
 
 - Jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")** 
-- Mittwoch, 5. März - Minor Swing **mit Live-Musik** mit Swing to Bop aus Paris
+- Mittwoch, 5. März - Minor Swing [**mit Live-Musik** mit Swing to Bop aus Paris]({{< ref "/minorswing#minor-swing-live-am-5-märz-2025-mit-swing-to-bop-aus-paris" >}} "mit Live-Musik mit Swing to Bop aus Paris")
 
 ### Minor Swing
 Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen. **Jeden Mittwoch ab 19:30 Uhr** findet der Minor Swing in unserem Tanzstudio **Calloway** statt. Der Minor Swing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Mehr Infos erhaltet ihr auf der Seite [Minor Swing]({{< ref "/minorswing" >}} "Minor Swing").
