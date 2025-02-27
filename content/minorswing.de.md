@@ -13,17 +13,24 @@ Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsi
 Live-Musik vom Feinsten! Am **5. März** spielt **Swing to Bop** beim Social Dance im Calloway!
 
 ![Minor Swing](../swing_to_bop.jpg)
+
+---
+
 **Swing to Bop** spielt die Musik, den Stil und den Sound des Charlie-Christian- und Benny-Goodman-Sextetts. Diese Band, die in der Swing-Welt sofort als ein echtes Unikat wahrgenommen wird, lässt sich von den Orchestern der späten 1930er- und frühen 1940er-Jahre inspirieren und sorgt für eine mitreißende Show – ein unvergesslicher Swing-Moment!
 
 Gegründet wurde die Band von Lorenzo Cortés, einem kolumbianischen Gitarristen, der weltweit als einer der besten Interpreten der Musik von Charlie Christian gilt. Swing to Bop vereint sechs Musiker aus Paris, die mit unbändiger Energie auf der Bühne stehen!
 
 Nach vier gemeinsamen Jahren auf Tour haben sie nun ihr erstes Album aufgenommen, das sich derzeit im Mix befindet. Es wird eine Mischung aus klassischen und neuen Arrangements sowie Eigenkompositionen enthalten.
 
+🔗 Folgt der Band:  [{{< icon class="fa-youtube" >}} YouTube](https://youtube.com/@swingtobop1061), [{{< icon class="fa-instagram" >}} Instagram](https://www.instagram.com/swingtobop_paris/), [{{< icon class="fa-facebook" >}} Facebook](https://www.facebook.com/swing2bop)
+
 📍 Dufourstraße 8
 
 ⏰ Beginn 19:30 Uhr
 
 💶 Eintritt frei, Spendenempfehlung 10-20€ für den Hut der Band
+
+---
 
 ### Zeit
 Jeden Mittwoch ab 19:30 Uhr bis 22:30 Uhr.
