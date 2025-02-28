@@ -7,9 +7,9 @@ slug: "mattstedt"
 
 ![Mattstedt 2024](../slider_mattstedt_2024.png)
 
-Unser schönes Spring Camp findet dieses Jahr vom **06.06.2024 bis 09.06.2024** statt. Es erwartet euch ein tolles Wochenende voller Entspannung, Tanz und Swingmusik auf dem wunderschönen Mühlenhof Mattstedt in Thüringen. Es erwarten euch zwei Tage Workshop mit Lindy Hop, Balboa, Blues und Solo Jazz mit Kursleiter:innen der SwingConnection Leipzig und Gästen. Und natürlich könnt ihr euch auf den Partys austoben.
+Unser schönes Spring Camp findet dieses Jahr vom **05.06.2025 bis 09.06.2025** statt. Es erwartet euch ein tolles Wochenende voller Entspannung, Tanz und Swingmusik auf dem wunderschönen Mühlenhof Mattstedt in Thüringen. Es erwarten euch zwei Tage Workshop mit Lindy Hop, Balboa, Blues und Solo Jazz mit Kursleiter:innen der SwingConnection Leipzig und Gästen. Und natürlich könnt ihr euch auf den Partys austoben.
 
-Hier könnt ihr einen Eindruck von der gemütlichen Atmosphäre in Mattstedt gewinnen: https://www.youtube.com/watch?v=czMHDvKlnEA
+Hier könnt ihr einen Eindruck von der gemütlichen Atmosphäre in Mattstedt gewinnen: [{{< icon class="fa-youtube" >}} YouTube](https://www.youtube.com/watch?v=czMHDvKlnEA)
 
 ### Level
 Grundsätzlich richtet sich das Camp an frisch angefixte Swing-Tänzer:innen und diejenigen, die in aller Ruhe an ihren Skills arbeiten wollen. Für Fortgeschrittene gibt es Möglichkeiten zur Auffrischung und Gelegenheiten zum Social Dance. Mattstedt ist ideal für Menschen, die einen oder zwei Basics Kurse besucht haben und in die Welt der Workshops eintauchen wollen.
@@ -29,7 +29,9 @@ Alle Betten im Schlafsaal sind mit Laken bezogen. Im Schlafsaal benötigt ihr Sc
 Für unser leibliches Wohl wird gesorgt. Es gibt eine Vollverpflegung mit Frühstück, Kaffee & Kuchen sowie Abendbrot. Das Essen ist ausgesprochen lecker! Vegane und glutenfreie Kost kann leider nicht garantiert werden. Vegetarier:innen werden aber sehr glücklich, da wir wieder fleischlose Gerichte haben werden. Kaffee, Tee und Wasser sind im Preis der Verpflegung inbegriffen. Sonstige Getränke kann man zu moderaten Preisen erwerben.
 
 ### Location
-Mattstedt ist ein kleines Dorf in Thüringen so ziemlich in der Mitte von Weimar, Jena und Naumburg. Der große Mühlenhof liegt an einem rauschen Bach und ganz idyllisch im Grünen. Hier können wir gemeinsam tanzen, feiern sowie unseren Workshop durchführen und den Frühling begrüßen. https://www.muehlenhofmattstedt.de/muehlenhof-gallery
+Mattstedt ist ein kleines Dorf in Thüringen so ziemlich in der Mitte von Weimar, Jena und Naumburg. Der große Mühlenhof liegt an einem rauschen Bach und ganz idyllisch im Grünen. Hier können wir gemeinsam tanzen, feiern sowie unseren Workshop durchführen und den Frühling begrüßen. 
+
+https://www.muehlenhofmattstedt.de/muehlenhof-gallery
 
 ### Anreise
 Mit dem Auto über die A9 (Naumburg) oder A4 (Erfurt/Weimar) immer in Richtung Apolda. Für Zugfahrer gilt das Gleiche, über Erfurt/Weimar oder Naumburg bis nach Apolda. Fahrgemeinschaften haben sich bewährt und können leicht über unsere Facebook-Gruppe organisiert werden. Die Adresse lautet: Mühlenhof Mattstedt, Unterdorf 115, 99510 Mattstedt. Die Anreise erfolgt in Eigenverantwortung.
@@ -37,6 +39,7 @@ Mit dem Auto über die A9 (Naumburg) oder A4 (Erfurt/Weimar) immer in Richtung A
 Wer sich für Do-So angemeldet hat, kann am Donnerstag ab 17:00 Uhr anreisen. Wer Freitag anreist, ist zum Kaffee willkommen.
 
 ### Hinweise
+- Die Teilnahme an unseren Veranstaltungen setzt die Anerkennung und Umsetzung unseres **[Code of Conduct](../Code_of_Conduct_SCL.pdf)** voraus.
 - Für die Übernachtungen in den Zimmern bitte Bettwäsche mitbringen.
 - Für die Übernachtungen im Schlafsaal bitte Schlafsack und/oder eine Decke und Kissen mitbringen.
 - Ohrstöpsel, Schlafmaske und Taschenlampe können im Schlafsaal hilfreich sein.
@@ -58,5 +61,5 @@ Wir haben ein Kontingent von 5 Plätzen, für die wir keine festen Workshopgebü
 Wir bieten Banküberweisung und PayPal als Zahlungsmöglichkeiten an. Da PayPal allerdings höhere Kosten für uns verursacht, bitten wir Euch möglichst per Banküberweisung zu bezahlen. Alternativ könnt ihr auch per Lastschrift bezahlen.
 
 ### Anmeldung
-Über unser Kursbuchungsportal könnt ihr euch zum Spring Camp anmelden:  
-
+[//]: # (Über unser Kursbuchungsportal könnt ihr euch zum Spring Camp anmelden:  )
+> Die Anmeldung startet demnächst!
