@@ -15,6 +15,9 @@ zuletzt aktualisiert am 25.01.2025
 ### Minor Swing LIVE am 5. März 2025 mit Swing to Bop aus Paris
 Live-Musik vom Feinsten! Am **5. März** spielt **[Swing to Bop beim Social Dance]({{< ref "/minorswing#minor-swing-live-am-5-märz-2025-mit-swing-to-bop-aus-paris" >}} "Swing to Bop beim Social Dance")** im Calloway. Die sechsköpfige Band aus Paris bringt die Energie und den Sound der späten 1930er und frühen 1940er Jahre auf die Tanzfläche – inspiriert von Charlie Christian und Benny Goodman.
 
+### Spring Camp Mattstedt 2025
+Auch dieses Jahr findet wieder unser geliebtes [**Spring Camp** auf dem Mühlenhof in Mattstedt]({{< ref "/mattstedt" >}} "Spring Camp auf dem Mühlenhof in Mattstedt") statt, dieses Jahr an Pfingsten (**vom 05.06. - 09.06.**). Die Anmeldung startet demnächst, ihr findet alle Details dann wie gewohnt hier auf der Website.
+
 ### Kursrunde Winter 2025
 Ab dem **3. Februar 2025** starten unsere neuen **[Kurse]({{< ref "/tanzkurse" >}} "Kurse")**, und du kannst dich ab sofort anmelden. Egal, ob Anfängerin oder Fortgeschrittener – wir haben das richtige Angebot für dich. Sei dabei und erlebe die Freude am Swingtanzen!
 
