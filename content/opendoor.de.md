@@ -53,7 +53,7 @@ Tanzstudio Calloway (Dufourstraße 8) [&rarr; Wegbeschreibung]({{< ref "/callowa
 Im Durchgang zum Innenhof befindet sich links eine rote Tür. Dort findet ihr unser Tanzstudio. Die Kurse finden die Treppe hoch im 1. Stock statt.
 
 ### Kosten
-**Kostenlos.** Über eine kleine Spende in die Spendenbox freuen wir uns natürlich immer sehr. Auch Kaffee, Tee und Kuchen bekommt ihr auf Spendenbasis.
+**Kostenlos!** Über eine kleine Spende in die Spendenbox freuen wir uns natürlich immer sehr. Auch Kaffee, Tee und Kuchen bekommt ihr auf Spendenbasis.
 
 ### Hinweise zu den Kursen
 {{< notes_list file="notes_classes"

@@ -22,5 +22,5 @@ Calloway (Dufourstraße 8)
 items_bottom="Kuchenbeiträge sind herzlich willkommen!"
 >}}
 
-### Kosten
-Eintritt frei! Über eine kleine Spende in die Spendenbox freuen wir uns natürlich immer sehr.
+### Eintritt & Spenden
+Der Eintritt ist **frei**! Über eine kleine Spende in die Spendenbox freuen wir uns natürlich immer sehr.
