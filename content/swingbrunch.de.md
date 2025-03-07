@@ -15,5 +15,5 @@ Calloway (Dufourstraße 8)
 ### Hinweise
 {{< notes_list file="notes_events" >}}
 
-### Kosten:
-Kostenlos. Über eine kleine Spende in die Spendenbox freuen wir uns natürlich immer sehr.
+### Eintritt & Spenden
+Der Eintritt ist **frei**! Über eine kleine Spende in die Spendenbox freuen wir uns natürlich immer sehr.

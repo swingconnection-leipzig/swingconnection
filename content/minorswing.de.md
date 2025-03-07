@@ -17,5 +17,5 @@ Calloway (Dufourstraße 8)
 ### Hinweise
 {{< notes_list file="notes_events" >}}
 
-### Kosten
-Kostenlos. Über eine kleine Spende in die Spendenbox freuen wir uns natürlich immer sehr.
+### Eintritt & Spenden
+Der Eintritt ist **frei**! Wenn dir der Abend gefällt, freuen wir uns über eine Spende in die Spendenbox – so hilfst du uns, weitere tolle Social Dances zu organisieren.
