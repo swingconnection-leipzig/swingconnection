@@ -6,7 +6,7 @@ slug: "tanzkurse"
 
 [//]: # (![Kursplan Herbst 2024]&#40;../schedule_herbst_2024_ohne_websiteinfo_v4.png&#41;)
 
-> **Die nächste Kursrunde beginnt am 03.02.2025.** Die Anmeldung ist ab sofort offen! 
+> **Die nächste Kursrunde beginnt am 14.04.2025.** Die Anmeldung öffnet etwa zwei Wochen vorher.
 
 ![Kursrunde Winter](../2025-02_schedule_winter_website.png)
 
@@ -111,7 +111,7 @@ items_bottom="Wenn ihr erkältet seid oder euch krank fühlt, bleibt bitte zu Ha
 {{< notes_list file="notes_location" >}}
 
 ### Nächste Kursrunde
-Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Nächstes Jahr bieten wir neben Workshops am Wochenende und einem Sommerprogramm vier reguläre Kursrunden an:
+Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Dieses Jahr bieten wir neben Workshops am Wochenende und einem Sommerprogramm vier reguläre Kursrunden an:
 - 03.02.-28.03.2025
 - 14.04.-06.06.2025
 - 25.08.-03.10.2025
