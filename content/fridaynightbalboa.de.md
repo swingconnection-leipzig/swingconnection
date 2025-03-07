@@ -7,6 +7,8 @@ slug: "friday-night-balboa"
 
 > Der nächste Termin steht noch nicht fest.
 
+![Tea Dance](../slider_friday_night_balboa.png)
+
 Wir starten **18:30 Uhr** mit einem **Drop-In-Kurs**. Der Kurs ist Beginner:innen-freundlich, wird aber auch für erfahrene Tänzer:innen interessant sein. Es sind alle Level willkommen! Die Unterrichtsprache ist deutsch, englische Übersetzungen sind möglich. Es ist keine Anmeldung erforderlich. Bitte sei pünktlich.
 
 Im Anschluss ab **19.30 Uhr** ist **Balboa-Social Dance**. 
@@ -26,7 +28,7 @@ Calloway (Dufourstraße 8)
 items_bottom="Snacks dürfen gerne mitgebracht werden."
 >}}
 
-### Kosten:
+### Kosten
 - Drop-In Kurs: 10 € / für Vereinsmitglieder kostenlos
 - Social-Dance: auf Spendenbasis (Vorschlag 5-10 €, mit Live-Musik: 12-20 €)
 
