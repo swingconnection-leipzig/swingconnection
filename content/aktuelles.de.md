@@ -12,6 +12,9 @@ zuletzt aktualisiert am 07.03.2025
 [//]: # (### Tag der offenen Tür am 19.01.2025)
 [//]: # (Am **19.01.2025** öffnen wir unsere Türen für euch! Kommt vorbei, lernt Swingtänze kennen und schnuppert in unsere Welt des Tanzes hinein. Weitere Infos findet ihr auf der Seite von unseren **[Tag der offenen Tür]&#40;{{< ref "/opendoor" >}} "Tag der offenen Tür"&#41;**! Danach gibt es die Möglichkeit, beim [Tea Dance]&#40;{{< ref "/swingteatime" >}} "Tea Dance"&#41; weiterzutanzen.)
 
+### Minor Swing LIVE am 26. März 2025 mit Special Hot Sauce
+Am **26. März** spielt **[Special Hot Sauce beim Social Dance]({{< ref "/minorswing#minor-swing-live-am-26-märz-2025-mit-special-hot-sauce" >}} "Special Hot Sauce beim Social Dance")** im Calloway. Vorab gibt’s einen **Blues Taster**, dann sorgt die Band mit heißem **Rhythm & Blues** für beste Tanzstimmung. Kommt vorbei und tanzt mit!
+
 ### Spring Camp Mattstedt 2025
 Auch dieses Jahr findet wieder unser geliebtes [**Spring Camp** auf dem Mühlenhof in Mattstedt]({{< ref "/mattstedt" >}} "Spring Camp auf dem Mühlenhof in Mattstedt") statt, dieses Jahr an Pfingsten (**vom 05.06. - 09.06.**). Die Anmeldung startet demnächst, ihr findet alle Details dann wie gewohnt hier auf der Website.
 
