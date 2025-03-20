@@ -10,13 +10,15 @@ Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsi
 
 ### Minor Swing LIVE am 26. März 2025 mit Special Hot Sauce
 
-Blues & Live-Musik beim Minor Swing Social! Diesmal startet der Abend mit einem **Blues Taster** für Anfänger:innen, bevor **Special Hot Sauce** mit ihrem mitreißenden **Rhythm & Blues** für beste Stimmung sorgt. Eine perfekte Gelegenheit, etwas Neues auszuprobieren und danach die Tanzfläche zur Live-Musik zu erobern!
+Blues & Live-Musik beim Minor Swing Social! Diesmal startet der Abend mit einem **Blues Taster** für Anfänger:innen um 19:30 Uhr, bevor **Special Hot Sauce** mit ihrem mitreißenden **Rhythm & Blues** für beste Stimmung sorgt. Eine perfekte Gelegenheit, etwas Neues auszuprobieren und danach die Tanzfläche zur Live-Musik zu erobern!
 
 🔗 Folgt der Band: [{{< icon class="fa-instagram" >}} Instagram](https://www.instagram.com/special_hot_sauce/), [{{< icon class="fa-facebook" >}} Facebook](https://www.facebook.com/people/Special-Hot-Sauce/61558990545288/)
 
 📍 Dufourstraße 8
 
-⏰ Beginn 19:30 Uhr
+⏰ ab 19:30 Uhr Blues Taster
+
+🎶 ab 20 Uhr Social mit Band
 
 💶 Eintritt frei, Spendenempfehlung 10-20€ für den Hut der Band
 
