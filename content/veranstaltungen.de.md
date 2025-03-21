@@ -11,6 +11,7 @@ Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktue
 
 - Jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")** 
 - Mittwoch, 26. März - Minor Swing [**mit Rhythm & Blues Live-Musik** mit Special Hot Sauce]({{< ref "/minorswing#minor-swing-live-am-26-märz-2025-mit-special-hot-sauce" >}} "mit Rhythm & Blues Live-Musik mit Special Hot Sauce")
+- Samstag, 10. Mai - [Lindy Hop Workshops]({{< ref "/workshops" >}} "Lindy Hop Workshops") mit Teachern der [Dresden Hepcats](https://dresden-hepcats.de/)
 
 ### Minor Swing
 Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen. **Jeden Mittwoch ab 19:30 Uhr** findet der Minor Swing in unserem Tanzstudio **Calloway** statt. Der Minor Swing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Mehr Infos erhaltet ihr auf der Seite [Minor Swing]({{< ref "/minorswing" >}} "Minor Swing").
