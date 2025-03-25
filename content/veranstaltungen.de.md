@@ -11,6 +11,7 @@ Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktue
 
 - Jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")** 
 - Mittwoch, 26. März - Minor Swing [**mit Rhythm & Blues Live-Musik** mit Special Hot Sauce]({{< ref "/minorswing#minor-swing-live-am-26-märz-2025-mit-special-hot-sauce" >}} "mit Rhythm & Blues Live-Musik mit Special Hot Sauce")
+- Mittwoch, 2. April - Minor Swing und gleichzeitig startender **[Balboa-Schnupperkurs]({{< ref "/minorswing#minor-swing-mit-balboa-schnupperkurs-am-2-april-2025" >}} "Balboa-Schnupperkurs")**
 - Samstag, 10. Mai - [Lindy Hop Workshops]({{< ref "/workshops" >}} "Lindy Hop Workshops") mit Teachern der [Dresden Hepcats](https://dresden-hepcats.de/)
 
 ### Minor Swing
