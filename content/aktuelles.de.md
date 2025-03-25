@@ -15,6 +15,10 @@ zuletzt aktualisiert am 20.03.2025
 ### Minor Swing LIVE am 26. März 2025 mit Special Hot Sauce
 Am **26. März** spielt **[Special Hot Sauce beim Social Dance]({{< ref "/minorswing#minor-swing-live-am-26-märz-2025-mit-special-hot-sauce" >}} "Special Hot Sauce beim Social Dance")** im Calloway. Vorab gibt’s einen **Blues Taster** ab 19:30 Uhr, dann sorgt die Band mit heißem **Rhythm & Blues** für beste Tanzstimmung. Kommt vorbei und tanzt mit!
 
+### Minor Swing mit Balboa-Schnupperkurs am 2. April 2025
+Parallel zum Minor Swing Social kannst du am **2. April ab 19:30 Uhr** in die Welt des Balboa mit unseren **[Balboa-Schnupperkurs]({{< ref "/minorswing#minor-swing-mit-balboa-schnupperkurs-am-2-april-2025" >}} "Balboa-Schnupperkurs")** eintauchen.
+Leichtfüßig, elegant und richtig spaßig – wir zeigen dir die ersten Basics und worauf’s beim Balboa ankommt. Kein Vorwissen nötig! Anschließend kannst du das Gelernte direkt beim Minor Swing Social ausprobieren und weitertanzen!
+
 ### Spring Camp Mattstedt 2025
 Auch dieses Jahr findet wieder unser geliebtes [**Spring Camp** auf dem Mühlenhof in Mattstedt]({{< ref "/mattstedt" >}} "Spring Camp auf dem Mühlenhof in Mattstedt") statt, dieses Jahr an Pfingsten (**vom 05.06. - 09.06.**). Die Anmeldung startet demnächst, ihr findet alle Details dann wie gewohnt hier auf der Website.
 

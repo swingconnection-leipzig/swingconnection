@@ -22,6 +22,19 @@ Blues & Live-Musik beim Minor Swing Social! Diesmal startet der Abend mit einem 
 
 💶 Eintritt frei, Spendenempfehlung 10-20€ für den Hut der Band
 
+### Minor Swing mit Balboa-Schnupperkurs am 2. April 2025
+Parallel zum Minor Swing Social kannst du am **2. April** in die Welt des **Balboa** eintauchen.
+Leichtfüßig, elegant und richtig spaßig – wir zeigen dir die ersten Basics und worauf’s beim Balboa ankommt. Kein Vorwissen nötig!
+Anschließend kannst du das Gelernte direkt beim Minor Swing Social ausprobieren und weitertanzen!
+
+Komm vorbei und probier’s aus!
+
+📍 Dufourstraße 8, Erker-Raum
+
+⏰ Beginn 19:30 Uhr
+
+💶 Keine Kosten!
+
 ### Zeit
 Jeden Mittwoch ab 19:30 Uhr bis 22:30 Uhr.
 
