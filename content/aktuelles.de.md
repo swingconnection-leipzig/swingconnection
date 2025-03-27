@@ -12,18 +12,15 @@ zuletzt aktualisiert am 20.03.2025
 [//]: # (### Tag der offenen Tür am 19.01.2025)
 [//]: # (Am **19.01.2025** öffnen wir unsere Türen für euch! Kommt vorbei, lernt Swingtänze kennen und schnuppert in unsere Welt des Tanzes hinein. Weitere Infos findet ihr auf der Seite von unseren **[Tag der offenen Tür]&#40;{{< ref "/opendoor" >}} "Tag der offenen Tür"&#41;**! Danach gibt es die Möglichkeit, beim [Tea Dance]&#40;{{< ref "/swingteatime" >}} "Tea Dance"&#41; weiterzutanzen.)
 
-### Minor Swing LIVE am 26. März 2025 mit Special Hot Sauce
-Am **26. März** spielt **[Special Hot Sauce beim Social Dance]({{< ref "/minorswing#minor-swing-live-am-26-märz-2025-mit-special-hot-sauce" >}} "Special Hot Sauce beim Social Dance")** im Calloway. Vorab gibt’s einen **Blues Taster** ab 19:30 Uhr, dann sorgt die Band mit heißem **Rhythm & Blues** für beste Tanzstimmung. Kommt vorbei und tanzt mit!
-
 ### Minor Swing mit Balboa-Schnupperkurs am 2. April 2025
 Parallel zum Minor Swing Social kannst du am **2. April ab 19:30 Uhr** in die Welt des Balboa mit unseren **[Balboa-Schnupperkurs]({{< ref "/minorswing#minor-swing-mit-balboa-schnupperkurs-am-2-april-2025" >}} "Balboa-Schnupperkurs")** eintauchen.
 Leichtfüßig, elegant und richtig spaßig – wir zeigen dir die ersten Basics und worauf’s beim Balboa ankommt. Kein Vorwissen nötig! Anschließend kannst du das Gelernte direkt beim Minor Swing Social ausprobieren und weitertanzen!
 
+### Kursrunde Frühling 2025
+Ab dem **14. April 2025** starten unsere neuen **[Kurse]({{< ref "/tanzkurse" >}} "Kurse")**. Egal, ob Anfängerin oder Fortgeschrittener – wir haben das richtige Angebot für dich. Sei dabei und erlebe die Freude am Swingtanzen! Die Anmeldung öffnet am Sonntag, dem 30. März 2025.
+
 ### Spring Camp Mattstedt 2025
 Auch dieses Jahr findet wieder unser geliebtes [**Spring Camp** auf dem Mühlenhof in Mattstedt]({{< ref "/mattstedt" >}} "Spring Camp auf dem Mühlenhof in Mattstedt") statt, dieses Jahr an Pfingsten (**vom 05.06. - 09.06.**). Die Anmeldung startet demnächst, ihr findet alle Details dann wie gewohnt hier auf der Website.
-
-[//]: # (### Kursrunde Frühling 2025)
-[//]: # (Ab dem **4. April 2025** starten unsere neuen **[Kurse]&#40;{{< ref "/tanzkurse" >}} "Kurse"&#41;**. Egal, ob Anfängerin oder Fortgeschrittener – wir haben das richtige Angebot für dich. Sei dabei und erlebe die Freude am Swingtanzen! Die Anmeldung öffnet erfahrungsgemäß etwa zwei Wochen vor Beginn einer neuen Kursrunde.)
 
 ### Minor Swing
 Der **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")** findet regelmäßig **jeden Mittwoch ab 19:30 Uhr** in unserem Tanzstudio Calloway statt.
