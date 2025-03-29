@@ -8,7 +8,7 @@ slug: "tanzkurse"
 
 > Am **2. April ab 19:30 Uhr** findet ein **[Balboa-Schnupperkurs]({{< ref "/minorswing#minor-swing-mit-balboa-schnupperkurs-am-2-april-2025" >}} "Balboa-Schnupperkurs")** im Erker-Raum statt. Anschließend kannst du das Gelernte direkt beim Minor Swing Social ausprobieren und weitertanzen!
 
-> **Die nächste Kursrunde beginnt am 14.04.2025.** Die Anmeldung öffnet am Sonntag, dem 30. März 2025.
+> **Die nächste Kursrunde beginnt am 14.04.2025.** Die Anmeldung ist **[geöffnet]({{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung")**!
 
 ![Kursrunde Frühling](../2025-04_schedule_spring_website.png)
 
@@ -30,9 +30,8 @@ Für Vereinsmitglieder entfällt der Kursbeitrag.
 - Intermediate (Int): Dieser Kurs ist für alle geeignet, die schon fortgeschritten sind, z.B. mehrere Mixed-Kurse besucht haben und die Basics sicher beherrschen.
 
 ### Anmeldung
-Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden: **Öffnet Sonntag, dem 30. März 2025**
-
-[//]: # (**[Zur Anmeldung]&#40;https://scl.swinggeeks.de/SCL2025-4/&#41;**)
+Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden:
+**[Zur Anmeldung](https://scl.swinggeeks.de/SCL2025-4/)**
 
 ### Kursbeschreibungen
 
