@@ -10,7 +10,6 @@ Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktue
 ### Nächste Termine
 
 - Jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")** 
-- Mittwoch, 2. April - Minor Swing und gleichzeitig startender **[Balboa-Schnupperkurs]({{< ref "/minorswing#minor-swing-mit-balboa-schnupperkurs-am-2-april-2025" >}} "Balboa-Schnupperkurs")**
 - Samstag, 10. Mai - [Lindy Hop Workshops]({{< ref "/workshops" >}} "Lindy Hop Workshops") mit Teachern der [Dresden Hepcats](https://dresden-hepcats.de/)
 
 ### Minor Swing
