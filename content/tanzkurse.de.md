@@ -6,8 +6,6 @@ slug: "tanzkurse"
 
 [//]: # (![Kursplan Herbst 2024]&#40;../schedule_herbst_2024_ohne_websiteinfo_v4.png&#41;)
 
-> Am **2. April ab 19:30 Uhr** findet ein **[Balboa-Schnupperkurs]({{< ref "/minorswing#minor-swing-mit-balboa-schnupperkurs-am-2-april-2025" >}} "Balboa-Schnupperkurs")** im Erker-Raum statt. Anschließend kannst du das Gelernte direkt beim Minor Swing Social ausprobieren und weitertanzen!
-
 > **Die nächste Kursrunde beginnt am 14.04.2025.** Die Anmeldung ist **[geöffnet]({{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung")**!
 
 ![Kursrunde Frühling](../2025-04_schedule_spring_website.png)
