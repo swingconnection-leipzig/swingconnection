@@ -6,7 +6,9 @@ slug: "tanzkurse"
 
 [//]: # (![Kursplan Herbst 2024]&#40;../schedule_herbst_2024_ohne_websiteinfo_v4.png&#41;)
 
-> **Die nächste Kursrunde beginnt am 14.04.2025.** Die Anmeldung ist **[geöffnet]({{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung")**!
+[//]: # (> **Die nächste Kursrunde beginnt am 14.04.2025.** Die Anmeldung ist **[geöffnet]&#40;{{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung"&#41;**!)
+
+> Am **10. Mai** wird es [**Lindy Hop Workshops**]({{< ref "/workshops" >}} "Lindy Hop Workshops") mit Caro und Micha von den Dresden Hepcats geben!
 
 ![Kursrunde Frühling](../2025-04_schedule_spring_website.png)
 
