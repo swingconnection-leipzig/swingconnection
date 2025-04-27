@@ -12,7 +12,7 @@ Am **10. Mai** wird es Lindy Hop Workshops mit Caro und Micha von den Dresden He
 
  - 11:00 - 12:30 Uhr **Beginner** - Endposen
  - 14:00 - 15:30 Uhr **Intermediate/Advanced** - Swingoutmechanik und overrotated Swingout
- - Ab 20:00 Uhr - **Social** mit Live-Musik
+ - Ab 20:00 Uhr - **Social** mit Live-Musik mit **Lipsi Tight**
 
 ### Level-Beschreibung
 **Beginner Workshop - Endposen:** Dieser Workshop ist für alle geeignet, die schon die Grundlagen des Lindy Hops erlernt haben, z.B. in den Basic-Kursen der SCL.
