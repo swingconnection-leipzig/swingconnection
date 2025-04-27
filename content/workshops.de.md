@@ -23,7 +23,7 @@ Am **10. Mai** wird es Lindy Hop Workshops mit Caro und Micha von den Dresden He
 Ticketpreis pro Kurs: 25€ für Externe, 15 € für Vereinsmitglieder
 
 Über unser Kursbuchungsportal könnt ihr euch zu den Workshops anmelden:
-**[Zur Anmeldung](#)**
+**[Zur Anmeldung](https://scl.swinggeeks.de/SCLW052025/)**
 
 [//]: # (- Anmeldungen im Paar und als Einzelperson möglich &#40;als Follow, Lead oder Switch&#41;)
 [//]: # (- Teilnehmerzahl pro Kurs max. 30, sodass Tanzrollen etwa ausgeglichen sind, es wird rotiert)
