@@ -11,6 +11,7 @@ Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktue
 
 - Jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")** 
 - Samstag, 10. Mai - [Lindy Hop Workshops]({{< ref "/workshops" >}} "Lindy Hop Workshops") mit Teachern der [Dresden Hepcats](https://dresden-hepcats.de/) & Social ab 20 Uhr mit **Live-Musik mit Lipsi Tight**
+- Pfingstwochenende, 5.-9. Juni - [Spring Camp Mattstedt]({{< ref "/mattstedt" >}} "Spring Camp Mattstedt")
 
 ### Minor Swing
 Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen. **Jeden Mittwoch ab 19:30 Uhr** findet der Minor Swing in unserem Tanzstudio **Calloway** statt. Der Minor Swing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Mehr Infos erhaltet ihr auf der Seite [Minor Swing]({{< ref "/minorswing" >}} "Minor Swing").

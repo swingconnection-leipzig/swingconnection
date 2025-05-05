@@ -10,6 +10,8 @@ slug: "tanzkurse"
 
 > Am **10. Mai** wird es [**Lindy Hop Workshops**]({{< ref "/workshops" >}} "Lindy Hop Workshops") mit Caro und Micha von den Dresden Hepcats geben!
 
+> Am **Pfingstwochende (5.-9. Juni)** findet unser **[Spring Camp Mattstedt]({{< ref "/mattstedt" >}} "Spring Camp Mattstedt")** statt!
+
 ![Kursrunde Frühling](../2025-04_schedule_spring_website.png)
 
 ### Preise

@@ -15,11 +15,11 @@ zuletzt aktualisiert am 27.04.2025
 ### Lindy Hop Workshop mit Teachern der Dresden Hepcats am 10. Mai 2025
 Am 10. Mai freuen wir uns auf einen energiegeladenen [**Lindy Hop Workshop-Tag**]({{< ref "/workshops" >}} "Lindy Hop Workshop-Tag") mit Caro und Micha von den Dresden Hepcats – inklusive Beginner- und Intermediate/Advanced-Level! Abends lassen wir den Tag gemeinsam beim Social mit Live-Musik mit **Lipsi Tight** ausklingen – come swing out with us!
 
+### Spring Camp Mattstedt 2025
+Auch dieses Jahr findet wieder unser geliebtes [**Spring Camp** auf dem Mühlenhof in Mattstedt]({{< ref "/mattstedt" >}} "Spring Camp auf dem Mühlenhof in Mattstedt") statt, dieses Jahr an Pfingsten (**vom 05.06. - 09.06.**). Die **[Anmeldung ist geöffnet]({{< ref "/mattstedt/#anmeldung" >}} "zur Anmeldung")**!
+
 ### Kursrunde Frühling 2025
 Ab dem **14. April 2025** starten unsere neuen **[Kurse]({{< ref "/tanzkurse" >}} "Kurse")**. Egal, ob Anfängerin oder Fortgeschrittener – wir haben das richtige Angebot für dich. Sei dabei und erlebe die Freude am Swingtanzen! Die **[Anmeldung ist geöffnet]({{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung")**!
-
-### Spring Camp Mattstedt 2025
-Auch dieses Jahr findet wieder unser geliebtes [**Spring Camp** auf dem Mühlenhof in Mattstedt]({{< ref "/mattstedt" >}} "Spring Camp auf dem Mühlenhof in Mattstedt") statt, dieses Jahr an Pfingsten (**vom 05.06. - 09.06.**). Die Anmeldung startet demnächst, ihr findet alle Details dann wie gewohnt hier auf der Website.
 
 ### Minor Swing
 Der **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")** findet regelmäßig **jeden Mittwoch ab 19:30 Uhr** in unserem Tanzstudio Calloway statt.
