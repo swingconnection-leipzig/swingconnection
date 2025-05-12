@@ -10,7 +10,6 @@ Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktue
 ### Nächste Termine
 
 - Jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")** 
-- Samstag, 10. Mai - [Lindy Hop Workshops]({{< ref "/workshops" >}} "Lindy Hop Workshops") mit Teachern der [Dresden Hepcats](https://dresden-hepcats.de/) & Social ab 20 Uhr mit **Live-Musik mit Lipsi Tight**
 - Pfingstwochenende, 5.-9. Juni - [Spring Camp Mattstedt]({{< ref "/mattstedt" >}} "Spring Camp Mattstedt")
 
 ### Minor Swing
