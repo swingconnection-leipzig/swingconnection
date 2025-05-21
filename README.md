@@ -23,3 +23,29 @@ Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Date
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
 
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
+
+## Entwicklung
+
+Es wird vorausgesetzt, dass Hugo und git auf dem Entwickler:innenrechner installiert sind.
+
+### Einrichtung für die lokale Entwicklung
+
+Die Installation von Hugo ermöglicht lokal die Seite zu bauen und ein Live-Rebuild zu aktivieren.
+
+Zur arbeit an der Webseite des GitHub repo klonen, bpsw. mit
+
+```bash
+git clone git@github.com:swingconnection-leipzig/swingconnection.git
+```
+
+und git submodules updaten, damit das Theme geladen wird
+
+```bash
+git submodule update --init --recursive
+```
+
+Im Wurzelverzeichnis des Repositories den Hugo Server starten, um ein Live-Rebuild nach Speichern einer Änderung zu erhalten.
+
+```bash
+hugo server
+```
