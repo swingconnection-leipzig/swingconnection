@@ -8,7 +8,6 @@ slug: "tanzkurse"
 
 [//]: # (> **Die nächste Kursrunde beginnt am 14.04.2025.** Die Anmeldung ist **[geöffnet]&#40;{{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung"&#41;**!)
 
-> Am **Pfingstwochende (5.-9. Juni)** findet unser **[Spring Camp Mattstedt]({{< ref "/mattstedt" >}} "Spring Camp Mattstedt")** statt!
 
 ![Kursrunde Frühling](../2025-04_schedule_spring_website.png)
 

@@ -10,7 +10,6 @@ Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktue
 ### Nächste Termine
 
 - Jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")** 
-- Pfingstwochenende, 5.-9. Juni - [Spring Camp Mattstedt]({{< ref "/mattstedt" >}} "Spring Camp Mattstedt")
 
 ### Minor Swing
 Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen. **Jeden Mittwoch ab 19:30 Uhr** findet der Minor Swing in unserem Tanzstudio **Calloway** statt. Der Minor Swing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Mehr Infos erhaltet ihr auf der Seite [Minor Swing]({{< ref "/minorswing" >}} "Minor Swing").
@@ -20,9 +19,6 @@ In regelmäßigen Abständen laden wir zur Swing Tea Time ein. Dann hüllt sich 
 
 ### Friday Night Balboa
 In regelmäßigen Abständen laden wir zum Friday Night Balboa ein. Mehr Infos erhaltet ihr auf der Seite [Friday Night Balboa]({{< ref "/fridaynightbalboa" >}} "Friday Night Balboa").
-
-### Spring Camp Mattstedt
-Die beiden Highlights des Jahres sind unsere Camps jeden Frühling und Sommer. Raus ins Grüne und je nach Gusto abmatten oder abtanzen. Das Spring Camp am Mühlenhof in Mattstedt richtet sich sowohl an angefixte Tanzanfänger als auch an Menschen, die schon länger dabei sind. Hier habt ihr ein ganzes Wochenende nur Swing im Kopf und lernt eure Kursgefährten und andere Kursleiter:innen besser kennen. Mehr Infos erhaltet ihr auf der Seite [Mattstedt]({{< ref "/mattstedt" >}} "Mattstedt").
 
 ### Swing Brunch
 In regelmäßigen Abständen veranstalten wir einen Swing Brunch.
