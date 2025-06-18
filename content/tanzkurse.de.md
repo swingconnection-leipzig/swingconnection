@@ -8,9 +8,7 @@ slug: "tanzkurse"
 
 [//]: # (> **Die nächste Kursrunde beginnt am 14.04.2025.** Die Anmeldung ist **[geöffnet]&#40;{{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung"&#41;**!)
 
-> Am **Pfingstwochende (5.-9. Juni)** findet unser **[Spring Camp Mattstedt]({{< ref "/mattstedt" >}} "Spring Camp Mattstedt")** statt!
-
-![Kursrunde Frühling](../2025-04_schedule_spring_website.png)
+> Die letzte Kursrunde ist gerade vorbei :shrug: Weiter unten findest du die [nächsten Kursrunden](#nächste-kursrunde).
 
 ### Preise
 - Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
@@ -98,8 +96,6 @@ items_bottom="Wenn ihr erkältet seid oder euch krank fühlt, bleibt bitte zu Ha
 
 ### Nächste Kursrunde
 Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Dieses Jahr bieten wir neben Workshops am Wochenende und einem Sommerprogramm vier reguläre Kursrunden an:
-- 03.02.-28.03.2025
-- 14.04.-06.06.2025
 - 25.08.-03.10.2025
 - 20.10.-12.12.2025
 
