@@ -8,7 +8,7 @@ slug: "tanzkurse"
 
 [//]: # (> **Die nächste Kursrunde beginnt am 14.04.2025.** Die Anmeldung ist **[geöffnet]&#40;{{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung"&#41;**!)
 
-Die letzte Kursrunde ist gerade vorbei :shrug: Weiter unten findest du die [nächsten Kursrunden](#nächste-kursrunde).
+> Die letzte Kursrunde ist gerade vorbei :shrug: Weiter unten findest du die [nächsten Kursrunden](#nächste-kursrunde).
 
 ### Preise
 - Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
