@@ -6,6 +6,8 @@ slug: "aktuelles"
 
 zuletzt aktualisiert am 17.06.2025
 
+Hallo
+
 [//]: # (### Friday Night Balboa)
 [//]: # (Im November laden wir euch wieder zum **[Friday Night Balboa]&#40;{{< ref "/fridaynightbalboa" >}} "Friday Night Balboa"&#41;**-Abend im Calloway ein: Am **29.11.**ab 18:30 Uhr starten wir mit einem Drop-In-Kurs, danach wird getanzt!)
 
