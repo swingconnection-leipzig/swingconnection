@@ -10,6 +10,7 @@ Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktue
 ### Nächste Termine
 
 - ~~Jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")**~~ **Sommerpause!**
+- Mittwoch, 9. Juli, ab 19 Uhr - [**HTWK-Tanzfest**]({{< ref "/htwk-tanzfest" >}} "HTWK-Tanzfest")
 
 ### Minor Swing
 
