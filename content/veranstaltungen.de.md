@@ -12,6 +12,7 @@ Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktue
 - ~~Jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")**~~ **Sommerpause!**
 - Mittwoch, 9. Juli, ab 19 Uhr - [**HTWK-Tanzfest**]({{< ref "/htwk-tanzfest" >}} "HTWK-Tanzfest")
 - Mittwoch, 16. Juli, 18:30 - 19:30 - **[Safer Space Community Talk]({{< ref "/safer-space" >}} "Safer Space Community Talk")**
+- Sonntag, 14. September - **Swing Pavillon** mit Taster, Show und Live Musik von **The Perky Pollyvocs**
 
 ### Minor Swing
 
