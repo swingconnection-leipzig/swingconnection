@@ -4,7 +4,7 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 04.07.2025
+zuletzt aktualisiert am 09.07.2025
 
 [//]: # (### Friday Night Balboa)
 [//]: # (Im November laden wir euch wieder zum **[Friday Night Balboa]&#40;{{< ref "/fridaynightbalboa" >}} "Friday Night Balboa"&#41;**-Abend im Calloway ein: Am **29.11.**ab 18:30 Uhr starten wir mit einem Drop-In-Kurs, danach wird getanzt!)
@@ -14,10 +14,6 @@ zuletzt aktualisiert am 04.07.2025
 
 ### Safer Space Community Talk
 Wie kann Tanzen für alle noch sicherer und angenehmer werden? Am **16. Juli von 18:30 bis 19:30** treffen wir uns im Calloway zum Austausch – alle sind willkommen. In offener Runde sprechen wir über Erfahrungen, Wünsche und Ideen für ein achtsames Miteinander beim Tanzen. Mehr Infos findet ihr auf der Seite **[Safer Space]({{< ref "/safer-space" >}} "Safer Space")**.
-
-### HTWK Tanzfest
-Am Mittwoch, den **9. Juli ab 19 Uhr** findet zum Semesterabschluss das [**HTWK-Tanzfest**]({{< ref "/htwk-tanzfest" >}} "HTWK-Tanzfest") für alle Paartänze im Trefftzbau statt.
-Die SwingConnection ist mit einem **Lindy-Hop-Crashkurs** vor Ort dabei.
 
 ### Minor Swing
 
