@@ -34,14 +34,12 @@ Dufourstr. 8
 E-mail: info@swingconnection-leipzig.com  
 
 gesetzlich vertreten durch den Vorstand nach § 26 BGB:  
-Ella Felix – Erste Vorsitzende  
-Katharina Lübbers – Stellv. Vorsitzende  
-Henning Nolzen – Kassenwart
+Katharina Lübbers – Erste Vorsitzende  
+Kristian Frach – Stellv. Vorsitzender  
+Henning Nolzen – Kassenwart  
 André Müller  
 Julia von Gönner  
-Kristian Frach  
 Kristian Conrad  
-Steffen Allner  
 
 Kontaktdaten des Datenschutzbeauftragten/der Datenschutzbeauftragten:
 -nicht benannt, da weniger als 10 Personen im regelmäßigem Umgang mit personenbezogenen Daten
