@@ -53,6 +53,7 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - Line ([E-Mail](mailto:line@swingconnection-leipzig.com)) 
 - Lui ([E-Mail](mailto:lui@swingconnection-leipzig.com))
 - Luisa ([E-Mail](mailto:luisa@swingconnection-leipzig.com))
+- Marli ([E-Mail](mailto:marli@swingconnection-leipzig.com))
 - Pia ([E-Mail](mailto:pia@swingconnection-leipzig.com))
 - Sima* ([E-Mail](mailto:sima@swingconnection-leipzig.com))
 - Steffen ([E-Mail](mailto:steffen@swingconnection-leipzig.com))
