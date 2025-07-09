@@ -32,14 +32,12 @@ Unter den folgenden Links kannst du dir die Vereinssatzung, unsere Beitragsordnu
 In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und das Organisieren, Planen und Durchführen von Kursbetrieb, Übungsabenden und Workshops wird ausschließlich ehrenamtlich bzw. freiwillig durch die Vereinsmitglieder sichergestellt. Im Folgenden sind einige offizielle Zuständigkeiten aufgelistet.
 
 #### Vorstand
-- Erste Vorsitzende: Ella Felix ([E-Mail](mailto:ella@swingconnection-leipzig.com))
-- Stellv. Vorsitzende: Katharina Lübbers ([E-Mail](mailto:katha@swingconnection-leipzig.com))
+- Erste Vorsitzende: Katharina Lübbers ([E-Mail](mailto:katha@swingconnection-leipzig.com))
+- Stellv. Vorsitzender: Kristian Frach ([E-Mail](mailto:kristian@swingconnection-leipzig.com))
 - Kassenwart: Henning Nolzen ([E-Mail](mailto:henning@swingconnection-leipzig.com))
 - André Müller ([E-Mail](mailto:andre@swingconnection-leipzig.com))
 - Julia von Gönner ([E-Mail](mailto:julia@swingconnection-leipzig.com))
-- Kristian Frach ([E-Mail](mailto:kristian@swingconnection-leipzig.com))
 - Kristian Conrad ([E-Mail](mailto:kristian.c@swingconnection-leipzig.com))
-- Steffen Allner ([E-Mail](mailto:steffen@swingconnection-leipzig.com))
 
 #### Kursleiter:innen (zurzeit aktiv)
 - André ([E-Mail](mailto:andre@swingconnection-leipzig.com))
@@ -55,6 +53,7 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - Line ([E-Mail](mailto:line@swingconnection-leipzig.com)) 
 - Lui ([E-Mail](mailto:lui@swingconnection-leipzig.com))
 - Luisa ([E-Mail](mailto:luisa@swingconnection-leipzig.com))
+- Marli ([E-Mail](mailto:marli@swingconnection-leipzig.com))
 - Pia ([E-Mail](mailto:pia@swingconnection-leipzig.com))
 - Sima* ([E-Mail](mailto:sima@swingconnection-leipzig.com))
 - Steffen ([E-Mail](mailto:steffen@swingconnection-leipzig.com))
