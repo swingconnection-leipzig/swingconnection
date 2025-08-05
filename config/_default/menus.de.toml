@@ -34,11 +34,11 @@ url = "/minor-swing-social/"
 parent = "veranstaltungen"
 weight = 31
 
-#[[main]]
-#name = "Friday Night Balboa"
-#url = "/friday-night-balboa/"
-#parent = "veranstaltungen"
-#weight = 32
+[[main]]
+name = "Friday Night Balboa"
+url = "/friday-night-balboa/"
+parent = "veranstaltungen"
+weight = 32
 
 #[[main]]
 #name = "Mattstedt"
