@@ -85,6 +85,16 @@ Wenn hohe BPM auch euer Herz höher schlagen lassen seid ihr beim Collegiate Sha
 [//]: # (Hier könnt ihr mit unserer BT-Box in Eigenregie üben, wenn der parallel laufende Kurs stattfindet.)
 [//]: # ({{< /admonition >}})
 
+### Friday Special
+> Mehr Infos findet ihr unter **[Friday Special]({{< ref "/friday-special/" >}} "Friday Special")**
+
+Neben der Kursrunde wird es freitags verschiedene Veranstaltungen mit Taster, Drop-In-Kursen und Social geben!
+
+- Freitag, 05. September - **Friday Night Blues** (Taster & Social)
+- Freitag, 12. September - **[Friday Night Balboa]({{< ref "/fridaynightbalboa" >}} "Friday Night Balboa")** und **Generalprobe Tranky Doo** (Erker)
+- Freitag, 26. September - **Friday Fusion** (Taster & Social)
+- Freitag, 03. Oktober - **Shag mixed Workshop** und Shag & Balboa **Social**
+
 ### Hinweise zu den Kursen
 {{< notes_list file="notes_classes"
 items_top="Ihr müsst euch nicht paarweise anmelden, sondern könnt euch auch einzeln anmelden."
