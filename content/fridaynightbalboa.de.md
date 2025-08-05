@@ -2,10 +2,7 @@
 title: "Friday Night Balboa"
 draft: false
 slug: "friday-night-balboa"
-
 ---
-
-> Der nächste Termin steht noch nicht fest.
 
 ![Tea Dance](../slider_friday_night_balboa.png)
 
@@ -14,7 +11,7 @@ Wir starten **18:30 Uhr** mit einem **Drop-In-Kurs**. Der Kurs ist Beginner:inne
 Im Anschluss ab **19.30 Uhr** ist **Balboa-Social Dance**. 
 
 ### Termine
-Die Termine für 2025 werden bald hier angekündigt.
+- Freitag, 12. September
 
 ### Zeit
 - 18:30 - 19:30 Uhr Drop-In-Kurs
