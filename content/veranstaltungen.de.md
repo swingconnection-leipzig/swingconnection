@@ -10,8 +10,11 @@ Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktue
 ### Nächste Termine
 
 - ~~Jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")**~~ **Sommerpause!**
-- Mittwoch, 16. Juli, 18:30 - 19:30 - **[Safer Space Community Talk]({{< ref "/safer-space" >}} "Safer Space Community Talk")**
+- Freitag, 05. September - **[Friday Night Blues]({{< ref "/friday-special/#friday-night-blues-5-september" >}} "Friday Night Blues")**
+- Freitag, 12. September - **[Friday Night Balboa]({{< ref "/fridaynightbalboa" >}} "Friday Night Balboa")** und Generalprobe Tranky Doo (Erker)
 - Sonntag, 14. September - **Swing Pavillon** mit Taster, Show und Live Musik von **The Perky Pollyvocs**
+- Freitag, 26. September - **[Friday Fusion]({{< ref "/friday-special/#friday-fusion-26-september" >}} "Friday Fusion")** (Taster & Social)
+- Freitag, 03. Oktober - **[Shag mixed Workshop]({{< ref "/friday-special/#shag-workshop-und-shag--balboa-social-3-oktober" >}} "Shag mixed Workshop")** und Shag & Balboa **Social**
 
 ### Minor Swing
 

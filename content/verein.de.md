@@ -60,11 +60,9 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - Tonia ([E-Mail](mailto:tonia@swingconnection-leipzig.com))
 
 #### Safer Space Team
-- Catze ([E-Mail](mailto:catze@swingconnection-leipzig.com))
-- Ella ([E-Mail](mailto:ella@swingconnection-leipzig.com))
-- Jona ([E-Mail](mailto:jona@swingconnection-leipzig.com))
-- Lui ([E-Mail](mailto:lui@swingconnection-leipzig.com))
-- Pia ([E-Mail](mailto:pia@swingconnection-leipzig.com))
+Dein Wohlbefinden liegt uns am Herzen. Wenn du dich unwohl gefühlt hast oder etwas ansprechen möchtest, kannst du dich vertraulich an das Safer Space Team wenden: **saferspace@swingconnection-leipzig.com**
+
+Das Team besteht aus mehreren Personen, unter anderem Catze, Ella, Jona, Lui, Pia und Sima*.
 
 ### Einmietungen
 - Björn, Luisa & Pia ([E-Mail](mailto:einmietung@swingconnection-leipzig.com))
