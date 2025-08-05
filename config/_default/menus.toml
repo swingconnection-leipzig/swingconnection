@@ -103,6 +103,13 @@ url = '/geschichte/'
 weight = 52
 
 [[main]]
+parent = 'verein'
+identifier = 'safer-space'
+name = 'Safer Space'
+url = '/safer-space/'
+weight = 53
+
+[[main]]
 identifier = 'kontakt'
 name = 'Kontakt & Impressum'
 url = '/kontakt/'

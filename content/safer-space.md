@@ -4,6 +4,8 @@ draft: false
 slug: "safer-space"
 ---
 
+> Ein nächstes Treffen ist in Planung!
+
 ### Safer Space beim Tanzen - Lass uns reden
 Du hast Gedanken, Wünsche oder Fragen rund um das Thema Safer Space in unserem Verein? Du möchtest dich über Erfahrungen austauschen, in denen du dich beim Tanzen unwohl, unsicher oder diskriminiert gefühlt hast – oder einfach sagen, was dir wichtig ist, damit sich alle beim Tanzen wohlfühlen können?
 
