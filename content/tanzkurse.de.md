@@ -71,7 +71,7 @@ Hier könnt ihr in Eigenregie üben.
 {{< admonition success "Showtraining / Tranky Doo (Mo 19:45)" false >}}
 Der Kurs dient dem Erarbeiten einer kleinen **Showeinlage zum Swing Pavillon** am 14.9.2025. Es gibt 3 Kurseinheiten (am 25.8., 1.9., 8.9.) und eine Generalprobe am 12.9. Da die Zeit zum Einüben etwas begrenzt ist, solltet ihr schon Solo Jazz Erfahrung mitbringen. Am besten habt ihr den **Tranky Doo** sogar schon mal getanzt und möchtet ihn auffrischen.
 
-*Das Showtraining ist **kostenfrei** und Drop-In ist möglich.*
+*Das Showtraining ist kostenlos, aber meldet euch bitte vorher an!*
 
 *Der Kurs findet im Erker statt.*
 {{< /admonition >}}
