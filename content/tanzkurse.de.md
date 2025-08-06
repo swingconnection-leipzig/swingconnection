@@ -68,6 +68,15 @@ Der Kurs richtet sich an alle, die in ihren Basics gefestigt sind und regelmäß
 Hier könnt ihr in Eigenregie üben.
 {{< /admonition >}}
 
+{{< admonition success "Showtraining / Tranky Doo (Mo 19:45)" false >}}
+Der Kurs dient dem Erarbeiten einer kleinen **Showeinlage zum Swing Pavillon** am 14.9.2025. Es gibt 3 Kurseinheiten (am 25.8., 1.9., 8.9.) und eine Generalprobe am 12.9. Da die Zeit zum Einüben etwas begrenzt ist, solltet ihr schon Solo Jazz Erfahrung mitbringen. Am besten habt ihr den **Tranky Doo** sogar schon mal getanzt und möchtet ihn auffrischen.
+
+*Das Showtraining ist **kostenfrei** und Drop-In ist möglich.*
+
+*Der Kurs findet im Erker statt.*
+{{< /admonition >}}
+
+
 [//]: # ({{< admonition success "Jazz + Lindy Hop Mixed &#40;Mi 18:00&#41;" false >}})
 [//]: # (In diesem Kurs wird sowohl solo als auch im Paar getanzt. Beide Formen sind Bestandteile des Lindy Hop. Wie Jazz- und Swingmusik lebt auch der Tanz von Improvisation, Austausch und Miteinander. Wir lernen Elemente aus dem Swing und Solo Jazz, um vielseitig und musikalisch miteinander tanzen zu können.)
 [//]: # (Der Kurs richtet sich an alle, die schon einen oder mehrere Lindy Basics Kurse gemacht haben, liefert aber auch neue Impulse für all diejenigen, die noch länger dabei sind.)
