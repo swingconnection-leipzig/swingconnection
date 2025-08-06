@@ -53,6 +53,8 @@ Der Balboa Mixed Kurs richtet sich an alle, die bereits die Grundschritte des Ba
 {{< admonition success "Lindy Hop Mixed (Mi 18:30)" false >}}
 Der Kurs richtet sich an alle, die schon einen oder mehrere Lindy Basics Kurse gemacht haben, liefert aber auch neue Impulse für all diejenigen, die noch länger dabei sind.
 
+In diesem Lindy Mixed Kurs wollen wir einen Fokus auf **Connection und Flexibilty** legen. Neben Figuren lernen soll es hauptsächlich darum gehen, wie wir mit verschiedenen Personen eine gute Verbindung aufbauen und unser Tanzen flexibel gestalten können.
+
 *Der Kurs findet im Calloway Saal statt.*
 {{< /admonition >}}
 
