@@ -8,6 +8,8 @@ slug: "tanzkurse"
 
 > **Die nächste Kursrunde beginnt am 25.08.2025.** Die Anmeldung ist **demnächst [geöffnet]({{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung")**!
 
+![Kursrunde Sommer](../2025-08_schedule_summer_website.png)
+
 ### Preise
 - Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
 - Ermäßigt¹: 64 € (8-Wochen-Kursrunde), 48 € (6-Wochen-Kursrunde)
