@@ -6,7 +6,7 @@ slug: "tanzkurse"
 
 [//]: # (![Kursplan Herbst 2024]&#40;../schedule_herbst_2024_ohne_websiteinfo_v4.png&#41;)
 
-> **Die nächste Kursrunde beginnt am 25.08.2025.** Die Anmeldung ist **demnächst [geöffnet]({{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung")**!
+> **Die nächste Kursrunde beginnt am 25.08.2025.** Die Anmeldung ist **[geöffnet]({{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung")**!
 
 ![Kursrunde Sommer](../2025-08_schedule_summer_website.png)
 
@@ -28,9 +28,8 @@ Für Vereinsmitglieder entfällt der Kursbeitrag.
 - Intermediate (Int): Dieser Kurs ist für alle geeignet, die schon fortgeschritten sind, z.B. mehrere Mixed-Kurse besucht haben und die Basics sicher beherrschen.
 
 ### Anmeldung
-Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden: Anmeldung öffnet demnächst
-
-[//]: # (**[Zur Anmeldung]&#40;https://scl.swinggeeks.de/SCL2025-4/&#41;**)
+Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden:
+**[Zur Anmeldung](https://scl.swinggeeks.de/SCL2025-08/)**
 
 ### Kursbeschreibungen
 

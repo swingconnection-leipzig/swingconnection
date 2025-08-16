@@ -4,10 +4,10 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 02.08.2025
+zuletzt aktualisiert am 16.08.2025
 
 ### Neue Kursrunde
-Am 25. August startet unsere neue **[Kursrunde]({{< ref "/tanzkurse" >}} "Kursrunde")** - macht euch bereit für frische Moves und jede Menge Tanzspaß! Die Anmeldung öffnet ganz bald, also haltet die Augen offen und sichert euch euren Platz!
+Am 25. August startet unsere neue **[Kursrunde]({{< ref "/tanzkurse" >}} "Kursrunde")** - macht euch bereit für frische Moves und jede Menge Tanzspaß! Die Anmeldung ist **[geöffnet]({{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung")**!
 
 ### Friday Special im September und Oktober
 Bei den **[Friday Special]({{< ref "/friday-special/" >}} "Friday Special")** im September und Oktober könnt ihr neue Tänze entdecken und direkt beim Social ausprobieren. Freut euch auf Abende mit Balboa, Shag, Blues und Fusion!
