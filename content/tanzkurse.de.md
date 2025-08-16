@@ -74,6 +74,8 @@ Der Kurs dient dem Erarbeiten einer kleinen **Showeinlage zum Swing Pavillon** a
 
 *Das Showtraining ist kostenlos, aber meldet euch bitte vorher an!*
 
+*Wenn ihr den Tranky Doo schon könnt, kommt gerne auch nur zur Generalprobe am 12. September und/oder tanzt direkt bei der Show beim Swing Pavillon mit!*
+
 *Der Kurs findet im Erker statt.*
 {{< /admonition >}}
 
