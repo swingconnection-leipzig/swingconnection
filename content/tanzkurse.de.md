@@ -11,7 +11,7 @@ slug: "tanzkurse"
 ![Kursrunde Sommer](../2025-08_schedule_summer_website.png)
 
 ### Preise
-- Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
+- Vollzahler: 80 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
 - Ermäßigt¹: 64 € (8-Wochen-Kursrunde), 48 € (6-Wochen-Kursrunde)
 - Drop-In Stunde²: 10 €
 
