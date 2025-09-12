@@ -10,9 +10,9 @@ Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktue
 ### Nächste Termine
 
 - ~~Jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")**~~ **Sommerpause!**
-- Freitag, 05. September - **[Friday Night Blues]({{< ref "/friday-special/#friday-night-blues-5-september" >}} "Friday Night Blues")**
 - Freitag, 12. September - **[Friday Night Balboa]({{< ref "/fridaynightbalboa" >}} "Friday Night Balboa")** und Generalprobe Tranky Doo (Erker)
-- Sonntag, 14. September - **Swing Pavillon** mit Taster, Show und Live Musik von **The Perky Pollyvocs**
+- Sonntag, 14. September - **Swing Pavillon** mit Taster, Show und Live Musik von **The Perky Pollyvocs** (am Musikpavillon im Clara-Zetkin-Park)
+- Mittwoch, 24. September - [**mit Live-Musik** mit Swing to Bop aus Paris]({{< ref "/minorswing#minor-swing-live-am-24-september-2025-mit-swing-to-bop-aus-paris" >}} "mit Live-Musik mit Swing to Bop aus Paris")
 - Freitag, 26. September - **[Friday Fusion]({{< ref "/friday-special/#friday-fusion-26-september" >}} "Friday Fusion")** (Taster & Social)
 - Freitag, 03. Oktober - **[Shag mixed Workshop]({{< ref "/friday-special/#shag-workshop-und-shag--balboa-social-3-oktober" >}} "Shag mixed Workshop")** und Shag & Balboa **Social**
 
