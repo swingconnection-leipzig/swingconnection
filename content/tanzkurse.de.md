@@ -6,7 +6,7 @@ slug: "tanzkurse"
 
 [//]: # (![Kursplan Herbst 2024]&#40;../schedule_herbst_2024_ohne_websiteinfo_v4.png&#41;)
 
-> **Die nächste Kursrunde beginnt am 25.08.2025.** Die Anmeldung ist **[geöffnet]({{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung")**!
+> **Die nächste Kursrunde mit neuen Beginnerkursen beginnt am 20.10.2025.** Die Anmeldung ist öffnet zwei Wochen for Kursbeginn!
 
 ![Kursrunde Sommer](../2025-08_schedule_summer_website.png)
 
@@ -109,8 +109,6 @@ Der Kurs dient dem Erarbeiten einer kleinen **Showeinlage zum Swing Pavillon** a
 
 Neben der Kursrunde wird es freitags verschiedene Veranstaltungen mit Taster, Drop-In-Kursen und Social geben!
 
-- Freitag, 05. September - **Friday Night Blues** (Taster & Social)
-- Freitag, 12. September - **[Friday Night Balboa]({{< ref "/fridaynightbalboa" >}} "Friday Night Balboa")** und **Generalprobe Tranky Doo** (Erker)
 - Freitag, 26. September - **Friday Fusion** (Taster & Social)
 - Freitag, 03. Oktober - **Shag mixed Workshop** und Shag & Balboa **Social**
 
