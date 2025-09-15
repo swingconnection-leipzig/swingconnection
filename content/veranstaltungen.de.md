@@ -9,17 +9,12 @@ Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktue
 
 ### Nächste Termine
 
-- ~~Jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")**~~ **Sommerpause!**
-- Freitag, 12. September - **[Friday Night Balboa]({{< ref "/fridaynightbalboa" >}} "Friday Night Balboa")** und Generalprobe Tranky Doo (Erker)
-- Sonntag, 14. September - **Swing Pavillon** mit Taster, Show und Live Musik von **The Perky Pollyvocs** (am Musikpavillon im Clara-Zetkin-Park)
+- Jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")**
 - Mittwoch, 24. September - [**mit Live-Musik** mit Swing to Bop aus Paris]({{< ref "/minorswing#minor-swing-live-am-24-september-2025-mit-swing-to-bop-aus-paris" >}} "mit Live-Musik mit Swing to Bop aus Paris")
 - Freitag, 26. September - **[Friday Fusion]({{< ref "/friday-special/#friday-fusion-26-september" >}} "Friday Fusion")** (Taster & Social)
-- Freitag, 03. Oktober - **[Shag mixed Workshop]({{< ref "/friday-special/#shag-workshop-und-shag--balboa-social-3-oktober" >}} "Shag mixed Workshop")** und Shag & Balboa **Social**
+- Freitag, 3. Oktober - **[Shag Mixed Workshop]({{< ref "/friday-special/#shag-workshop-und-shag--balboa-social-3-oktober" >}} "Shag mixed Workshop")** und Shag & Balboa **Social**
 
 ### Minor Swing
-
-> Achtung: Während des Sommers findet bei guten Wetter **kein** Minor Swing im Calloway statt. Stattdessen treffen sich viele Tänzer am **Inselteich im Clara-Zetkin-Park**.
-
 Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen. **Jeden Mittwoch ab 19:30 Uhr** findet der Minor Swing in unserem Tanzstudio **Calloway** statt. Der Minor Swing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Mehr Infos erhaltet ihr auf der Seite [Minor Swing]({{< ref "/minorswing" >}} "Minor Swing").
 
 ### Swing Tea Time
