@@ -66,7 +66,7 @@ Dein Wohlbefinden liegt uns am Herzen. Wenn du dich unwohl gefühlt hast oder et
 Das Team besteht aus mehreren Personen, unter anderem Catze, Ella, Jona, Lui, Pia und Sima*.
 
 ### Einmietungen
-- Björn, Luisa & Pia ([E-Mail](mailto:einmietung@swingconnection-leipzig.com))
+- Björn & Pia ([E-Mail](mailto:einmietung@swingconnection-leipzig.com))
 
 #### Werbung, Design & Social Media
 - Katha ([E-Mail](mailto:katha@swingconnection-leipzig.com))
