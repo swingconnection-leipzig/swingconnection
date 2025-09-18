@@ -6,7 +6,7 @@ slug: "tanzkurse"
 
 [//]: # (![Kursplan Herbst 2024]&#40;../schedule_herbst_2024_ohne_websiteinfo_v4.png&#41;)
 
-> **Die nächste Kursrunde mit neuen Beginnerkursen beginnt am 20.10.2025.** Die Anmeldung ist öffnet zwei Wochen for Kursbeginn!
+> **Die nächste Kursrunde für Anfänger:innen beginnt am 20.10.2025.** Die Anmeldung öffnet zwei Wochen vor Kursbeginn!
 
 ![Kursrunde Sommer](../2025-08_schedule_summer_website.png)
 
