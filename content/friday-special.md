@@ -15,10 +15,9 @@ slug: "friday-special"
   - 📝💻 keine Anmeldung nötig
 - 19:30-22:30 **Fusion Social Dance**
 
-### Shag Workshop und Shag & Balboa Social (3. Oktober)
-- Shag mixed Workshop
-- Shag & Balboa Social
+### Shag Taster und Shag & Balboa Social (3. Oktober)
+- ab 19:00 Uhr - Shag Taster
+- ab 20:00 Uhr - Shag & Balboa Social
 
 ### Hinweise
-- Taster: offen für alle
-- Workshop: mit Vorkenntnissen
+- Taster: offen für alle, für Anfänger:innen geeignet!
