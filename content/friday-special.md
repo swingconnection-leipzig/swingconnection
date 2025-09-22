@@ -17,6 +17,7 @@ slug: "friday-special"
 
 ### Shag Taster und Shag & Balboa Social (3. Oktober)
 - ab 19:00 Uhr - Shag Taster
+  - keine Anmeldung nötig & kostenlos
 - ab 20:00 Uhr - Shag & Balboa Social
 
 ### Hinweise
