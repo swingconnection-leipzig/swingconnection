@@ -110,7 +110,7 @@ Der Kurs dient dem Erarbeiten einer kleinen **Showeinlage zum Swing Pavillon** a
 Neben der Kursrunde wird es freitags verschiedene Veranstaltungen mit Taster, Drop-In-Kursen und Social geben!
 
 - Freitag, 26. September - **Friday Fusion** (Taster & Social)
-- Freitag, 03. Oktober - **Shag mixed Workshop** und Shag & Balboa **Social**
+- Freitag, 03. Oktober - **Shag Taster** und Shag & Balboa **Social**
 
 ### Hinweise zu den Kursen
 {{< notes_list file="notes_classes"
