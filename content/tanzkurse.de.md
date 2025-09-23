@@ -8,7 +8,7 @@ slug: "tanzkurse"
 
 > **Die nächste Kursrunde für Anfänger:innen beginnt am 20.10.2025.** Die Anmeldung öffnet zwei Wochen vor Kursbeginn!
 
-![Kursrunde Sommer](../2025-08_schedule_summer_website.png)
+![Kursrunde Sommer](../2025-08_schedule_summer_shag.png)
 
 ### Preise
 - Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
