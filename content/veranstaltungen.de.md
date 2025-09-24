@@ -12,10 +12,15 @@ Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktue
 - Jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")**
 - Mittwoch, 24. September - [**mit Live-Musik** mit Swing to Bop aus Paris]({{< ref "/minorswing#minor-swing-live-am-24-september-2025-mit-swing-to-bop-aus-paris" >}} "mit Live-Musik mit Swing to Bop aus Paris")
 - Freitag, 26. September - **[Friday Fusion]({{< ref "/friday-special/#friday-fusion-26-september" >}} "Friday Fusion")** (Taster & Social)
+- Jeden Montag im Oktober - **[Solo Jazz Routine für Menschen mit psychischen Erkrankungen]({{< ref "/solo-jazz-psychische-gesundheit" >}} "Solo Jazz Routine für Menschen mit psychischen Erkrankungen")**
 - Freitag, 3. Oktober - **[Fast Feet Friday]({{< ref "/friday-special/#fast-feet-friday-03-oktober" >}} "Fast Feet Friday")** mit Shag Taster und Shag & Balboa **Social**
 
 ### Minor Swing
 Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen. **Jeden Mittwoch ab 19:30 Uhr** findet der Minor Swing in unserem Tanzstudio **Calloway** statt. Der Minor Swing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Mehr Infos erhaltet ihr auf der Seite [Minor Swing]({{< ref "/minorswing" >}} "Minor Swing").
+
+
+### Solo Jazz Routine für Menschen mit psychischen Erkrankungen
+Im Oktober gibt es montags ein Angebot von und für Menschen mit seelischen Belastungen und psychischen Erkrankungen. **[Alle Details zu der Veranstaltungsreihe]({{< ref "/solo-jazz-psychische-gesundheit" >}} "Solo Jazz Routine für Menschen mit psychischen Erkrankungen")**
 
 ### Swing Tea Time
 In regelmäßigen Abständen laden wir zur Swing Tea Time ein. Dann hüllt sich unser Tanzstudio in den Duft frisch gebackener Kuchen und den Klang eines Louis Armstrong, Django Reinhardt oder einer Ella Fitzgerald. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Mehr Infos erhaltet ihr auf der Seite [Swing Tea Time]({{< ref "/swingteatime" >}} "Swing Tea Time").
