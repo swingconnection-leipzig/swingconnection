@@ -15,11 +15,10 @@ slug: "solo-jazz-psychische-gesundheit"
 - Bei Fragen bitte an ella@swingconnection-leipzig.com schreiben
 
 ### Termine
-- 06.10, Montag - 11:00 bis 11:00
-- 13.10, Montag - 11:00 bis 11:00
-- 20.10, Montag - 11:00 bis 11:00
-- 27.10, Montag - 11:00 bis 11:00
-
+- 06.10, Montag - 10:00 bis 11:00 Uhr
+- 13.10, Montag - 10:00 bis 11:00 Uhr
+- 20.10, Montag - 10:00 bis 11:00 Uhr
+- 27.10, Montag - 10:00 bis 11:00 Uhr
 
 ### Hinweise zu den Räumlichkeiten
 {{< notes_list file="notes_location" >}}
