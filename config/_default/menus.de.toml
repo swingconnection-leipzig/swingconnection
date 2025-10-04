@@ -64,11 +64,11 @@ weight = 32
 #parent = "veranstaltungen"
 #weight = 35
 
-[[main]]
-name = "Friday Special"
-url = "/friday-special/"
-parent = "veranstaltungen"
-weight = 36
+#[[main]]
+#name = "Friday Special"
+#url = "/friday-special/"
+#parent = "veranstaltungen"
+#weight = 36
 
 [[main]]
 identifier = 'calloway'
