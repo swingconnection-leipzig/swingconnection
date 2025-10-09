@@ -71,7 +71,7 @@ Der Kurs richtet sich an alle, die schon einen oder mehrere Lindy Basics Kurse g
 {{< /admonition >}}
 
 {{< admonition success "Lindy Hop Intermediate (Mi 18:30)" false >}}
-Der Kurs richtet sich an alle, die in ihren Basics gefestigt sind und regelmäßig zum Social Dance gehen. Wir wollen gemeinsam entdecken, wie ihr mithilfe von Flow, Stretch und Connection noch angenehmer mit anderen Menschen tanzen könnt und gleichzeitig neue Variationen ausprobieren. Ziel ist auch, das Tempo zu erhöhen. Lernvoraussetzungen: Tuck Turn, Swing Out, sicherer 6-Count-Platzwechsel, Grundprinzipien des Führens und Folgens, sicherer Wechsel zwischen 8-Count und 6-Count-Dynamiken.
+Im Int-Kurs bauen wir auf dem **Charleston-Basic** auf und erweitern dein Repertoire um neue Figuren und Variationen im Solo- und Paartanz. Aufbauend auf soliden Grundkenntnissen im Swingtanzen arbeiten wir auch gezielt an Körperstabilität, Stretch, Connection und Flow, um Bewegung und Dynamik zu verfeinern. Der Kurs richtet sich an erfahrene Tänzer:innen, die ihre technischen Fähigkeiten weiterentwickeln und ihr Lindy-Hop-Tanzen um Ideen aus dem Charleston ergänzen möchten.
 
 *Der Kurs findet im Erker statt.*
 {{< /admonition >}}
