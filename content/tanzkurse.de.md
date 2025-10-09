@@ -11,9 +11,15 @@ slug: "tanzkurse"
 ![Kursrunde Herbst](../2025-10_schedule_autumn_small_v2.png)
 
 ### Preise
-- Vollzahler: 72 € (8-Wochen-Kursrunde), 54 € (6-Wochen-Kursrunde)
-- Ermäßigt¹: 64 € (8-Wochen-Kursrunde), 48 € (6-Wochen-Kursrunde)
-- Drop-In Stunde²: 10 €
+- 8 Wochen / 60 min
+  - Vollzahler: 76 €
+  - Ermäßigt¹: 68 €
+
+- 8 Wochen / 90 min
+  - Vollzahler: 96 €
+  - Ermäßigt¹: 84 €
+
+- Drop-In Stunde²: 12 €
 
 ¹ *Ermäßigte Preise gelten für Inhaber von Schüler-, Studenten- und Schwerbehindertenausweis oder Leipzig-Pass. Bitte legt den entsprechenden Nachweis in der ersten Kursstunde unaufgefordert vor.*
 
