@@ -4,6 +4,8 @@ draft: false
 slug: "solo-jazz-psychische-gesundheit"
 ---
 
+> **Termine am 20.10 und 27.10 entfallen!**
+
 ![Kursrunde Sommer](../solo-jazz-psychische-gesundheit.jpg)
 
 - Keine Vorerfahrung nötig
@@ -17,8 +19,8 @@ slug: "solo-jazz-psychische-gesundheit"
 ### Termine
 - 06.10, Montag - 10:00 bis 11:00 Uhr
 - 13.10, Montag - 10:00 bis 11:00 Uhr
-- 20.10, Montag - 10:00 bis 11:00 Uhr
-- 27.10, Montag - 10:00 bis 11:00 Uhr
+- ~~20.10, Montag - 10:00 bis 11:00 Uhr~~ Entfällt!
+- ~~27.10, Montag - 10:00 bis 11:00 Uhr~~ Entfällt!
 
 ### Hinweise zu den Räumlichkeiten
 {{< notes_list file="notes_location" >}}
