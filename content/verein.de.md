@@ -61,6 +61,7 @@ In unserem Verein gibt es immer etwas zu tun. Nichts passiert von alleine und da
 - Pirkka ([E-Mail](mailto:pirkka@swingconnection-leipzig.com))
 - Sima* ([E-Mail](mailto:sima@swingconnection-leipzig.com))
 - Steffen ([E-Mail](mailto:steffen@swingconnection-leipzig.com))
+- Thea ([E-Mail](mailto:thea@swingconnection-leipzig.com))
 - Tonia ([E-Mail](mailto:tonia@swingconnection-leipzig.com))
 
 #### Safer Space Team
