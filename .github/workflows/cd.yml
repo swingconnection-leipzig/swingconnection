@@ -59,7 +59,6 @@ jobs:
 
       - name: Deploy via rsync over SSH
         run: |
-          ls public -a
-          sshpass -p "$SSH_PASSWORD" rsync -avz --no-times --no-perms --delete -e "ssh -o StrictHostKeyChecking=no" \
+          sshpass -p "${{ secrets.SSH_PASSWORD }}" rsync -avz --no-times --no-perms --delete -e "ssh -o StrictHostKeyChecking=no" \
             public/ \
             ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:~/html/test_file_transfer
