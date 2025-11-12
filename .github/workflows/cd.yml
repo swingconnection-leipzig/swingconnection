@@ -61,4 +61,4 @@ jobs:
         run: |
           sshpass -p '${{ secrets.SSH_PASSWORD }}' rsync -avz --no-times --no-perms --delete -e "ssh -o StrictHostKeyChecking=no" \
             public/ \
-            ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:~/html/test_file_transfer
+            ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/var/www/web187/html/test_file_transfer
