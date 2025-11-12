@@ -51,3 +51,15 @@ jobs:
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Install rsync and sshpass
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y rsync sshpass
+
+      - name: Deploy via rsync over SSH
+        run: |
+          ls public -a
+          sshpass -p "$SSH_PASSWORD" rsync -avz --no-times --no-perms --delete -e "ssh -o StrictHostKeyChecking=no" \
+            public/ \
+            ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:~/html/test_file_transfer
