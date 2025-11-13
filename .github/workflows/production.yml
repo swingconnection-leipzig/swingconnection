@@ -31,16 +31,8 @@ jobs:
           arguments: --only-4xx --check-favicon --check-html --assume-extension --empty-alt-ignore --disable-external
         continue-on-error: true
 
-      - name: FTP Deployer
-        uses: sand4rt/ftp-deployer@v1.7
-        with:
-          sftp: true # optional
-          host: ${{ secrets.SFTP_SERVER }} # e.g. ftp.host.com or sftp.host.com (without ftp:// or ftps://)
-          port: 22 # optional, default is: 21
-          username: ${{ secrets.SFTP_USERNAME }} # FTP username
-          password: ${{ secrets.SFTP_PASSWORD }} # FTP password
-          remote_folder: ${{ secrets.SFTP_REMOTE_PATH_PROD }} # optional, remote path of your FTP server
-          local_folder: ./public # optional, local path, default is: dist
-          cleanup: true # optional, remove existing files inside FTP remote folder
-          include: '["**/*"]' # optional, e.g. '['dist']'
-          exclude: '[]' # optional, e.g. '['node_modules/**', '.git/**', '*.env']'
+      - name: Deploy via rsync
+        run: |
+          sshpass -p '${{ secrets.SSH_PASSWORD }}' rsync -avz --no-times --no-perms --delete -e "ssh -o StrictHostKeyChecking=no" \
+            public/ \
+            ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ SSH_REMOTE_BASE_PATH }}/production
