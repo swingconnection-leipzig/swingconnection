@@ -57,8 +57,3 @@ jobs:
           sudo apt-get update -y
           sudo apt-get install -y rsync sshpass
 
-      - name: Deploy via rsync over SSH
-        run: |
-          sshpass -p '${{ secrets.SSH_PASSWORD }}' rsync -avz --no-times --no-perms --delete -e "ssh -o StrictHostKeyChecking=no" \
-            public/ \
-            ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/var/www/web187/html/test_file_transfer
