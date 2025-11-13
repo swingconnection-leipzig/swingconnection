@@ -31,6 +31,11 @@ jobs:
           arguments: --only-4xx --check-favicon --check-html --assume-extension --empty-alt-ignore --disable-external
         continue-on-error: true
 
+      - name: Install rsync and sshpass
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y rsync sshpass
+
       - name: Deploy via rsync
         run: |
           sshpass -p '${{ secrets.SSH_PASSWORD }}' rsync -avz --no-times --no-perms --delete -e "ssh -o StrictHostKeyChecking=no" \
