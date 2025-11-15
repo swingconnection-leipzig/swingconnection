@@ -35,10 +35,28 @@ parent = "veranstaltungen"
 weight = 31
 
 [[main]]
+name = "Swinging Subbotnik"
+url = "/swinging_subotnik/"
+parent = "veranstaltungen"
+weight = 32
+
+[[main]]
+name = "Auszugsparty"
+url = "/callo-a-way/"
+parent = "veranstaltungen"
+weight = 33
+
+[[main]]
+name = "Umzug"
+url = "/umzug/"
+parent = "veranstaltungen"
+weight = 34
+
+[[main]]
 name = "Friday Night Balboa"
 url = "/friday-night-balboa/"
 parent = "veranstaltungen"
-weight = 32
+weight = 36
 
 #[[main]]
 #name = "Mattstedt"
