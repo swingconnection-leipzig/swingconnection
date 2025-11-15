@@ -9,9 +9,10 @@ zuletzt aktualisiert am 12.10.2025
 [//]: # (### Tag der offenen Tür am 19.01.2025)
 [//]: # (Am **19.01.2025** öffnen wir unsere Türen für euch! Kommt vorbei, lernt Swingtänze kennen und schnuppert in unsere Welt des Tanzes hinein. Weitere Infos findet ihr auf der Seite von unseren **[Tag der offenen Tür]&#40;{{< ref "/opendoor" >}} "Tag der offenen Tür"&#41;**! Danach gibt es die Möglichkeit, beim [Tea Dance]&#40;{{< ref "/swingteatime" >}} "Tea Dance"&#41; weiterzutanzen.)
 
+### Subbotnik
 ![Subbotnik](../2025-12-Subbotnik.png)
 
-Im Dezember ist Subbotnik.
+Am 10. und 17.12. haben wir eine Sonderedition vorbereitet: Swinging Subbotnik ist die perfekte Mischung aus Tanz und Technik! Im Saal kann getanzt werden, in den anderen Räumen wollen wir schon anfangen abzubauen. Es wird zuständige Personen für einzelne Aufgaben geben, bei denen ihr Euch zur Hilfe einklinken könnt!
 
 ### Neue Kursrunde
 Am 20. Oktober startet unsere neue **[Kursrunde]({{< ref "/tanzkurse" >}} "Kursrunde")** - macht euch bereit für frische Moves und jede Menge Tanzspaß! Der Kursplan ist online und Anmeldung ist offen!
