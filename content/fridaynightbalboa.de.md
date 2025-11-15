@@ -11,7 +11,8 @@ Wir starten **18:30 Uhr** mit einem **Drop-In-Kurs**. Der Kurs ist Beginner:inne
 Im Anschluss ab **19.30 Uhr** ist **Balboa-Social Dance**. 
 
 ### Termine
-- Freitag, 12. September
+
+Es wird neue Termine im neuen Jahr geben. Wir geben sie rechtzeitig bekannt.
 
 ### Zeit
 - 18:30 - 19:30 Uhr Drop-In-Kurs
