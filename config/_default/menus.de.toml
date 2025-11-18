@@ -36,7 +36,7 @@ weight = 31
 
 [[main]]
 name = "Swinging Subbotnik"
-url = "/swinging_subotnik/"
+url = "/swinging_subbotnik/"
 parent = "veranstaltungen"
 weight = 32
 
