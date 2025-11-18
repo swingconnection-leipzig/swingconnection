@@ -6,7 +6,7 @@ slug: "tanzkurse"
 
 [//]: # (![Kursplan Herbst 2024]&#40;../schedule_herbst_2024_ohne_websiteinfo_v4.png&#41;)
 
-> **Die nächste Kursrunde für Anfänger:innen beginnt am 20.10.2025.** Die Anmeldung ist **[geöffnet]({{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung")**!
+> Die **nächste Kursrunde** beginnt (verzögert durch unseren **[Umzug]({{< ref "/umzug" >}} "Umzug in die neuen Räumlichkeiten")**) im **März 2026**!
 
 ![Kursrunde Herbst](../2025-10_schedule_autumn_small_v2.png)
 
@@ -123,8 +123,8 @@ items_bottom="Wenn ihr erkältet seid oder euch krank fühlt, bleibt bitte zu Ha
 
 ### Nächste Kursrunde
 Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Dieses Jahr bieten wir neben Workshops am Wochenende und einem Sommerprogramm vier reguläre Kursrunden an:
-- 25.08.-03.10.2025
 - 20.10.-12.12.2025
+- März 2026
 
 Die Anmeldung öffnet erfahrungsgemäß etwa zwei Wochen vor Beginn einer neuen Kursrunde. 
 

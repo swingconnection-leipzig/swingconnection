@@ -13,6 +13,8 @@ Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsi
 ### Zeit
 Jeden Mittwoch ab 19:30 Uhr bis 22:30 Uhr.
 
+> Nach dem Minor Swing am 17. Dezember wird [umgezogen]({{< ref "/umzug" >}} "Umzug in die neuen Räumlichkeiten") und es findet vorerst kein Minor Swing statt. Mehr Infos folgen.
+
 ### Ort
 Calloway (Dufourstraße 8)
 
