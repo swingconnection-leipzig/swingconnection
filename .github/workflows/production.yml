@@ -40,4 +40,4 @@ jobs:
         run: |
           sshpass -p '${{ secrets.SSH_PASSWORD }}' rsync -avz --no-times --no-perms --delete -e "ssh -o StrictHostKeyChecking=no" \
             public/ \
-            ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ SSH_REMOTE_BASE_PATH }}/production
+            ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.SSH_REMOTE_BASE_PATH }}/production
