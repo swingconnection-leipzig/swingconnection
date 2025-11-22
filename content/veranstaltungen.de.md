@@ -10,7 +10,10 @@ Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktue
 ### Nächste Termine
 
 - Jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")**. Die letzten beiden Minor Swing Verantstaltungen des Jahres tragen den Titel **[Swinging Subbotnik]({{< ref "/swinging_subbotnik" >}})**. Neben dem Tanzen räumen wir das Calloway noch auf.
-- Auszugsparty **[Callo-a-way]({{< ref "/callo-a-way" >}} "Callo-a-way")**
+- Sonntag, der 7. Dezember - **Collegiate Shag Jam** mit Tee, Kaffee und Kuchen
+  - 14:00 - 15:00 Uhr - Shag Basic & Beyond Taster
+  - ab 15:00 Uhr -  Social
+- Freitag, der 12. Dezember - Auszugsparty **[Callo-a-way]({{< ref "/callo-a-way" >}} "Callo-a-way")**
 - Am 3.1.2026 steht der großen **[Umzug in die neuen Räumlichkeiten]({{< ref "/umzug" >}} "Umzug in die neuen Räumlichkeiten")** an
 - 04.-07.06.2026 - **[Spring Camp Mattstedt 2026]({{< ref "/mattstedt" >}} "Spring Camp Mattstedt 2026")**
 
