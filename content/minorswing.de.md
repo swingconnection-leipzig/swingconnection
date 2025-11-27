@@ -11,9 +11,14 @@ slug: "minor-swing-social"
 Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen. **Jeden Mittwoch ab 19:30 Uhr** findet der Minor Swing in unserem Tanzstudio **Calloway** statt. Der Minor Swing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen.
 
 ### Zeit
-Jeden Mittwoch ab 19:30 Uhr bis 22:30 Uhr.
+Mittwochs ab 19:30 Uhr bis 22:30 Uhr.
 
-> Nach dem Minor Swing am 17. Dezember wird [umgezogen]({{< ref "/umzug" >}} "Umzug in die neuen Räumlichkeiten") und es findet vorerst kein Minor Swing statt. Mehr Infos folgen.
+### Nächste Termine
+- Mittwoch, der 3. Dezember - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")**
+- Mittwoch, der 10. Dezember - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")** - **[Swinging Subbotnik]({{< ref "/swinging_subbotnik" >}})** Edition
+- Mittwoch, der 17. Dezember - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")** - **[Swinging Subbotnik]({{< ref "/swinging_subbotnik" >}})** Edition
+
+> Nach dem Minor Swing am 17. Dezember wird [umgezogen]({{< ref "/umzug" >}} "Umzug in die neuen Räumlichkeiten") und es findet vorerst **kein** Minor Swing statt.
 
 ### Ort
 Calloway (Dufourstraße 8)
