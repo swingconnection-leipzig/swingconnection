@@ -1,10 +1,10 @@
 ---
-title: "Callo-a-way"
+title: ""
 draft: false
 slug: "callo-a-way"
 ---
 
-![Callo-a-way](../2025-11-callo-a-way.png)
+![Callo-a-way](../2025-12-callo-a-way-program.png)
 
 Natürlich wollen wir uns gebührend von unserem geliebten Calloway verabschieden!
 
