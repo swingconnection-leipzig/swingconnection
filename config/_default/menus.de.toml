@@ -34,35 +34,17 @@ url = "/minor-swing-social/"
 parent = "veranstaltungen"
 weight = 31
 
-[[main]]
-name = "Swinging Subbotnik"
-url = "/swinging_subbotnik/"
-parent = "veranstaltungen"
-weight = 32
+#[[main]]
+#name = "Friday Night Balboa"
+#url = "/friday-night-balboa/"
+#parent = "veranstaltungen"
+#weight = 32
 
 [[main]]
-name = "Auszugsparty"
-url = "/callo-a-way/"
+name = "Mattstedt"
+url = "/mattstedt/"
 parent = "veranstaltungen"
 weight = 33
-
-[[main]]
-name = "Umzug"
-url = "/umzug/"
-parent = "veranstaltungen"
-weight = 34
-
-[[main]]
-name = "Friday Night Balboa"
-url = "/friday-night-balboa/"
-parent = "veranstaltungen"
-weight = 36
-
-#[[main]]
-#name = "Mattstedt"
-#url = "/mattstedt/"
-#parent = "veranstaltungen"
-#weight = 33
 
 #[[main]]
 #name = "Tag der offenen Tür"
@@ -88,17 +70,17 @@ weight = 36
 #parent = "veranstaltungen"
 #weight = 36
 
-[[main]]
-identifier = 'calloway'
-name = 'Tanzstudio'
-url = '/calloway/'
-weight = 40
-
-[[main]]
-parent = 'calloway'
-name = 'Einmietung'
-url = '/einmietung/'
-weight = 41
+#[[main]]
+#identifier = 'calloway'
+#name = 'Tanzstudio'
+#url = '/calloway/'
+#weight = 40
+#
+#[[main]]
+#parent = 'calloway'
+#name = 'Einmietung'
+#url = '/einmietung/'
+#weight = 41
 
 [[main]]
 identifier = 'verein'
@@ -113,12 +95,12 @@ name = 'Mitgliedschaft'
 url = '/mitgliedschaft/'
 weight = 51
 
-[[main]]
-parent = 'verein'
-identifier = 'geschichte'
-name = 'Vereinsgeschichte'
-url = '/geschichte/'
-weight = 52
+#[[main]]
+#parent = 'verein'
+#identifier = 'geschichte'
+#name = 'Vereinsgeschichte'
+#url = '/geschichte/'
+#weight = 52
 
 [[main]]
 parent = 'verein'

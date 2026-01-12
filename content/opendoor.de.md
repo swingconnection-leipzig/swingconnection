@@ -5,7 +5,7 @@ slug: "tag-der-offenen-tuer"
 
 ---
 
-![Tag der offenen Tür](../2025-01-tdot-quer.png)
+[//]: # (![Tag der offenen Tür]&#40;../2025-01-tdot-quer.png&#41;)
 
 ---
 
@@ -42,15 +42,9 @@ Balboa ist ein Swingtanz, der in den 1920er/30er Jahren auf überfüllten Tanzfl
 ---
 
 ### Termin
-Am **19\. Januar**
+> Nächster Termin steht noch nicht fest
 
-- ab 14:00 bis 17:00 Uhr: [Schnupperkurse]({{< ref "#die-schnupperkurse" >}}) im Calloway Saal und Erker
-- ab 16:00 Uhr: [Swing Tea Time]({{< ref "/swingteatime" >}}) Social
-
-### Ort
-Tanzstudio Calloway (Dufourstraße 8) [&rarr; Wegbeschreibung]({{< ref "/calloway#anfahrt" >}} "Anfahrt Tanzstudio")
-
-Im Durchgang zum Innenhof befindet sich links eine rote Tür. Dort findet ihr unser Tanzstudio. Die Kurse finden die Treppe hoch im 1. Stock statt.
+[//]: # (### Ort)
 
 ### Kosten
 **Kostenlos!** Über eine kleine Spende in die Spendenbox freuen wir uns natürlich immer sehr. Auch Kaffee, Tee und Kuchen bekommt ihr auf Spendenbasis.
