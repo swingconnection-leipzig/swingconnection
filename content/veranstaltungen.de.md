@@ -8,21 +8,12 @@ Nur Tanzkurse kann jeder. Wir Swingtänzer wollen mehr! Nach der Arbeit kommt da
 Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") an.
 
 ### Nächste Termine
-
-- Mittwoch, der 3. Dezember - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")**
-- Sonntag, der 7. Dezember - **Collegiate Shag Jam** mit Tee, Kaffee und Kuchen
-  - 14:00 - 15:00 Uhr - Shag Basic & Beyond Taster
-  - ab 15:00 Uhr -  Social
-- Mittwoch, der 10. Dezember - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")** - **[Swinging Subbotnik]({{< ref "/swinging_subbotnik" >}})** Edition
-- Freitag, der 12. Dezember - Auszugsparty **[Callo-a-way]({{< ref "/callo-a-way" >}} "Callo-a-way")**
-- Mittwoch, der 17. Dezember - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")** - **[Swinging Subbotnik]({{< ref "/swinging_subbotnik" >}})** Edition
-
-### 2026
-- Am 3.1.2026 steht der großen **[Umzug in die neuen Räumlichkeiten]({{< ref "/umzug" >}} "Umzug in die neuen Räumlichkeiten")** an
 - 04.-07.06.2026 - **[Spring Camp Mattstedt 2026]({{< ref "/mattstedt" >}} "Spring Camp Mattstedt 2026")**
 
 ### Minor Swing
-Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen. **Jeden Mittwoch ab 19:30 Uhr** findet der Minor Swing in unserem Tanzstudio **Calloway** statt. Der Minor Swing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Mehr Infos erhaltet ihr auf der Seite [Minor Swing]({{< ref "/minorswing" >}} "Minor Swing").
+> Der Minor Swing pausiert zurzeit!
+
+Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen. Der Minor Swing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Mehr Infos erhaltet ihr auf der Seite [Minor Swing]({{< ref "/minorswing" >}} "Minor Swing").
 
 ### Swing Tea Time
 In regelmäßigen Abständen laden wir zur Swing Tea Time ein. Dann hüllt sich unser Tanzstudio in den Duft frisch gebackener Kuchen und den Klang eines Louis Armstrong, Django Reinhardt oder einer Ella Fitzgerald. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Mehr Infos erhaltet ihr auf der Seite [Swing Tea Time]({{< ref "/swingteatime" >}} "Swing Tea Time").

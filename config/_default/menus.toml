@@ -70,17 +70,17 @@ url = "/friday-special/"
 parent = "veranstaltungen"
 weight = 36
 
-[[main]]
-identifier = 'calloway'
-name = 'Tanzstudio'
-url = '/calloway/'
-weight = 40
-
-[[main]]
-parent = 'calloway'
-name = 'Einmietung'
-url = '/einmietung/'
-weight = 41
+#[[main]]
+#identifier = 'calloway'
+#name = 'Tanzstudio'
+#url = '/calloway/'
+#weight = 40
+#
+#[[main]]
+#parent = 'calloway'
+#name = 'Einmietung'
+#url = '/einmietung/'
+#weight = 41
 
 [[main]]
 identifier = 'verein'

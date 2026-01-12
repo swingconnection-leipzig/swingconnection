@@ -4,24 +4,19 @@ draft: false
 slug: "minor-swing-social"
 ---
 
-![Minor Swing](../slider_minor_swing.png)
+> Der Minor Swing pausiert zurzeit!
 
-[//]: # (> Achtung: Während des Sommers findet bei guten Wetter **kein** Minor Swing im Calloway statt. Stattdessen treffen sich viele Tänzer am **Inselteich im Clara-Zetkin-Park**.)
+[//]: # (> Achtung: Während des Sommers findet bei guten Wetter **kein** Minor Swing statt. Stattdessen treffen sich viele Tänzer am **Inselteich im Clara-Zetkin-Park**.)
 
-Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen. **Jeden Mittwoch ab 19:30 Uhr** findet der Minor Swing in unserem Tanzstudio **Calloway** statt. Der Minor Swing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen.
+Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen. ~~**Jeden Mittwoch ab 19:30 Uhr**~~ findet der Minor Swing statt. Der Minor Swing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen.
 
 ### Zeit
-Mittwochs ab 19:30 Uhr bis 22:30 Uhr.
+~~Mittwochs ab 19:30 Uhr bis 22:30 Uhr.~~
 
 ### Nächste Termine
-- Mittwoch, der 3. Dezember - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")**
-- Mittwoch, der 10. Dezember - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")** - **[Swinging Subbotnik]({{< ref "/swinging_subbotnik" >}})** Edition
-- Mittwoch, der 17. Dezember - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")** - **[Swinging Subbotnik]({{< ref "/swinging_subbotnik" >}})** Edition
+Der Minor Swing pausiert zurzeit!
 
-> Nach dem Minor Swing am 17. Dezember wird [umgezogen]({{< ref "/umzug" >}} "Umzug in die neuen Räumlichkeiten") und es findet vorerst **kein** Minor Swing statt.
-
-### Ort
-Calloway (Dufourstraße 8)
+[//]: # (### Ort)
 
 ### Hinweise
 {{< notes_list file="notes_events" >}}
