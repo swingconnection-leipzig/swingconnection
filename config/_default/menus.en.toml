@@ -52,11 +52,11 @@ weight = 31
 #parent = "events"
 #weight = 35
 
-[[main]]
-identifier = 'calloway'
-name = 'Studio'
-url = 'en/calloway/'
-weight = 40
+#[[main]]
+#identifier = 'calloway'
+#name = 'Studio'
+#url = 'en/calloway/'
+#weight = 40
 
 #[[main]]
 #parent = 'calloway'

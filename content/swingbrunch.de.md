@@ -7,10 +7,9 @@ slug: "swing-brunch"
 In regelmäßigen Abständen laden wir zum Swing Brunch ein. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. 
 
 ### Zeit
-tba.
+> Nächster Termin steht noch nicht fest
 
-### Ort
-Calloway (Dufourstraße 8)
+[//]: # (### Ort)
 
 ### Hinweise
 {{< notes_list file="notes_events" >}}
