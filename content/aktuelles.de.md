@@ -14,7 +14,7 @@ Seit Anfang Januar befinden sich die Vereinsräumlichkeiten in der Goldschmidtst
 Wenn ihr mit dem Fahrrad dorthin kommt, parkt bitte nicht auf dem Weg davor, sondern besser vor dem Max-Planck-Institut.
 
 ### Neue Kursrunde 2026
-Die nächste neue Kursrunde wird voraussichtlich nächstes Jahr im **März 2026** starten!
+Die nächste [**neue Kursrunde**]({{< ref "/tanzkurse" >}}) wird voraussichtlich Mitte **März 2026** starten!
 
 ### Spring Camp Mattstedt 2026
 Auch dieses Jahr findet wieder unser geliebtes [**Spring Camp** auf dem Mühlenhof in Mattstedt]({{< ref "/mattstedt" >}} "Spring Camp auf dem Mühlenhof in Mattstedt") statt, dieses Jahr **vom 04.-07.06.2026**.

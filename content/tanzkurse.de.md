@@ -6,7 +6,7 @@ slug: "tanzkurse"
 
 [//]: # (![Kursplan Herbst 2024]&#40;../schedule_herbst_2024_ohne_websiteinfo_v4.png&#41;)
 
-> Die **nächste Kursrunde** beginnt (verzögert durch unseren Umzug) im **März 2026**!
+> Die **nächste Kursrunde** beginnt Mitte **März 2026**! Wir teilen bald das Kursprogramm und die Anmeldung öffnet auch in den nächsten Wochen.
 
 [//]: # (![Kursrunde Herbst]&#40;../2025-10_schedule_autumn_small_v2.png&#41;)
 
@@ -116,9 +116,12 @@ items_bottom="Wenn ihr erkältet seid oder euch krank fühlt, bleibt bitte zu Ha
 {{< notes_list file="notes_location" >}}
 
 ### Nächste Kursrunde
-Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Dieses Jahr bieten wir neben Workshops am Wochenende und einem Sommerprogramm vier reguläre Kursrunden an:
-- März 2026
+[//]: # (Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Dieses Jahr bieten wir neben Workshops am Wochenende und einem Sommerprogramm vier reguläre Kursrunden an:)
+[//]: # (- März 2026)
 
-Die Anmeldung öffnet erfahrungsgemäß etwa zwei Wochen vor Beginn einer neuen Kursrunde. 
+Lange keinen Tanzkurs mehr gehabt? Ab Mitte März können wir Abhilfe anbieten, denn dann startet die nächste Kursrunde.
+Die Anmeldung öffnet vermutlich noch im Februar. 
+
+[//]: # (Die Anmeldung öffnet erfahrungsgemäß etwa zwei Wochen vor Beginn einer neuen Kursrunde. )
 
 [//]: # (Wir kündigen die Öffnung der Anmeldung im Vorfeld auch unter [Aktuelles]&#40;{{< ref "/aktuelles" >}} "Aktuelles"&#41;, in unserer [Facebook-Gruppe]&#40;https://www.facebook.com/groups/swingconnection.leipzig&#41; und auf [Instagram]&#40;https://www.instagram.com/swingconnectionleipzig/&#41; an.)
