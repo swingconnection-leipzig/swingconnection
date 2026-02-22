@@ -6,7 +6,7 @@ slug: "tanzkurse"
 
 [//]: # (![Kursplan Herbst 2024]&#40;../schedule_herbst_2024_ohne_websiteinfo_v4.png&#41;)
 
-> Die **nächste Kursrunde** beginnt am **16. März 2026**! Die Anmeldung öffnet in den nächsten Wochen.
+> Die **nächste Kursrunde** beginnt am **16. März 2026**! Die Anmeldung ist geöffnet!
 > 
 > Leider bieten wir in dieser Kursrunde keine Paartanzkurse für Beginner:innen an.
 > Diese folgen dann in der darauffolgenden Kursrunde ab 11.05.2026.
@@ -41,9 +41,7 @@ Für Vereinsmitglieder entfällt der Kursbeitrag.
 - Intermediate (Int): Dieser Kurs ist für alle geeignet, die schon fortgeschritten sind, z.B. mehrere Mixed-Kurse besucht haben und die Basics sicher beherrschen.
 
 ### Anmeldung
-Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden: folgt bald!
-
-[//]: # (**[Zur Anmeldung]&#40;https://scl.swinggeeks.de/SCL2025-10/&#41;**)
+Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden: **[Zur Anmeldung](https://scl.swinggeeks.de/SCL2026-03/)**
 
 ### Kursbeschreibungen
 
