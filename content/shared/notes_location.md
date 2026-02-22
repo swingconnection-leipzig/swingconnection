@@ -1,1 +1,3 @@
-Hinweise folgen, sobald unser neues Studio eingerichtet ist
+Die Kurse finden in unserem Tanzstudio in der Goldschmidtstraße 16 statt. Die Räumlichkeiten sind nicht barrierefrei.
+Ihr dürft das Tanzparkett nicht mit Straßenschuhen, sondern nur mit Tanz- oder sauberen Sportschuhen betreten. Eure Schuhe könnt ihr im Eingangsbereich wechseln. Falls ihr keine passenden Schuhe habt, könnt ihr auch auf Socken tanzen.
+Es gibt genderneutrale Toiletten. Eine Toilette hat nur Einzelkabinen, eine Toilette hat Pissoirs und Einzelkabinen. Die Toilettenräume sind nach diesen Merkmalen ausgewiesen.
