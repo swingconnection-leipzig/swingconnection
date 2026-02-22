@@ -6,7 +6,7 @@ slug: "tanzkurse"
 
 [//]: # (![Kursplan Herbst 2024]&#40;../schedule_herbst_2024_ohne_websiteinfo_v4.png&#41;)
 
-> Die **nächste Kursrunde** beginnt am **16. März 2026**! Die Anmeldung öffnet in den nächsten Wochen.
+> Die **nächste Kursrunde** beginnt am **16. März 2026**! Die Anmeldung ist geöffnet!
 > 
 > Leider bieten wir in dieser Kursrunde keine Paartanzkurse für Beginner:innen an.
 > Diese folgen dann in der darauffolgenden Kursrunde ab 11.05.2026.
@@ -41,9 +41,7 @@ Für Vereinsmitglieder entfällt der Kursbeitrag.
 - Intermediate (Int): Dieser Kurs ist für alle geeignet, die schon fortgeschritten sind, z.B. mehrere Mixed-Kurse besucht haben und die Basics sicher beherrschen.
 
 ### Anmeldung
-Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden: folgt bald!
-
-[//]: # (**[Zur Anmeldung]&#40;https://scl.swinggeeks.de/SCL2025-10/&#41;**)
+Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden: **[Zur Anmeldung](https://scl.swinggeeks.de/SCL2026-03/)**
 
 ### Kursbeschreibungen
 
@@ -88,7 +86,7 @@ Der Kurs richtet sich an alle, die schon einen oder mehrere Lindy Basics Kurse g
 {{< admonition success "Lindy Hop Intermediate (Mi 18:30)" false >}}
 **Mixed Moves**
 
-Der Kurs richtet sich an alle, die in ihren Basics gefestigt sind und regelmäßig zum Social Dance gehen. Wir wollen gemeinsam entdecken, wie ihr mithilfe von Flow, Stretch und Connection noch angenehmer mit anderen Menschen tanzen könnt und gleichzeitig neue Variationen ausprobieren. Ziel ist auch, das Tempo zu erhöhen. Lernvoraussetzungen: Tuck Turn, Swing Out, sicherer 6-Count-Platzwechsel, Grundprinzipien des Führens und Folgens, sicherer Wechsel zwischen 8-Count und 6-Count-Dynamiken.
+Der Kurs richtet sich an alle, die in ihren Basics gefestigt sind und regelmäßig zum Social Dance gehen. Wir wollen gemeinsam Moves und Musicality explorieren. Lernvoraussetzungen: Tuck Turn, Swing Out, sicherer 6-Count-Platzwechsel, Grundprinzipien des Führens und Folgens, sicherer Wechsel zwischen 8-Count und 6-Count-Dynamiken.
 {{< /admonition >}}
 
 [//]: # ({{< admonition success "Balboa & Shag Practice Time &#40;Mo 19:30&#41;" false >}})
