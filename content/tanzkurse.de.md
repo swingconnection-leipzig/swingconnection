@@ -86,7 +86,7 @@ Der Kurs richtet sich an alle, die schon einen oder mehrere Lindy Basics Kurse g
 {{< admonition success "Lindy Hop Intermediate (Mi 18:30)" false >}}
 **Mixed Moves**
 
-Der Kurs richtet sich an alle, die in ihren Basics gefestigt sind und regelmäßig zum Social Dance gehen. Wir wollen gemeinsam entdecken, wie ihr mithilfe von Flow, Stretch und Connection noch angenehmer mit anderen Menschen tanzen könnt und gleichzeitig neue Variationen ausprobieren. Ziel ist auch, das Tempo zu erhöhen. Lernvoraussetzungen: Tuck Turn, Swing Out, sicherer 6-Count-Platzwechsel, Grundprinzipien des Führens und Folgens, sicherer Wechsel zwischen 8-Count und 6-Count-Dynamiken.
+Der Kurs richtet sich an alle, die in ihren Basics gefestigt sind und regelmäßig zum Social Dance gehen. Wir wollen gemeinsam Moves und Musicality explorieren. Lernvoraussetzungen: Tuck Turn, Swing Out, sicherer 6-Count-Platzwechsel, Grundprinzipien des Führens und Folgens, sicherer Wechsel zwischen 8-Count und 6-Count-Dynamiken.
 {{< /admonition >}}
 
 [//]: # ({{< admonition success "Balboa & Shag Practice Time &#40;Mo 19:30&#41;" false >}})
