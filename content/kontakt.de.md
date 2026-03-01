@@ -5,8 +5,8 @@ draft: false
 
 ### Impressum
 Swingconnection-Leipzig e.V. (gemeinnützig)  
-Dufourstr. 8  
-04107 Leipzig  
+Goldschmidtstraße 16
+04103 Leipzig
 
 #### Kontakt
 E-Mail: info@swingconnection-leipzig.com   
