@@ -5,8 +5,8 @@ draft: false
 
 ### Impressum
 Swingconnection-Leipzig e.V. (gemeinnützig)  
-Goldschmidtstraße 16
-04103 Leipzig
+Goldschmidtstraße 16  
+04103 Leipzig  
 
 #### Kontakt
 E-Mail: info@swingconnection-leipzig.com   
