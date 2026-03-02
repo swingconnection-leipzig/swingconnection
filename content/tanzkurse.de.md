@@ -131,7 +131,7 @@ Der Shim Sham ist die wohl bekannteste Solo‑Jazz‑Routine der Swing‑Tanzsze
 
 **Kurssprache:** Deutsch/Englisch
 
-**Termine:** 16.03, 13.04
+**Termine:** 16.03, 23.03
 
 *Kann mit oder ohne Shim Shag Kurs gebucht werden.*
 {{< /admonition >}}
