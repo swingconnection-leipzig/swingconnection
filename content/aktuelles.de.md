@@ -4,7 +4,7 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 22.02.2026
+zuletzt aktualisiert am 03.03.2026
 
 [//]: # (### Tag der offenen Tür am 19.01.2025)
 [//]: # (Am **19.01.2025** öffnen wir unsere Türen für euch! Kommt vorbei, lernt Swingtänze kennen und schnuppert in unsere Welt des Tanzes hinein. Weitere Infos findet ihr auf der Seite von unseren **[Tag der offenen Tür]&#40;{{< ref "/opendoor" >}} "Tag der offenen Tür"&#41;**! Danach gibt es die Möglichkeit, beim [Tea Dance]&#40;{{< ref "/swingteatime" >}} "Tea Dance"&#41; weiterzutanzen.)
@@ -12,8 +12,11 @@ zuletzt aktualisiert am 22.02.2026
 ### Neue Kursrunde 2026
 Die nächste [**neue Kursrunde**]({{< ref "/tanzkurse" >}}) wird am **16. März 2026** starten! Die Anmeldung ist **[geöffnet]({{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung")**!
 
+### Minor Swing startet wieder!
+Der [**Minor Swing**]({{< ref "/minorswing" >}} "Minor Swing") ist zurück! Ab **18. März 2026** findet er wieder jeden Mittwoch ab 19:30 Uhr statt. Gleiche Zeit, neue Location: der Social findet in unserem neuen Tanzstudio in der **Goldschmidtstraße 16** statt. Eintritt frei – wir freuen uns auf euch!
+
 ### Wir sind umgezogen
-Seit Anfang Januar befinden sich die Vereinsräumlichkeiten in der Goldschmidtstraße 16. Es wird aktuell noch kräftig gebaut und eingerichtet. Die Pforten öffnen sich nach aktuellen Hochrechnungen Mitte März.
+Seit Anfang Januar befinden sich die Vereinsräumlichkeiten in der **Goldschmidtstraße 16**. Es wird aktuell noch kräftig gebaut und eingerichtet. Die Pforten öffnen sich nach aktuellen Hochrechnungen Mitte März.
 Wenn ihr mit dem Fahrrad dorthin kommt, parkt bitte nicht auf dem Weg davor, sondern besser vor dem Max-Planck-Institut.
 
 ### Spring Camp Mattstedt 2026
