@@ -5,4 +5,19 @@ slug: "swing-tea-time"
 
 ---
 
-Soon there will also be an English translation of this website. We are working on it. Stay tuned!
+> The next date has not yet been set.
+
+We regularly invite you to our Swing Tea Time. Our dance studio is filled with the scent of freshly baked cakes and the sounds of Louis Armstrong, Django Reinhardt or Ella Fitzgerald. Admission is free. Beginners and interested people are always welcome.
+
+### Dates
+Next date to be announced.
+
+[//]: # (### Venue)
+
+### Notes
+{{< notes_list file="notes_events"
+items_bottom="Cake contributions are very welcome!"
+>}}
+
+### Admission & Donations
+Admission is **free**! We are always happy about a small donation in the donation box.
