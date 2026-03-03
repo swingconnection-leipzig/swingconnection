@@ -8,11 +8,10 @@ Nur Tanzkurse kann jeder. Wir Swingtänzer wollen mehr! Nach der Arbeit kommt da
 Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") an.
 
 ### Nächste Termine
+- ab 18.03.2026 jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")**
 - 04.-07.06.2026 - **[Spring Camp Mattstedt 2026]({{< ref "/mattstedt" >}} "Spring Camp Mattstedt 2026")**
 
 ### Minor Swing
-> Der Minor Swing pausiert zurzeit!
-
 Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen. Der Minor Swing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Mehr Infos erhaltet ihr auf der Seite [Minor Swing]({{< ref "/minorswing" >}} "Minor Swing").
 
 ### Swing Tea Time
