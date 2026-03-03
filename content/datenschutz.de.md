@@ -29,8 +29,8 @@ Nach Artikel 13 und 14 EU-DSGVO hat der Verantwortliche einer betroffenen Person
 
 Namen und Kontaktdaten des Verantwortlichen und seiner Vertreter:  
 Swingconnection-Leipzig e.V. (gemeinnützig)  
-Dufourstr. 8  
-04107 Leipzig  
+Goldschmidtstraße 16
+04103 Leipzig  
 E-mail: info@swingconnection-leipzig.com  
 
 gesetzlich vertreten durch den Vorstand nach § 26 BGB:  
