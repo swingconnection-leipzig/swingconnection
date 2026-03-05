@@ -9,7 +9,7 @@ slug: "minor-swing-social"
 Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen. **Jeden Mittwoch ab 19:30 Uhr** findet der Minor Swing statt. Der Minor Swing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen.
 
 ### Zeit
-Mittwochs ab 19:30 Uhr bis 22:30 Uhr.
+Mittwochs ab 19:30 Uhr
 
 ### Nächste Termine
 - ab 18.03.2026 wieder jeden Mittwoch!
