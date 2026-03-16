@@ -8,7 +8,7 @@ Nur Tanzkurse kann jeder. Wir Swingtänzer wollen mehr! Nach der Arbeit kommt da
 Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") an.
 
 ### Nächste Termine
-- ab 18.03.2026 jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")**
+- ab ~~18.03.2026~~ **25.03.2026** jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")**
 - 04.-07.06.2026 - **[Spring Camp Mattstedt 2026]({{< ref "/mattstedt" >}} "Spring Camp Mattstedt 2026")**
 
 ### Minor Swing
