@@ -12,7 +12,7 @@ Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsi
 Mittwochs ab 19:30 Uhr
 
 ### Nächste Termine
-- ab 18.03.2026 wieder jeden Mittwoch!
+- ab ~~18.03.2026~~ **25.03.2026** wieder jeden Mittwoch!
 
 [//]: # (### Ort)
 

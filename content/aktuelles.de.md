@@ -13,7 +13,7 @@ zuletzt aktualisiert am 03.03.2026
 Die nächste [**neue Kursrunde**]({{< ref "/tanzkurse" >}}) wird am **16. März 2026** starten! Die Anmeldung ist **[geöffnet]({{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung")**!
 
 ### Minor Swing startet wieder!
-Der [**Minor Swing**]({{< ref "/minorswing" >}} "Minor Swing") ist zurück! Ab **18. März 2026** findet er wieder jeden Mittwoch ab 19:30 Uhr statt. Gleiche Zeit, neue Location: der Social findet in unserem neuen Tanzstudio in der **Goldschmidtstraße 16** statt. Eintritt frei – wir freuen uns auf euch!
+Der [**Minor Swing**]({{< ref "/minorswing" >}} "Minor Swing") ist zurück! Ab ~~18. März~~ **25. März 2026** findet er wieder jeden Mittwoch ab 19:30 Uhr statt. Gleiche Zeit, neue Location: der Social findet in unserem neuen Tanzstudio in der **Goldschmidtstraße 16** statt. Eintritt frei – wir freuen uns auf euch! **Achtung: Um eine Woche verschoben!**
 
 ### Wir sind umgezogen
 Seit Anfang Januar befinden sich die Vereinsräumlichkeiten in der **Goldschmidtstraße 16**. Es wird aktuell noch kräftig gebaut und eingerichtet. Die Pforten öffnen sich nach aktuellen Hochrechnungen Mitte März.
