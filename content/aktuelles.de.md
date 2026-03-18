@@ -4,7 +4,7 @@ draft: false
 slug: "aktuelles"
 ---
 
-zuletzt aktualisiert am 03.03.2026
+zuletzt aktualisiert am 18.03.2026
 
 [//]: # (### Tag der offenen Tür am 19.01.2025)
 [//]: # (Am **19.01.2025** öffnen wir unsere Türen für euch! Kommt vorbei, lernt Swingtänze kennen und schnuppert in unsere Welt des Tanzes hinein. Weitere Infos findet ihr auf der Seite von unseren **[Tag der offenen Tür]&#40;{{< ref "/opendoor" >}} "Tag der offenen Tür"&#41;**! Danach gibt es die Möglichkeit, beim [Tea Dance]&#40;{{< ref "/swingteatime" >}} "Tea Dance"&#41; weiterzutanzen.)
@@ -14,6 +14,9 @@ Die nächste [**neue Kursrunde**]({{< ref "/tanzkurse" >}}) wird am **16. März 
 
 ### Minor Swing startet wieder!
 Der [**Minor Swing**]({{< ref "/minorswing" >}} "Minor Swing") ist zurück! Ab ~~18. März~~ **25. März 2026** findet er wieder jeden Mittwoch ab 19:30 Uhr statt. Gleiche Zeit, neue Location: der Social findet in unserem neuen Tanzstudio in der **Goldschmidtstraße 16** statt. Eintritt frei – wir freuen uns auf euch! **Achtung: Um eine Woche verschoben!**
+
+### Shag Jam am 28. März
+Am Samstag, den 28. März, findet der zweite **[Shag Jam]({{< ref "/shagjam" >}} "Shag Jam")** statt. Er beginnt mit einem **Collegiate-Shag-Taster für Einsteiger\*innen** von 15 bis 16 Uhr, anschließend gibt es Social Dance bis 19 Uhr.
 
 ### Wir sind umgezogen
 Seit Anfang Januar befinden sich die Vereinsräumlichkeiten in der **Goldschmidtstraße 16**. Es wird aktuell noch kräftig gebaut und eingerichtet. Die Pforten öffnen sich nach aktuellen Hochrechnungen Mitte März.
