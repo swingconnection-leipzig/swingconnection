@@ -5,12 +5,10 @@ slug: "swing-tea-time"
 
 ---
 
-> Der nächste Termin steht noch nicht fest.
-
 In regelmäßigen Abständen laden wir zur Swing Tea Time ein. Dann hüllt sich unser Tanzstudio in den Duft frisch gebackener Kuchen und den Klang eines Louis Armstrong, Django Reinhardt oder einer Ella Fitzgerald. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. 
 
 ### Termine
-Der nächste Termin steht noch nicht fest.
+Am **18\. April 2026** ab 16:30 nach unserem Tag der offenen Tür.
 
 [//]: # (### Ort)
 

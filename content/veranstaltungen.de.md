@@ -10,6 +10,7 @@ Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktue
 ### Nächste Termine
 - Jeden Mittwoch ab ~~18.03.2026~~ **25.03.2026** - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")**
 - Samstag, 28. März - **[Shag Jam]({{< ref "/shagjam" >}} "Shag Jam")** mit Taster und Social Dance
+- 18\. April - **[Tag der offenen Tür]({{< ref "/opendoor" >}} "Tag der offenen Tür")** mit Social Dance
 - 04.-07.06.2026 - **[Spring Camp Mattstedt 2026]({{< ref "/mattstedt" >}} "Spring Camp Mattstedt 2026")**
 
 ### Minor Swing
