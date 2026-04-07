@@ -26,7 +26,7 @@ Seit Anfang Januar befinden sich die Vereinsräumlichkeiten in der **Goldschmidt
 Wenn ihr mit dem Fahrrad dorthin kommt, parkt bitte nicht auf dem Weg davor, sondern besser vor dem Max-Planck-Institut.
 
 ### Spring Camp Mattstedt 2026
-Auch dieses Jahr findet wieder unser geliebtes [**Spring Camp** auf dem Mühlenhof in Mattstedt]({{< ref "/mattstedt" >}} "Spring Camp auf dem Mühlenhof in Mattstedt") statt, dieses Jahr **vom 04.-07.06.2026**.
+Auch dieses Jahr findet wieder unser geliebtes [**Spring Camp** auf dem Mühlenhof in Mattstedt]({{< ref "/mattstedt" >}} "Spring Camp auf dem Mühlenhof in Mattstedt") statt, dieses Jahr **vom 04.-07.06.2026**. Die Anmeldung wird Mitte April starten.
 
 ### Swing Kalender für Leipzig
 Im vereinsunabhängigen Kalender [**"Swing in Leipzig"**](https://kalender.digital/0c529f4b4448ea55b992) findet ihr eine Übersicht *aller* Swing Veranstaltungen in Leipzig.
