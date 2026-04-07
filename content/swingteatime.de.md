@@ -10,6 +10,8 @@ In regelmäßigen Abständen laden wir zur Swing Tea Time ein. Dann hüllt sich 
 ### Termine
 Am **18\. April 2026** von 16:30 bis 18:30 Uhr nach unserem **[Tag der offenen Tür]({{< ref "/opendoor" >}} "Tag der offenen Tür")**.
 
+Am **10. Mai 2026** wird es die nächste Edition geben, dann mit Live Musik von [**Neighbour's Nightmare**](https://hnolzen.github.io/neighbours-nightmare).
+
 [//]: # (### Ort)
 
 ### Hinweise
