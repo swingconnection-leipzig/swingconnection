@@ -11,7 +11,7 @@ slug: "tag-der-offenen-tuer"
 
 Du hast Lust auf Swing tanzen, aber weißt noch nicht, mit welchem unserer Kurse du einsteigen sollst? Du willst erst mal schauen, ob Swing tanzen überhaupt etwas für dich sein könnte? Oder du hast einfach Lust, etwas Neues auszuprobieren, dich zu bewegen und einen tanzbegeisterten Verein kennen zu lernen? Komm zu unserem Tag der Offenen Tür!
 
-Am **Samstag, 18. April 2026**, erwarten dich Schnupperkurse zu verschiedenen Swing-Tanzarten. Darauf folgend kannst du deine neu erlernten Schritte gleich bei unserem **[Tea Dance]({{< ref "/swingteatime" >}} "Tea Dance")** aufs Parkett bringen. Die ganze Zeit über gibt es Kaffee und Kuchen und die Möglichkeit, den Verein und unsere Tanzkurse kennen zu lernen.
+Am **Samstag, 18. April 2026**, erwarten dich Schnupperkurse zu verschiedenen Swing-Tanzarten. Darauf folgend kannst du deine neu erlernten Schritte gleich bei unserem **[Swing Tea Time]({{< ref "/swingteatime" >}} "Swing Tea Time")** aufs Parkett bringen. Die ganze Zeit über gibt es Kaffee und Kuchen und die Möglichkeit, den Verein und unsere Tanzkurse kennen zu lernen.
 
 Wie auch bei unseren regulären Kursen kannst du an den Schnupperkursen ohne Tanzpartner:in teilnehmen. Wir wechseln im Kurs mit jeder Übung oder jedem Song Tanzpartner:innen. (Ihr könnt aber natürlich auch zu zweit kommen und nicht wechseln, wenn euch das lieber ist!) Wenn du noch nicht weißt, ob du lieber führen oder folgen möchtest, kannst du im Kurs auch beide Rollen ausprobieren.
 
@@ -38,7 +38,7 @@ Collegiate Shag (oder auch nur Shag) ist ein sportlicher Swingtanz zu schneller 
 Am **18\. April 2026**
 
 - ab 14:00 bis 16:30 Uhr: [Schnupperkurse]({{< ref "#die-schnupperkurse" >}})
-- ab 16:30 Uhr: [Swing Tea Time]({{< ref "/swingteatime" >}}) Social
+- ab 16:30 bsi 18:30 Uhr: [Swing Tea Time]({{< ref "/swingteatime" >}}) Social Dance
 
 [//]: # (### Ort)
 
