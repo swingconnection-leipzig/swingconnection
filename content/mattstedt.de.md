@@ -27,7 +27,7 @@ Bei Interesse gibt es die Möglichkeit, bei einer kleinen Ilmwanderung (5-8km) d
 Am Abend gibt es gemütliche Partys in der Scheune, am **Freitag** spielen die **Jivers** wieder für uns auf. Danach kann die Nacht mit dem Rauschen der Ilm zu Ende gehen.
 
 ### Teacher
-Es unterrichten euch die Kursleiter:innen der SwingConnection Leipzig.
+Es unterrichten euch die Kursleiter:innen der SwingConnection Leipzig und Gäste.
 
 ### Unterkunft
 Die Übernachtungsoptionen haben sich leicht geändert. Das Matratzenlager befindet sich im Stall auf der Insel und es gibt vier schön eingerichtete Wohnmobile bzw. Bauwägen. Zusätzlich sind zwei Vierbettzimmer im Haupthaus verfügbar. Ansonsten könnt ihr im eigenem Zelt auf der Wiese am Fluss campen. 
