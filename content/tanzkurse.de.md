@@ -6,21 +6,20 @@ slug: "tanzkurse"
 
 [//]: # (![Kursplan Herbst 2024]&#40;../schedule_herbst_2024_ohne_websiteinfo_v4.png&#41;)
 
-> Die **nächste Kursrunde** beginnt am **16. März 2026**! Die Anmeldung ist geöffnet!
+> Schon mal vormerken: die **nächste Kursrunde** beginnt am **12. Mai 2026**! Die Anmeldung öffnet demnächst!
 > 
-> Leider bieten wir in dieser Kursrunde keine Paartanzkurse für Beginner:innen an.
-> Diese folgen dann in der darauffolgenden Kursrunde ab 11.05.2026.
+> In der kommenden Kursrunde wird es auch wieder ein Angebot für EinsteigerInnen geben.
 
-![Kursrunde Herbst](../2026-03_schedule_spring.png)
+![Kursrunde Frühling](../2026-03_schedule_spring.png)
 
 ### Preise
-- 6 Wochen / 60 min
-  - Vollzahler: 57 €
-  - Ermäßigt¹: 51 €
+[//]: # (- 6 Wochen / 60 min)
+  [//]: # (- Vollzahler: 57 €)
+  [//]: # (- Ermäßigt¹: 51 €)
 
-[//]: # (- 8 Wochen / 60 min)
-[//]: # (  - Vollzahler: 76 €)
-[//]: # (  - Ermäßigt¹: 68 €)
+- 8 Wochen / 60 min
+  - Vollzahler: 80 €
+  - Ermäßigt¹: 68 €
 
 [//]: # (- 8 Wochen / 90 min)
 [//]: # (  - Vollzahler: 96 €)
@@ -156,8 +155,7 @@ items_bottom="Wenn ihr erkältet seid oder euch krank fühlt, bleibt bitte zu Ha
 
 ### Nächste Kursrunde
 [//]: # (Habt ihr den Einstieg in die aktuelle Kursrunde verpasst? Kein Problem. Dieses Jahr bieten wir neben Workshops am Wochenende und einem Sommerprogramm vier reguläre Kursrunden an:)
-- 16.03.-24.04.2026
-- 11.05.-03.07.2026
+- 12.05.-03.07.2026
 - 10.08.-02.10.2026
 - 19.10.-11.12.2026
 
