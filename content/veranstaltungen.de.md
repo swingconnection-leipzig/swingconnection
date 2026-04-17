@@ -8,9 +8,9 @@ Nur Tanzkurse kann jeder. Wir Swingtänzer wollen mehr! Nach der Arbeit kommt da
 Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") an.
 
 ### Nächste Termine
-- Jeden Mittwoch ab ~~18.03.2026~~ **25.03.2026** - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")**
-- Samstag, 28. März - **[Shag Jam]({{< ref "/shagjam" >}} "Shag Jam")** mit Taster und Social Dance
+- Jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")**
 - 18\. April - **[Tag der offenen Tür]({{< ref "/opendoor" >}} "Tag der offenen Tür")** mit Social Dance
+- 10\. Mai - **[Swing Tea Time]({{< ref "/swingteatime" >}} "Swing Tea Time")** mit Live Musik von [Neighbour's Nightmare](https://hnolzen.github.io/neighbours-nightmare)
 - 04.-07.06.2026 - **[Spring Camp Mattstedt 2026]({{< ref "/mattstedt" >}} "Spring Camp Mattstedt 2026")**
 
 ### Minor Swing
