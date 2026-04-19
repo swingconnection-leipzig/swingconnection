@@ -110,8 +110,7 @@ Wenn hohe BPM auch euer Herz höher schlagen lassen seid ihr beim Collegiate Sha
 [//]: # ({{< /admonition >}})
 
 {{< admonition success "Solo Jazz Basics (Mi 18:30)" false >}}
-Du hast Lust ein bisschen Solo Jazz zu tanzen? Solo Jazz kann man allein tanzen, im Paar improvisierend mit einbauen oder man kann sogar Routinen damit tanzen. In diesem Kurs lernst du die wichtigsten Solo Jazz Schritte als Grundlage für all diese Gelegenheiten. 
-Danach setzten wir die Schritte zu einer bekannten Routine zusammen -  dem Tranky Doo. Falls du schon Solo Jazz Erfahrung hast und nur den Tranky Doo lernen möchtest, kannst du gern später im Kurs dazustoßen (ca. 4. Std., genaue Info erfolgt dann per Mail). Bitte melde dich in dem Fall trotzdem an - mit der Anmerkung, dass du später im Kurs einsteigst.
+Solo Jazz (auch: Authentic Jazz oder Vernacular Jazz) hat seinen Ursprung in Schwarzen Kulturkreisen (insbesondere Afro-Amerikanischen Communities) und wird häufig in Verbindung mit Paartänzen wie Lindy Hop, aber auch für sich stehend getanzt. In diesem Kurs werden wir die Musik nutzen, um uns durch Rhythmen und Bewegungen zu führen, um Swing und Jazz Musik aber auch die eigenen Ideen, Emotionen und Eigenheiten auszudrücken.
 {{< /admonition >}}
 
 [//]: # ({{< admonition success "Freies Training &#40;Di 18:30 & Do 18:00&#41;" false >}})
