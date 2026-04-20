@@ -4,4 +4,15 @@ draft: false
 slug: "swing-brunch"
 ---
 
-Soon there will also be an English translation of this website. We are working on it. Stay tuned!
+We regularly invite you to our Swing Brunch. Beginners and interested people are always welcome.
+
+### Date
+> Next date to be announced
+
+[//]: # (### Venue)
+
+### Notes
+{{< notes_list file="notes_events" >}}
+
+### Admission & Donations
+Admission is **free**! We are always happy about a small donation in the donation box.
