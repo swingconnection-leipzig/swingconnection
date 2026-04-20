@@ -65,13 +65,8 @@ Die Kosten für den Workshop und die Unterkunft stehen im Anmeldeportal.
 Wir haben ein Kontingent von 5 Plätzen, für die wir keine festen Workshopgebühren verlangen, Personen zu unterstützen, die sich ein Teilnahme schwer leisten können
 
 ### Anmeldung
-> :bulb: Die Anmeldung startet Mitte April
-
-Ihr könnt euch dann über unser Kursbuchungsportal anmelden.
-
-[//]: # (Über unser Kursbuchungsportal könnt ihr euch zum Spring Camp anmelden: -)
-
-[//]: # (**[Zur Anmeldung]&#40;https://scl.swinggeeks.de/SCM2025/&#41;**)
+Über unser Kursbuchungsportal könnt ihr euch zum Spring Camp anmelden:
+**[Zur Anmeldung](https://scl.swinggeeks.de/SCM2026/)**
 
 ### Hinweise
 - Die Teilnahme an unseren Veranstaltungen setzt die Anerkennung und Umsetzung unseres **[Code of Conduct](../Code_of_Conduct_SCL.pdf)** voraus.
