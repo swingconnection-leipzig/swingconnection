@@ -14,7 +14,7 @@ Am **10. Mai 2026** wird es die nächste Edition geben, dann mit Live Musik von 
 Zeitplan für diese Veranstaltung:
 
 - 15 Uhr: Start der Veranstaltung
-- 16 Uhr: Lve-Musik von Neighbour's Nightmare
+- 16 Uhr: Live-Musik von Neighbour's Nightmare
 - 19 Uhr: Ende der Veranstaltung
 
 [//]: # (### Ort)

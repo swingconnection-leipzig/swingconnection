@@ -9,8 +9,8 @@ _zuletzt aktualisiert am 20.04.2026_
 [//]: # (### Tag der offenen Tür am 19.01.2025)
 [//]: # (Am **19.01.2025** öffnen wir unsere Türen für euch! Kommt vorbei, lernt Swingtänze kennen und schnuppert in unsere Welt des Tanzes hinein. Weitere Infos findet ihr auf der Seite von unseren **[Tag der offenen Tür]&#40;{{< ref "/opendoor" >}} "Tag der offenen Tür"&#41;**! Danach gibt es die Möglichkeit, beim [Tea Dance]&#40;{{< ref "/swingteatime" >}} "Tea Dance"&#41; weiterzutanzen.)
 
-### Tag der offenen Tür 2026
-Am **Samstag, den 18. April 2026 von 11 bis 18:30 Uhr**, laden wir zum **[Tag der offenen Tür]({{< ref "/opendoor" >}} "Tag der offenen Tür")** ein: Probiere in Schnupperkurse verschiedene Swing-Tännze und lerne unseren Verein kennen. Nach den Schnupperkursen veranstalten wir einen [**Swing Tea Time**]({{< ref "/swingteatime" >}}) mit Kaffee und Kuchen!
+### Swing Tea Time
+Am **Sonntag, den 10. Mai 2026 von 15 bis 19 Uhr**, veranstalten wir einen [**Swing Tea Time**]({{< ref "/swingteatime" >}}) mit Kaffee, Kuchen und diesmal auch Live-Musik!
 
 ### Neue Kursrunde 2026
 Noch läuft die [**aktuelle Kursrunde**]({{< ref "/tanzkurse" >}}). Am **12. Mai 2026** wird bereits die zweite Kursrunde des Jahres starten! Es wird wieder Basic Kurse für Einsteiger:innen geben. Die Anmeldung ist **[geöffnet]({{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung")**!
