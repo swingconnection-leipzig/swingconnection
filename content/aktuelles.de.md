@@ -4,16 +4,16 @@ draft: false
 slug: "aktuelles"
 ---
 
-_zuletzt aktualisiert am 20.04.2026_
+_zuletzt aktualisiert am 27.04.2026_
 
 [//]: # (### Tag der offenen Tür am 19.01.2025)
 [//]: # (Am **19.01.2025** öffnen wir unsere Türen für euch! Kommt vorbei, lernt Swingtänze kennen und schnuppert in unsere Welt des Tanzes hinein. Weitere Infos findet ihr auf der Seite von unseren **[Tag der offenen Tür]&#40;{{< ref "/opendoor" >}} "Tag der offenen Tür"&#41;**! Danach gibt es die Möglichkeit, beim [Tea Dance]&#40;{{< ref "/swingteatime" >}} "Tea Dance"&#41; weiterzutanzen.)
 
-### Tag der offenen Tür 2026
-Am **Samstag, den 18. April 2026 von 11 bis 18:30 Uhr**, laden wir zum **[Tag der offenen Tür]({{< ref "/opendoor" >}} "Tag der offenen Tür")** ein: Probiere in Schnupperkurse verschiedene Swing-Tännze und lerne unseren Verein kennen. Nach den Schnupperkursen veranstalten wir einen [**Swing Tea Time**]({{< ref "/swingteatime" >}}) mit Kaffee und Kuchen!
-
 ### Neue Kursrunde 2026
 Noch läuft die [**aktuelle Kursrunde**]({{< ref "/tanzkurse" >}}). Am **12. Mai 2026** wird bereits die zweite Kursrunde des Jahres starten! Es wird wieder Basic Kurse für Einsteiger:innen geben. Die Anmeldung ist **[geöffnet]({{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung")**!
+
+### Swing Tea Time
+Der nächste **[Swing Tea Time]({{< ref "/swingteatime" >}}) mit Live-Musik von Neighbour's Nightmare** findet am **10. Mai 2026** von 15 bis 19 Uhr statt. Eintritt frei, Kuchenbeiträge sind herzlich willkommen!
 
 ### Spring Camp Mattstedt 2026
 Auch dieses Jahr findet wieder unser geliebtes [**Spring Camp** auf dem Mühlenhof in Mattstedt]({{< ref "/mattstedt" >}} "Spring Camp auf dem Mühlenhof in Mattstedt") statt, dieses Jahr **vom 04.-07.06.2026**. Die Anmeldung ist **[geöffnet]({{< ref "/mattstedt/#anmeldung" >}} "zur Anmeldung")**!
@@ -24,7 +24,6 @@ Der [**Minor Swing**]({{< ref "/minorswing" >}} "Minor Swing") ist zurück! Ab ~
 ### Wir sind umgezogen
 Seit Anfang Januar befinden sich die Vereinsräumlichkeiten in der **Goldschmidtstraße 16**. Es wird aktuell noch kräftig gebaut und eingerichtet. Die Pforten öffnen sich nach aktuellen Hochrechnungen Mitte März.
 Wenn ihr mit dem Fahrrad dorthin kommt, parkt bitte nicht auf dem Weg davor, sondern besser vor dem Max-Planck-Institut.
-
 
 ### Swing Kalender für Leipzig
 Im vereinsunabhängigen Kalender [**"Swing in Leipzig"**](https://kalender.digital/0c529f4b4448ea55b992) findet ihr eine Übersicht *aller* Swing Veranstaltungen in Leipzig.
