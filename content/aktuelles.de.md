@@ -18,8 +18,10 @@ Der nächste **[Swing Tea Time]({{< ref "/swingteatime" >}}) mit Live-Musik von 
 ### Spring Camp Mattstedt 2026
 Auch dieses Jahr findet wieder unser geliebtes [**Spring Camp** auf dem Mühlenhof in Mattstedt]({{< ref "/mattstedt" >}} "Spring Camp auf dem Mühlenhof in Mattstedt") statt, dieses Jahr **vom 04.-07.06.2026**. Die Anmeldung ist **[geöffnet]({{< ref "/mattstedt/#anmeldung" >}} "zur Anmeldung")**!
 
-### Minor Swing startet wieder!
-Der [**Minor Swing**]({{< ref "/minorswing" >}} "Minor Swing") ist zurück! Ab ~~18. März~~ **25. März 2026** findet er wieder jeden Mittwoch ab 19:30 Uhr statt. Gleiche Zeit, neue Location: der Social findet in unserem neuen Tanzstudio in der **Goldschmidtstraße 16** statt. Eintritt frei – wir freuen uns auf euch! **Achtung: Um eine Woche verschoben!**
+### Minor Swing
+Der wöchentliche Social Dance [**Minor Swing**]({{< ref "/minorswing" >}} "Minor Swing") findet jeden Mittwoch ab 19:30 Uhr statt. 
+Der Social findet in unserem neuen Tanzstudio in der **Goldschmidtstraße 16** statt. 
+Eintritt frei – wir freuen uns auf euch!
 
 ### Wir sind umgezogen
 Seit Anfang Januar befinden sich die Vereinsräumlichkeiten in der **Goldschmidtstraße 16**. Es wird aktuell noch kräftig gebaut und eingerichtet. Die Pforten öffnen sich nach aktuellen Hochrechnungen Mitte März.
