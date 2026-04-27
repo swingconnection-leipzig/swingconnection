@@ -9,7 +9,6 @@ Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktue
 
 ### Nächste Termine
 - Jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")**
-- 18\. April - **[Tag der offenen Tür]({{< ref "/opendoor" >}} "Tag der offenen Tür")** mit Social Dance
 - 10\. Mai - **[Swing Tea Time]({{< ref "/swingteatime" >}} "Swing Tea Time")** mit Live Musik von [Neighbour's Nightmare](https://hnolzen.github.io/neighbours-nightmare)
 - 04.-07.06.2026 - **[Spring Camp Mattstedt 2026]({{< ref "/mattstedt" >}} "Spring Camp Mattstedt 2026")**
 
