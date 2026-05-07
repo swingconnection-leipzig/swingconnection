@@ -9,11 +9,15 @@ Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktue
 
 ### Nächste Termine
 - Jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")**
+- Jeden Donnerstag 10-11:30 Uhr - **[Swing-Minis & Friends]({{< ref "/veranstaltungen#swing-minis--friends" >}} "Swing-Minis & Friends")** (für Eltern mit kleinen Kindern)
 - 10\. Mai - **[Swing Tea Time]({{< ref "/swingteatime" >}} "Swing Tea Time")** mit Live Musik von [Neighbour's Nightmare](https://hnolzen.github.io/neighbours-nightmare)
 - 04.-07.06.2026 - **[Spring Camp Mattstedt 2026]({{< ref "/mattstedt" >}} "Spring Camp Mattstedt 2026")**
 
 ### Minor Swing
 Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen. Der Minor Swing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Mehr Infos erhaltet ihr auf der Seite [Minor Swing]({{< ref "/minorswing" >}} "Minor Swing").
+
+### Swing-Minis & Friends
+Ab dem 7.5. ist unser Studio **jeden Donnerstag von 10-11:30 Uhr offen für Eltern mit kleinen Kids**. Ihr seid herzlich willkommen bei uns einzukehren, die kleinsten zu leiser Swing Musik spielen, krabbeln und kullern zu lassen, gemeinsame Zeit zu genießen und vielleicht sogar selbst ein wenig das Tanzbein zu schwingen. Es gibt kein festes Programm oder vorgegeben Inhalte aber die Türen stehen offen. Die Teilnahme ist kostenlos, nicht-SCL-Mitglieder werden gebeten eine Spende in die Box zu werfen. Wenn ihr möchtet, meldet euch bei Line@swingconnection-leipzig.com um in eine Telegram Gruppe eingeladen zu werden. Hier wird mitgeteilt, falls es mal kurzfristig Änderungen gibt oder ein Termin ausfallen muss.
 
 ### Swing Tea Time
 In regelmäßigen Abständen laden wir zur Swing Tea Time ein. Dann hüllt sich unser Tanzstudio in den Duft frisch gebackener Kuchen und den Klang eines Louis Armstrong, Django Reinhardt oder einer Ella Fitzgerald. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Mehr Infos erhaltet ihr auf der Seite [Swing Tea Time]({{< ref "/swingteatime" >}} "Swing Tea Time").
