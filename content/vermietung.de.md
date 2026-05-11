@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Vermietung"
 draft: false
 slug: "vermietung"
 ---
@@ -13,3 +13,10 @@ Mit inbegriffen in die Miete sind Nutzung des Sanitärbereichs im Untergeschoss 
 Die Einmietungspreise können erfragt werden.
 
 Bei Interesse kümmert sich unser ehrenamtliches Einmietungsteam um alles Weitere: einmietung@swingconnection-leipzig.com. Wir bitten um Rücksichtnahme auf die möglicherweise um einige Tage verzögerte Antwort – wenn alle Ehrenamtlichen anderweitig beschäftigt sind, bleibt das Postfach auch mal einige Tage unbeobachtet. In diesem Zusammenhang bitten wir auch von kurzfristigen Anfragen, das heißt einer Vorlaufzeit unter einer Woche, abzusehen.
+
+## Impressionen
+
+{{< gallery
+    images="OG_Saal_02.jpg;OG_Saal_03.jpg;UG_Saal_01.jpg;UG_Saal_02.jpg;UG_Saal_04.jpg;OG_Kueche_01.jpg;OG_Kueche_02.jpg"
+    captions="Tanzsaal Oben;Tanzsaal Oben;Tanzsaal Unten;Tanzsaal Unten;Tanzsaal Unten;Küche / Eingangsbereich;Küche / Eingangsbereich"
+>}}
