@@ -4,13 +4,12 @@ draft: false
 ---
 
 ### Herzlich willkommen bei der SwingConnection Leipzig! 
-Wir sind ein gemeinnütziger Verein tanzversessener Leipziger, die sich der Musik und den Tänzen der Swingära verschrieben haben. Wir bieten fortlaufend Tanzkurse für Lindy Hop, Balboa, Shag, Charleston, Blues und Solo Jazz in verschiedenen Levels an und organisieren diverse Swing Events.
+Wir sind ein gemeinnütziger Verein tanzverliebter Leipziger:innen, die der Musik und dem Lebensgefühl der Swing‑Ära verfallen sind. Bei uns dreht sich alles um Lindy Hop, Balboa, Shag, Charleston, Blues und Solo Jazz – aber mindestens genauso sehr um Gemeinschaft, Lachen und das gute Gefühl, zusammen etwas auf die Beine zu stellen.
 
-Unter dem Menüpunkt **[Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles")** findet ihr Informationen zu aktuellen Terminen und Neuigkeiten rund um unseren Verein.
+Egal wer du bist, wie alt du bist, wen du liebst oder wie viel Tanzerfahrung du mitbringst – bei uns bist du willkommen. Wir feiern Vielfalt, Offenheit und ein respektvolles Miteinander. Hauptsache, du hast Lust, dich zu bewegen, Neues auszuprobieren und Teil einer lebendigen, herzlichen Community zu werden.
 
-Falls ihr Lust habt, bei uns einen Tanzkurs zu machen, gibt es unter dem Menüpunkt **[Tanzkurse]({{< ref "/tanzkurse" >}} "Tanzkurse")** Informationen zu unserem Kursangebot.
+Wir bieten [**fortlaufende Kurse**]({{< ref "/tanzkurse" >}} "Tanzkurse") in verschiedenen Levels an, organisieren Workshops, Social Dances und kleine wie große [**Swingtanz-Events**]({{< ref "/veranstaltungen" >}} "Veranstaltungen"). Und weil wir ein Verein sind, gestalten unsere Mitglieder aktiv mit: vom Kursbetrieb über Partys mit Live-Bands bis hin zu unserem eigenen [**Festival**]({{< ref "/mattstedt" >}} "Spring Camp in Mattstedt") im Sommer.
 
-Wir freuen uns auf euch. Bis bald auf der Tanzfläche!
-  
-  
+Komm vorbei und nimm teil, wir freuen uns auf dich!
+
 Eure SwingConnection Leipzig
