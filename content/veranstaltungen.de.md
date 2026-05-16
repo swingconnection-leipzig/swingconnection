@@ -10,7 +10,7 @@ Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktue
 ### Nächste Termine
 - Jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")**
 - Jeden Donnerstag 10-11:30 Uhr - **[Swing-Minis & Friends]({{< ref "/veranstaltungen#swing-minis--friends" >}} "Swing-Minis & Friends")** (für Eltern mit kleinen Kindern)
-- 10\. Mai - **[Swing Tea Time]({{< ref "/swingteatime" >}} "Swing Tea Time")** mit Live Musik von [Neighbour's Nightmare](https://hnolzen.github.io/neighbours-nightmare)
+- Sonntag, 14\. Juni - **[Swing Tea Time]({{< ref "/swingteatime" >}} "Swing Tea Time")**
 - 04.-07.06.2026 - **[Spring Camp Mattstedt 2026]({{< ref "/mattstedt" >}} "Spring Camp Mattstedt 2026")**
 
 ### Minor Swing
