@@ -10,7 +10,7 @@ slug: "swing-tea-time"
 In regelmäßigen Abständen laden wir zur Swing Tea Time ein. Dann hüllt sich unser Tanzstudio in den Duft frisch gebackener Kuchen und den Klang eines Louis Armstrong, Django Reinhardt oder einer Ella Fitzgerald. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. 
 
 ### Termine
-Am **10. Mai 2026** von 15:00 bis 19:00 Uhr mit Live Musik von [**Neighbour's Nightmare**](https://hnolzen.github.io/neighbours-nightmare)
+- Sonntag, **14. Juni 2026** von 15:00 bis 18:00 Uhr
 
 [//]: # (### Ort)
 
