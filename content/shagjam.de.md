@@ -4,16 +4,14 @@ draft: false
 slug: "shag-jam"
 ---
 
-Dear Fastfeetlovers of Leipzig and beyond,
-
-welcome to **Shag Jam Nr. 2**! We invite you for an afternoon full of fast music for Shag dancers at all levels *(Balboa and fast Lindy dancers are also welcome.😊)*.
+We invite you for an afternoon full of fast music for Shag dancers at all levels *(Balboa and fast Lindy dancers are also welcome.😊)*.
 
 The event will take place in the brand-new ballroom of Swingconnection Leipzig e.V. – one more reason to join! We’ll start the afternoon with a **taster** for everyone curious to try out Collegiate Shag and for beginners who want to to refresh their basic knowledge. (We’re planning to adapt the taster according to the people who join.)  
 
-Afterwards we will play a variety of Shag songs in different speed levels.
+Afterwards we will play a variety of Shag songs in different speed levels. If youwant to take a break and hang out there will be tea, coffee and cake waiting for you.
 
 ### Zeit
-**Samstag, 28. März**
+**Sonntag, 31. Mai**
 - 15:00-16:00 Collegiate Shag Taster
 - 16:00-19:00 Social Dance
 
