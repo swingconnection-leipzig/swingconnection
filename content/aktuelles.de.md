@@ -4,13 +4,16 @@ draft: false
 slug: "aktuelles"
 ---
 
-_zuletzt aktualisiert am 16.05.2026_
+_zuletzt aktualisiert am 21.05.2026_
 
 [//]: # (### Tag der offenen Tür am 19.01.2025)
 [//]: # (Am **19.01.2025** öffnen wir unsere Türen für euch! Kommt vorbei, lernt Swingtänze kennen und schnuppert in unsere Welt des Tanzes hinein. Weitere Infos findet ihr auf der Seite von unseren **[Tag der offenen Tür]&#40;{{< ref "/opendoor" >}} "Tag der offenen Tür"&#41;**! Danach gibt es die Möglichkeit, beim [Tea Dance]&#40;{{< ref "/swingteatime" >}} "Tea Dance"&#41; weiterzutanzen.)
 
 [//]: # (### Neue Kursrunde 2026)
 [//]: # (Noch läuft die [**aktuelle Kursrunde**]&#40;{{< ref "/tanzkurse" >}}&#41;. Am **12. Mai 2026** wird bereits die zweite Kursrunde des Jahres starten! Es wird wieder Basic Kurse für Einsteiger:innen geben. Die Anmeldung ist **[geöffnet]&#40;{{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung"&#41;**!)
+
+### Shag Jam am 31. Mai
+Am Sonntag, dem 31. Mai, findet wieder der **[Shag Jam]({{< ref "/shagjam" >}} "Shag Jam")** statt. Er beginnt mit einem **Collegiate-Shag-Taster für Einsteiger\*innen** von 15 bis 16 Uhr, anschließend gibt es Social Dance bis 19 Uhr.
 
 ### Swing-Minis & Friends
 Ab dem 7.5. ist unser Studio **jeden Donnerstag von 10-11:30 Uhr offen für Eltern mit kleinen Kids**. Ihr seid herzlich willkommen bei uns einzukehren, die kleinsten zu leiser Swing Musik spielen, krabbeln und kullern zu lassen, gemeinsame Zeit zu genießen und vielleicht sogar selbst ein wenig das Tanzbein zu schwingen. 
@@ -19,7 +22,7 @@ Ab dem 7.5. ist unser Studio **jeden Donnerstag von 10-11:30 Uhr offen für Elte
 Auch dieses Jahr findet wieder unser geliebtes [**Spring Camp** auf dem Mühlenhof in Mattstedt]({{< ref "/mattstedt" >}} "Spring Camp auf dem Mühlenhof in Mattstedt") statt, dieses Jahr **vom 04.-07.06.2026**. Die Anmeldung ist **[geöffnet]({{< ref "/mattstedt/#anmeldung" >}} "zur Anmeldung")**!
 
 ### Swing Tea Time
-Der nächste **[Swing Tea Time]({{< ref "/swingteatime" >}})** findet am **16. Juni 2026** von 15 bis 18 Uhr statt. Eintritt frei, Kuchenbeiträge sind herzlich willkommen!
+Der nächste **[Swing Tea Time]({{< ref "/swingteatime" >}})** findet am **14. Juni 2026** von 15 bis 18 Uhr statt. Eintritt frei, Kuchenbeiträge sind herzlich willkommen!
 
 ### Minor Swing
 Der wöchentliche Social Dance [**Minor Swing**]({{< ref "/minorswing" >}} "Minor Swing") findet jeden Mittwoch ab 19:30 Uhr statt. 
