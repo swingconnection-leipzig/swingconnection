@@ -16,11 +16,11 @@ weight = 20
 #parent = "tanzkurse"
 #weight = 21
 
-#[[main]]
-#name = 'Sommerprogramm'
-#url = '/sommerprogramm/'
-#parent = "tanzkurse"
-#weight = 22
+[[main]]
+name = 'Sommerprogramm'
+url = '/sommerprogramm/'
+parent = "tanzkurse"
+weight = 22
 
 [[main]]
 identifier = 'veranstaltungen'
