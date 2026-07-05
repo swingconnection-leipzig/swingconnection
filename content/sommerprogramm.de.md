@@ -1,15 +1,20 @@
 ---
-title: "Sommerprogramm 2024"
+title: "Sommerprogramm 2026"
 draft: false
 slug: "sommerprogramm"
 ---
 
-Dieses Jahr gibt es wieder verschiedene Workshops über den Sommer vom **11. Juli bis zum 8. August**. 
+Dieses Jahr gibt es wieder verschiedene Workshops über den Sommer vom **11. Juli bis zum 8. August**.
 
-![Kursrunde Sommer 2026 Woche 1](../Sommer_Woche_1.png)
-![Kursrunde Sommer 2026 Woche 2](../Sommer_Woche_2.png)
-![Kursrunde Sommer 2026 Woche 3](../Sommer_Woche_3.png)
-![Kursrunde Sommer 2026 Woche 4](../Sommer_Woche_4.png)
+Die Veranstaltungen des Sommerprogramms sind - wenn nicht im Programm anders angegeben - ohne Anmeldung und auf Spendenbasis. Die Spendenempfehlung liegt bei 8 bis 15 € pro Workshop. Die Veranstaltungen mit Anmeldung können über unser Buchungsportal gebucht werden, das in der Woche vom 06.07. freigeschaltet wird. 
+Aufgrund eines Wasserschadens können die Socials nur unter Vorbehalt angekündigt werden, ihr erhaltet aktuelle Informationen in unseren Social Media Kanälen und hier auf der Website. Die Workshops sind von den Einschränkungen nicht betroffen. 
+
+Wir freuen uns auf Euch!
+
+![Kursrunde Sommer 2026 Woche 1](../Woche_1.png)
+![Kursrunde Sommer 2026 Woche 2](../Woche_2.png)
+![Kursrunde Sommer 2026 Woche 3](../Woche_3.png)
+![Kursrunde Sommer 2026 Woche 4](../Woche_4.png)
 
 [//]: # (## Programmbeschreibungen)
 
