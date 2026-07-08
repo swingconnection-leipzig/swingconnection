@@ -8,9 +8,14 @@ Nur Tanzkurse kann jeder. Wir Swingtänzer wollen mehr! Nach der Arbeit kommt da
 Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") an.
 
 ### Nächste Termine
-- Jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")**
+- ~~Jeden Mittwoch - **[Minor Swing]({{< ref "/minorswing" >}} "Minor Swing")**~~ Sommerpause!
 - Jeden Donnerstag 10-11:30 Uhr - **[Swing-Minis & Friends]({{< ref "/veranstaltungen#swing-minis--friends" >}} "Swing-Minis & Friends")** (für Eltern mit kleinen Kindern)
 - 11\. Juli bis zum 8. August - **[Sommerprogramm]({{< ref "/sommerprogramm" >}} "Sommerprogramm")**
+- Samstag, 11\. Juli - Bautag - Hilft unser Studio zu verschönern!
+- Samstag, 11\. Juli ab 18:00 - Fusion Social (unter Vorbehalt - achtet auf Bekanntgabe auf Social Medien)
+- Donnerstag, 23\. Juli 19:00-20:30 - FLINTA Austausch
+- Samstag, 25\. Juli ab 15:00 - **[Tea Dance]({{< ref "/swingteatime" >}} "Tea Dance")** (unter Vorbehalt - achtet auf Bekanntgabe auf Social Medien)
+- Dienstag, 4\. August an 20:30 - Social Dance - Slow / Blues (unter Vorbehalt - achtet auf Bekanntgabe auf Social Medien)
 
 ### Minor Swing
 Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen. Der Minor Swing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Mehr Infos erhaltet ihr auf der Seite [Minor Swing]({{< ref "/minorswing" >}} "Minor Swing").

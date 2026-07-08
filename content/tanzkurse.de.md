@@ -6,7 +6,8 @@ slug: "tanzkurse"
 
 [//]: # (![Kursplan Herbst 2024]&#40;../schedule_herbst_2024_ohne_websiteinfo_v4.png&#41;)
 
-> Die **nächste Kursrunde** beginnt am **12. Mai 2026**! Die Anmeldung ist **[geöffnet]({{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung")**!
+> Die **nächste Kursrunde** beginnt am **10. August 2026**! Bis dahin gibt es über den Sommer vom **11. Juli bis zum 8. August** unser [**Sommerprogramm**]({{< ref "/sommerprogramm" >}} "Sommerprogramm").
+
 
 ![Kursrunde Sommer](../schedule_summer.png)
 
