@@ -40,11 +40,11 @@ weight = 31
 #parent = "veranstaltungen"
 #weight = 32
 
-[[main]]
-name = "Mattstedt"
-url = "/mattstedt/"
-parent = "veranstaltungen"
-weight = 33
+#[[main]]
+#name = "Mattstedt"
+#url = "/mattstedt/"
+#parent = "veranstaltungen"
+#weight = 33
 
 #[[main]]
 #name = "Tag der offenen Tür"
