@@ -26,6 +26,14 @@ Für folgende Kurse ist eine Anmeldung erforderlich:
 ## Programm
 Hier findet ihr zusätzliche Informationen und Aktuelles zum Programm.
 
+{{< admonition success "Jeden Donnerstag - Swing-Minis & Friends (10:00-11:30)" false >}}
+Jeden Donnerstag von 10-11:30 Uhr ist das Studio offen für **Eltern mit kleinen Kids**. Ihr seid herzlich Willkommen bei uns einzukehren, die kleinsten zu leiser Swing Musik spielen, krabbeln und kullern zu lassen, gemeinsame Zeit zu genießen und vielleicht sogar selbst ein wenig das Tanzbein zu schwingen. Es gibt kein festes Programm oder vorgegeben Inhalte aber die Türen stehen offen.
+
+Wenn ihr möchtet, tretet der read only [**Telegramm Gruppe**](https://t.me/+6tMgZS446mkwMmVi) bei. Hier wird mitgeteilt, falls der Termin mal kurzfristig ausfallen muss.
+
+*Die Teilnahme ist kostenlos, nicht-SCL-Mitglieder werden gebeten eine Spende in die Box zu werfen.*
+{{< /admonition >}}
+
 [//]: # ()
 [//]: # (### Woche 1)
 
