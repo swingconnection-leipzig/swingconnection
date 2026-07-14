@@ -85,7 +85,7 @@ Lindy Hop ist der bekannteste Swingtanz und hat seinen Ursprung in Afro-Amerikan
 {{< admonition success "Sa, 25.07. Aerials für Anfänger:innen (10:00-13:00)" false >}}
 Bernadette und Matthias aus Oldenburg kommen nach Leipzig um euch Aerials beizubringen.
 
-Voraussetzungen: Mindestens ein halbes Jahr Charleston (u.a. Tandem) und Lindy Hop (Nicht für Beginner geeignet! Level •• empfohlen)
+Voraussetzungen: Mindestens ein halbes Jahr Charleston (u.a. Tandem) und Lindy Hop (Nicht für Beginner geeignet!)
 
 *Paarweise Anmeldung, da Vertrauen ineinander und gemeinsame Tanzerfahrung wichtig ist.*
 
