@@ -1,0 +1,3 @@
+Classes take place in our dance studio at Goldschmidtstraße 16. The premises are not barrier-free.
+You must not enter the dance floor with street shoes — only dance shoes or clean sports shoes are permitted. You can change your shoes in the entrance area. If you don't have suitable shoes, you can also dance in socks.
+There are gender-neutral toilets. One toilet has individual cubicles only; another has urinals and individual cubicles. The restrooms are marked accordingly.

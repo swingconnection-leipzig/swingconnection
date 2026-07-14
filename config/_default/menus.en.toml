@@ -28,11 +28,11 @@ weight = 31
 #parent = "events"
 #weight = 32
 #
-#[[main]]
-#name = "Mattstedt"
-#url = "en/mattstedt/"
-#parent = "events"
-#weight = 33
+[[main]]
+name = "Mattstedt"
+url = "en/mattstedt/"
+parent = "events"
+weight = 33
 #
 #[[main]]
 #name = "Open Doors Day"
@@ -70,12 +70,19 @@ name = 'Our association'
 url = 'en/association/'
 weight = 50
 
-#[[main]]
-#parent = 'association'
-#identifier = 'membership'
-#name = 'Membership'
-#url = 'en/membership/'
-#weight = 51
+[[main]]
+parent = 'association'
+identifier = 'membership'
+name = 'Membership'
+url = 'en/membership/'
+weight = 51
+
+[[main]]
+parent = 'association'
+identifier = 'safer-space'
+name = 'Safer Space'
+url = 'en/safer-space/'
+weight = 53
 
 #[[main]]
 #parent = 'association'
