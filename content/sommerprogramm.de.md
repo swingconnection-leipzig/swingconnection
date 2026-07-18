@@ -11,6 +11,8 @@ Aufgrund eines Wasserschadens können die Socials nur unter Vorbehalt angekündi
 
 Wir freuen uns auf Euch!
 
+> Sofern im Programm nicht anders angegeben, finden alle Veranstaltungen unseres Sommerprogramms in unserem **Tanzstudio in der Goldschmidtstraße 16** statt.
+
 ![Kursrunde Sommer 2026 Woche 1](../Woche_1.png)
 ![Kursrunde Sommer 2026 Woche 2](../Woche_2.png)
 ![Kursrunde Sommer 2026 Woche 3](../Woche_3.png)
@@ -18,7 +20,7 @@ Wir freuen uns auf Euch!
 
 ## Anmeldung
 Für folgende Kurse ist eine Anmeldung erforderlich:
-- Sa, 25.07. Aerials für Anfänger:innen
+- Sa, 25.07. Aerials für Anfänger:innen (Bitte beachtet die Vorraussetzungen im [Programm](#woche-2)!)
 - Sa, 08.08. 20s Partner-Charleston-Workshop
 
 Über unser Kursbuchungsportal könnt ihr euch anmelden: **[Zur Anmeldung](https://scl.swinggeeks.de/SCLW072026/)**
@@ -83,9 +85,19 @@ Lindy Hop ist der bekannteste Swingtanz und hat seinen Ursprung in Afro-Amerikan
 {{< /admonition >}}
 
 {{< admonition success "Sa, 25.07. Aerials für Anfänger:innen (10:00-13:00)" false >}}
-Bernadette und Matthias aus Oldenburg kommen nach Leipzig um euch Aerials beizubringen.
+Matthias aus Oldenburg kommt nach Leipzig, um euch mit Bernadette in die Welt der Aerials einzuführen.
 
-Voraussetzungen: Mindestens ein halbes Jahr Charleston (u.a. Tandem) und Lindy Hop (Nicht für Beginner geeignet!)
+Voraussetzungen: 
+
+- Mindestens ein halbes Jahr Charleston (u.a. Tandem) und Lindy Hop (Nicht für Beginner geeignet!)
+- Die Base (Leader) sollte körperlich größer und schwerer als der Flyer (Follower) sein.
+- Der Flyer sollte Vertrauen in die Base haben und sich mit ihr bzw. ihm sicher fühlen.
+- Beide Teilnehmenden sollten sich körperlich gesund und in der Lage fühlen, akrobatische Hebe- und Partnerfiguren auszuführen.
+- Die Teilnahme erfolgt eigenverantwortlich. Jede Person ist selbst dafür verantwortlich, ihre körperlichen Fähigkeiten und Grenzen realistisch einzuschätzen.
+- Der Workshop dient als Übungs- und Trainingsraum. Die vermittelten Inhalte werden von den Teilnehmenden eigenverantwortlich umgesetzt.
+- Den Anweisungen des Workshopleiters ist aus Sicherheitsgründen Folge zu leisten. Die Entscheidung, einzelne Übungen durchzuführen oder abzubrechen, liegt jederzeit bei den Teilnehmenden selbst.
+- Bei bestehenden Verletzungen, gesundheitlichen Einschränkungen, Schwangerschaft oder anderen Umständen, die die Teilnahme beeinflussen könnten, wird empfohlen, vorab ärztlichen Rat einzuholen und den Workshopleiter zu informieren.
+- Mit der Teilnahme bestätigen die Teilnehmenden, dass sie die genannten Voraussetzungen erfüllen und auf eigene Verantwortung am Workshop teilnehmen.
 
 *Paarweise Anmeldung, da Vertrauen ineinander und gemeinsame Tanzerfahrung wichtig ist.*
 
