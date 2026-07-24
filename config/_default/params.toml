@@ -1,7 +1,7 @@
 defaultTheme = "light"
 
-title = "SwingConnection Leipzig e.V."
-description = "Herzlich Willkommen bei der SwingConnection Leipzig"
+title = "Swing Connection Leipzig e.V."
+description = "Herzlich Willkommen bei der Swing Connection Leipzig"
 
 # Header config
 [header]
@@ -109,7 +109,7 @@ duration = -1
 [app]
 
 # optional site title override for the app when added to an iOS home screen or Android launcher
-title = "SwingConnection Leipzig e.V."
+title = "Swing Connection Leipzig e.V."
 
 # whether to omit favicon resource links
 noFavicon = false
