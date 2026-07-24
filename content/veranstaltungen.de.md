@@ -3,7 +3,7 @@ title: "Veranstaltungen"
 draft: false
 ---
 
-Nur Tanzkurse kann jeder. Wir Swingtänzer wollen mehr! Nach der Arbeit kommt das Spiel. In unserem Fall Veranstaltungen zum freien Tanzen, Camps und Workshops! Hier bekommt ihr eine Übersicht, was die SwingConnection außerhalb der regulären Kurse veranstaltet. 
+Nur Tanzkurse kann jeder. Wir Swingtänzer wollen mehr! Nach der Arbeit kommt das Spiel. In unserem Fall Veranstaltungen zum freien Tanzen, Camps und Workshops! Hier bekommt ihr eine Übersicht, was die Swing Connection außerhalb der regulären Kurse veranstaltet. 
 
 Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktuelles" >}} "Aktuelles") an.
 
@@ -16,7 +16,7 @@ Unsere Veranstaltungen kündigen wir im Voraus unter [Aktuelles]({{< ref "/aktue
 - Dienstag, 4\. August an 20:30 - Social Dance - Slow / Blues (unter Vorbehalt - achtet auf Bekanntgabe auf Social Medien)
 
 ### Minor Swing
-Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen. Der Minor Swing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der SwingConnection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Mehr Infos erhaltet ihr auf der Seite [Minor Swing]({{< ref "/minorswing" >}} "Minor Swing").
+Endlich das hart erlernte Tanzmaterial in der Praxis testen, frei tanzen, fachsimpeln, oder einfach nur zuschauen und staunen. Der Minor Swing ist unser wöchentlicher Social Dance für Lindy Hop, Balboa, Charleston und Shag. Die DJs der Swing Connection sorgen für abwechslungsreiche Musik. Vom authentischen Swing der 30er bis zum Neo-Swing von heute ist alles dabei. Der Eintritt ist frei. Anfänger:innen und interessierte Menschen sind immer gerne gesehen. Mehr Infos erhaltet ihr auf der Seite [Minor Swing]({{< ref "/minorswing" >}} "Minor Swing").
 
 ### Swing-Minis & Friends
 Ab dem 7.5. ist unser Studio **jeden Donnerstag von 10-11:30 Uhr offen für Eltern mit kleinen Kids**. Ihr seid herzlich willkommen bei uns einzukehren, die kleinsten zu leiser Swing Musik spielen, krabbeln und kullern zu lassen, gemeinsame Zeit zu genießen und vielleicht sogar selbst ein wenig das Tanzbein zu schwingen. Es gibt kein festes Programm oder vorgegeben Inhalte aber die Türen stehen offen. Die Teilnahme ist kostenlos, nicht-SCL-Mitglieder werden gebeten eine Spende in die Box zu werfen. Wenn ihr möchtet, meldet euch bei Line@swingconnection-leipzig.com um in eine Telegram Gruppe eingeladen zu werden. Hier wird mitgeteilt, falls es mal kurzfristig Änderungen gibt oder ein Termin ausfallen muss.
