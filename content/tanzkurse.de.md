@@ -6,10 +6,12 @@ slug: "tanzkurse"
 
 [//]: # (![Kursplan Herbst 2024]&#40;../schedule_herbst_2024_ohne_websiteinfo_v4.png&#41;)
 
-> Die **nächste Kursrunde** beginnt am **10. August 2026**! Bis dahin gibt es über den Sommer vom **11. Juli bis zum 8. August** unser [**Sommerprogramm**]({{< ref "/sommerprogramm" >}} "Sommerprogramm").
+> Die **nächste Kursrunde** beginnt am **10. August 2026**! Die Anmeldung ist **[geöffnet]({{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung")**!
+> 
+> Bis dahin gibt es über den Sommer vom **11. Juli bis zum 8. August** unser [**Sommerprogramm**]({{< ref "/sommerprogramm" >}} "Sommerprogramm").
 
 
-![Kursrunde Sommer](../schedule_summer.png)
+![Kursrunde Spätsommer](../Spaetsommerprogramm_2026.png)
 
 ### Preise
 [//]: # (- 6 Wochen / 60 min)
@@ -39,30 +41,30 @@ Für Vereinsmitglieder entfällt der Kursbeitrag.
 - Intermediate (Int): Dieser Kurs ist für alle geeignet, die schon fortgeschritten sind, z.B. mehrere Mixed-Kurse besucht haben und die Basics sicher beherrschen.
 
 ### Anmeldung
-Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden: **[Zur Anmeldung](https://scl.swinggeeks.de/SCL2026-05/)**
+Über unser Kursbuchungsportal könnt ihr euch zu den Kursen anmelden: **[Zur Anmeldung](https://scl.swinggeeks.de/SCL2026-08/)**
 
 ### Kursbeschreibungen
 
-{{< admonition success "Balboa Basics (Di 19:30)" false >}}
+{{< admonition success "Balboa Basics (Do 18:30)" false >}}
 Balboa ist ein Swingtanz, der in enger Körperhaltung auf meist schnelle Musik getanzt wird und durch eine Mischung aus subtilen Gewichtswechseln, kreativem Footwork und öffnenden Figuguren beschrieben werden kann. Für den Balboa Basics-Kurs sind keine Vorerfahrungen erforderlich. Wir wollen die Grundlagen des Tanzes mit euch teilen, von Schritten und Figuren über Körperhaltung und Connection bis hin zu Skills fürs Tanzen auf dem Social Dancefloor. 
 Alle Personen können führen / folgen sowie die Rolle wechseln (switchen) oder auch nur eine Rolle tanzen.
 {{< /admonition >}}
 
-{{< admonition success "Balboa Mixed (Mi 19:45)" false >}}
+{{< admonition success "Balboa Mixed (Do 19:45)" false >}}
 Wir schauen uns in diesem Kurs gemeinsam an, wie wir mit den grundlegenden Balboa-Figuren entspannt auf alle Tempi tanzen können und dabei einen Fokus auf Improvisation, Flow und Freude in der Tanz-Verbindung legen. Dabei stehen sanftes und verbundenes Tanzen im Vordergrund.
 {{< /admonition >}}
 
-{{< admonition success "Balboa Intermediate (Do 19:30)" false >}}
-**Quality of Movement**
-
-Diese Kursrunde richtet den Fokus auf die qualitätive Wahrnehmung unseres Tanzens. Durch ein feineres Verständnis für Elemente wie Pulse, Stretch oder Timing, stärken wir die Fähigkeit, uns im Paar sicherer, dynamischer und sinnlicher zu bewegen - die Grundlage für noch mehr fantastisches Balboa!
-Figuren wie Uphold, Come Around, Lollies, Swivels und Tossout sollte ihr grundlegend beherrschen.
-{{< /admonition >}}
+[//]: # ({{< admonition success "Balboa Intermediate &#40;Do 19:30&#41;" false >}})
+[//]: # (Diese Kursrunde richtet den Fokus auf die qualitätive Wahrnehmung unseres Tanzens. Durch ein feineres Verständnis für Elemente wie Pulse, Stretch oder Timing, stärken wir die Fähigkeit, uns im Paar sicherer, dynamischer und sinnlicher zu bewegen - die Grundlage für noch mehr fantastisches Balboa!)
+[//]: # (Figuren wie Uphold, Come Around, Lollies, Swivels und Tossout sollte ihr grundlegend beherrschen.)
+[//]: # ({{< /admonition >}})
 
 {{< admonition success "Lindy Hop Basics (Mi 18:30)" false >}}
-**Lindy Hop from the top**
+**Lindy Hop** ist der bekannteste Swingtanz und hat seinen Ursprung in Afro-Amerikanischen Communities in den 20er-40er Jahren. Es wird zumeist in der offenen Position getanzt und ist vom Gefühl her sehr freudvoll und beschwingt. Wie Jazz- und Swingmusik lebt auch der Tanz von Improvisation, Austausch und Miteinander. Wir lernen einfache Elemente aus dem Swing und Solo Jazz, um vielseitig und musikalisch tanzen zu können und legen viel Wert auf Gleichberechtigung, Consent (Zustimmung) und angenehme Connections.
 
-Lindy Hop ist der bekannteste Swingtanz und hat seinen Ursprung in Afro-Amerikanischen Communities in den 20er-40er Jahren. Es wird zumeist in der offenen Position getanzt und ist vom Gefühl her sehr freudvoll und beschwingt. Wie Jazz- und Swingmusik lebt auch der Tanz von Improvisation, Austausch und Miteinander. Wir lernen einfache Elemente aus dem Swing und Solo Jazz, um vielseitig und musikalisch tanzen zu können und legen viel Wert auf Gleichberechtigung, Consent (Zustimmung) und angenehme Connections. "Switch" bedeutet, dass beide Tanzrollen (folgen und führen) ausprobiert werden können. Wer nur führen oder nur folgen möchte, darf dies gern tun. Wir nutzen genderneutrale Sprache und möchten eine queerfreundliche und offene Atmosphäre schaffen.
+"Switch" bedeutet, dass beide Tanzrollen (folgen und führen) ausprobiert werden können. Wer nur führen oder nur folgen möchte, darf dies gern tun. 
+
+Wir nutzen genderneutrale Sprache und möchten eine queerfreundliche und offene Atmosphäre schaffen.
 {{< /admonition >}}
 
 [//]: # ({{< admonition success "Lindy Hop Basics ELEF &#40;Do 19:45&#41;" false >}})
@@ -70,17 +72,19 @@ Lindy Hop ist der bekannteste Swingtanz und hat seinen Ursprung in Afro-Amerikan
 [//]: # (Lindy Hop ist der bekannteste Swingtanz und hat seinen Ursprung in Afro-Amerikanischen Communities in den 20er-40er Jahren. Es wird zumeist in der offenen Position getanzt und ist vom Gefühl her sehr freudvoll und beschwingt. Wie Jazz- und Swingmusik lebt auch der Tanz von Improvisation, Austausch und Miteinander. Wir lernen einfache Elemente aus dem Swing und Solo Jazz, um vielseitig und musikalisch tanzen zu können und legen viel Wert auf Gleichberechtigung, Consent &#40;Zustimmung&#41; und angenehme Connections. Wir nutzen genderneutrale Sprache und möchten eine queerfreundliche und offene Atmosphäre schaffen. Im Kurs vermitteln wir zudem geschichtlichen und kulturellen Kontext und zeigen Videos von Künstler*innen aus diesem Kontext, um gemeinsam ein Gefühl für die Herkunft, Traditionen und Bedeutung des Tanzes zu entwickeln.)
 [//]: # ({{< /admonition >}})
 
-{{< admonition success "Lindy Hop Mixed (Di 19:30)" false >}}
-**Moves & Switch**
+{{< admonition success "Lindy Hop Mixed (Do 18:30)" false >}}
+**Swing Out Intensiv**
 
-Der Kurs richtet sich an alle, die schon einen oder mehrere Lindy Basics Kurse gemacht haben, liefert aber auch neue Impulse für all diejenigen, die noch länger dabei sind.
-Im Kurs erkunden wir klassische Lindy Hop Moves und bauen darauf auf, um Switch-Varianten auszuprobieren.
+Der **Swingout** steht im Mittelpunkt dieses Kurses. Gemeinsam bauen wir ihn Schritt für Schritt auf und erweitern ihn um spannende Varianten. Außerdem probieren wir unterschiedliches Footwork aus.
+Für alle Tänzer*innen geeignet, die den Swingout lernen oder vertiefen möchten.
 {{< /admonition >}}
 
-{{< admonition success "Lindy Hop Intermediate (Do 18:15)" false >}}
-**Not your normal Lindy**
+{{< admonition success "Lindy Hop Intermediate (Mi 18:30)" false >}}
+Der Kurs richtet sich an alle, die in ihren Basics gefestigt sind und regelmäßig zum Social Dance gehen. 
 
-„Not your normal Lindy“ ist ein Kurs für alle, die Lust haben, ihre Lindy Comfort Zone zu verlassen. Wir erkunden Slow Lindy, bringen beim Fast Lindy und Charleston richtig Tempo ins Spiel und drehen bekannte Figuren in „reversed“ Varianten einfach mal auf die andere Seite. Der Kurs erweitert dein Bewegungsrepertoire, schärft dein Körpergefühl und macht dich kreativer im Social Dance. Lernvoraussetzungen: Tuckturn, Sendout, Platzwechseln, Circle und Swingout - auch zu schnelleren Tempi. Grundkenntnisse im Lindy Charleston.
+Wir wollen gemeinsam entdecken, wie ihr mithilfe von Flow, Stretch und Connection noch angenehmer mit anderen Menschen tanzen könnt und gleichzeitig neue Variationen ausprobieren. Ziel ist auch, das Tempo zu erhöhen. 
+
+Lernvoraussetzungen: Tuck Turn, Swing Out, sicherer 6-Count-Platzwechsel, Grundprinzipien des Führens und Folgens, sicherer Wechsel zwischen 8-Count und 6-Count-Dynamiken.
 {{< /admonition >}}
 
 [//]: # ({{< admonition success "Balboa & Shag Practice Time &#40;Mo 19:30&#41;" false >}})
@@ -102,16 +106,18 @@ Im Kurs erkunden wir klassische Lindy Hop Moves und bauen darauf auf, um Switch-
 [//]: # (Alle Personen können führen und folgen und die Rolle wechseln &#40;switchen&#41; oder nur eine Rolle tanzen. Wir nutzen genderneutrale Sprache und möchten eine queerfreundliche, offene Atmosphäre schaffen, mit Fokus auf Consent und Gleichberechtigung in der Tanzpartnerschaft.)
 [//]: # ({{< /admonition >}})
 
-{{< admonition success "Shag Basics (Di 18:15)" false >}}
-Wenn hohe BPM auch euer Herz höher schlagen lassen seid ihr beim Collegiate Shag genau richtig! Wir wollen die Grundlagen dieses fröhlichen und energiegeladenen Swingtanzes unterrichten und dabei vor allem jede Menge Spaß mit euch haben! Es sind keinerlei Vorkenntnisse notwendig. Alle können führen oder folgen und auch die Rollen switchen.
-{{< /admonition >}}
+[//]: # ({{< admonition success "Shag Basics &#40;Di 18:15&#41;" false >}})
+[//]: # (Wenn hohe BPM auch euer Herz höher schlagen lassen seid ihr beim Collegiate Shag genau richtig! Wir wollen die Grundlagen dieses fröhlichen und energiegeladenen Swingtanzes unterrichten und dabei vor allem jede Menge Spaß mit euch haben! Es sind keinerlei Vorkenntnisse notwendig. Alle können führen oder folgen und auch die Rollen switchen.)
+[//]: # ({{< /admonition >}})
 
 [//]: # ({{< admonition success "Shag Mixed &#40;Mi 18:00&#41;" false >}})
 [//]: # (Wenn hohe BPM auch euer Herz höher schlagen lassen seid ihr beim Collegiate Shag genau richtig! Wir wollen weiter spaßige Figuren und Footworks dieses fröhlichen und energiegeladenen Swingtanzes unterrichten und dabei vor allem jede Menge Spaß mit euch haben! Du solltest den Collegiate Shag Grundschritt sicher beherschen und kannst das bereits Gelernte in diesem Kurs weiter festigen. Alle können führen oder folgen und auch die Rollen switchen.)
 [//]: # ({{< /admonition >}})
 
-{{< admonition success "Solo Jazz Basics (Mi 18:30)" false >}}
-Solo Jazz (auch: Authentic Jazz oder Vernacular Jazz) hat seinen Ursprung in Schwarzen Kulturkreisen (insbesondere Afro-Amerikanischen Communities) und wird häufig in Verbindung mit Paartänzen wie Lindy Hop, aber auch für sich stehend getanzt. In diesem Kurs werden wir die Musik nutzen, um uns durch Rhythmen und Bewegungen zu führen, um Swing und Jazz Musik aber auch die eigenen Ideen, Emotionen und Eigenheiten auszudrücken.
+{{< admonition success "Solo Jazz Basics (Do 19:45)" false >}}
+**Charleston: Rhythmus & Routine**
+
+Dieser Solo-Kurs ist genau das Richtige für alle Freund:innen schneller Musik! In dieser Kursrunde wird sich alles um Charleston-Variationen aus dem 20s Charleston und Lindy Charleston drehen, mit denen ihr auch bei höherem Tempo entspannt tanzen könnt. Wir erweitern euer Repertoire, feilen an Rhythmus und Flow und arbeiten an flüssigen Übergängen zwischen verschiedenen Variationen. Als kleine (Übungs-)Choreografie lernen wir außerdem die beliebte Mama Stew-Routine.
 {{< /admonition >}}
 
 [//]: # ({{< admonition success "Freies Training &#40;Di 18:30 & Do 18:00&#41;" false >}})
