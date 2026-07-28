@@ -4,13 +4,13 @@ draft: false
 slug: "aktuelles"
 ---
 
-_zuletzt aktualisiert am 08.07.2026_
+_zuletzt aktualisiert am 28.07.2026_
 
 [//]: # (### Tag der offenen Tür am 19.01.2025)
 [//]: # (Am **19.01.2025** öffnen wir unsere Türen für euch! Kommt vorbei, lernt Swingtänze kennen und schnuppert in unsere Welt des Tanzes hinein. Weitere Infos findet ihr auf der Seite von unseren **[Tag der offenen Tür]&#40;{{< ref "/opendoor" >}} "Tag der offenen Tür"&#41;**! Danach gibt es die Möglichkeit, beim [Tea Dance]&#40;{{< ref "/swingteatime" >}} "Tea Dance"&#41; weiterzutanzen.)
 
-[//]: # (### Neue Kursrunde 2026)
-[//]: # (Noch läuft die [**aktuelle Kursrunde**]&#40;{{< ref "/tanzkurse" >}}&#41;. Am **12. Mai 2026** wird bereits die zweite Kursrunde des Jahres starten! Es wird wieder Basic Kurse für Einsteiger:innen geben. Die Anmeldung ist **[geöffnet]&#40;{{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung"&#41;**!)
+### Neue Kursrunde Spätsommer 2026
+Am **10. August 2026** startet die neue Kursrunde mit Kursen für Anfänger:innen und alle, die schon länger tanzen. Die Anmeldung ist **[geöffnet]({{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung")**!
 
 ### Sommerprogramm 2026
 Dieses Jahr gibt es wieder verschiedene Workshops über den Sommer vom **11. Juli bis zum 8. August**. Mehr Details findet ihr auf der Seite zum [**Sommerprogramm**]({{< ref "/sommerprogramm" >}} "Sommerprogramm").
