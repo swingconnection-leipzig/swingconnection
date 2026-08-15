@@ -4,19 +4,20 @@ draft: false
 slug: "aktuelles"
 ---
 
-_zuletzt aktualisiert am 28.07.2026_
+_zuletzt aktualisiert am 18.08.2026_
 
 [//]: # (### Tag der offenen Tür am 19.01.2025)
 [//]: # (Am **19.01.2025** öffnen wir unsere Türen für euch! Kommt vorbei, lernt Swingtänze kennen und schnuppert in unsere Welt des Tanzes hinein. Weitere Infos findet ihr auf der Seite von unseren **[Tag der offenen Tür]&#40;{{< ref "/opendoor" >}} "Tag der offenen Tür"&#41;**! Danach gibt es die Möglichkeit, beim [Tea Dance]&#40;{{< ref "/swingteatime" >}} "Tea Dance"&#41; weiterzutanzen.)
 
+### Balboa Schnupperstunde
+Am **Donnerstag, 20. August** gibt es eine **Balboa Schnupperstunde** von 18:30-19:30 Uhr. Die Teilnahme ist kostenlos, eine Anmeldung ist nicht erforderlich. Kommt vorbei und probiert Balboa aus! 
+Die Schnupperstunde ist auch die erste Stunde des regulären [Balboa-Kurses]({{< ref "/tanzkurse" >}} "Tanzkurse") und bei Interesse könnt ihr die nachfolgenden Wochen dort weitertanzen.
+
 ### Neue Kursrunde Spätsommer 2026
 Am **10. August 2026** startet die neue Kursrunde mit Kursen für Anfänger:innen und alle, die schon länger tanzen. Die Anmeldung ist **[geöffnet]({{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung")**!
 
-### Sommerprogramm 2026
-Dieses Jahr gibt es wieder verschiedene Workshops über den Sommer vom **11. Juli bis zum 8. August**. Mehr Details findet ihr auf der Seite zum [**Sommerprogramm**]({{< ref "/sommerprogramm" >}} "Sommerprogramm").
-
 ### Swing-Minis & Friends
-Ab dem 7.5. ist unser Studio **jeden Donnerstag von 10-11:30 Uhr offen für Eltern mit kleinen Kids**. Ihr seid herzlich willkommen bei uns einzukehren, die kleinsten zu leiser Swing Musik spielen, krabbeln und kullern zu lassen, gemeinsame Zeit zu genießen und vielleicht sogar selbst ein wenig das Tanzbein zu schwingen. 
+Ab dem 7.5. bis zum 20.8 ist unser Studio **jeden Donnerstag von 10-11:30 Uhr offen für Eltern mit kleinen Kids**. Ihr seid herzlich willkommen bei uns einzukehren, die kleinsten zu leiser Swing Musik spielen, krabbeln und kullern zu lassen, gemeinsame Zeit zu genießen und vielleicht sogar selbst ein wenig das Tanzbein zu schwingen. 
 
 ### Minor Swing
 Der wöchentliche Social Dance [**Minor Swing**]({{< ref "/minorswing" >}} "Minor Swing") macht Sommerpause. Stattdessen treffen sich Leipziger Tänzer:innen häufig bei guten Wetter am Inselteich im Clara-Zetkin-Park.
