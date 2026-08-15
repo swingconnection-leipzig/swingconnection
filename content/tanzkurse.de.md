@@ -6,10 +6,10 @@ slug: "tanzkurse"
 
 [//]: # (![Kursplan Herbst 2024]&#40;../schedule_herbst_2024_ohne_websiteinfo_v4.png&#41;)
 
-> Die **nächste Kursrunde** beginnt am **10. August 2026**! Die Anmeldung ist **[geöffnet]({{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung")**!
+> Die **aktuelle Kursrunde** hat begonnen! Die Anmeldung ist **[geöffnet]({{< ref "/tanzkurse/#anmeldung" >}} "zur Anmeldung")**!
 > 
-> Bis dahin gibt es über den Sommer vom **11. Juli bis zum 8. August** unser [**Sommerprogramm**]({{< ref "/sommerprogramm" >}} "Sommerprogramm").
-
+> Am **Donnerstag, 20. August** gibt es eine **Balboa Schnupperstunde** von 18:30-19:30 Uhr. Die Teilnahme ist kostenlos, eine Anmeldung ist nicht erforderlich.
+Die Schnupperstunde ist auch die erste Stunde des regulären Balboa-Kurses und bei Interesse könnt ihr die nachfolgenden Wochen dort weitertanzen.
 
 ![Kursrunde Spätsommer](../Spaetsommerprogramm_2026.png)
 
