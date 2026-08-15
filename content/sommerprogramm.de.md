@@ -4,37 +4,7 @@ draft: false
 slug: "sommerprogramm"
 ---
 
-Dieses Jahr gibt es wieder verschiedene Workshops über den Sommer vom **11. Juli bis zum 8. August**.
-
-Die Veranstaltungen des Sommerprogramms sind - wenn nicht im Programm anders angegeben - ohne Anmeldung und auf Spendenbasis. Die Spendenempfehlung liegt bei 8 bis 15 € pro Workshop. Die Veranstaltungen mit Anmeldung können über unser **[Buchungsportal](#anmeldung)** gebucht werden. 
-Aufgrund eines Wasserschadens können die Socials nur unter Vorbehalt angekündigt werden, ihr erhaltet **[aktuelle Informationen](#programm)** in unseren Social Media Kanälen und hier auf der Website. Die Workshops sind von den Einschränkungen nicht betroffen.
-
-Wir freuen uns auf Euch!
-
-> Sofern im Programm nicht anders angegeben, finden alle Veranstaltungen unseres Sommerprogramms in unserem **Tanzstudio in der Goldschmidtstraße 16** statt.
-
-![Kursrunde Sommer 2026 Woche 1](../Woche_1.png)
-![Kursrunde Sommer 2026 Woche 2](../Woche_2.png)
-![Kursrunde Sommer 2026 Woche 3](../Woche_3.png)
-![Kursrunde Sommer 2026 Woche 4](../Woche_4.png)
-
-## Anmeldung
-Für folgende Kurse ist eine Anmeldung erforderlich:
-- Sa, 25.07. Aerials für Anfänger:innen (Bitte beachtet die Vorraussetzungen im [Programm](#woche-2)!)
-- Sa, 08.08. 20s Partner-Charleston-Workshop
-
-Über unser Kursbuchungsportal könnt ihr euch anmelden: **[Zur Anmeldung](https://scl.swinggeeks.de/SCLW072026/)**
-
-## Programm
-Hier findet ihr zusätzliche Informationen und Aktuelles zum Programm.
-
-{{< admonition success "Jeden Donnerstag - Swing-Minis & Friends (10:00-11:30)" false >}}
-Jeden Donnerstag von 10-11:30 Uhr ist das Studio offen für **Eltern mit kleinen Kids**. Ihr seid herzlich Willkommen bei uns einzukehren, die kleinsten zu leiser Swing Musik spielen, krabbeln und kullern zu lassen, gemeinsame Zeit zu genießen und vielleicht sogar selbst ein wenig das Tanzbein zu schwingen. Es gibt kein festes Programm oder vorgegeben Inhalte aber die Türen stehen offen.
-
-Wenn ihr möchtet, tretet der read only [**Telegramm Gruppe**](https://t.me/+6tMgZS446mkwMmVi) bei. Hier wird mitgeteilt, falls der Termin mal kurzfristig ausfallen muss.
-
-*Die Teilnahme ist kostenlos, nicht-SCL-Mitglieder werden gebeten eine Spende in die Box zu werfen.*
-{{< /admonition >}}
+> Das Sommerprogramm 2026 ist vorbei! Seid gespannt auf 2027. In der Zwischenzeit schaut euch gerne unsere regulären Kurse an: [Tanzkurse](https://www.minorswing.de/tanzkurse/).
 
 [//]: # ()
 [//]: # (### Woche 1)
@@ -73,96 +43,6 @@ Wenn ihr möchtet, tretet der read only [**Telegramm Gruppe**](https://t.me/+6tM
 [//]: # ({{< admonition success "Do, 16.07. St. Louis Shim Sham 2/2 &#40;19:30-21:00&#41;" false >}})
 
 [//]: # ({{< /admonition >}})
-
-### Woche 2
-
-{{< admonition success "Mo, 20.07. Lindy Hop Schnupperkurs (18:00-19:00)" false >}}
-Lindy Hop ist der bekannteste Swingtanz und hat seinen Ursprung in Afro-Amerikanischen Communities in den 20er-40er Jahren. Es wird zumeist in der offenen Position getanzt und ist vom Gefühl her sehr freudvoll und beschwingt. Wie Jazz- und Swingmusik lebt auch der Tanz von Improvisation, Austausch und Miteinander.
-
-*Teilnahme mit oder ohne Tanzpartner:in. In den Kursen werden die Tanzpartner:innen regelmäßig gewechselt. Wenn ihr nicht wechseln wollt, müsst ihr das nicht tun.*
-
-*Drop-in-Kurs, Teilnahmegebühr: 12 €*
-{{< /admonition >}}
-
-{{< admonition success "Do, 23.07. FLINTA Space – Raum für Erfahrungsaustausch, Vernetzung & Empowerment (19:00-20:30)" false >}}
-**Was ist FLINTA?**
-
-FLINTA steht für Frauen, Lesben, intergeschlechtliche, nicht-binäre, trans und agender Personen. [Diese Abkürzung ist eine Art Sammelbegriff für alle Menschen, die im Patriarchat strukturell benachteiligt und häufiger von Diskriminierung betroffen sind (als cis-Männer, die sich mit dem bei der Geburt zugewiesenen männlichen Geschlecht identifizieren)].
-
-**FLINTA-Austausch? Warum?**
-
-FLINTAs sind in unserer Gesellschaft strukturell benachteiligt und häufiger von Diskriminierung und Gewalt betroffen. In unserer Tanz-Community möchten wir Räume schaffen, in denen sich alle wohl und sicher fühlen können. Dazu gehört auch, über Erfahrungen zu sprechen und bestehende Strukturen zu reflektieren. Dabei könnten wir uns z.B. fragen, welche Art von Körperkontakt wir beim Tanzen angenehm oder unangemessen finden. (Wie) Können wir (z.B. im Kurs oder beim Social) darüber sprechen? Wie gehen wir damit um, wenn wir etwas als unangenehm wahrnehmen? Finden wir flirten im Tanz-Kontext okay? Wie erleben wir den Umgang mit Tanzrollen (leads/follows)? Und welche Rolle spielt dabei das (zugeschriebene) Geschlecht? Wie gehen wir damit um, dass wir Menschen ihre gender-Identität nicht immer ansehen können? ...
-
-Der FLINTA Space soll ein Raum sein, in dem wir in entspannter Atmosphäre über solche und ähnliche Fragen ins Gespräch zu kommen können. Wir laden euch ein, eure Erfahrungen zu teilen - ob es um schöne Erlebnisse, Herausforderungen im Tanzkontext oder Ideen für eine inklusivere Community geht. Auch wenn ihr erstmal nur zuhören oder einfach andere FLINTA*-Personen kennenlernen wollt, seid ihr herzlich willkommen.
-Wir wollen einander zuhören, uns gegenseitig stärken und gemeinsam überlegen, was wir uns für unsere Tanzszene wünschen.
-
-Alle Menschen, die sich als FLINTA verstehen, sind herzlich willkommen. Da mensch einer Person ihre Geschlechtsidentität nicht ansehen kann, kann die Gruppe vielfältiger aussehen, als manche vielleicht erwarten - bitte begegnet einander daher offen und ohne Annahmen.
-
-Wir freuen uns auf einen wertschätzenden und solidarischen Austausch mit euch! Der Austausch ist kostenlos.
-{{< /admonition >}}
-
-{{< admonition success "Sa, 25.07. Aerials für Anfänger:innen (10:00-13:00)" false >}}
-Matthias aus Oldenburg kommt nach Leipzig, um euch mit Bernadette in die Welt der Aerials einzuführen.
-
-Voraussetzungen: 
-
-- Mindestens ein halbes Jahr Charleston (u.a. Tandem) und Lindy Hop (Nicht für Beginner geeignet!)
-- Die Base (Leader) sollte körperlich größer und schwerer als der Flyer (Follower) sein.
-- Der Flyer sollte Vertrauen in die Base haben und sich mit ihr bzw. ihm sicher fühlen.
-- Beide Teilnehmenden sollten sich körperlich gesund und in der Lage fühlen, akrobatische Hebe- und Partnerfiguren auszuführen.
-- Die Teilnahme erfolgt eigenverantwortlich. Jede Person ist selbst dafür verantwortlich, ihre körperlichen Fähigkeiten und Grenzen realistisch einzuschätzen.
-- Der Workshop dient als Übungs- und Trainingsraum. Die vermittelten Inhalte werden von den Teilnehmenden eigenverantwortlich umgesetzt.
-- Den Anweisungen des Workshopleiters ist aus Sicherheitsgründen Folge zu leisten. Die Entscheidung, einzelne Übungen durchzuführen oder abzubrechen, liegt jederzeit bei den Teilnehmenden selbst.
-- Bei bestehenden Verletzungen, gesundheitlichen Einschränkungen, Schwangerschaft oder anderen Umständen, die die Teilnahme beeinflussen könnten, wird empfohlen, vorab ärztlichen Rat einzuholen und den Workshopleiter zu informieren.
-- Mit der Teilnahme bestätigen die Teilnehmenden, dass sie die genannten Voraussetzungen erfüllen und auf eigene Verantwortung am Workshop teilnehmen.
-
-*Paarweise Anmeldung, da Vertrauen ineinander und gemeinsame Tanzerfahrung wichtig ist.*
-
-Anmeldung erforderlich über unser Buchungsportal: **[Zur Anmeldung](https://scl.swinggeeks.de/SCLW072026/)**
-{{< /admonition >}}
-
-[//]: # ()
-[//]: # (### Woche 3)
-
-[//]: # ()
-[//]: # ({{< admonition success "Balboa Basics &#40;Di 19:30&#41;" false >}})
-
-[//]: # (Balboa ist ein Swingtanz, der in enger Körperhaltung auf meist schnelle Musik getanzt wird und durch eine Mischung aus subtilen Gewichtswechseln, kreativem Footwork und öffnenden Figuguren beschrieben werden kann. Für den Balboa Basics-Kurs sind keine Vorerfahrungen erforderlich. Wir wollen die Grundlagen des Tanzes mit euch teilen, von Schritten und Figuren über Körperhaltung und Connection bis hin zu Skills fürs Tanzen auf dem Social Dancefloor.)
-
-[//]: # (Alle Personen können führen / folgen sowie die Rolle wechseln &#40;switchen&#41; oder auch nur eine Rolle tanzen.)
-
-[//]: # ({{< /admonition >}})
-
-
-### Woche 4
-
-{{< admonition success "Sa, 08.08. 20s Partner-Charleston-Workshop (11:00-14:00)" false >}}
-Du magst die Musik der 20er und die Ästhetik der damaligen Tänze?
-Prima, klopf dir den Staub des Alltags von der Seele und tauche mit
-uns in die wunderbare Welt der Swingtänze ein! In diesem Workshop
-lernst du die Grundlagen des **20s Partner Charleston** – mit
-charakteristischen Kicks und einem spielerischen Miteinander im Paar.
-
-Der Workshop richtet sich an alle, die diesen einfach zu erlernenden
-Swingtanz kennenlernen oder die ihr Repertoire an Swingtänzen
-erweitern wollen. Gemeinsam erarbeiten wir die Basics, einfache
-Figuren und das Zusammenspiel von Führen und Folgen – immer mit
-viel Freude an der Bewegung und zur passenden Swingmusik.
-
-Das erwartet dich:
-
-- Grundschritte und Technik des 20s Partner Charleston
-- Erste Figuren und Kombinationen
-- Führen & Folgen im Paar
-- Tipps für flüssiges und entspanntes Tanzen
-
-*keine Voraussetzungen: Dieser Kurs ist für alle geeignet mit und ohne Tanzerfahrung.*
-
-*Du kannst allein oder mit Tanzpartner:in teilnehmen. Falls möglich, wechseln wir während des Workshops regelmäßig die Partner:innen.*
-
-Anmeldung erforderlich über unser Buchungsportal: **[Zur Anmeldung](https://scl.swinggeeks.de/SCLW072026/)**
-{{< /admonition >}}
-
 
 
 ## Hinweise zu den Kursen
